@@ -1,0 +1,386 @@
+[00:03:18] ! CalebRipley has joined.
+[00:07:29] ! Phia has quit. (Quit: Leaving.)
+[00:08:25] ! jh has joined.
+[00:10:11] <jh> gn8
+[00:10:19] ! jh has quit. (Client Quit)
+[00:22:00] ! CalebRipley has quit. (Read error: No route to host)
+[00:22:41] ! CalebRipley has joined.
+[00:55:32] ! CalebRipley has quit. (Remote host closed the connection)
+[00:59:10] ! Ignifazius has quit. (Quit: *Vanish*)
+[01:55:15] ! moenni has joined.
+[01:58:29] ! elorie has quit. (Quit: Leaving.)
+[02:00:48] ! lurtz has quit. (Quit: Gott sei dank man, gibs ne Pumpgun)
+[02:27:38] ! moenni1 has joined.
+[02:28:42] ! moenni has quit. (Ping timeout: 258 seconds)
+[02:32:09] ! moenni1 has quit. (Ping timeout: 258 seconds)
+[02:32:27] ! moenni has joined.
+[03:11:07] ! moenni has quit. (Read error: Connection reset by peer)
+[03:21:46] * rohieb is listening to Die Ärzte - Mysteryland (remix) [st das alles? 13 Höhepunkte mit den Ärzten] [0:07/3:58]
+[03:21:53] <rohieb> cool unicode geht, wuhu!
+[03:49:59] ! rohieb has quit. (Quit: ...yo ho ho, and a bottle of rum!)
+[04:00:35] ! maku` is now known as maku
+[05:09:14] ! Peace_Maker has joined.
+[05:11:11] ! Peace-Maker has quit. (Ping timeout: 240 seconds)
+[05:16:42] ! kiney1 has joined.
+[05:18:49] ! kiney has quit. (Ping timeout: 264 seconds)
+[05:55:17] ! Peace_Maker has quit. (Quit: get satisfied!  :: core-networks.de ««« (Gamers.IRC) »»» gamersirc.net ::)
+[08:30:55] ! Tigaa_laptop has joined.
+[08:44:05] ! Phia has joined.
+[08:59:05] ! PirateKing has joined.
+[09:03:58] ! conqueror12 has joined.
+[09:37:51] ! Tigaa_laptop has quit. (Remote host closed the connection)
+[09:51:53] ! Tigaa_laptop has joined.
+[09:54:38] ! moenni has joined.
+[10:05:09] ! nubix has quit. (Ping timeout: 245 seconds)
+[10:38:50] ! nubix has joined.
+[10:59:01] <nubix> !nomnom
+[10:59:01] <ZombiePoet> Mensa Beethovenstraße am Freitag:
+[10:59:02] <ZombiePoet> A: Eintopf nach Tagesangebot 1,40€
+[10:59:03] <ZombiePoet> C: Tilapiafilet auf Tomaten-Kräuter-Sugo 2,00€
+[10:59:04] <ZombiePoet> V: Kartoffel-Gemüseauflauf mit Sauce 1,50€
+[10:59:05] <ZombiePoet> W: Schweineragout à la Provencale 2,20€
+[11:08:31] ! lurtz has joined.
+[11:22:35] ! Bowdzone has joined.
+[11:43:02] ! jh has joined.
+[11:43:15] <jh> hi
+[11:43:15] <ZombiePoet> jh: Sent 11 hours and 21 minutes ago: <rohieb> das da meinte ich https://github.com/rohieb/libgpnread
+[11:44:04] <nubix> hi jan
+[11:44:08] <jh> hi jan
+[11:46:57] ! Mobiwoelfin has joined.
+[11:56:33] ! Mobiwoelfin_ has joined.
+[11:58:54] ! Mobiwoelfin has quit. (Ping timeout: 245 seconds)
+[12:00:27] ! galoscho has joined.
+[12:01:01] <galoscho> re
+[12:02:05] ! elorie has joined.
+[12:06:50] ! Mobiwoelfin has joined.
+[12:06:50] ! Mobiwoelfin_ has quit. (Read error: Connection reset by peer)
+[12:08:57] <jh> galoscho: nächsten donnerstag solls fertig sein
+[12:09:07] <galoscho> jihaa
+[12:09:51] <jh> galoscho: und Di von 8-12 sollte jemand hier sein weil der evil-fliesenleger kommt und pongi beim zahnarzt ist
+[12:11:15] <galoscho> bist du am dienstag da?
+[12:11:45] <jh> kann ich bestimmt einrichten
+[12:11:56] <jh> es sei denn du sagst du bist sowieso hier
+[12:13:30] <galoscho> jo ich bin wohl auch da
+[12:14:07] <jh> aber nicht bei bewusstsein?
+[12:14:36] <galoscho> jo wobei ich kann es wohl einrichten kurz aufzustehen und mich danach wieder hinzulegen
+[12:15:22] <galoscho> also werd ich mich mal darum k�mmern
+[12:17:26] <elorie> aber beim evil-fliesenleger sollte man doch besser wach sein um auf ihn aufzupassen… o.O
+[12:17:33] <elorie> oder sehe ich das falsch?
+[12:19:21] <galoscho> ich brauche aber meinen sch�nheitsschlaf. da muss ich priorit�ten setzen^^
+[12:19:26] ! maku is now known as maku`
+[12:25:44] <nubix> man kann dem evil-fliesenleger auch einfach nur die tür auf machen und dann ins bad einsperren.
+[12:32:15] <galoscho> und ihm einen roten ball in den mund dr�cken und auf einem stuhl fesseln...
+[12:33:47] <galoscho> "bring in the gimp" - "the gimp's sleeping"...
+[12:34:36] <nubix> galoscho, du guckst zu viel pulp fiction
+[12:51:17] <galoscho> nubix: http://pastie.org/2432796
+[12:51:18] <ZombiePoet> Title: #2432796 - Pastie (at pastie.org)
+[12:52:43] <nubix> galoscho: na thx. mal sehen ob's funktioniert
+[12:56:10] <nubix> galoscho: obwohl ich ehrlich gesagt gar keine große lust mehr habe das encoding zu fixen :D
+[12:58:10] <galoscho> ist deine wahl...
+[12:58:35] <galoscho> ich f�nds schon gut weil manche clients unterst�tzen utf-8 halt einfach nicht
+[12:58:58] <nubix> galoscho: nutzt das log überhaupt noch jemand, seit Wechner das wieder online hat?
+[12:59:16] <galoscho> ups gar nicht mitbekommen
+[12:59:27] <nubix> galoscho: hr hr :D
+[12:59:30] <galoscho> ich habs heute genutzt
+[12:59:56] <nubix> galoscho: na dann fixe ich das einfach mal
+[13:13:46] ! Erstsemester has joined.
+[13:13:47] ! Users in channel: @DrMcCoy @Wechner Bowdzone DooMMasteR Droggl Erstsemester Mobiwoelfin Phia PirateKing Scumpeter ShadniX Valodim ZombiePoet _Rick_ conqueror12 elorie galoscho hashier jh kiney1 lurtz maku` moenni nubix pani serj tsuro zerobot
+[13:14:43] ! Mobiwoelfin has quit. (Ping timeout: 245 seconds)
+[13:14:58] ! lurtz has quit. (Quit: Gott sei dank man, gibs ne Pumpgun)
+[13:26:33] ! Mobiwoelfin has joined.
+[13:27:16] <Mobiwoelfin> bus randvoll mit schulkindern -.-
+[13:31:05] <nubix> Mobiwoelfin:  Freu dich drüber, die zahlen später vll. mal deine Rente :p
+[13:34:26] <Mobiwoelfin> nubix: bis ich in dem alter bin, ist die rente abgeschafft...
+[13:38:18] <moenni> oder du erreichst dein rentenalter nicht weil du bis 900 arbeiten musst ;-)
+[13:38:27] <moenni> *90
+[13:39:10] <galoscho> test: ���
+[13:40:03] <galoscho> ach m�nno
+[13:40:59] <nubix> galoscho: ist noch nicht gefixt, ich schlage mich gerade mit einer uraltversion von rubygems herum
+[13:41:11] <Mobiwoelfin> moenni: oder aus etwaigen anderen gründen
+[13:41:12] <galoscho> aso
+[13:42:14] <galoscho> naja ich geh mal duschen...
+[13:42:16] ! galoscho has quit. (Quit: Leaving)
+[13:42:56] <Mobiwoelfin> Verkehrsunfälle sind da sehr beliebt
+[13:43:24] <nubix> Beim duschen?
+[13:43:47] <moenni> ich meinte eher, weil das rentenalter stängi erhöht wird
+[13:43:55] <moenni> *ständig
+[13:47:13] ! Mobiwoelfin has quit. (Ping timeout: 245 seconds)
+[13:50:48] ! Mobiwoelfin has joined.
+[13:52:05] ! Bowdzone has quit. (Read error: Connection reset by peer)
+[14:01:34] ! elorie has quit. (Remote host closed the connection)
+[14:01:44] ! Mobiwoelfin_ has joined.
+[14:02:13] ! Mobiwoelfin has quit. (Ping timeout: 245 seconds)
+[14:04:05] ! serj has quit. (Quit: ZNC - http://znc.sourceforge.net)
+[14:05:27] ! serj has joined.
+[14:21:17] ! jh has quit. (Quit: jh)
+[14:25:48] ! moenni1 has joined.
+[14:27:04] ! moenni has quit. (Ping timeout: 258 seconds)
+[14:29:14] ! moenni has joined.
+[14:30:08] ! moenni1 has quit. (Ping timeout: 258 seconds)
+[14:33:11] <nubix> .
+[14:39:49] <DrMcCoy> Scheißwetter
+[14:42:11] <nubix> DrMcCoy: Das Wetter ist toll, nur etwas warm
+[14:42:16] <DrMcCoy> Scheißwetter.
+[14:42:23] <nubix> DrMcCoy: Das Wetter ist toll, nur etwas warm.
+[14:42:24] <DrMcCoy> Ich will wieder Winter :(
+[14:42:44] <nubix> DrMcCoy: Hör einfach auf zu schwitzen :p
+[14:42:50] <DrMcCoy> . . .
+[15:02:54] ! lurtz has joined.
+[15:03:44] ! moenni1 has joined.
+[15:04:15] ! moenni has quit. (Ping timeout: 258 seconds)
+[15:04:23] ! Scumpeter_ has joined.
+[15:11:27] ! elorie has joined.
+[15:12:32] ! Scumpeter has quit. (*.net *.split)
+[15:16:19] ! Scumpeter_ is now known as Scumpeter
+[15:24:22] ! moenni has joined.
+[15:26:06] ! moenni1 has quit. (Ping timeout: 258 seconds)
+[15:27:20] ! Erstsemester has joined.
+[15:27:21] ! Users in channel: @DrMcCoy @Wechner DooMMasteR Droggl Erstsemester Mobiwoelfin_ Phia PirateKing Scumpeter ShadniX Valodim ZombiePoet _Rick_ conqueror12 elorie hashier kiney1 lurtz maku` moenni nubix pani serj tsuro zerobot
+[15:27:24] <nubix> ...
+[15:27:29] <nubix> ...
+[15:27:45] <nubix> 2
+[15:27:56] ! jh has joined.
+[15:28:08] <elorie> ein jhchen :)
+[15:28:50] <jh> Mobiwoelfin_, Phia, PirateKing, nubix: wollen wir zusammen was bestellen/essen? sonst ess ich vorher was...
+[15:28:53] <jh> hi eloriechen
+[15:29:01] <nubix> hey jan
+[15:29:03] <Phia> jh: bin für bestellen
+[15:29:09] <nubix> hey *
+[15:29:10] <Phia> jh: hab hunger >>0
+[15:29:25] <jh> ok, dann muss ich noch geld einkaufen
+[15:29:33] <elorie> jh: lauf mir auch welches :
+[15:29:39] <jh> ach ihr habt ja ne spaßkasse da
+[15:29:44] <jh> elorie: ?
+[15:29:49] <elorie> kauf
+[15:29:53] <jh> ah
+[15:29:53] <elorie> geld ist immer gut :)
+[15:30:03] <jh> elorie: ja, gib mir geld, dann kaufe ich dir geld
+[15:30:08] <elorie> hmm ne
+[15:30:15] <PirateKing> jh: jaaa! bestellen!
+[15:30:19] <elorie> ich brauch neues geld zum terasse reparieren :/
+[15:30:43] <jh> Mobiwoelfin_, nubix: seid ihr auch für bestellen?
+[15:31:13] <nubix> jh: für mich ist das erst einmal egal
+[15:32:32] * nubix hat nicht wirklich hunger
+[15:42:05] <PirateKing> nubix: ja, aber dann heute abend vllt?
+[15:42:33] <jh> also ich habe heute bisher nur eine schale müsli gegessen
+[15:42:37] <nubix> PirateKing: Jop, vielleicht.
+[15:42:44] <jh> ich würde dann nicht allzu spät essen wollen würden :P
+[15:42:47] <Phia> jh: ich auch
+[15:52:03] <Mobiwoelfin_> jh: essen, ich habe grad gegessen!
+[15:52:21] ! y0030608 has joined.
+[15:52:33] ! y0030608 is now known as galoscho
+[15:53:07] <jh> Mobiwoelfin_: :(
+[15:53:37] <Mobiwoelfin_> wir können eis essen!
+[15:54:06] <galoscho> menno der fg raum ist zu...
+[15:54:11] <nubix> galoscho: nö
+[15:54:26] <nubix> seit heute morgen 10:00 ist der durchgehend offen
+[15:54:37] <Mobiwoelfin_> heute später am abend ~8 uhr würd ich wieder was richtiges essen..
+[15:54:45] <galoscho> h�m ichwar vor 20 min oben und hab von weitem den eindruck gehabt war zu
+[15:54:58] <nubix> klopfen
+[15:55:03] <Mobiwoelfin_> jetzt erstmal auto fahren
+[15:55:12] <galoscho> grr
+[15:59:13] ! galoscho has quit. (Quit: leaving)
+[16:00:16] ! CalebRipley has joined.
+[16:05:08] ! Mobiwoelfin_ has quit. (Ping timeout: 245 seconds)
+[16:07:26] ! Mobiwoelfin has joined.
+[16:17:55] <nubix> serj: highlight!
+[16:17:58] <nubix> serj: highlight!
+[16:18:48] ! Valodim has quit. (Ping timeout: 240 seconds)
+[16:19:10] ! Valodim has joined.
+[16:19:10] <Mobiwoelfin> jh: m29 16:40 pockelsstraße?
+[16:19:20] ! Scumpeter has quit. (Quit: No Ping reply in 180 seconds.)
+[16:19:34] ! Scumpeter has joined.
+[16:20:28] <jh> mh, abwaschen wäre mal gut gewesen
+[16:20:44] ! PirateKing has quit. (Quit: Leaving.)
+[16:20:45] <jh> Mobiwoelfin: hm? fährste jetzt nicht mitm auto hin?
+[16:20:57] <jh> Mobiwoelfin: ja, mit dem bus fahr ich
+[16:21:43] <Mobiwoelfin> jh: nee, noch dvd in Briefkasten werfen und schönerer parkplatz...
+[16:23:01] <jh> k...
+[16:27:57] ! jh has quit. (Quit: jh)
+[16:36:05] ! CalebRipley has quit. (*.net *.split)
+[16:43:15] ! nubix has quit. (Quit: Leaving.)
+[16:44:14] ! CalebRipley has joined.
+[17:07:38] ! Mobiwoelfin has quit. (Ping timeout: 245 seconds)
+[17:08:46] ! der_eq has joined.
+[17:16:10] ! CalebRipley has quit. (Remote host closed the connection)
+[17:44:45] ! y0030608 has joined.
+[17:44:46] ! y0030608 has quit. (Client Quit)
+[17:48:23] ! Phia has quit. (Ping timeout: 240 seconds)
+[17:52:33] ! der_eq has quit. (Remote host closed the connection)
+[19:27:39] ! rohieb has joined.
+[19:33:17] <rohieb> wuhu!
+[19:33:59] <elorie> !tell jh* hier gibt es übrigens heute wieder Bratkartoffeln :p
+[19:33:59] <ZombiePoet> elorie: Ok.
+[19:34:50] <rohieb> elorie: oh du machst mich hungrig
+[19:37:52] ! Bowdzone has joined.
+[20:55:15] ! galoscho has joined.
+[21:53:18] <elorie> seufz
+[21:54:41] ! elorie1 has joined.
+[21:54:48] <rohieb> was seufzt du, elorie?
+[21:54:51] <rohieb> nicht genug blitze?
+[21:54:51] <elorie1> wtf
+[21:55:03] <elorie1> warum ein freenode disco bei mir o.O
+[21:55:09] <rohieb> warum nicht?
+[21:55:10] <elorie1> seufz weil seufz
+[21:55:19] <rohieb> das ist aber kein grund...
+[21:55:22] <rohieb> kann man dir helfen?
+[21:55:24] <rohieb> motivation schenken?
+[21:55:26] <elorie1> alle anderen connections sind online geblieben
+[21:55:28] <rohieb> schokolade?
+[21:55:29] <rohieb> whatever?
+[21:55:35] <elorie1> hmm /me haz eis
+[21:55:39] <rohieb> freenode hat vielleicht zu wenig timeout
+[21:56:14] <elorie1> hmm ne der andere irc war auch kurz offline schrie aber nicht mit nickserv auf warum auch immer
+[21:56:30] <rohieb> hmk...
+[21:57:02] <DrMcCoy> elorie1: Ich kann dir noch halbflüssige Schoki anbieten :P
+[21:57:06] ! PirateKing has joined.
+[21:57:10] <elorie1> brrrrr
+[21:57:14] <elorie1> ich suche mir liebe reis
+[21:57:16] <elorie1> eis
+[21:57:19] ! Phia has joined.
+[21:57:22] <DrMcCoy> reis eis?
+[21:57:26] <rohieb> eisres
+[21:57:27] <rohieb> i
+[21:57:31] <rohieb> reiseeis
+[21:57:36] <rohieb> eisenreis
+[21:57:45] <rohieb> reiseiseneis ^^
+[21:57:49] <DrMcCoy> elorie1: Ich kann die flüssige Schoki auch ins Gefrierfach tun... :P
+[21:57:53] ! elorie has quit. (Ping timeout: 240 seconds)
+[21:57:56] <elorie1> baeh
+[21:57:59] <rohieb> hihihi
+[21:58:01] ! elorie1 is now known as elorie
+[21:58:25] <DrMcCoy> elorie: Schoki = super. Eis = super. Schoki-Eis = ?
+[21:58:35] <elorie> aber nur echtes eis
+[21:58:42] <elorie> und frostschoki != schokieis
+[21:58:56] <DrMcCoy> Pfft, Details
+[22:06:35] <Phia> halli hallo
+[22:06:43] <rohieb> huhu Phia
+[22:06:48] <Phia> hat jemand von euch schon mal msdn aa benutzt?
+[22:07:00] <rohieb> ja
+[22:07:05] <Phia> also diese möglichkeit, über die uni kostenlos an windows ran zu kommen
+[22:07:12] <rohieb> jo
+[22:07:16] <Phia> rohieb: super, kannst du mir sagen, wie das geht?
+[22:07:22] <rohieb> du gehst da auf diese anmeldeseite vom RZ
+[22:07:25] <rohieb> und klickst da auf den button
+[22:07:36] <rohieb> der leitet dich zum msdnaa-server weiter
+[22:07:42] <Phia> hm, dann hab ich vielleicht noch nicht die richtige seite gefunden
+[22:07:42] <rohieb> ist so ne firma, nennt sich ELMS glaub ich
+[22:07:50] <rohieb> ist ne ziemlich bunte seite
+[22:07:54] <rohieb> !google tu bs elms
+[22:07:55] <ZombiePoet> rohieb: ELMS-Anmeldung @ TU Braunschweig: <https://www.tu-braunschweig.de/it/service-interaktiv/software/doku/msdn-aa/elms/login>; Vertrieb über ELMS @ TU Braunschweig: <https://www.tu-braunschweig.de/it/service-interaktiv/software/doku/msdn-aa/elms>; [SSO-Hinweise] @ TU Braunschweig: <https://www.tu-braunschweig.de/it/service-interaktiv/software/doku/msdn-aa/elms/login-doku>; ELMS-Teilnehmer @ TU (2 more messages)
+[22:07:58] <Phia> jap, also ich hab hier seiten, die das erklären
+[22:07:59] <rohieb> ja da das erste ^^
+[22:08:13] <rohieb> musst aber eingeloggt sein auf der tu-seite
+[22:08:34] <Phia> rohieb: bin ich und da steht trotzdem "bitte loggen sie sich ein"
+[22:08:39] <Phia> gehts denn bei dir gerade?
+[22:09:15] <rohieb> oh hm... anscheinend RZfail, bei mir gehts auach nicht
+[22:11:09] <Phia> hm, doof
+[22:11:20] * Phia haz neuen computer
+[22:11:54] <Phia> PirateKing sagt, ich soll erst windoof drauf machen und danach erst ubuntu
+[22:12:06] <elorie> Phia: jap da sist auch klueger so
+[22:12:11] <Phia> aber dafür brauch ich nen windoofs
+[22:12:19] <Phia> und das doofe rz gibt mir keins
+[22:12:33] <Phia> alles doof
+[22:12:53] <rohieb> hmmmmmmmm
+[22:12:54] <elorie> Phia: ich haette alle moegliche versionen da, die frage ist ob du noch nen key hast ansonsten muesste ich das hbk msdnaa suchen
+[22:13:18] <Phia> elorie: nee hab ich nicht
+[22:13:22] <rohieb> ich hätte hier noch so eine win7-dvd liegen... ist ja eh das selbe image, was man da runterlädt, und aktivieren musst dus ja erst nach höchstens 3 monaten
+[22:13:44] <rohieb> weiß aber nicht, ob der key auch einfach der slebe ist ^^
+[22:14:39] <elorie> iiiiiiiih msdna hat g+ und facebook like icons
+[22:15:06] <Phia> rohieb: hm, kann ich dafür dann nen msdn aa key benutzen?
+[22:15:17] <rohieb> elorie: jede webseite heutzutage hat doch +1 und facebook-buttons...
+[22:15:33] <rohieb> Phia: kannst den key ja auch erstmal garnicht eingeben
+[22:15:46] <rohieb> Phia: und dann später, wenn das tu-interface wieder geht, nen key holen
+[22:15:52] <Phia> rohieb: ja sicher, aber irgendwann brauch ich ja einen
+[22:15:55] <rohieb> ja
+[22:16:06] <rohieb> also ich gehe jetzt davon aus, dass das nur so ein temporäres problem ist
+[22:16:16] <elorie> Phia: mom
+[22:16:21] <elorie> Phia: ich such gerade
+[22:16:24] <rohieb> schreib am besten mal ans RZ
+[22:16:50] <serj> rohieb: jedes we geht das nicht :D
+[22:16:58] <serj> das hat oeffnungszeiten :D
+[22:17:02] <rohieb> hat das auch so...
+[22:17:03] <rohieb> omg
+[22:17:08] <rohieb> das ist ja schon wie bankfiliale
+[22:17:40] * rohieb .oo( WZU HBE WR EGLH DS ERE ERFUDE... )
+[22:18:30] <serj> fuer facebook und twitter mit oeffnungszeiten
+[22:18:58] <elorie> Phia: deutsch/englisch 32 oder 64bit mit oder ohne sp1 was darfs sein?
+[22:19:14] <rohieb> stimmt, ich hab hier nur englisch liegen...
+[22:20:01] <Phia> deutsch, 64, mit sp1 bitte
+[22:20:24] <elorie> ok sp 1 gibts nur englisch
+[22:20:27] <elorie> dann ohne?
+[22:20:37] <rohieb> kann man ja eh nachinstallieren
+[22:20:37] <Phia> elorie: dann ohne bitte
+[22:21:06] <Phia> elorie: hm, wie kriegen wir es von dir zu mir?
+[22:24:23] ! PirateKing has quit. (Quit: Leaving.)
+[22:35:43] <elorie> uh funny msdnaa hat alle meine bisherigen bstellungen vergessen, als es irgendwann in den letzten monaten redesignt wurde o.O
+[22:38:05] <rohieb> ist ja dumm
+[22:38:07] <rohieb> obwoho
+[22:38:11] <rohieb> solangs nix kostet...
+[22:43:50] ! jh has joined.
+[22:45:23] <jh> huhu
+[22:45:23] <ZombiePoet> jh: Sent 3 hours and 11 minutes ago: <elorie> hier gibt es übrigens heute wieder Bratkartoffeln :p
+[22:45:28] <jh> elorie: GIB!
+[22:45:34] <jh> und ich war sogar in der nähe!
+[22:47:54] ! Silberwoelfin has joined.
+[22:48:30] <elorie> jh: tjaaaa zu spaet
+[22:49:15] <jh> elorie: du bist gemein
+[22:51:30] <Silberwoelfin> gestern ging msdnaa bei mir noch...
+[22:54:22] ! jh has quit. (Quit: Logik wird überschätzt.)
+[22:58:56] ! Peace-Maker has joined.
+[23:00:07] <rohieb> jh \o/ Silberwoelfin \o/
+[23:00:21] <Silberwoelfin> rohieb: \o/
+[23:00:28] <Silberwoelfin> rohieb: \o/
+[23:00:31] <rohieb> jh ist ja schon wieder weg :(
+[23:01:26] <rohieb> Silberwoelfin: sag mal jh, seit er ne freundin hat, ist er total selten im IRC, der soll sich mal von dir trennen und mehr im IRC sein :D
+[23:02:17] <elorie> !slap rohieb
+[23:02:18] * ZombiePoet socks rohieb by dropping an anvil on his head
+[23:02:23] <rohieb> danke
+[23:02:26] <elorie> pfui wie kannst du sowas sagen
+[23:02:33] <rohieb> ich konnte gerade einen amboss so gut gebrauchen
+[23:02:39] <rohieb> da war ein ironiesmiley hinter
+[23:02:48] <elorie> das ist kein ironiesmilie
+[23:02:55] <elorie> und selbst ironisch sagt man sowas nciht… pfui
+[23:02:57] <rohieb> sondern?
+[23:02:58] <rohieb> pff
+[23:04:52] <rohieb> es gibt halt manche leute, die meinen humor verstehen, und manche, die das nicht tun.
+[23:06:03] <elorie> ...
+[23:12:00] <rohieb> achso... hitler!
+[23:13:35] <rohieb> </godwin>
+[23:29:22] <elorie> wtf der vpnclient zickt -.-
+[23:36:06] ! moenni has quit. (Read error: Connection reset by peer)
+[23:45:56] ! jh-mobil has joined.
+[23:46:13] <Silberwoelfin> rohieb: :'(
+[23:46:23] <rohieb> Silberwoelfin: sry... war nicht so gemeint
+[23:47:22] <elorie> Silberwoelfin: dann hast du offensichtlich nichts dagegen das ich rohieb dafuer tadeln ließ
+[23:48:09] <Silberwoelfin> rohieb: du kannst dir selber ne freundin suchen, dann vermisst du jh nich so :P
+[23:48:16] <rohieb> au
+[23:48:29] <rohieb> touche
+[23:48:30] <jh-mobil> rohieb: \o/
+[23:48:35] <rohieb> huhu jh
+[23:48:52] <jh-mobil> rohieb: *remoteknuddel*
+[23:49:02] <rohieb> nee das funktioniert nicht remote
+[23:51:12] <jh-mobil> rohieb: dann muss ich das wohl irgendwie tunneln
+[23:51:39] <rohieb> hab keinen tunnel hier...
+[23:51:50] <rohieb> aber hab mir sagen lassen, in der schweiz gibts viele davon
+[23:52:13] <jh-mobil> Grab einen, rohieb
+[23:52:28] <jh-mobil> →
+[23:52:31] <rohieb> hab keinen berg
+[23:52:35] <rohieb> und auch kein worms
+[23:52:44] <rohieb> und auch keine lemminge
+[23:52:53] <jh-mobil> ∅
+[23:53:05] <jh-mobil> Hihi, sonderzeichen
+[23:53:23] <jh-mobil> ★
+[23:53:37] <jh-mobil> —
+[23:53:47] <jh-mobil> -–—
+[23:54:00] <jh-mobil> - – —
+[23:54:13] <jh-mobil> ⅞
+[23:54:31] <jh-mobil> ♣
+[23:54:47] <jh-mobil> ∞
+[23:55:06] <DrMcCoy> jh-mobil: ⠊⠀⠉⠁⠝⠀⠑⠁⠞⠀⠛⠇⠁⠎⠎⠀⠁⠝⠙⠀⠊⠞⠀⠙⠕⠑⠎⠝⠞⠀⠓⠥⠗⠞⠀⠍⠑
+[23:55:14] <rohieb> ಠ_ಠ
+[23:57:03] <elorie> o.o
+[23:57:27] <elorie> hmpf zu faul mehr eis aus dem eisschrank zu holen
+[23:57:59] <DrMcCoy> o_O
+[23:59:33] <rohieb> elorie: das ist ja total ununicodig
+[23:59:48] * rohieb gibt elorie einen zauberstab mit accio-implementierung

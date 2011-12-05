@@ -1,0 +1,777 @@
+[00:00:01] <nubix> Halli Hallo lieber Dienstag
+[00:00:32] <zynic> nubix: du bist deiner zeit voraus^^
+[00:00:47] <nubix> nope ^^ http://nubix.net/cs-studs/show/latest#bottom
+[00:00:49] <ZombiePoet> Title: Log vom 2011-09-13 - ##cs-studs (at nubix.net)
+[00:01:05] <nubix> nicht bei mir :p
+[00:01:26] <zynic> okay, du bist meiner zeit voraus... xD
+[00:01:40] <nubix> Das mag sein.
+[00:02:01] <zynic> hm, ne du bist dem client voraus...
+[00:02:07] <zynic> meine systemzeit is auch weiter
+[00:02:25] <zynic> mein xchat is komisch
+[00:05:28] <nubix> scheint so.. neue version kompilieren?
+[00:06:06] <zynic> och...
+[00:09:49] <zynic> ...n�
+[00:09:52] <zynic> ;)
+[00:09:58] ! Peace-Maker has quit. (Quit: get satisfied!  :: core-networks.de ««« (Gamers.IRC) »»» gamersirc.net ::)
+[00:10:52] <zynic> ich hab ja lieber programme mit charakter.. (aka: viel zu faul grad
+[00:13:52] ! lurtz has joined.
+[00:17:51] ! moenni has quit. (Read error: Connection reset by peer)
+[00:23:41] ! elorie has quit. (Quit: Leaving.)
+[00:24:50] ! Bowdzone has quit. (Quit: Bowdzone)
+[00:26:42] ! rohieb has joined.
+[00:33:15] ! Sonea has joined.
+[00:34:12] ! rohieb has quit. (Ping timeout: 240 seconds)
+[00:35:33] <Sonea> hmm mist schon wieder tagesrythmus im arsch
+[00:35:38] <Sonea> bin noch überhaupt nicht müde
+[00:35:43] <nubix> mein beileid Sonea
+[00:35:51] <Sonea> gestern schon wieder bis um 04:30 aufgeblieben
+[00:35:59] <zynic> heut is vollmond
+[00:36:01] <nubix> dann eine nacht durch machen :P
+[00:36:05] <Sonea> aber ich muss doch morgen wieder gegen 09:20 uhr los zur uni :/
+[00:36:05] <nubix> zynic: ja und?
+[00:36:14] <Sonea> nubix: thx ;)
+[00:36:30] <zynic> nubix: ich kann mir das schlafen bei vollmond grunds�tzlich abschminken kp warum
+[00:36:42] ! rohieb has joined.
+[00:36:44] <nubix> selektive warnehmung
+[00:37:09] <nubix> da ist wohl jemand aberglaeubisch ^^
+[00:37:49] <zynic> lach* redest du mit pcs wenn du versuchst sie zu reparieren?^^
+[00:37:59] <nubix> zynic: nein
+[00:38:16] <zynic> nubix: hmpf* xD
+[00:38:42] <zynic> erm, ja...
+[00:38:57] <nubix> ?
+[00:39:40] <zynic> meine tolle rethorische frage hat leider nicht das erhoffte ergebnis gebracht, ganz im gegenteil, und ich dachte mir ich halt jetzt einfach lieber dne mund ;)
+[00:40:39] <nubix> zynic: wenn es um soetwas geht bist du bei mir an der falschen adresse ;)
+[00:41:03] <zynic> mit dem aberglauben?
+[00:41:08] <zynic> offenbar ;)
+[00:44:32] ! nubix1 has joined.
+[00:44:33] ! nubix1 has quit. (Changing host)
+[00:44:33] ! nubix1 has joined.
+[00:44:41] <nubix1> .
+[00:47:13] ! nubix has quit. (Ping timeout: 260 seconds)
+[00:47:35] ! nubix1 is now known as nubix
+[00:47:54] ! elorie has joined.
+[00:48:12] <elorie> re
+[00:48:35] <zynic> wb
+[00:48:53] <rohieb> huhu elorie
+[00:52:46] <elorie> huhu
+[00:52:55] <Droggl> huhu Sonea
+[00:53:04] ! jh_ has joined.
+[00:53:09] <rohieb> jh!
+[00:53:11] <rohieb> Droggl!
+[00:53:18] <Droggl> rohieb!!
+[00:53:18] <rohieb> Droggl: meh
+[00:53:26] <nubix> hi elorie rohieb Droggl
+[00:53:26] <rohieb> Droggl: bin grad dabei, das abrechnungsskript neu zu schreiben
+[00:53:30] <Droggl> meh REPLY
+[00:53:51] <Droggl> achja der kaffe kram
+[00:54:01] <Droggl> lass uns da nochmal bei gelegenheit in persona drüber quatschen
+[00:54:05] <rohieb> Droggl: weil die version von grisbi, die ich grad benutze, segfaultet, wenn ich ein konto für ali anlegen will, und die minimal neuste version, in der das gefixt ist, hat ein anderes schema für die XML
+[00:54:10] <Droggl> dass ich weiss was da nu genau zu tun is
+[00:54:14] <rohieb> jo
+[00:54:22] <rohieb> du bist ja jetzt wieder im lande, schätze ich?
+[00:54:27] <Droggl> nope
+[00:54:34] <Droggl> in 8,5h is review
+[00:54:54] <Droggl> gehe dementsprechend wohl demnächst pennen ;)
+[00:55:02] <Droggl> komme mittwoch wieder
+[00:55:07] <Droggl> ab donnerstag wieder @work
+[00:57:52] <rohieb> ok
+[00:57:58] <rohieb> dann viel erfolch
+[00:58:12] <elorie> sooo wer motiviert mich
+[00:58:30] ! ES has quit. (Quit: The cake is a lie!)
+[00:58:37] <jh_> hi
+[00:58:39] <zynic> elorie: wozu?
+[00:58:40] <nubix> hi jan
+[00:58:44] <jh_> hi jan
+[00:59:43] <rohieb> elorie: womit kann man dich denn motivieren?
+[00:59:59] <elorie> zynic: bachelorarbeit schreiben
+[01:00:02] <elorie> rohieb: gute frage
+[01:00:08] <rohieb> elorie: schokolade?
+[01:00:56] <elorie> hmmm
+[01:02:23] <rohieb> nicht?
+[01:02:27] <rohieb> absinth? %)
+[01:02:33] <nubix> rohieb: meiner!
+[01:02:38] <zynic> der is immer gut
+[01:02:38] <nubix> oder hast du etwa auch welchen?
+[01:02:39] <rohieb> nö meiner
+[01:02:47] <elorie> auja absinth
+[01:02:49] <rohieb> also, nicht hier ^^
+[01:02:52] <nubix> rohieb: dann bring mir doch mal welchen vorbei :p
+[01:02:53] <elorie> andererseit nciht mit der ba vor der nase
+[01:03:00] <rohieb> nubix: ich denke, du hast welchen
+[01:03:02] <jh_> möp, doofes fliegengiter macht bilder kaputt
+[01:03:04] <rohieb> nubix: und, dir schon garnicht :P
+[01:03:12] <nubix> rohieb: klar hab ich welchen :p
+[01:03:23] <rohieb> elorie: vielleicht triffst du ja den ballmer peak
+[01:03:27] <nubix> rohieb: aber damit muss ich sparsam sein, habe gestern gemerkt der wird nicht mehr produziert :p
+[01:03:29] <zynic> elorie: aber als belohnung hinterher^^
+[01:03:41] <rohieb> obwohl... dann könntest du warscheinlich ganz toll programmieren, aber das hilft dir nicht ^^
+[01:03:54] <nubix> rohieb: absinth fuer zu echt bescheidenem code!
+[01:03:57] <elorie> zynic: hmm ja also naechste woche irgendwann
+[01:04:00] <nubix> rohieb: spreche aus erfahrung
+[01:04:41] <rohieb> ist wohl auch ne zu hohe dosierung, um 0.14‰ zu erreichen ^^
+[01:05:02] <zynic> hmm, dann hilft nur andere leute zum kochen verpflichten, dann hast keine ausreden mehr und obendrein was gutes zum futtern ;)
+[01:05:43] <rohieb> achso, das sind 0.14%... also nur 0.014‰
+[01:06:08] <elorie> wtf: die oberste meldung: http://www.makinggames.de/index.php/news/1387_12_september_2011_frauenfeindliche_begriffe_im_code_von_dead_island_techland_kndigt_konsequenzen_an_electronic_arts_ist_mit_dem_erfolg_des_online_pass_zufrieden_bigpoint_bernimmt_den_hamburger_spiele-entwickler_49games
+[01:06:15] <ZombiePoet> Title: Making Games | Das Netzwerk für Spieleentwickler (at www.makinggames.de)
+[01:06:17] <rohieb> wer macht denn so lange urls -.-
+[01:06:59] <winnie> so muss man nicht mehr drauf klicken, sondern hat den gesamten Artikel schon in der URL
+[01:07:06] <lurtz> rohieb: ist doch praktisch. ich muss den text nicht mehr lesen
+[01:07:28] <zynic> xD
+[01:08:04] <nubix> gibt's das auch in kurz o.0
+[01:08:09] <zynic> ich mein "feminist whore" is nu echt kein besonderst doller fertigkeitenname, aber nunja...
+[01:08:11] <jh_> mh, kamera zu schlecht
+[01:08:15] <jh_> mehr rauschen als bild :(
+[01:08:20] ! jh_ is now known as jh
+[01:08:30] <nubix> jh: versuchst du schonwieder fotos von dir zu machen?
+[01:08:35] <elorie> T M I
+[01:08:58] <nubix> elorie: einfach nicht lesen :p
+[01:09:50] <zynic> grins* aber der artikel erinnert mich an selige soziologie-fachschaftsdiskussionen...
+[01:09:53] <jh> nubix: nee, mond + wolken
+[01:09:54] <ZombiePoet> jh: Sent 6 hours and 41 minutes ago: <rohieb> failtwitterclient?
+[01:09:55] <jh> s. draußen
+[01:10:00] <jh> hä?^^
+[01:10:12] <rohieb> jh: apropos &quot; und "
+[01:10:55] <elorie> zynic: ich kenne solche diskussionen aus uniseminaren an sich
+[01:11:09] <jh> zynic: wer bist denn du?
+[01:11:17] <elorie> ^^
+[01:11:26] <nubix> jh: der ist so nen ersti
+[01:11:32] <nubix> jh: weist schon, so leute die informatik studieren wollen
+[01:11:37] <jh> son nubix2?
+[01:11:48] <nubix> jh: ne
+[01:11:52] <zynic> elorie: glaub mir, in der qualit�t wie in ner soziologie-fachscaft, oh entschuldigung: basisgruppe, gibts das nirgends....
+[01:11:54] <nubix> jh: ich glaube der hat ein zuhause
+[01:12:04] <elorie> zynic: das bezweifel cih
+[01:12:10] <zynic> jh: jup, hab ich :D
+[01:12:36] <zynic> elorie: okay... dazu ne story aus nem normalen seminar^^
+[01:12:41] <elorie> aber yay damit bin cih nciht der einzige erstie hier ^^
+[01:12:50] <jh> also in thumbnail-größe sehen die bilder ok aus :D
+[01:13:09] <zynic> jh: den rest hat nubix schon knapp zusammengefasst. wenn du aufm spieleabend warst hast ud mich auch gesehen
+[01:13:21] <zynic> elorie: die! erstine!
+[01:13:24] <zynic> xP
+[01:13:44] <elorie> zynic: ^^ hmm dann schon lieber das erstie
+[01:13:46] <jh> http://dl.dropbox.com/u/1589203/wolkenmondpics.png =)
+[01:14:17] <joke`> zynic: Mom, du warst diejenige, welche vorher soziologie in wien studiert hat?
+[01:14:30] <elorie> zynic: DER
+[01:14:36] <elorie> aeh joke`DERjenige
+[01:14:46] <elorie> afaik sah der mensch doch recht maennlich aus ;)
+[01:15:09] <joke`> Kein plan, ich wei� dass da irgendein ex-soziologe sa�, details sind mir entfallen :)
+[01:15:12] <joke`> hail to alkohol!
+[01:15:19] <elorie> details ie das geschlecht o.O
+[01:15:20] <nubix> zynic: hast du gehoert, du bist maennlich :p
+[01:15:26] <zynic> also: diskussion �ber ein theoriethema (weber), ein m�del sagt etwas offensichtlich falsches. ich versuche mit ihr zu diskutieren. ihre freundin antwortet f�r sie: es t�te ihr leid, ihre freundin w�rde sich nicht der m�nnlichen normativit�t unterordnen wollen und k�nnte mir daher nciht antworten
+[01:15:59] <zynic> elorie: das?! aber kind, du vers�chlichst dich ja! so wird das nix mit der emanzoipation
+[01:16:00] <zynic> ;)
+[01:16:02] <elorie> zynic: ok das ist verrueckt… ich bezog mich eher auf gute konstruktive diskussionen
+[01:16:16] <elorie> zynic: kind, das, neutrum :p
+[01:16:51] <zynic> elorie: und das ist aus nem normalen seminar, nichtmal aus der bagru(fchschaft/basisgruppe) wo die wirklich extremen nasen rumhingen
+[01:17:06] * winnie weg
+[01:17:10] <winnie> gute nacht, alle!
+[01:17:16] <zynic> joke: ja, derjenige war ich :)
+[01:17:18] <nubix> gn8 winnie
+[01:17:21] <zynic> gn8
+[01:17:27] <elorie> gn8 winnie
+[01:17:35] <elorie> zynic: hmm ja...
+[01:17:47] <zynic> nubix: jup, un dich beschwer mich nicht ;D
+[01:18:12] <elorie> o.O
+[01:18:36] <nubix> zynic:jetzt muss du nur noch wie jh einen testosteronueberschuss entwickeln
+[01:19:01] <zynic> nubix: ??
+[01:19:03] <jh> mh?
+[01:19:05] <elorie> nubix: psst
+[01:19:08] <elorie> jh: ignorier das
+[01:19:14] <jh> ich les grad nicht mit, lästert nicht über mich O_o
+[01:19:14] <elorie> zynic: nevermind ;)
+[01:19:15] <jh> gn8 winnie
+[01:19:23] <nubix> elorie: :/
+[01:19:40] <nubix> ach ich halt mich da wohl besser raus :)
+[01:19:41] <zynic> elorie: ??
+[01:19:44] <nubix> jh: sorry ^^
+[01:19:47] <elorie> nubix: gute idee :p
+[01:19:49] <nubix> zynic: vergiss es
+[01:20:01] * nubix likes to watch.
+[01:20:06] <elorie> T M I
+[01:20:13] <rohieb> ich glaube, ich geh besser auch mal
+[01:20:17] ! rohieb has left the channel. ("Leaving")
+[01:20:26] <nubix> lol... doch nicht immer alles falls verstehen
+[01:20:27] <elorie> ich sollte ernsthaft darueber nachdenken das eine foto als avatar einzusetzen
+[01:20:30] <zynic> *sekundiert
+[01:21:57] <nubix> wieso kriege ich heute eigentlich immer ein TMI an den kopf geworfen?!
+[01:22:03] <zynic> elorie: trotzdem bin ich mal neugierig: wie aktiv sind die studentInnen denn mitm gendern, etc?
+[01:22:06] <nubix> Ich mach' doch gar nichts.
+[01:23:08] <joke`> !mensa
+[01:23:08] <ZombiePoet> Mensa Katharinenstraße am Dienstag:
+[01:23:09] <ZombiePoet> A: Terrine Gärtnersuppe mit Nudeln 1,40€
+[01:23:10] <ZombiePoet> B: Hähnchenkeule “Hongkong” AT 1,50€
+[01:23:11] <ZombiePoet> C: Tortellini mit Fleischfüllung mit Tomatensauce 2,00€
+[01:23:12] <ZombiePoet> V: Kartoffelküchlein mit Balkankäsecreme 1,90€
+[01:23:13] <ZombiePoet> W: Lachspfanne mit Dillkartoffeln und Dip 3,10€
+[01:23:29] <zynic> joke: praktischer bot^^
+[01:23:51] <joke`> naja, wenn das essen nix taugt, n�tzt der bot auch nichts
+[01:23:55] <joke`> c sieht ok aus
+[01:24:05] <nubix> !mensa abend
+[01:24:06] <ZombiePoet> Abendmensa Katharinenstraße am Dienstag:
+[01:24:08] <ZombiePoet> A: Terrine Gärtnersuppe mit Nudeln 1,40€
+[01:24:08] <ZombiePoet> B: Gemüsemaultaschen mit Lauchsauce 1,50€
+[01:24:09] <ZombiePoet> C: Schweinegulasch AT mit Parpika 1,80€
+[01:24:10] <ZombiePoet> W: 1/2 Brathähnchen 1,90€
+[01:24:12] <nubix> falscher tag o.0
+[01:24:14] ! winnie has quit. (Quit: wisu denn blus?)
+[01:24:27] <nubix> obwohl. heute ist da dienstag
+[01:24:40] ! nubix is now known as failubix
+[01:24:40] <zynic> ich wollts nicht sagen...
+[01:24:59] <elorie> zynic: kommt drauf an wo und wen du fragst
+[01:24:59] <failubix> zynic: dafuer bin ich nicht aberglaeubisch ^^
+[01:25:10] <joke`> failubix: wo bist du denn, dass du nciht dienstag hast?
+[01:25:17] <zynic> failubix: das is ok ;)
+[01:25:28] <elorie> zynic: es gibt halt das zentrum fur gender studies an der tu aber die sind eher zahm
+[01:25:29] <failubix> joke`: im 7-ten himmel
+[01:25:39] <elorie> an der hbk gibt ein paar durchaus feministisch angehauchte dozentinnen
+[01:26:00] <joke`> elorie: die frauenbeauftragten nicht vergessen!
+[01:26:10] <joke`> stichwort fakult�t etechnik party
+[01:26:14] <elorie> bei den studentinnen habe ich keinen ueberblick, aber im stupa wettern einige regelmaeßig gegen die frauendiskriminierung der studentenverbindungen
+[01:26:30] <zynic> klingt ja alles in allem recht harmlos =)
+[01:26:52] <joke`> die braunschweiger hochschulpolitik ist generell vergleichsweise pragmatisch aufgestellt
+[01:27:03] <zynic> seminararbeiten in wien waren ohne gendern automatisch 5 (gibt in �sterreich nur 1-5)
+[01:27:15] <zynic> klingt sympathisch
+[01:27:24] <joke`> imho liegt das dadran, dass hier der asta im regelfall von den fachschaften aufgestellt wird
+[01:27:49] <joke`> und selbst der gr��te vollhonk dort wird im allgemeinen keine parteipolitik machen
+[01:28:01] ! failubix is now known as fail
+[01:28:07] ! fail is now known as nubix
+[01:28:11] <joke`> dass der asta beim bildungsstreik das hausrecht f�rs audimax �bertragen bekommen hat, spricht da imho b�nde :)
+[01:28:24] <zynic> O_o
+[01:28:45] <zynic> in wien wurde iwann massivst polizeilich ger�umt
+[01:29:08] <joke`> uni-pr�sident so in nem interview mit der bz: "Jo, l�uft ja auch  vieles schief, habe vollstes verst�ndnis. das sind junge leute, mit denen man vern�nftig reden kanN"
+[01:29:28] <zynic> wow, nice
+[01:29:42] <joke`> wobei "jung" relativ ist :) Damals war ein-2 asta-vertreter iirc �lter als mancher prof
+[01:30:06] <zynic> elorie: und schon mitbewohner o.�. zum kochen/putzen/etc verpflichtet? =)
+[01:30:13] <joke`> naja, das audimax stand kurz vor der renovierung und eine bedingung des deals war, dass es daf�r freiwillig ger�umt wird und keine abdrisparty stattfindet
+[01:30:13] <zynic> hehe das ist ja immer so
+[01:31:00] <joke`> daf�r gabs arbeitskreise und seitdem haben wir eine neue allgemeine po (gilt f�r alle studieng�nge) und einige neue bpos (po des jeweiligen studiengang)
+[01:31:14] <zynic> zum besseren?
+[01:31:16] <joke`> ganz grob vereinfacht :)
+[01:31:18] <joke`> ja, definitiv
+[01:31:30] <joke`> nicht ausreichend imho (gibt immer was zu tun frei nach hornbach)
+[01:31:37] <zynic> hm, ich bin positiv �berrascht
+[01:31:45] <elorie> zynic: ich wohne allein da geht da sschlecht
+[01:31:54] <joke`> aber die zwangsexmatrikulation plus zwangsanmeldung verkackter pr�fungen sind seitdem weg
+[01:32:07] <joke`> zwangsex gab es wenn man nach 2 semestern keine 30 credits hatte
+[01:32:18] <elorie> joke`: kleiner hint: gendern hat nichts mit parteipolitik zu tun ;)
+[01:32:20] <joke`> gab noch ein paar kleinere �nderungen, das waren so die wichtigsten
+[01:32:21] <zynic> wtf?
+[01:32:37] <elorie> zynic: ?
+[01:32:50] <joke`> elorie: Ja, aber mit bl�dsinniger zeitverschwendung :)
+[01:33:00] <zynic> jo, da sind ein paar elende regeln gefallen (zwangsex!)
+[01:33:24] <joke`> z.B k�nnen wir jetzt unsere note verbessern, das ging vorher auch nicht
+[01:33:28] <zynic> ojemine, die etwas unpassende abk�rzung is mir ja grad erst aufgegangen... xD
+[01:33:52] <elorie> joke`: ja aber auch da besteht gerade kein zusammenhang ;)
+[01:34:10] <joke`> zynic: in �sterreihc wurde doch viel danach eher versch�rft oder? Das meinten zumindestens die wiener und grazer  auf der info bufata
+[01:34:10] <jh> gn8
+[01:34:16] <nubix> gn8 jh
+[01:34:18] <elorie> zynic: naja der begriff hat egal in welcher seiner bedeutungen durchaus seine daseinsberechtigung ;)
+[01:34:20] <jh> zwangsex? O_o
+[01:34:22] <joke`> elorie: Bin ja schon ruhig
+[01:34:22] <zynic> gn8
+[01:34:27] <jh> ah
+[01:34:30] <joke`> nacht jh
+[01:34:31] <jh> anders^^
+[01:34:33] <elorie> jhchen: gn
+[01:34:39] <zynic> elorie: grins* durchaus, ja
+[01:34:41] ! jh has quit. (Quit: jh)
+[01:35:09] <elorie> und sowohl in maennlich wie in weiblich ;)
+[01:35:24] <zynic> joke`: jup, und das ist immer nur schlimmer geworden
+[01:35:30] ! lurtz has quit. (Remote host closed the connection)
+[01:35:42] <zynic> ja, das geht ja beiderseits
+[01:36:01] <joke`> von wegen: "Die studenten sind �berfordert->Dann machen wir es noch schlimmer, dann merken sie es wenigstens fr�her"
+[01:36:33] <zynic> lach* leider, ja   wobei das eig nur die sp�te rache f�r den bildungsaufstieg ist
+[01:36:37] <joke`> wie verstrahlt und assozial muss man sein, um sowas zu machen? Da verbrennt man am anfang erstmal einen riesen haufen geld mit den ganzen studienanf�ngern und deren betreuung
+[01:36:47] <joke`> um danach dann das in den orkus zu schie�en
+[01:37:12] <zynic> elorie: hm, dann musst andere "freiwillige" finden ;)
+[01:37:38] <zynic> nja, das ist ne politische frage: will man mehr akademiker oder will man sie nicht
+[01:37:44] <elorie> zynic: ich habe zur auswahl: mich, mich und hmm mcih ;)
+[01:38:01] <zynic> wenn man sie will geht das nur 1. f�r sehr viel mehr geld oder 2. mit schlechterem niveau
+[01:38:41] <joke`> oder 3. man ihnen mehr zeit zugesteht
+[01:38:57] <zynic> was wiederum auf 1. hinausl�uft
+[01:39:02] ! lurtz has joined.
+[01:39:11] <joke`> in dem zusammenhang muss ich an die forderung der fs maschbau denken, die shcon zu diplomzeiten eine regelstudienzeit von 12 semestern forderre
+[01:39:20] <joke`> weil damals schon die meisten 12-14 brauchten
+[01:39:57] <joke`> sie meinten, dass ein sehr guter absolvent in12 semestern einen m��igen abschluss, der aber problemlos in 10 semestern zu schaffen ist, vorzuziehen w�re
+[01:40:43] <zynic> jo, da kommen wir dann zum problem, das man eben nicht alle studieng�nge �ber einen kamm scheren kann, das hat vorher nciht funktioniert und wird jetzt nicht besser
+[01:41:04] <Sonea> oh ein Droggl!
+[01:41:27] <joke`> jo eben
+[01:41:37] <Sonea> oder auch nciht mehr
+[01:41:49] <Sonea> krass was ihr alles geschribeen habt in der zeit wo ich ne mail geschrieben habe
+[01:41:57] <joke`> so interessant die diskussion ist (die thematik ist eines meiner lieblingsthemen), ich muss langsam mal pennen :)
+[01:42:17] <joke`> vor allem �ber wad
+[01:42:25] <joke`> einmal von wien �ber gendern nach bs und zur�ck
+[01:42:32] <joke`> -d +s
+[01:42:37] <joke`> gute nacht
+[01:42:49] <zynic> hehe    gute nacht
+[01:43:42] ! joke` has quit. (Quit: Verlassend)
+[01:52:28] <Sonea> hmm bin auch mal im bett
+[01:52:29] <Sonea> gute nacht
+[01:52:42] <zynic> nacht
+[01:52:49] ! Sonea has quit. (Quit: Leaving.)
+[02:10:00] ! lurtz has quit. (Remote host closed the connection)
+[02:41:59] ! nubix has quit. (Remote host closed the connection)
+[02:47:15] ! elorie has left the channel.
+[02:47:17] ! elorie has joined.
+[04:41:23] ! elorie1 has joined.
+[04:42:02] ! elorie has quit. (Ping timeout: 252 seconds)
+[04:42:19] <elorie1> !nom
+[04:42:20] <ZombiePoet> Mensa Katharinenstraße am Dienstag:
+[04:42:21] <ZombiePoet> A: Terrine Gärtnersuppe mit Nudeln 1,40€
+[04:42:22] <ZombiePoet> B: Hähnchenkeule “Hongkong” AT 1,50€
+[04:42:23] <ZombiePoet> C: Tortellini mit Fleischfüllung mit Tomatensauce 2,00€
+[04:42:24] <ZombiePoet> V: Kartoffelküchlein mit Balkankäsecreme 1,90€
+[04:42:25] <ZombiePoet> W: Lachspfanne mit Dillkartoffeln und Dip 3,10€
+[05:02:47] ! Cascharity has quit. (Quit: Verlassend)
+[07:16:16] ! zynic has quit. (Quit: Leaving)
+[07:22:30] ! moenni has joined.
+[08:22:58] ! elorie1 has quit. (Quit: Leaving.)
+[08:27:59] <DrMcCoy> Hmm, eloriechen um 5min verpasst :P
+[08:41:07] ! elorie has joined.
+[08:44:54] ! Silberwoelfin has joined.
+[08:45:26] <Silberwoelfin> *hatschi*
+[08:45:27] <Silberwoelfin> moin
+[08:46:31] <DrMcCoy> eloriechen!
+[08:46:32] <DrMcCoy> Silberwoelfin!
+[08:47:25] ! Phia has joined.
+[08:47:32] <DrMcCoy> Phia!
+[08:48:29] <elorie> DrMcCoy: :)
+[08:48:36] <elorie> Silberwoelfin: :/ gute besserung
+[08:50:47] <Phia> guten Morgen
+[08:50:56] <Phia> ist jemand schon auf dem Weg in den FG-Raum?
+[08:51:00] <Phia> Ich bin krank
+[08:51:06] <Phia> kann gar nicht mehr schlucken
+[08:51:15] <Phia> und fühl mich auch sonst nicht gut
+[08:51:33] <Phia> ergo, bin zum Getränke annehmen nicht wirklich zu gebrauchen
+[08:56:02] <Phia> es wäre also wirklich gut, wenn irgend jemand sich heute vormittag im FG-Raum aufhalten könnte. Dann einfach ans Telefon gehen und wenn es der Getränketyp ist, der sagt, dass er in ner Viertelstunde da ist, dann Stress im Channel machen und den Rollwagen von den Leuten nebenan holen
+[08:56:19] <Phia> elorie: arbeitest du vllt heute wieder im fgraum?
+[08:56:30] <Phia> elorie: könntest auch meinen schlüssel haben
+[08:56:40] <Phia> falls du noch keinen hast
+[08:58:43] ! jh has joined.
+[08:58:48] <elorie> Phia: bin in der agentur arbeiten
+[08:59:22] <Phia> serj: Wechner: kann von euch jemand heute vormittag im fg raum sein um auf den Getränketyp zu warten?
+[08:59:37] <jh> hi
+[08:59:43] <Phia> jh: hi
+[08:59:48] <serj> Phia: bin erst so 10.15 in der uni
+[08:59:54] <serj> oder 10.30
+[08:59:59] <serj> frueher schaff ich das nicht
+[09:00:28] <Phia> serj: na besser als nix
+[09:08:47] <Silberwoelfin> Phia: irgendwie sind grad recht viele leute krank... gute besserung
+[09:12:56] <elorie> Phia: oje gute besserung :/
+[09:13:06] <jh> Silberwoelfin: 13:05 mensa?
+[09:13:14] <elorie> Phia: Silberwoelfin in 2 wochen aber fit sein
+[09:13:27] <jh> elorie: in 11 tagen!
+[09:13:52] <Silberwoelfin> elorie: ich glaub nicht, dass ich 2 wochen lang schnupfen haben werde... hoffentlich
+[09:14:10] <jh> elorie, moenni, serj: auch 13:05 mensa?
+[09:14:15] <jh> afk duschen =)
+[09:22:25] <moenni> !nom
+[09:22:26] <ZombiePoet> Mensa Katharinenstraße am Dienstag:
+[09:22:27] <ZombiePoet> A: Terrine Gärtnersuppe mit Nudeln 1,40€
+[09:22:28] <ZombiePoet> B: Hähnchenkeule “Hongkong” AT 1,50€
+[09:22:29] <ZombiePoet> C: Tortellini mit Fleischfüllung mit Tomatensauce 2,00€
+[09:22:30] <ZombiePoet> V: Kartoffelküchlein mit Balkankäsecreme 1,90€
+[09:22:31] <ZombiePoet> W: Lachspfanne mit Dillkartoffeln und Dip 3,10€
+[09:22:42] <moenni> jh, kann man machen
+[09:24:27] <Silberwoelfin> jh: hab ja eh nichts anderes zu tun...
+[09:29:40] <Silberwoelfin> zweiter versuch, meinen SEP-Schein abzuholen...
+[09:29:57] ! Silberwoelfin has quit. (Quit: Verlassend)
+[09:34:42] <jh> "hab ja eh nichts anderes zu tun..." klingt nicht so motiviert O_o
+[09:40:05] ! Tigaa_home has joined.
+[09:43:28] ! PirateKing has joined.
+[10:15:00] <jh> -> uni
+[10:15:01] ! jh has quit. (Quit: jh)
+[10:19:24] ! Tigaa_home has left the channel.
+[10:38:47] ! rohieb has joined.
+[10:43:18] <rohieb> [2011-09-13 08:51:01] <Phia> Ich bin krank <-- oh, hat jh dich angesteckt? ^^
+[10:43:22] <rohieb> gute besserung euch allen...
+[10:51:34] ! winnie has joined.
+[10:51:36] <serj> rohieb, jh, nubix, Valodim. DooMMasteR, Wechner: der getraenke typ ist gleich da... brauchen hilfe :P
+[10:51:58] <rohieb> bin zuhause
+[10:52:13] <serj> rohieb: egal, hast 15 min zeit :D
+[10:52:28] <rohieb> nee, das schaff ich nicht
+[10:52:49] <winnie> serj: 15 < dist(Stadion, IZ)
+[10:53:07] <serj> oh scheisse, der ist grad angekommen...
+[10:53:16] <winnie> serj: 0 < dist(Stadion, IZ)
+[10:53:45] <winnie> rohieb, *: mensa?
+[10:53:51] <rohieb> jetzt?
+[10:53:58] <winnie> rohieb: ne, nach Duschen
+[10:53:59] ! nubix has joined.
+[10:54:04] <winnie> so... 12:30?
+[10:54:13] <rohieb> nubix: der getränketyp ist da und serj braucht hilfe
+[10:54:43] <rohieb> !nom
+[10:54:44] <ZombiePoet> Mensa Katharinenstraße am Dienstag:
+[10:54:45] <ZombiePoet> A: Terrine Gärtnersuppe mit Nudeln 1,40€
+[10:54:47] <ZombiePoet> B: Hähnchenkeule “Hongkong” AT 1,50€
+[10:54:47] <ZombiePoet> C: Tortellini mit Fleischfüllung mit Tomatensauce 2,00€
+[10:54:49] <ZombiePoet> V: Kartoffelküchlein mit Balkankäsecreme 1,90€
+[10:54:50] <ZombiePoet> W: Lachspfanne mit Dillkartoffeln und Dip 3,10€
+[10:54:51] <rohieb> hm
+[10:55:08] <winnie> oder $anderes Mittagessen
+[10:55:09] <rohieb> winnie: wollte eigentlich nicht in die uni heute
+[10:55:17] <winnie> hab noch Kartoffeln
+[10:55:20] <rohieb> ich auch
+[10:55:25] <rohieb> und pizza
+[10:55:25] <winnie> cool ^^
+[10:55:31] <winnie> dann machen wir Kartoffeln mit Kartoffeln?
+[10:55:38] <rohieb> aber keine lust, kreativ zu sein
+[10:55:41] <rohieb> hm
+[10:55:43] <winnie> zum Beispiel Bratkartoffeln mit Kartoffelsalat
+[10:55:44] <rohieb> und was dazu?
+[10:55:47] <rohieb> nee
+[10:55:56] <winnie> also... ich hab noch senf :-D
+[10:56:01] <winnie> und Eier
+[10:56:02] <rohieb> hm ich auch
+[10:56:07] <rohieb> die habe ich nicht
+[10:56:10] <rohieb> ich gema duschen
+[10:56:22] <nubix> wuah, wer highlightet mich denn so frueh?
+[10:56:29] <rohieb> ich
+[10:56:29] <winnie> rohieb: brat-k-toffeln mit Spiegelei würde gehn...
+[10:56:31] <rohieb> und serj
+[10:56:51] <rohieb> winnie: wenns k-toffeln gibt, gibts dann auch n-toffeln?
+[10:56:55] <nubix> rohieb: aber ich bin gerade etwa 100km weit weg, habe fieber und liege im bett
+[10:56:58] <winnie> nubix: manche Leute waren um so früh schon sportlich :-P
+[10:57:01] <nubix> rohieb: das istjetyt schlecht
+[10:57:03] <rohieb> ach gott, warum sind denn alle krank
+[10:57:07] <winnie> rohieb: das geht nur bis n-1
+[10:57:20] <winnie> fängt bei 0 an
+[10:57:31] <rohieb> 0-toffeln, aha
+[10:57:46] <winnie> ja, aber die machen nicht so satt
+[10:58:00] <winnie> ich dachte eher an 6-toffeln
+[10:58:58] <rohieb> ich hab noch 4-toffeln und 2-beln
+[10:59:38] <winnie> ok, dann können wir noch 2-toffeln und 3-Ei von mir dazu nehmen
+[10:59:50] <winnie> 2-bel hab ich auch
+[10:59:58] <winnie> oh
+[11:00:00] <winnie> und Spinat!
+[11:00:07] <rohieb> der ist bei mir schon alle
+[11:00:13] <rohieb> aber stäbchenfisch hab ich noch
+[11:00:21] <winnie> hab ich schon
+[11:00:35] <winnie> .... Ewigkeiten nicht mehr gegessen
+[11:00:40] <rohieb> ich auch nicht
+[11:00:43] <rohieb> und es sind 15 stück oder so
+[11:01:05] <winnie> dann 6-toffeln mit spinat, spiegelei und Stäbefisch?
+[11:01:58] ! der_eq has joined.
+[11:05:31] <DooMMasteR> moin
+[11:06:06] <der_eq> hi
+[11:08:23] <elorie> der_eq: :)
+[11:11:35] <rohieb> winnie: das ist aber viel zu essen
+[11:11:54] <winnie> rohieb: ich hab auch noch nicht gefrühstückt...
+[11:11:57] <winnie> ;-)
+[11:12:02] <rohieb> ich hab aber auch grad keinen hunger...
+[11:12:11] <winnie> und... wir können auch 1-2 Komponenten weglassen
+[11:12:20] <rohieb> also 4-toffeln stattdessen?
+[11:12:37] <rohieb>        <-- wtf?
+[11:12:40] <winnie> 4-toffeln mit Ei?
+[11:13:31] <winnie> naja
+[11:13:34] <winnie> ich mach erstmal Regen
+[11:16:20] <serj> so alles oben...
+[11:16:46] <serj> nubix: wo bist du eigentlich immer? du bist ja eigentlich zustaendig fuer getraenke
+[11:17:10] <nubix> serj: mit fieber im bett
+[11:17:30] <serj> nubix: jetzt stell dich mal nicht so an
+[11:17:43] <nubix> serj: aber eigentlich kann man doch ohne probleme mit dem rollwagen aus dem robotiklabor alles nach oben kriegen
+[11:18:08] <serj> nubix: haben den vom ibr genommen
+[11:18:17] <serj> war trotzdem ein aufwand...
+[11:18:34] <nubix> serj: ja i know :) aber danke
+[11:19:21] ! Silberwoelfin has joined.
+[11:19:30] <DrMcCoy> Silberwoelfin!
+[11:19:39] <Silberwoelfin> DrMcCoy!
+[11:20:57] <Silberwoelfin> winnie!
+[11:21:04] <Silberwoelfin> winnie: wir gehen 13:05 in die mensa
+[11:21:24] ! Silberwoelfin has quit. (Client Quit)
+[11:21:46] <nubix> serj: ausserdem, wieso immer? Ich wohne im FGraum!
+[11:22:12] <serj> nubix: ich weiss, dass du hier wohnst... und immer wenn getraenke kommen bist du weg :D
+[11:22:21] <serj> und schuernick und ich tragen alles alleine
+[11:22:36] <nubix> serj: alles reiner zufall :p
+[11:25:08] <rohieb> winnie: danach codingsession?
+[11:33:38] <winnie> rohieb: jo, könnwa machen... ich muss aber heute auch noch Projektarbeit machen, weil ab morgen Falten
+[11:33:53] <winnie> brb... Ubuntu
+[11:33:59] ! winnie has quit. (Read error: Connection reset by peer)
+[11:36:41] ! winnie has joined.
+[11:36:46] <winnie> re
+[11:36:56] ! moenni has quit. (Read error: Connection reset by peer)
+[11:37:10] <DooMMasteR> serj: das problem ist auch, dass das gebäude unten nicht eben ist
+[11:37:21] <DooMMasteR> man müsste durch den eingang im südosten rein
+[11:37:27] <DooMMasteR> da ist alles eben
+[11:44:00] <serj> DooMMasteR: hat schon geklappt mit dem wagen
+[11:44:07] <DooMMasteR> yo
+[11:44:15] <serj> der scheiss fahrstuhl hat dann gepiept
+[11:44:21] <serj> mussten paar kisten so tragen
+[11:58:59] ! csg has joined.
+[12:08:09] <rohieb> ood
+[12:08:18] <rohieb> -ood
+[12:08:24] <rohieb> dummes touchpad...
+[12:09:09] <winnie> object oriented denken?
+[12:11:00] <DooMMasteR> hmmm vllt wird das mal wieder weniger windig
+[12:11:09] <DooMMasteR> geht mir schon langsam aufn sack -.-
+[12:12:12] <winnie> wind fetzt!
+[12:14:56] ! moenni has joined.
+[12:16:54] ! lurtz has joined.
+[12:24:19] <DooMMasteR> winnie: hmm ja zum segeln
+[12:24:44] <winnie> DooMMasteR: auch zum im Garten in der Sonne liegen
+[12:24:57] <DooMMasteR> da isses mir egal :P
+[12:25:01] <winnie> ... oder zum Abl�hlen beim Joggen
+[12:25:06] <winnie> Abk�hlen
+[12:25:47] <DooMMasteR> 29km/h und 58km/h spitze
+[12:25:55] <DooMMasteR> das is schon deftig
+[12:26:12] ! rohieb has quit. (Ping timeout: 260 seconds)
+[12:26:52] <DooMMasteR> yeah, mein akku ist wieder bei 80%
+[12:38:22] <DooMMasteR> bahhhh basic++ http://pastebin.com/F4y0a2bk
+[12:38:23] <ZombiePoet> Title: [Basic4GL] DEFINE LIGHT PORT[16] 'Port der LCD-Hintergrundbeleuchtung DEFINE TEMP AS W - Pastebin.com (at pastebin.com)
+[12:39:59] ! winnie has quit. (Quit: wisu denn blus?)
+[12:43:49] <DooMMasteR> http://www.youtube.com/watch?v=8JmUkP8sdfc
+[12:43:51] <DooMMasteR> :P
+[12:43:51] <ZombiePoet> Title: Die Rolltreppe im Todesstern :-) - YouTube (at www.youtube.com)
+[12:45:13] ! elorie has quit. (Quit: Leaving.)
+[12:52:50] ! moenni has quit. (Read error: Connection reset by peer)
+[12:58:30] ! Peace-Maker has joined.
+[13:13:33] <nubix> Wieso kriege ICH eigentlich einen Anruf und werde gebeten fuer $Kumpel ein Auto zu knacken?
+[13:22:59] <lurtz> offensichtlich ist es bei dir nicht schlimm, wenn du erwischt wirst :P
+[13:24:05] ! Bowdzone has joined.
+[13:24:27] <nubix> lurtz: waere es sowieso nicht. ist schließlich sein auto ^^
+[13:24:39] <lurtz> ich bin dann mal weg
+[13:25:04] <nubix> lurtz: auto knacken?
+[13:25:15] <lurtz> auf jeden
+[13:25:22] ! lurtz has quit. (Remote host closed the connection)
+[13:50:25] ! rohieb has joined.
+[14:15:31] ! Silberwoelfin has joined.
+[14:15:45] <Silberwoelfin> hi
+[14:15:53] <nubix> hola Silberwoelfin
+[14:19:22] <rohieb> fgwoelfin!
+[14:21:00] <Silberwoelfin> rohieb!
+[14:27:26] ! nubix has quit. (Quit: Leaving.)
+[14:31:01] <Silberwoelfin> \o/
+[14:36:40] <rohieb> nubix weg => \o/ ?
+[14:38:36] <Silberwoelfin> rohieb: das war jh, der sich an meinem notebook vergriffen hat
+[14:38:59] <rohieb> jh, du notebookvergewaltiger
+[14:42:19] <Silberwoelfin> meh, lovefilm schickt mir schon zum dritten mal den einen hochpriorisierten film nicht, ohne dass da ne begr�ndung wie "grade nicht verf�gbar" oder irgendwas stehen w�rde :/
+[14:44:50] <rohieb> die mögen dich bestimmt nicht
+[14:52:40] ! Bowdzone has quit. (Read error: Connection reset by peer)
+[14:58:27] ! nubix has joined.
+[14:58:27] ! nubix has quit. (Changing host)
+[14:58:27] ! nubix has joined.
+[15:05:50] <rohieb> oh, was war das? hashier kommt heut?
+[15:07:24] ! csg has quit. (Ping timeout: 240 seconds)
+[15:16:35] ! Cascharity has joined.
+[15:27:02] <rohieb> wooohoo Cascharity \o/
+[15:41:21] <rohieb> achja.
+[15:41:35] <rohieb> http://zeichnemit.de/ <-- 35513 Bürger haben die Petition schon mitgezeichnet. übrigens
+[15:41:37] <ZombiePoet> Title: Petition gegen Vorratsdatenspeicherung - zeichne mit! (at zeichnemit.de)
+[15:46:43] ! nubix has quit. (Ping timeout: 260 seconds)
+[15:47:44] ! nubix has joined.
+[15:52:43] ! nubix1 has joined.
+[15:52:44] ! nubix1 has quit. (Changing host)
+[15:52:44] ! nubix1 has joined.
+[15:55:10] ! nubix has quit. (Ping timeout: 260 seconds)
+[15:56:16] ! nubix has joined.
+[15:57:13] ! nubix1 has quit. (Ping timeout: 260 seconds)
+[15:58:16] <rohieb> nubix, du joinspammer
+[15:58:54] ! PirateKing has quit. (Quit: Leaving.)
+[15:59:45] ! nubix1 has joined.
+[15:59:51] ! nubix1 has quit. (Changing host)
+[15:59:51] ! nubix1 has joined.
+[16:01:42] ! nubix has quit. (Ping timeout: 258 seconds)
+[16:02:46] ! PirateKing has joined.
+[16:04:36] <Cascharity> rohieb: wooohoo?
+[16:04:43] <rohieb> ja
+[16:04:50] <rohieb> ich seh dich so selten in letzter zeit
+[16:05:01] <rohieb> darum frue ich mich, dass du hier bist :)
+[16:20:38] ! joke` has joined.
+[16:20:59] <joke`> !mensa abend
+[16:20:59] <ZombiePoet> Abendmensa Katharinenstraße am Dienstag:
+[16:21:00] <ZombiePoet> A: Terrine Gärtnersuppe mit Nudeln 1,40€
+[16:21:01] <ZombiePoet> B: Gemüsemaultaschen mit Lauchsauce 1,50€
+[16:21:02] <ZombiePoet> C: Schweinegulasch AT mit Parpika 1,80€
+[16:21:03] <ZombiePoet> W: 1/2 Brathähnchen 1,90€
+[16:21:56] <rohieb> ipv6joke`
+[16:21:57] <rohieb> !
+[16:22:16] <rohieb> hm, ist der mit protolol verwandt? ^^
+[16:43:52] ! der_eq has quit. (Remote host closed the connection)
+[16:44:35] ! lurtz has joined.
+[16:55:06] ! nubix has joined.
+[16:55:06] ! nubix has quit. (Changing host)
+[16:55:06] ! nubix has joined.
+[16:55:29] ! Silberwoelfin has quit. (Quit: Verlassend)
+[16:56:15] ! nubix1 has quit. (Remote host closed the connection)
+[16:56:53] ! Tigaa_home has joined.
+[16:58:18] ! Tigaa_laptop has joined.
+[16:58:20] ! lurtz has quit. (Remote host closed the connection)
+[16:58:50] ! Tigaa_laptop has left the channel.
+[16:59:06] ! lurtz has joined.
+[17:01:59] ! der_eq has joined.
+[17:10:17] ! PirateKing has quit. (Quit: Leaving.)
+[17:20:09] ! Tigaa_laptop has joined.
+[17:32:16] ! jh has joined.
+[17:32:44] <rohieb> jh! \ø/
+[17:34:23] ! Silberwoelfin has joined.
+[17:34:34] <rohieb> Silberwoelfin! \ø/
+[17:35:03] <jh> hi
+[17:35:26] <Silberwoelfin> muhahaha
+[17:35:32] * Silberwoelfin haz thinkpad
+[17:36:04] <rohieb> thinkpad?
+[17:36:12] <rohieb> jh du böser thinkpadentführer
+[17:37:32] <Silberwoelfin> rohieb: \o/
+[17:38:49] ! PirateKing has joined.
+[17:46:26] ! Tigaa_home has left the channel.
+[17:48:42] ! moenni has joined.
+[17:51:46] ! winnie has joined.
+[17:52:10] <winnie> der_eq: warst/bist du in der Beigl oder der Wolf IBR Gruppe?
+[17:53:22] <winnie> bzw.
+[17:53:34] <winnie> kennt hier jemand INGA?
+[17:53:48] <winnie> http://www.ibr.cs.tu-bs.de/projects/inga/
+[17:53:50] <ZombiePoet> Title: INGA - Inexpensive Node for Genreal Applications - Ein kosteng�nstiger Sensorknoten f�r allgemeine Anwendungen (at www.ibr.cs.tu-bs.de)
+[18:00:04] <rohieb> !google genreal
+[18:00:06] <ZombiePoet> rohieb: General-Anzeiger Bonn: <http://www.general-anzeiger-bonn.de/>; Genreal Information: Publications: <http://capetown.quaker.org/report01/gi.htm>; [4.+5. Gen] Real or Cheat (Startpost lesen! - Neue Regelung ...: <http://www.bisaboard.de/board12-pok%C3%A9mon/board202-pok%C3%A9mon_tauschbasar/171862-real_or_cheat_startpost_lesen_neue_regelung/>; Dissapointed in SSC and Sapphire in genreal | (2 more messages)
+[18:03:52] ! Peace-Maker has quit. (Quit: get satisfied!  :: core-networks.de ««« (Gamers.IRC) »»» gamersirc.net ::)
+[18:21:06] ! Sonea has joined.
+[18:29:38] ! elorie has joined.
+[18:34:15] ! nubix has quit. (Quit: Leaving.)
+[18:35:02] ! nubix has joined.
+[18:35:02] ! nubix has quit. (Changing host)
+[18:35:02] ! nubix has joined.
+[18:38:20] ! lurtz has quit. (Remote host closed the connection)
+[18:43:16] <rohieb> Sonea! elorie!
+[18:43:58] ! moenni1 has joined.
+[18:44:03] ! moenni has quit. (Ping timeout: 260 seconds)
+[18:46:29] ! moenni has joined.
+[18:48:27] ! moenni1 has quit. (Ping timeout: 258 seconds)
+[18:49:05] ! moenni1 has joined.
+[18:51:02] ! moenni has quit. (Ping timeout: 276 seconds)
+[18:53:26] ! moenni1 has quit. (Ping timeout: 258 seconds)
+[18:56:39] ! moenni has joined.
+[18:58:57] <jh> rohieb! Sonea! elorie!
+[18:59:21] <winnie> jh! rohieb! Sonea! elorie!
+[18:59:24] ! rohieb has quit. (Ping timeout: 240 seconds)
+[19:00:30] <DrMcCoy> winnie! jh! Sonea! elorie!
+[19:02:38] ! moenni has quit. (Ping timeout: 258 seconds)
+[19:02:55] ! winnie has quit. (Quit: wisu denn blus?)
+[19:03:42] ! moenni has joined.
+[19:04:02] <Sonea> jh! rohieb!
+[19:04:11] <Sonea> hmm nee der zweite ist weg
+[19:07:30] ! moenni1 has joined.
+[19:10:32] ! moenni has quit. (Ping timeout: 276 seconds)
+[19:13:53] ! moenni1 has quit. (Read error: Connection reset by peer)
+[19:39:15] <Silberwoelfin> Sonea!
+[19:44:11] ! Tigaa_laptop has quit. (Quit: Leaving.)
+[19:52:47] ! Bowdzone has joined.
+[19:59:10] ! Silberwoelfin has quit. (Quit: Verlassend)
+[20:06:39] <DooMMasteR> jh: MI?
+[20:08:47] <Sonea> mi? am dienstag?
+[20:09:49] <elorie> hallo komische hilighter
+[20:09:56] <Sonea> elorie!
+[20:10:23] <elorie> Sonea: :)
+[20:10:51] <elorie> Sonea: ob man fuer die ersties eine channelnesttour mit in die stadt/kneipen/campustour einbinden sollte ^^
+[20:27:57] ! rohieb has joined.
+[20:27:58] <Sonea> so nach hause
+[20:28:01] ! Sonea has left the channel.
+[20:28:33] <DrMcCoy> !tell Silberwoelfin elorie meint, ich soll dir ganz viele böse Dinge ins Gesicht sagen
+[20:28:34] <ZombiePoet> DrMcCoy: Ok.
+[20:29:15] <elorie> DrMcCoy: WTF
+[20:29:19] <DrMcCoy> :D
+[20:29:54] <DrMcCoy> elorie: Tut mir leid, aber da konnte ich mich gerade nicht beherrschen :P
+[20:29:58] <rohieb> O_o
+[20:30:15] <rohieb> was hat sie denn angestellt?
+[20:30:24] <DrMcCoy> Nichts :P
+[20:31:00] <rohieb> und dafür kriegt man ganz viele böse Dinge ins Gesicht gesagt?
+[20:31:19] <rohieb> wenns danach ginge, wäre ich schon so klein, dass ich in ein mauseloch passen würde
+[20:33:44] <DrMcCoy> !tell Silberwoelfin Ne, Spaß, wir haben dich natürlich alle lieb *knuddel*
+[20:33:44] <ZombiePoet> DrMcCoy: Ok.
+[20:33:46] <DrMcCoy> elorie: Besser? :P
+[20:33:59] <rohieb> ich nicht
+[20:34:31] <DrMcCoy> rohieb: :(
+[20:34:35] <jh> DooMMasteR: öh, heute? nee
+[20:34:46] <rohieb> was?
+[20:34:48] <rohieb> oh
+[20:34:51] <rohieb> verdammt, falscher tab
+[20:34:54] <rohieb> streich das!
+[20:35:05] <jh> DrMcCoy: was sollst du silberwoelfin sagen?
+[20:37:15] ! jh is now known as Tempwoelfin
+[20:39:06] ! ShadniX has quit. (Quit: Verlassend)
+[20:39:32] ! ShadniX has joined.
+[20:41:08] <elorie> DrMcCoy: ja\
+[20:43:07] <rohieb> jh, was hast du da leckeres?
+[20:43:33] <Tempwoelfin> rohieb: Blätterteigschnecken
+[20:43:44] <Tempwoelfin> so mit Schinken und Käse
+[20:45:07] ! Tempwoelfin is now known as jh
+[20:49:18] <rohieb> nom
+[20:50:07] <elorie> jh: die erinnern an pizzabroetchen
+[21:18:07] <jh> jo
+[21:18:09] ! nubix has quit. (Remote host closed the connection)
+[21:21:16] ! elorie has quit. (Quit: Leaving.)
+[21:26:55] ! PirateKing has quit. (Read error: Connection reset by peer)
+[21:48:17] ! PirateKing has joined.
+[21:53:34] ! der_eq has quit. (Remote host closed the connection)
+[21:56:09] ! joke` has quit. (Ping timeout: 260 seconds)
+[22:06:55] ! Phia has quit. (Quit: Leaving.)
+[22:15:33] ! Silberwoelfin has joined.
+[22:16:07] <Silberwoelfin> re
+[22:16:08] <ZombiePoet> Silberwoelfin: Sent 1 hour and 47 minutes ago: <DrMcCoy> elorie meint, ich soll dir ganz viele böse Dinge ins Gesicht sagen
+[22:16:09] <ZombiePoet> Silberwoelfin: Sent 1 hour and 42 minutes ago: <DrMcCoy> Ne, Spaß, wir haben dich natürlich alle lieb *knuddel*
+[22:18:23] <DrMcCoy> Silberwoelfin!
+[22:18:30] <rohieb> DrMcCoy!
+[22:18:33] <DrMcCoy> rohieb!
+[22:18:37] <Silberwoelfin> DrMcCoy!
+[22:18:39] <Silberwoelfin> rohieb!
+[22:19:44] <jh> PirateKing!
+[22:19:55] <PirateKing> jh: ja?
+[22:20:05] <jh> PirateKing: falsch :(
+[22:21:40] <DrMcCoy> FailKing
+[22:24:58] <Silberwoelfin> gute nacht
+[22:25:13] ! Silberwoelfin has quit. (Quit: Verlassend)
+[23:00:20] ! elorie has joined.
+[23:00:26] <rohieb> huhu elorie :)
+[23:01:19] <jh> huhu elorie :)
+[23:01:27] <rohieb> du nachmacher
+[23:01:28] <DrMcCoy> huhu eloriechen :)
+[23:01:50] <elorie> hallo ihr 3-chen
+[23:02:08] <rohieb> bin ich jetzt auch ein chen?
+[23:02:44] <rohieb> oder sind wir das nur in kombination zusammen?
+[23:03:58] <elorie> nur in kombi
+[23:04:00] <elorie> hmpf kalt
+[23:04:44] <rohieb> :(
+[23:04:51] <rohieb> elorie: ich könnte dich wärmen
+[23:05:00] <rohieb> aber wenn ich nur in kombination ein -chen bin, dann lasse ich das lieber
+[23:05:02] <elorie> rohieb: be hab ne decke
+[23:05:03] * DrMcCoy gibt eloriechen eine Decke und warmen ee :)
+[23:05:44] ! Bowdzone has quit. (Quit: Bowdzone)
+[23:12:10] ! PirateKing has quit. (Quit: Leaving.)
+[23:13:57] ! PirateKing has joined.
+[23:18:35] <rohieb> stellt euch vor, eine welt, in der es keine hypothetischen situationen gäbe...
+[23:19:04] <elorie> rohieb: ...
+[23:19:33] <elorie> und hmm maenner sind einfach zu simpel um von unserer komplexen logik verstanden zu werden, wir vermuten eine falle
+[23:19:51] <DrMcCoy> o_O
+[23:20:02] <DrMcCoy> Ihr Menschen habt doch alle einen an der Klatsche.
+[23:20:03] <rohieb> pff
+[23:20:08] <rohieb> wir ticken genau so wie ihr frauen
+[23:20:18] <rohieb> aber ihr versucht da immer, was anderes rauszulesen
+[23:23:03] <elorie> DrMcCoy: und du bist kein mensch?
+[23:23:41] <DrMcCoy> Naja, manchmal wünschte ich das
+[23:23:55] <DrMcCoy> Wenn ihr da mit euren plöden Dramen kommt, dann will ich nichts mit euch zu tun haben
+[23:24:30] <elorie> DrMcCoy: dramen? wo?
+[23:25:01] <DrMcCoy> Überall
+[23:27:26] <DrMcCoy> Und wenn dann Wechner mit seinem pseudo-Emo-Mist kommt, oder Silberwoelfins ach so tiefgründiger Tweet dann komm ich mit dem Augenrollen gar nicht nach
+[23:28:05] <rohieb> du bist aus freien stücken hier
+[23:28:39] <elorie> DrMcCoy: o.O
+[23:29:04] <DrMcCoy> rohieb: Da gibt's kein entkommen, das ist überall das gleiche
+[23:29:48] <rohieb> tja, dann musst du dich wohl damit abfinden
+[23:32:11] <DrMcCoy> elorie: Naja, wenn ich son Blödsinn halt lese, "Wer versteht schon Männer/Frauen", da habe ich das Verlangen, der Quelle "Werd erwachsen" ins Gesicht zu brüllen
+[23:33:10] <rohieb> du meinst, erwachsene haben solche probleme nicht?
+[23:33:59] <DrMcCoy> Nur die Idioten.
+[23:34:09] <DrMcCoy> I.e. nur 95%
+[23:34:20] <rohieb> pff
+[23:34:22] <rohieb> ja
+[23:34:50] <rohieb> sorry, aber wenn du das denkst, bist du es meiner meinung nicht wert, dass man sich mit dir abgibt
+[23:35:31] <DrMcCoy> *shrug*
+[23:35:57] <DrMcCoy> Weniger Idioten in meinem Leben. Win-Win
+[23:38:11] <rohieb> ja
+[23:38:11] <rohieb> n8
+[23:38:15] ! rohieb has left the channel. ("Leaving")
+[23:38:52] <jh> du hast rohieb verscheucht
+[23:39:25] <DrMcCoy> Dann hab ich heute wenigstens etwas erreicht
+[23:39:33] <elorie> DrMcCoy: o.O
+[23:43:11] <elorie> DrMcCoy: was ist denn bei dir los?
+[23:48:59] <DrMcCoy> elorie: Meh.
+[23:49:10] <elorie> DrMcCoy: und meh in ausfuehrlich?
+[23:49:36] <DrMcCoy> Meh meh moo
+[23:52:13] <elorie> hmm :/
+[23:52:33] <DrMcCoy> elorie: Ne, mich frustriert sowas halt nur
+[23:56:41] <elorie> hmmm doof

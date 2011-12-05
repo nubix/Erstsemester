@@ -1,0 +1,565 @@
+[00:10:26] ! elorie2 has quit. (Quit: Leaving.)
+[00:16:41] ! soney has quit. (Quit: Leaving.)
+[00:17:07] ! Debi has quit. (Quit: Verlassend)
+[00:41:45] ! rohieb has quit. (Ping timeout: 260 seconds)
+[00:55:04] ! nubix has quit. (Quit: Leaving.)
+[01:04:47] ! nubix has joined.
+[01:04:53] ! nubix has quit. (Client Quit)
+[01:09:25] ! ES has quit. (Quit: The cake is a lie!)
+[01:30:45] ! lurtz has quit. (Quit: Leaving.)
+[02:29:12] ! Moenni_Mo has joined.
+[02:33:12] <Moenni_Mo> !seen Caschar*
+[02:33:13] <ZombiePoet> Moenni_Mo: Caschar* could be Cascharity (2 days, 12 hours, 33 minutes, and 12 seconds ago), Cascharity_ (2 weeks, 5 days, 1 hour, 30 minutes, and 12 seconds ago), Cascharity__ (1 year, 1 week, 4 days, 2 hours, 5 minutes, and 20 seconds ago), Caschar1ty (1 year, 21 weeks, 4 days, 10 hours, 31 minutes, and 16 seconds ago), or Cascharity2 (1 year, 33 weeks, 3 days, 16 hours, 4 minutes, and 50 seconds (1 more message)
+[04:39:43] ! Moenni_Mo has quit. (Quit: Leaving.)
+[06:57:42] ! Cascharity has joined.
+[07:26:00] ! Cascharity has quit. (Read error: Connection reset by peer)
+[07:29:30] ! nubix has joined.
+[07:30:48] ! nubix has quit. (Client Quit)
+[07:34:29] ! nubix has joined.
+[07:34:31] ! nubix has quit. (Client Quit)
+[07:35:25] ! elorie has joined.
+[07:46:31] ! nubix has joined.
+[07:47:41] ! nubix has quit. (Client Quit)
+[07:54:25] ! nubix has joined.
+[08:02:41] ! nubix has quit. (Quit: Leaving.)
+[08:06:16] ! nubix has joined.
+[08:13:31] ! nubix has quit. (Quit: Leaving.)
+[08:16:35] ! nubix has joined.
+[08:17:04] ! jh has joined.
+[08:18:43] <jh> nabend
+[08:19:08] ! Phia has joined.
+[08:19:36] <elorie> moin jh
+[08:19:50] <jh> hi elorie & Phia
+[08:20:56] ! elorie has quit. (Quit: Leaving.)
+[08:24:16] ! Mobiwoelfin has joined.
+[08:24:27] <Mobiwoelfin> moin
+[08:26:31] <Mobiwoelfin> meh, Kopfhörer vergessen :(
+[08:33:12] ! Mobiwoelfin has quit. (Ping timeout: 240 seconds)
+[08:37:09] ! Mobiwoelfin has joined.
+[08:38:31] <jh> hi Mobiwoelfin
+[08:38:58] ! elorie has joined.
+[08:39:19] <jh> elorie: und wer ist der htp-host?
+[08:41:12] ! Mobiwoelfin has quit. (Ping timeout: 240 seconds)
+[08:42:15] ! Tigaa_laptop has joined.
+[08:46:05] ! Mobiwoelfin has joined.
+[08:46:06] <elorie> jh: hihi
+[08:46:48] <jh> elorie: hihi kenn ich nicht
+[08:47:11] <elorie> :p
+[08:47:25] <elorie> jh: ich bin gerade im peonmodus "arbeit arbeit" hilft dir das?
+[08:47:48] <jh> ein hubschrauber!
+[08:47:52] <jh> voll tief
+[08:48:01] <jh> elorie: ah dein agentur dings?
+[08:49:13] <elorie> jo
+[08:54:20] <nubix> irgendwie schreibt hier jeder mit, das macht mich total nervoes o.0
+[08:55:46] <Mobiwoelfin> jh: hunger!
+[08:56:06] <Mobiwoelfin> nubix: welche vl?
+[08:56:13] <jh> Mobiwoelfin: hätte schokomüsli... sosnt nicht so viel
+[08:56:14] <nubix> techinf 1
+[08:56:18] <jh> nubix: schreib halt auch mit?
+[08:56:24] <jh> so macht man das als motivierter ersti
+[08:56:28] <jh> zweiti
+[08:56:31] <jh> whateveri
+[08:56:48] <nubix> jh: ich mache aber gerade die latexbhausaufgaben fuer den rest des semesters ^^
+[08:58:04] <jh> nubix: die sind schon bekannt?
+[08:58:31] <nubix> jh:  lt. joke und rainor sinds wohl die gleichen wie letztes semester
+[08:58:31] <Mobiwoelfin> nubix: techinf I brauchste nicht mitzuschreiben, da reichen die übungen völlig aus
+[08:58:39] ! PirateKing has joined.
+[08:58:45] <nubix> Mobiwoelfin: davon gehe ich auch mal aus, das ist trotzdem eigenartig
+[08:58:52] <jh> nubix: gibt bestimmt suprise-änderungen :P
+[08:59:05] <nubix> jh:  wenn dann aber wohl nur im detail... i hop
+[08:59:06] <nubix> e
+[08:59:23] <jh> ^^
+[08:59:36] <jh> +r
+[09:04:28] <nubix> ich krieg hier ne latexkrise
+[09:05:35] ! Mobiwoelfin has quit. (Ping timeout: 248 seconds)
+[09:05:52] <nubix> ich mache ein \begin{align} ... \end{align} und er sagt mir er kennt kein \end{align}
+[09:06:23] <jh> dann ist irgendwo dazwischen was falsch
+[09:06:30] <jh> latex -fehlermeldungen sind sinnlos
+[09:06:47] <jh> die sagen meist nur "irgendwas falsch".... die angegebene quelle hat nicht unbedingt was mit dem fehler zu tun
+[09:08:08] <nubix> jh: ah, ich dachte ich hab alles darin gefixt, aber ich habe bei \mathfrak das r vergessen :/
+[09:08:14] <nubix> thx jh
+[09:08:38] <jh> np^^
+[09:08:44] ! ES has joined.
+[09:08:59] <ES> !mensa
+[09:08:59] <ZombiePoet> Mensa Katharinenstraße am Montag:
+[09:09:00] <ZombiePoet> A: Terrine Soljanka 1,40€
+[09:09:01] <ZombiePoet> B: Wirsingroulade mit Kümmelsauce 1,50€
+[09:09:02] <ZombiePoet> C: Hähnchennuggets mit kaltem Chilidip 1,90€
+[09:09:03] <ZombiePoet> V: Mozzarella-Sticks 1,90€
+[09:09:05] <ZombiePoet> W: gebratener Leberkäse mit Zwiebelsauce und Kräuterpüree 3,10€
+[09:09:16] <jh> ES: mensa 9:15?
+[09:09:19] ! Mobiwoelfin has joined.
+[09:09:29] <ES> !slap jh
+[09:09:29] * ZombiePoet beats jh but fails at it
+[09:09:30] <jh> wb Mobiwoelfin
+[09:09:33] ! soney has joined.
+[09:09:52] <jh> ES: aua :(
+[09:10:30] ! Moenni_Mo has joined.
+[09:12:44] <jh> guten morgen soney und Mobiwoelfin
+[09:12:46] <jh> äh
+[09:12:51] <jh> guten morgen Moenni_Mo
+[09:13:10] <Moenni_Mo> moin jh
+[09:15:13] <soney> moin jh
+[09:15:15] <ZombiePoet> soney: Sent 3 days, 11 hours, and 37 minutes ago: <jh-mobil> du bist nicht da :(
+[09:15:16] <ZombiePoet> soney: Sent 3 days, 10 hours, and 47 minutes ago: <jh> du bist ja doof!
+[09:15:17] <ZombiePoet> soney: Sent 3 days, 10 hours, and 45 minutes ago: <jh> weil du um 23 uhr nicht hier warst :(
+[09:16:15] ! soney has quit. (Remote host closed the connection)
+[09:16:29] ! soney has joined.
+[09:16:39] <jh> mh, soney, das war nicht an dich, das war an Son-ea
+[09:17:15] ! soney has quit. (Client Quit)
+[09:20:57] ! nubix has quit. (Quit: Leaving.)
+[09:24:08] ! Tigaa_laptop has quit. (Ping timeout: 252 seconds)
+[09:34:10] ! soney has joined.
+[09:39:52] ! nubix has joined.
+[09:46:49] ! Moenni_Mo has quit. (Quit: Leaving.)
+[09:49:57] ! Tigaa_laptop has joined.
+[10:11:40] ! lurtz has joined.
+[10:21:20] <nubix> Frage gestellt bekommen: »Wenn eine Vorlesung einmal nicht stattfindet, woran merkt man es?«
+[10:21:36] <nubix> Meine Antwort: »Das der Dozent nicht da ist.«
+[10:21:46] <nubix> Ich glaube das hat ihm gereicht als antwort o.0
+[10:41:14] ! soney has quit. (Quit: Leaving.)
+[10:41:38] <jh> nubix: is doch auch vollkommen korrekt :D
+[10:43:51] ! soney has joined.
+[10:52:15] ! soney has quit. (Quit: Leaving.)
+[10:55:01] <jh> mensavorschlag 13:15
+[11:05:15] <nubix> jh: Ja, aber darauf sollte so gut wie jeder selbst kommen
+[11:06:10] ! Tigaa_laptop has quit. (Read error: Connection reset by peer)
+[11:07:03] ! Tigaa_laptop has joined.
+[11:07:03] ! Tigaa_laptop has quit. (Read error: Connection reset by peer)
+[11:09:12] ! Mobiwoelfin has quit. (Ping timeout: 240 seconds)
+[11:10:05] ! Mobiwoelfin has joined.
+[11:10:30] ! ES has quit. (Quit: The cake is a lie!)
+[11:10:32] ! Tigaa_laptop has joined.
+[11:10:33] ! Tigaa_laptop has quit. (Read error: Connection reset by peer)
+[11:12:40] ! Tigaa_laptop has joined.
+[11:16:53] ! joke` has joined.
+[11:26:30] ! Tigaa_laptop has quit. (Ping timeout: 255 seconds)
+[11:26:46] ! nubix has quit. (Quit: Leaving.)
+[11:31:06] ! lurtz has quit. (Quit: Leaving.)
+[11:36:24] ! Mobiwoelfin has quit. (Ping timeout: 240 seconds)
+[11:40:32] ! nubix has joined.
+[11:40:35] ! nubix has quit. (Changing host)
+[11:40:35] ! nubix has joined.
+[11:41:13] ! ShadniX_ has joined.
+[11:41:43] ! Mobiwoelfin has joined.
+[11:42:58] ! ShadniX has quit. (Ping timeout: 258 seconds)
+[11:43:36] ! ES has joined.
+[11:43:57] ! joke` has quit. (Remote host closed the connection)
+[11:44:20] ! Tigaa_laptop has joined.
+[11:46:14] <ES> !mensa abend
+[11:46:14] <ZombiePoet> Abendmensa Katharinenstraße am Montag:
+[11:46:15] <ZombiePoet> A: Terrine Soljanka 1,40€
+[11:46:16] <ZombiePoet> B: Kartoffelküchlein mit Apfelmus 1,80€
+[11:46:17] <ZombiePoet> C: Gyros mit Zwiebeln AT 1,90€
+[11:46:18] <ZombiePoet> W: 1/2 Brathähnchen 1,90€
+[12:16:46] <nubix> ach noe, irgendjemand hat marten gefragt ob er das script nicht auch digitial verteilen moechte
+[12:17:16] <jh> und wurde derjenige rausgeworfen? :P
+[12:17:34] <ES> oder gleich hingerichtet? ^^
+[12:17:40] <nubix> nein, aber das ist immer einer dieser momente in denen ich schreien will »NEIN FRAG IHN NICHT«
+[12:17:49] <nubix> er redet ja nun schon seit 10 minuten ^^
+[12:18:26] <ES> nubix: frag ihn mal bei gelegenheit: " Ist das das selbe x das wir immer verwenden?"
+[12:18:56] <nubix> Es, ich glaube ich will mich hier nicht vor der gesamten vorlesung zum affen machen :)
+[12:19:39] <nubix> wie war seine reaktion?
+[12:19:59] <ES> was variablen sind und so
+[12:20:13] <ES> und ich glaub, sie hats trotzdem nicht wirklich gerafft
+[12:21:03] <Mobiwoelfin> ES: dann sollte sie nochmal zurück in die siebte Klasse...
+[12:21:14] <nubix> aua
+[12:21:25] <nubix> just4fun koennte ich das eigentlich mal machen
+[12:21:31] <ES> wahrscheinlich, hab sie nach dem 1. semester auch nicht mehr gesehen
+[12:21:33] <nubix> aber erst nachdem ich mich in die uebung eingetragen habe
+[12:22:19] <nubix> ES: oder so ^^
+[12:22:27] <nubix> ES: das mache ich dann in analysis
+[12:22:35] <nubix> dann muss ich nur bis zum sommersemester warten
+[12:24:12] <nubix> o.0
+[12:29:05] <jh> Fleischerhaken sind auch gut
+[12:29:50] <jh> mh, mein therometer sagt 23°C draußen
+[12:29:52] <jh> sommer is back!
+[12:30:21] <ES> jh: badehose raus und an innen see schwimmen
+[12:30:27] <jh> Mobiwoelfin: nachher vielleicht Milleniumsberg-Cache?
+[12:30:39] <jh> Mobiwoelfin: bzw. wann willst du nach hause?
+[12:30:46] <jh> ES: nee
+[12:30:55] <ES> jh: pussy
+[12:31:01] <jh> ES: miau.
+[12:31:12] <ES> argh
+[12:31:34] <Mobiwoelfin> jh: ja
+[12:31:57] <Mobiwoelfin> jh: weiß noch nicht, wann ich nach hause will
+[12:42:08] ! lurtz has joined.
+[12:46:00] ! elorie has quit. (Ping timeout: 240 seconds)
+[12:56:52] ! nubix has quit. (Quit: Leaving.)
+[12:57:52] ! nubix has joined.
+[13:01:51] <jh> noch jemand gleich mensa?
+[13:02:12] ! nubix1 has joined.
+[13:02:19] ! nubix has quit. (Ping timeout: 258 seconds)
+[13:03:45] ! nubix1 has quit. (Client Quit)
+[13:06:39] ! Mobiwoelfin has quit. (Ping timeout: 248 seconds)
+[13:07:31] ! jh has quit. (Quit: jh)
+[13:07:36] ! nubix1 has joined.
+[13:07:40] ! nubix1 has quit. (Client Quit)
+[13:09:50] ! lurtz has quit. (Quit: Leaving.)
+[13:12:54] ! nubix has joined.
+[13:18:44] ! nubix has quit. (Quit: Leaving.)
+[13:25:59] ! nubix has joined.
+[13:26:46] ! nubix is now known as Guest32360
+[13:31:08] ! Guest32360 has quit. (Quit: Leaving.)
+[13:37:25] ! Phia has quit. (Ping timeout: 260 seconds)
+[13:50:01] ! conqueror12 has joined.
+[13:51:21] ! jh has joined.
+[13:52:13] ! Phia has joined.
+[13:52:24] ! elo-mobil has joined.
+[13:52:28] <elo-mobil> !nom
+[13:52:28] <ZombiePoet> Mensa Katharinenstraße am Montag:
+[13:52:29] <ZombiePoet> A: Terrine Soljanka 1,40€
+[13:52:30] <ZombiePoet> B: Wirsingroulade mit Kümmelsauce 1,50€
+[13:52:31] <ZombiePoet> C: Hähnchennuggets mit kaltem Chilidip 1,90€
+[13:52:32] <ZombiePoet> V: Mozzarella-Sticks 1,90€
+[13:52:33] <ZombiePoet> W: gebratener Leberkäse mit Zwiebelsauce und Kräuterpüree 3,10€
+[13:52:45] <jh> morgen
+[13:52:53] <elo-mobil> mittag
+[13:53:35] ! elo-mobil has quit. (Client Quit)
+[13:55:44] <jh> gar nicht
+[13:58:38] ! Silberwoelfin has joined.
+[13:58:48] <Silberwoelfin> hi
+[13:59:11] <jh> hi Silberwoelfin
+[14:10:56] ! ES has quit. (Quit: The cake is a lie!)
+[14:17:43] ! elorie has joined.
+[14:27:12] ! elorie1 has joined.
+[14:29:08] ! elorie has quit. (Ping timeout: 245 seconds)
+[14:30:43] ! Cascharity has joined.
+[14:35:16] ! Cascharity has quit. (Ping timeout: 258 seconds)
+[14:38:34] ! rohieb has joined.
+[14:38:58] <jh> rohieb: lust auf http://www.geocaching.com/bookmarks/view.aspx?guid=3a6d8424-5e97-4df6-8a8f-139da5f6d028 ab ca. 16:30?
+[14:38:59] <ZombiePoet> Title: Geocaching > Bookmark Lists > richtungmilleniumberg (at www.geocaching.com)
+[14:39:13] <jh> mit ziel sonnenuntergang vom milleniumsberg
+[14:39:28] <jh> äh
+[14:39:32] ! elorie1 has quit. (Quit: Leaving.)
+[14:39:33] <jh> nicht 16:30, sondern 15:30
+[14:39:45] <jh> 17 uhr ist schon sonnenuntergang
+[14:40:44] <rohieb> serj: (2011-10-31 14:34:09) chaosupdates: Presale of all-day passes for #28c3 – Nov 6, 10 PM CET (UTC+1), Nov 14, 16 PM CET, Nov 29, 10 AM CET http://t.co/AN4tarKp #ccc
+[14:41:07] <rohieb> jh: nicht heute
+[14:41:21] <jh> k
+[14:41:26] <serj> rohieb: cool, aber leider wirds ja nix, es sei denn magnor laesst sich noch was einfallen
+[14:41:34] <rohieb> ja
+[14:41:36] <rohieb> dachte ich mir  schon
+[14:41:40] <Silberwoelfin> :(
+[14:44:03] ! Silberwoelfin has quit. (Read error: Connection reset by peer)
+[14:44:53] ! Silberwoelfin has joined.
+[14:47:02] ! nubix has joined.
+[14:49:29] ! joke` has joined.
+[14:49:38] ! elorie has joined.
+[14:53:26] <rohieb> o_O
+[14:53:34] <rohieb> joke`: elorie: selbe IP?
+[14:55:27] <elorie> o.O
+[14:57:30] ! jh has quit. (Quit: Logik wird überschätzt.)
+[14:59:15] <rohieb> lol http://c.asset.soup.io/asset/2494/3356_3cf1_480.jpeg
+[15:06:40] ! soney has joined.
+[15:08:40] ! soney has quit. (Client Quit)
+[15:08:52] ! soney has joined.
+[15:10:31] <rohieb> hm
+[15:10:33] <rohieb> marienkäfer
+[15:10:53] ! Silberwoelfin has quit. (Read error: Connection reset by peer)
+[15:13:29] ! soney has quit. (Ping timeout: 260 seconds)
+[15:14:45] ! joke` has quit. (Ping timeout: 258 seconds)
+[15:18:02] ! Ignifazius has joined.
+[15:34:45] ! Ignifazius has quit. (Quit: *Vanish*)
+[15:51:20] <nubix> hm... pizza
+[15:52:22] <rohieb> auja
+[15:58:48] ! soney has joined.
+[16:06:38] <elorie> !nom
+[16:06:48] <ZombiePoet> Abendmensa Katharinenstraße am Montag:
+[16:06:49] <ZombiePoet> A: Terrine Soljanka 1,40€
+[16:06:50] <ZombiePoet> B: Kartoffelküchlein mit Apfelmus 1,80€
+[16:06:51] <ZombiePoet> C: Gyros mit Zwiebeln AT 1,90€
+[16:06:52] <ZombiePoet> W: 1/2 Brathähnchen 1,90€
+[16:07:07] <nubix> baeh
+[16:07:53] ! soney has quit. (Quit: Leaving.)
+[16:08:04] ! soney has joined.
+[16:08:43] <rohieb> oh, soljanka
+[16:09:07] <nubix> rohieb: ne alte freundin von dir? ^^
+[16:09:11] <rohieb> :P
+[16:18:47] ! rohieb has quit. (Ping timeout: 276 seconds)
+[16:19:45] ! elorie has quit. (Quit: Leaving.)
+[16:25:00] ! serj has quit. (Quit: No Ping reply in 180 seconds.)
+[16:25:22] ! serj has joined.
+[16:28:31] ! soney has quit. (Quit: Leaving.)
+[16:28:44] ! soney has joined.
+[16:30:45] ! rohieb has joined.
+[16:32:37] ! rohieb has quit. (Client Quit)
+[16:44:36] ! Tigaa_laptop has quit. (Ping timeout: 260 seconds)
+[16:53:10] ! joke_ has joined.
+[16:53:25] <joke_> nabend in die runde
+[16:53:36] ! joke_ is now known as Guest76333
+[16:55:30] ! Guest76333 is now known as joke`
+[16:57:12] ! Debi has joined.
+[16:57:23] ! soney has quit. (Quit: Leaving.)
+[17:05:15] ! Sonea has joined.
+[17:05:21] <Sonea> huhu
+[17:05:24] <Sonea> hmm müde
+[17:05:36] <Sonea> kommt noch wer mit zum go-abend heute?
+[17:05:42] <nubix> Sonea: hier
+[17:05:51] <Sonea> nubix: echt? cool :)
+[17:06:01] <Sonea> nubix: Droggl und ich sind auch dabei
+[17:06:08] <Sonea> nubix: kannst du das schon?
+[17:06:09] <nubix> Sonea: mal sehen wie sich das so spielt :)
+[17:06:11] <nubix> Sonea:
+[17:06:15] <nubix> Sonea: nope, nicht wirklich
+[17:06:24] <Sonea> nubix: ich uach nicht, aber ist ja acuh ein einführungskurs
+[17:06:59] <nubix> Sonea: glaube rohieb ist auch dabei
+[17:07:14] <Sonea> nubix: wollte erst, aber hat jetzt ne andere verabredung
+[17:07:22] <Sonea> also rohieb
+[17:07:33] <nubix> hm... wir sind ihm wohl nicht gut genug :p
+[17:07:43] <Sonea> hihi jo
+[17:07:52] <Sonea> aber kannst du mit ner frau mithalten?
+[17:08:06] <nubix> es kommt definitiv auf die frau an
+[17:08:11] <Sonea> :D
+[17:08:15] <Sonea> das stimmt wohl
+[17:08:44] <Sonea> hmm iwie unbekannte namen in der liste der personen im raum...?
+[17:10:41] <nubix> wo denn?
+[17:11:01] <Sonea> hier
+[17:11:09] <nubix> seh nichts großartig unbekanntes
+[17:11:32] <Sonea> nubix: Nimos tsuro Erstsemester kenn ich jedenfalls nciht
+[17:11:38] <Sonea> aber ich war ja auch den sommer über kaum hier
+[17:11:43] <nubix> Erstsemester ist mein Bot
+[17:11:51] <nubix> Nimos: ist irgendjemand
+[17:11:54] <Sonea> und seid wann hängt denn der zerobot hier rum?
+[17:11:58] <tsuro> tsuro ist stephen
+[17:12:00] <Sonea> ah :d
+[17:12:10] <nubix> und tsuro ist stephen
+[17:12:12] <nubix> oh
+[17:12:14] <tsuro> sag ich doch
+[17:12:22] <nubix> ja, habs uebersehen
+[17:12:54] <nubix> Sonea: zerobot und Erstsemester sind ungefaehr gleichlange hier
+[17:13:02] <nubix> Sonea: http://nubix.net/cs-studs/
+[17:13:06] <Sonea> der mit den dreads?
+[17:13:25] <tsuro> genau
+[17:13:39] <Sonea> ah hi! :D
+[17:13:49] <nubix> Sonea: sehr nice... so stand er eine Zeit lang bei mir im Jabber ^^ Stephen, der mit den Dreads
+[17:14:15] <Sonea> nubix: oh ok. ja am 14.08. bin cih ja nach NY gefahren
+[17:14:20] <Sonea> und war dann halt ne weile weg
+[17:14:42] <nubix> pueh, was fuer ne ausrede ^^
+[17:14:45] <ZombiePoet> Title: Channellog - ##cs-studs (at nubix.net)
+[17:14:47] <Sonea> nubix: hihi. tja ich kenne auch so viele stephens und stephans, dass ich da sonst auch immer durcheinander komme
+[17:15:01] <Sonea> nubix: ja seit dem war ich halt auf achse ;P
+[17:15:14] <Sonea> hmm aber bei dir gibts auch keine suche, oder?
+[17:15:27] <nubix> Sonea: ne, ich war bis jetzt zu faul das einzubauen
+[17:15:35] <Sonea> also es wäre echt cool iwie strukturiert in den logs suchen zu können
+[17:15:47] <nubix> Sonea: und da ich auch anscheinend der einzige bin der es nutzt habe ich da nicht viel dran gemacht
+[17:15:53] <Sonea> nubix: so manchmal wenn man ne info wieder finden will oder so...
+[17:16:04] <nubix> Sonea: ich kann das ja die tage mal einbauen
+[17:16:16] <nubix> eigentlich habe ich nur einen bookmark auf http://nubix.net/cs-studs/show/latest#bottom
+[17:16:43] <Sonea> was ist eigentlich mit den alten logs passiert? also die von martin
+[17:16:50] <nubix> glaube die sind weg
+[17:16:56] <Sonea> hmm ok
+[17:17:06] <ZombiePoet> Title: Log vom 2011-10-31 - ##cs-studs (at nubix.net)
+[17:17:06] <Sonea> nubix: aber mach dir deswegen keinen stress
+[17:17:13] <Sonea> habs nur manchmal schon vermisst
+[17:17:21] <nubix> Sonea: ich hab eh in der vorlesungen gerade etwas langeweile
+[17:17:28] <Sonea> nubix: aber ist ja jetzt uach nciht so dringen
+[17:17:28] <Sonea> d
+[17:17:37] <Sonea> und durch die menge kann man sich ja fast ncoh durchklicken
+[17:17:43] <Sonea> nubix: aso na dann
+[17:17:46] <Sonea> los ;)
+[17:17:51] <Sonea> nubix: was hörst du denn?
+[17:18:02] <nubix> wenn ich mit den latex hausaufgaben fuer dieses semester fertig bin schreibe ich nur noch kurz Geschichte der Mathematik
+[17:18:06] <Wechner> Sonea: nubix: eigentlich war hier mal Konsens, dass es keine Suche gibt
+[17:18:11] <nubix> Sonea: viel...
+[17:18:20] <Sonea> Wechner: ah weil?
+[17:18:21] <nubix> Wechner: ich dachte, es bezog sich dabei nur auf google
+[17:18:28] <Wechner> nein, generell
+[17:18:45] <Wechner> dass auch Leute, die die URL bekommen, nicht schauen können, ob z. B. ihr Name vorkam und wer was über einen gesagt hat ...
+[17:18:57] <Sonea> achso
+[17:18:57] <Sonea> ok
+[17:18:58] <nubix> Wechner: wird mir echt nicht klar, dann rippe ich halt die logs und mache ein grep
+[17:18:59] <Sonea> alles klar
+[17:19:04] <Sonea> das wusste ich nicht
+[17:19:13] <Sonea> dann werde ich mich da jetzt nicht querstellen
+[17:19:19] <nubix> wget  und grep sind jedermanns freunde
+[17:19:31] <Sonea> aber ja stimmt schon
+[17:19:36] <Sonea> wenn mans drauf anlegt...
+[17:19:38] ! zynic has joined.
+[17:19:42] <Sonea> aber naja
+[17:19:45] <Wechner> nubix: bei dir, ja, bei mir gibt's immerhin nur (noch) die letzten Tage
+[17:19:47] <Sonea> zynic: kenn ich auch nciht...
+[17:19:53] <Sonea> -:
+[17:19:57] <Wechner> und das hier alles pseudo-öffentlich ist, ist auch klar
+[17:20:06] <Wechner> dennoch muss man die Werkzeuge ja nicht auf dem Präsentierteller liefern
+[17:20:16] <nubix> Sonea: zynic ist Karsten = anhaengsel von elorie
+[17:20:19] <nubix> :p
+[17:20:30] <Sonea> ah ok
+[17:20:39] <nubix> Wechner: das hat schon fast etwas von security by obscurity
+[17:20:44] <zynic> nubix: tzzz
+[17:20:44] <zynic> aber sonst ja
+[17:20:51] <Sonea> auch wenn die erläuterung etwas frech ist
+[17:20:57] <Wechner> wie gesagt, war eigentlich hier Konsens, und bevor so etwas geändert würde, würde ich eher eine neue Diskussion anregen, bevor man's einfach tut
+[17:21:28] <Wechner> nubix: natürlich, hat alles: dass die Logs nicht bei Suchmaschinen auftauchen sollen, dass das Log nicht im Topic steht, weil den Bots im Internet veröffentlichen ... alles nur Obscurity und keine echte Hürde
+[17:21:30] <nubix> Wechner: ich kann die suche ja an benutzteraccounts binden :)
+[17:21:36] <Wechner> aber es reicht, um die allermeisten abzuhalten
+[17:22:07] <nubix> Wechner: dann darf sich sonea anmelden um zu suchen ^^
+[17:22:29] <Wechner> meinetwegen :)
+[17:22:36] <Wechner> wenn sich der Aufwand lohnt ;)
+[17:22:49] ! ZombiePoet has quit. (Read error: Connection reset by peer)
+[17:22:54] <nubix> Wechner: zumindest fuer die anmeldung muss ich nur copy+paste machen
+[17:22:58] <Sonea> nubix: wäre cool, musst du aber nciht
+[17:23:01] <Wechner> zynic: Suchfunktion in den Channel-Logs
+[17:24:24] <zynic> Wechner: danke :)
+[17:24:48] <nubix> zynic: also den dinger die man unter anderem hier findet: http://nubix.net/cs-studs/
+[17:27:31] <nubix> zynic: weil's geht ^^
+[17:27:48] <nubix> zynic: ausserdem ist es manchmal interessant zu wissen was gerade eben im channel passiert ist
+[17:28:16] ! PirateKing has quit. (Quit: Leaving.)
+[17:30:35] ! soney has joined.
+[17:30:41] ! zynic has quit. (Ping timeout: 260 seconds)
+[17:35:10] ! Moenni_Mo has joined.
+[17:36:37] ! soney has quit. (Quit: Leaving.)
+[17:36:59] ! zynic has joined.
+[17:38:54] ! Moenni_Mo has quit. (Client Quit)
+[17:38:59] <nubix> zynic: weil's geht ^^
+[17:39:00] <nubix> zynic: ausserdem ist es manchmal interessant zu wissen was gerade eben im channel passiert ist
+[17:39:53] <zynic> nubix: nja... da hilft zur not ein irc-client und ne simple nachfrage =)
+[17:40:11] <nubix> dann muss man aber nicht fragen :)
+[17:40:24] <nubix> ausserdem will ich manchmal einfach wissen obs mensaplaene gibt
+[17:40:32] <zynic> iiieeehhh, menschliche interaktion..?!
+[17:40:45] <nubix> zynic: manchmal ganz erfrischend
+[17:41:21] <zynic> nubix: ansonsten: https://www.tu-braunschweig.de/mensa ;)
+[17:41:36] <zynic> mit ohne andere menschen
+[17:41:39] <zynic> :P
+[17:41:50] <nubix> zynic:
+[17:41:54] <nubix> zynic: lieber
+[17:41:56] <nubix> !nom
+[17:42:02] <nubix> !mensa
+[17:42:09] <nubix> na genial.. nun tuts nicht
+[17:42:43] <nubix> der ZombiePoet ist eigentlich der ansprechpartner fuer den speiseplan
+[17:42:43] <Sonea> zynic: nee aber ich finde das auch mancham praktisch. wenn z.b. gemeinsame veranstaltungen geplant werde, geht das öfter über den channel. wie mensa oder ovsneak oder mi oder so
+[17:42:59] <Sonea> zynic: und wenn dann jeder ankommt und ncoh dreimal nachfragt ist das doog
+[17:43:00] <Sonea> doof
+[17:43:02] <zynic> eh, aber ohne irc kannst das halt auch machen
+[17:43:02] <zynic> =)
+[17:44:10] <nubix> zynic: das ist das irc, hier bist du sowieso oeffentlich
+[17:44:26] <zynic> Sonea: hmm, berechtigter einwand..
+[17:48:46] <nubix> zynic: eigentlich ne nette idee
+[17:49:37] <zynic> dann hast die suche gleich mitgeloggt
+[17:49:44] <nubix> zy
+[17:49:50] <nubix> zynic: koennte ich dem erstsemester beibringen
+[17:50:03] <nubix> aber ich glaube dann gibt es ein problem mit der groesse der nachrichten
+[17:50:12] <Sonea> hmm glaub cih auch
+[17:50:25] ! bgalias has joined.
+[17:50:27] <Sonea> kann man das dann iwie in nen query umleiten?
+[17:50:33] <zynic> nubix: und wennst die antworten selbst automatisch auskomentierst?
+[17:50:43] <Sonea> bgalias kenn ich uach nciht...
+[17:51:01] <Sonea> bgalias: hi kenn ich dich?
+[17:51:04] <nubix> zynic: wenn ich an den erstsemester schreibe »gib mir dein log der letzten 24h«
+[17:51:19] <nubix> zynic: dann schickt der ein bischen viel
+[17:51:49] <zynic> hmm
+[17:51:56] ! Peace-Maker has joined.
+[17:51:57] <Sonea> nubix: ja aber in nem query wär das doch nciht so schlimm oder?
+[17:52:12] <nubix> Sonea: ich glaube schon
+[17:52:28] <nubix> Sonea: kleiner test
+[17:52:46] ! nubix has quit. (Excess Flood)
+[17:52:53] <bgalias> Sonea: idk... bin neu hier^^
+[17:52:57] <bgalias> erstsemester und so
+[17:53:02] ! nubix has joined.
+[17:53:13] <Sonea> also generell fänd ichs dann sowieso besser das nicht direkt im channel zu haben
+[17:53:14] <nubix> stelle fest, es hat mich gekickt ^^
+[17:53:16] <Sonea> nubix: hahaha :D
+[17:53:50] <Sonea> hmm ok das ist doof
+[17:54:07] <Sonea> nubix: wie viel hast du eig. geschickt?
+[17:54:12] <Sonea> hab 5 zeilen bekommen
+[17:54:21] <nubix> 40 zeilen
+[17:54:27] <Sonea> :D
+[17:54:28] <Sonea> ok
+[17:54:28] <zynic> xD
+[17:55:12] <nubix> die letzten fuenf zeilen ist halt etwas sehr wenig
+[17:55:27] <zynic> nubix: kannst das nich in teile runterbrechen?
+[17:55:38] <nubix> zynic: der schickt doch eh zeile pro zeile
+[17:55:42] <nubix> zy
+[17:55:53] <nubix> zynic: selbst wenn ich da nen delay einbaue wirds wohl nicht unbedingt besser
+[17:59:36] <nubix> aber man koennte zumindest eine suchfunktion bauen die einen eine temporaer gueltigen url gibt
+[18:00:31] ! zynic has quit. (Ping timeout: 248 seconds)
+[18:02:44] ! zynic has joined.
+[18:03:14] <zynic> nubix: sry, audimax-wlan is mist
+[18:03:27] ! joke` has quit. (Read error: Connection reset by peer)
+[18:03:30] <nubix> zynic: also mit meinem mac hab ich da noch nie probleme gehabt ^^
+[18:03:39] <zynic> nubix: :P
+[18:03:51] <nubix> zynic: aber wenn du angst hast etwas verpasst zu haben kannst du ja im log gucken :p
+[18:04:02] <zynic> nubix: ich habs geahnt...
+[18:04:05] <zynic> nubix: ;)
+[18:04:07] <nubix> zynic: was gibts denn gerade eigentlich im am?
+[18:04:30] <zynic> nubix: strom
+[18:04:38] <nubix> zuhause keinen strom?
+[18:04:53] <zynic> doch, aber keine ruhe zum lernen
+[18:04:57] <nubix> o.0
+[18:05:05] <zynic> hm?
+[18:16:45] ! nubix has quit. (Read error: Connection reset by peer)
+[18:16:55] ! nubix has joined.
+[18:21:35] <Sonea> hmm? also du sitzt alleine im AM um zu lernen?
+[18:21:43] ! jh has joined.
+[18:21:44] <Sonea> oder meinst du voyer?
+[18:21:52] <Sonea> jh \o/
+[18:21:55] <Sonea> und wie wars jh?
+[18:22:07] <jh> Sonea: buscachen ftl
+[18:22:42] <jh> Sonea: am milleniumberg 15min aufn bus gewartet, kam nicht... dann richtung madamenweg zu fuß... ringbus kam zwischen 17:36 und 18:03 auch 0
+[18:22:49] <jh> aber berg war ganz schön ^^
+[18:28:39] <Sonea> hmm kein ringbus????
+[18:28:50] <Sonea> die fahren doch alle 10 min. sonst
+[18:29:03] <Sonea> hmm ist ja schon dunkel....
+[18:30:01] ! Sonea has left the channel.
+[18:30:05] ! Sonea has joined.
+[18:30:13] <Sonea> so ich geh erstmal nach hause
+[18:30:20] <Sonea> und dann gleich ins MI wegen Go
+[18:30:29] <Sonea> jh: aso wolltest du da eigebntlich mit?
+[18:30:33] <Sonea> bzw. ihr?
+[18:31:40] ! Mobiwoelfin has joined.
+[18:33:30] <jh> Sonea: nipoe
+[18:33:33] <jh> nope
+[18:33:36] ! zynic has quit. (Ping timeout: 244 seconds)
+[18:35:20] <jh> also ich zumindest nicht
+[18:39:42] <Sonea> kk
+[18:42:21] ! Sonea has left the channel.
+[18:49:21] ! Phia has quit. (Quit: Leaving.)
+[19:03:19] ! der_eq has joined.
+[19:19:31] <nubix> chilliges feeling mit smooth jazz im fgraum
+[19:22:18] <jh> nubix: ?
+[19:22:41] <nubix> jh: wir sitzen hier gerade bei gedimmten licht und jazz artiger musik
+[19:23:42] <Valodim> nubix: nice :)
+[19:24:09] <Valodim> nubix: ich chill grad und hoer bissl mumpi durch
+[19:24:53] <nubix> Auch was schoenes
+[19:25:09] <Valodim> mjop
+[19:41:36] ! nubix has quit. (Quit: Leaving.)
+[19:55:38] ! nubix has joined.
+[19:56:41] ! nubix has quit. (Client Quit)
+[19:58:56] ! Peace-Maker has quit. (Quit: Bye.)
+[20:33:18] ! Mobiwoelfin_ has joined.
+[20:33:34] ! Mobiwoelfin has quit. (Read error: Connection reset by peer)
+[20:40:09] ! Mobiwoelfin_ is now known as Mobiwoelfin
+[20:50:14] ! Mobiwoelfin_ has joined.
+[20:50:48] ! Mobiwoelfin has quit. (Ping timeout: 240 seconds)
+[20:52:02] ! Mobiwoelfin_ is now known as Mobiwoelfin
+[21:12:24] ! Mobiwoelfin has quit. (Ping timeout: 240 seconds)
+[21:13:54] ! Mobiwoelfin has joined.
+[21:14:42] <Mobiwoelfin> !nom morgen
+[21:15:08] <Mobiwoelfin> hm, kein Zombiepoet da :-(
+[21:24:01] ! PirateKing has joined.
+[21:27:28] ! Ignifazius has joined.
+[21:28:08] ! bgalias has quit.
+[21:35:52] ! der_eq has quit. (Remote host closed the connection)
+[21:57:04] ! Silberwoelfin has joined.
+[22:00:02] <Silberwoelfin> hi
+[22:05:57] <jh> hi
+[22:07:57] ! Phia has joined.
+[22:21:51] ! Bowdzone has joined.
+[22:22:37] ! Mobiwoelfin has quit. (Quit: Bye)
+[22:29:54] ! ES has joined.
+[22:36:20] <jh> !tell rohieb http://www.youtube.com/watch?v=o_eSwq1ewsU#t=3m10s hat mich spontan dran erinnert^^
+[23:00:04] ! joke` has joined.
+[23:01:27] ! lurtz has joined.
+[23:08:25] ! conqueror12 has quit. (Quit: Leaving.)
+[23:13:22] <jh> Silberwoelfin: btw, 102m, gegenüber 70m vorm berg
+[23:30:49] ! PirateKing has quit. (Quit: Leaving.)
+[23:33:25] ! PirateKing has joined.
+[23:37:50] ! lurtz has quit. (Quit: Leaving.)
+[23:43:11] <jh> gn8
+[23:46:21] ! jh has quit. (Quit: jh)
+[23:48:03] <Silberwoelfin> gute nacht
+[23:50:06] ! rohieb has joined.
+[23:50:14] ! Silberwoelfin has quit. (Quit: Verlassend)
+[23:54:12] ! rohieb_ has joined.
+[23:57:24] ! rohieb has quit. (Ping timeout: 240 seconds)
+[23:57:53] ! rohieb_ is now known as rohieb

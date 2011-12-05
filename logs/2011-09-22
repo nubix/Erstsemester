@@ -1,0 +1,534 @@
+[00:00:02] <DrMcCoy> https://secure.wikimedia.org/wikipedia/de/wiki/Martin_Lindner
+[00:00:05] <ZombiePoet> Title: Martin Lindner – Wikipedia (at secure.wikimedia.org)
+[00:01:02] <jh> oha, der grinsetyp ist der pirat?^^
+[00:04:15] ! Bowdzone has quit. (Quit: Bowdzone)
+[00:11:02] <rohieb> guckt ihr alle anne wills?
+[00:11:10] <DrMcCoy> Schon zuende
+[00:11:23] <DrMcCoy> Ich hab nur die letzten 20 min oder so gesehen
+[00:11:27] <jh> hab nur die letzten 5min gesehen
+[00:11:28] <jh> ^^
+[00:11:41] <DrMcCoy> Weiß jemand, wie lange es dauert, bis das dann in der Mediathek ist?
+[00:11:56] <jh> vermutlich eher in tagen als in stunden messbar :P
+[00:12:31] <DrMcCoy> Naja, die Tagesthemen von davor sind da
+[00:14:16] <nubix> DrMcCoy: denke morgen abend isses drin
+[00:14:58] <DrMcCoy> Bleh
+[00:16:47] <jh> DrMcCoy: son stück gibts bei youtube: http://www.youtube.com/watch?v=toxXrqS6-DQ
+[00:16:48] <ZombiePoet> Title: Anne Will - Piraten entern Berlin - Meuterei auf der "Deutschland" - Teil1 - YouTube (at www.youtube.com)
+[00:17:53] <jh> und:
+[00:17:54] <jh> Der﻿ UL von Teil (2/4) läuft ETA -> 1:45 *g*
+[00:17:54] <jh> pupetv vor 11 Minuten
+[00:19:06] <DrMcCoy> Hmm
+[00:24:52] <rohieb> DrMcCoy: der typ kuckt ja immer so
+[00:24:55] <jh> der typ ist mir unsympatisch
+[00:25:00] <rohieb> der lindnertyp
+[00:25:01] <jh> der Lauer
+[00:25:11] <rohieb> hm mir nicht
+[00:25:15] <rohieb> der erinnert mich an irgendwen
+[00:26:48] <DrMcCoy> rohieb: Du meinst so: https://dl.dropbox.com/u/245187/Grummel.jpg :P
+[00:26:56] <rohieb> jo ^^
+[00:33:07] <jh> !nom
+[00:33:07] <ZombiePoet> Mensa Katharinenstraße am Donnerstag:
+[00:33:08] <ZombiePoet> A: Terrine Paprikasuppe mit Mais 1,40€
+[00:33:09] <ZombiePoet> B: Curryfleischwurst mit Ketchup AT (s/r) 1,80€
+[00:33:10] <ZombiePoet> C: Putenbruststeak m. Tomate und Käse überbacken 1,90€
+[00:33:11] <ZombiePoet> V: gebackener Schafskäsekuchen 1,90€
+[00:33:12] <ZombiePoet> W: Gebratene chinesische Nudeln mit Pute und Gemüse 3,10€
+[00:33:15] <jh> gn8
+[00:33:17] <rohieb> n8 jh
+[00:33:28] ! jh has quit. (Quit: jh)
+[00:33:34] <rohieb> hm, wie ermitteln die eigentlich diese zahlen, von welcher partei zu welcher partei stimmen geflossen sind?
+[00:33:45] <rohieb> kommt das alles aus umfragen?
+[00:34:03] <lurtz> rohieb: ich glaube die frage einfach die kirche wie man ketzer verfolgt
+[00:34:15] <rohieb> ?
+[00:35:17] <lurtz> waren das nicht abtrünnige
+[00:35:18] <lurtz> ?
+[00:43:01] <rohieb> achso
+[00:47:57] <rohieb> hmmmm
+[00:48:05] <rohieb> http://en.wikipedia.org/wiki/MediaWiki:Bad_image_list <-- da gibts schon tolle bilder ^^
+[00:48:06] <ZombiePoet> Title: MediaWiki:Bad image list - Wikipedia, the free encyclopedia (at en.wikipedia.org)
+[00:54:26] <DrMcCoy> rohieb: ...
+[00:54:54] <rohieb> mh
+[00:54:54] <rohieb> ja
+[00:55:09] <rohieb> File:Foot Amputation.JPG <-- ich mach den tab auch besser mal zu
+[00:55:36] <DrMcCoy> Gut, okay, da war der Schwanz, auf den ich geklickt hatte, doch angenehmer
+[01:02:49] ! lurtz has quit. (Quit: Leaving.)
+[01:06:11] ! elorie has quit. (Quit: Leaving.)
+[01:15:41] ! lurtz has joined.
+[01:18:41] ! Peace-Maker has quit. (Quit: get satisfied!  :: core-networks.de ««« (Gamers.IRC) »»» gamersirc.net ::)
+[01:38:22] ! lurtz has quit. (Remote host closed the connection)
+[01:43:55] <rohieb> n8 und so
+[01:43:57] ! rohieb has quit. (Quit: Behind you, a three-headed monkey!)
+[01:45:10] <DooMMasteR> man oh meter ist das kommandozeilen interface zur mediathek kacke
+[01:45:12] <DooMMasteR> rtmpdump -n vod.daserste.de -a ardfs -y mp4:videoportal/mediathek/Tatort/c_190000/197724/format229094.f4v -o film.flv
+[01:45:25] <DooMMasteR> nur um den letzten tatort zu bekommen
+[01:59:14] <DooMMasteR> http://medien.wdr.de/m/1292756400/maus/wdr_fernsehen_die_maus_20101219.mp4
+[01:59:17] <DooMMasteR> EINE SUPER MAUS
+[02:03:35] ! conqueror12 has quit. (Quit: Leaving.)
+[02:10:51] ! nubix has quit. (Read error: Connection reset by peer)
+[02:10:54] ! nubix1 has joined.
+[02:11:57] ! CalebRipley has quit. (Remote host closed the connection)
+[02:14:09] ! nubix1 has quit. (Read error: Connection reset by peer)
+[02:14:12] ! nubix has joined.
+[03:20:55] ! joke` has quit. (Ping timeout: 258 seconds)
+[03:31:38] ! nubix has quit. (Read error: Connection reset by peer)
+[03:31:41] ! nubix1 has joined.
+[04:31:20] ! nubix1 has quit. (Quit: Leaving.)
+[08:32:37] ! elorie has joined.
+[09:03:24] ! PirateKing has joined.
+[09:05:40] ! conqueror12 has joined.
+[09:08:28] ! Tigaa_laptop has joined.
+[09:09:39] ! Phia has joined.
+[09:11:13] <Phia> !mensa
+[09:11:13] <ZombiePoet> Mensa Katharinenstraße am Donnerstag:
+[09:11:14] <ZombiePoet> A: Terrine Paprikasuppe mit Mais 1,40€
+[09:11:15] <ZombiePoet> B: Curryfleischwurst mit Ketchup AT (s/r) 1,80€
+[09:11:16] <ZombiePoet> C: Putenbruststeak m. Tomate und Käse überbacken 1,90€
+[09:11:17] <ZombiePoet> V: gebackener Schafskäsekuchen 1,90€
+[09:11:18] <ZombiePoet> W: Gebratene chinesische Nudeln mit Pute und Gemüse 3,10€
+[09:55:57] ! elorie has quit. (Quit: Leaving.)
+[10:17:31] ! Bowdzone has joined.
+[10:18:16] ! Tigaa_laptop1 has joined.
+[10:18:22] ! Tigaa_laptop has quit. (Ping timeout: 244 seconds)
+[10:18:49] ! Tigaa_laptop1 has quit. (Client Quit)
+[10:19:35] ! jh has joined.
+[10:20:11] ! Tigaa_laptop has joined.
+[10:20:29] <jh> hi
+[10:33:35] ! jh has quit. (Read error: Connection reset by peer)
+[10:33:56] ! jh has joined.
+[10:34:27] ! Phia has quit. (Read error: Connection reset by peer)
+[10:36:13] ! Phia has joined.
+[10:44:08] ! nubix has joined.
+[10:45:41] ! nubix has quit. (Client Quit)
+[10:58:30] ! nubix has joined.
+[11:06:06] ! Tigaa_laptop1 has joined.
+[11:06:14] ! Tigaa_laptop1 has left the channel.
+[11:08:50] ! Silberwoelfin has joined.
+[11:09:32] <nubix> !mensa
+[11:09:32] <ZombiePoet> Mensa Katharinenstraße am Donnerstag:
+[11:09:33] <ZombiePoet> A: Terrine Paprikasuppe mit Mais 1,40€
+[11:09:34] <ZombiePoet> B: Curryfleischwurst mit Ketchup AT (s/r) 1,80€
+[11:09:35] <ZombiePoet> C: Putenbruststeak m. Tomate und Käse überbacken 1,90€
+[11:09:36] <ZombiePoet> V: gebackener Schafskäsekuchen 1,90€
+[11:09:37] <ZombiePoet> W: Gebratene chinesische Nudeln mit Pute und Gemüse 3,10€
+[11:09:49] <nubix> !mensa abend
+[11:09:49] <ZombiePoet> Abendmensa Katharinenstraße am Donnerstag:
+[11:09:50] <ZombiePoet> A: Terrine Paprikasuppe mit Mais 1,40€
+[11:09:51] <ZombiePoet> B: 4 Eierkuchen mit heißen Früchten 1,90€
+[11:09:52] <ZombiePoet> C: Champignonrahmschnitzel 1,90€
+[11:09:53] <ZombiePoet> W: 1/2 Brathähnchen 1,90€
+[11:10:07] ! Tigaa_laptop has quit. (Ping timeout: 258 seconds)
+[11:11:00] <Silberwoelfin> moin
+[11:11:00] <ZombiePoet> Silberwoelfin: Sent 11 hours and 28 minutes ago: <rohieb> <Silberwoelfin> schaut doch zusammen, wenn ihr schon zusammen wohnt? oO <-- hey, das sind informatiker :P
+[11:13:36] <jh> Silberwoelfin \o/
+[11:14:17] <Silberwoelfin> !tell *ohieb* und zwei informatiker sind nicht f�hig, sich im selben raum aufzuhalten...? da stell ich mir vorlesungen aber schwierig vor...
+[11:14:17] <ZombiePoet> Silberwoelfin: Ok.
+[11:14:38] <jh> Silberwoelfin: zwei informatiker sind nicht fähig sozial miteinander zu interagieren!
+[11:14:40] <Silberwoelfin> jh!
+[11:15:00] <Silberwoelfin> jh: was tun wir dann den ganzen tag miteinander?^^
+[11:15:42] <jh> Silberwoelfin: nicht anne will gucken!
+[11:16:45] <Silberwoelfin> aber sozial interagieren
+[11:17:42] <jh> nagut
+[11:17:45] <jh> achja
+[11:17:50] <jh> DrMcCoy ist ja auch ISTler
+[11:17:55] <jh> daran muss es liegen
+[11:18:13] <DrMcCoy> o_O
+[11:18:45] ! lurtz has joined.
+[11:18:57] <jh> hi ipv6lurtz
+[11:19:05] <lurtz> jh!
+[11:19:33] <jh> plant jemand mensa irgendwann? nubix?
+[11:20:11] <Silberwoelfin> mist, eigentlich m�sste ich innerhalb einer dreiviertelstunde im pr�fungsamt sein und meinen notenspiegel abholen -.-
+[11:20:28] <jh> oh!
+[11:20:33] <jh> das wollte ich ja auch
+[11:20:36] <jh> danke für die erinnerung
+[11:20:52] <Silberwoelfin> jh: kannst du meinen mitbringen?^^
+[11:21:07] <jh> Silberwoelfin: ähm... ich kanns versuchen, aber ich bezweifle es ;)
+[11:21:16] <jh> Silberwoelfin: es sei denn du faxst mir ne vollmacht :P
+[11:21:30] <jh> oder schick ihr ne Mail dass Jan-Henrik Kluth den abholen darf
+[11:26:00] <nubix> jh: noch habe ich keinen plan, aber ich wuerde einfach malwieder 1300 vorschlagen
+[11:26:18] <Silberwoelfin> jh: hab ich gemacht^^
+[11:27:44] <jh> nubix: ok
+[11:27:49] <jh> Silberwoelfin: ok, ich versuchs^^
+[11:33:37] ! jh has quit. (Quit: jh)
+[11:39:22] ! nubix has quit. (Quit: Leaving.)
+[11:46:53] ! elorie has joined.
+[11:57:47] ! jh has joined.
+[12:00:21] ! nubix has joined.
+[12:01:54] ! winnie has joined.
+[12:02:23] <winnie> hallo alle!
+[12:02:50] <lurtz> hallo winnie
+[12:03:18] <winnie> yoho lurtz!
+[12:04:15] <Silberwoelfin> winnie \o/
+[12:05:07] <winnie> Sandalwœlfin: \o/
+[12:05:19] <winnie> \o/-shot wurde rejected :-(
+[12:06:27] <winnie> http://static.whatthemovie.com/system/images/stills/normal/22/19811ff257a46f537a94ecee2c9cba.jpg
+[12:06:55] <lurtz> welcher film ist denn das?
+[12:07:10] <DrMcCoy> winnie: http://www.youtube.com/watch?v=sC75aU47GRk
+[12:07:11] <ZombiePoet> Title: Sad Trombone Sound Effect - YouTube (at www.youtube.com)
+[12:07:13] <Silberwoelfin> plug'n'pray
+[12:07:49] <winnie> lurtz: Sandalwœlfin spricht die Wahrheit
+[12:08:07] <lurtz> das hätte ich ihr auch so geglaubt^^
+[12:08:10] <Silberwoelfin> \o/
+[12:08:25] <winnie> DrMcCoy: danke :-) hast du sch�n gespielt!
+[12:08:49] <winnie> lurtz: aber es war mein shot ;-)
+[12:10:04] <Silberwoelfin> "Und das ist auch der Grund,  warum d�rfte die Piratenpartei f�r die Gr�nen die gr��te Bedrohung darstellt." <- grammatik 6? oO
+[12:11:25] <winnie> ich finde wer Satz schrieb kann spricht richtig
+[12:16:57] <Silberwoelfin> ja, absolut...
+[12:25:16] ! rohieb has joined.
+[12:26:19] <winnie> rohieb: \o/
+[12:26:37] <jh> rohieb: mensa 12:30?
+[12:26:58] <rohieb> ne
+[12:26:59] <ZombiePoet> rohieb: Sent 1 hour and 12 minutes ago: <Silberwoelfin> und zwei informatiker sind nicht f�hig, sich im selben raum aufzuhalten...? da stell ich mir vorlesungen aber schwierig vor...
+[12:27:03] * rohieb B84
+[12:27:11] <rohieb> ohne steckdose
+[12:27:15] <jh> hallo BI84
+[12:27:16] <rohieb> aber dafür mit eduroam
+[12:27:27] <winnie> rohieb: da sind doch Kabeldrommeln
+[12:27:28] <rohieb> mal kucken, was so auf mich zukommt heute
+[12:27:34] <rohieb> winnie: hier nicht
+[12:27:34] <winnie> hihihi
+[12:27:37] <winnie> Gabeldrommeln
+[12:27:38] <rohieb> winnie: hier ist nur so ein langer flur
+[12:27:44] <rohieb> ohne steckdose
+[12:27:51] <winnie> rohieb: achso, ich dachte, du bist bei den Plakaten
+[12:27:55] ! jh has quit. (Quit: Logik wird überschätzt.)
+[12:27:56] <rohieb> plakaten?
+[12:28:05] <winnie> rohieb: im Eingangsbereich links
+[12:28:11] <winnie> wo auch der Miniflur steht
+[12:28:32] <rohieb> ach du warst da?
+[12:28:35] <winnie> jo
+[12:28:39] <winnie> zum Miniflur aufbauen
+[12:28:41] <rohieb> ja, da gibts welche
+[12:28:47] <winnie> und sp�ter wieder zum abbauen
+[12:28:50] <rohieb> aber da ist nicht mein einsatzort
+[12:28:52] <rohieb> achso
+[12:28:59] <winnie> achso
+[12:29:01] <winnie> 2
+[12:39:47] <rohieb> nein, keine
+[12:40:16] <winnie> achso 2.0
+[12:41:02] <rohieb> was?
+[12:42:41] <winnie> du hast achso geschrieben, ich hab achso geschrieben
+[12:42:46] <winnie> mein achso war offensichtlich neuer
+[12:42:50] <winnie> also 2.0
+[12:42:55] <lurtz> achso
+[12:43:13] <winnie> lurtz: 3.0?
+[12:43:41] <lurtz> könnte man so sagen
+[12:44:08] <rohieb> achso
+[12:45:13] <winnie> ich h�tte auch aha sagen k�nnen, aber ich wollte meiner Verwunderung dar�ber Ausdruck geben, dass sie es bevorzugen in einer Badewanne ohne Wasser zu baden
+[12:45:28] <winnie> s/sie/Sie/
+[12:46:11] <rohieb> aha
+[12:46:25] <rohieb> hm
+[12:46:27] <rohieb> jetz sitz ich hier
+[12:46:35] <rohieb> und mein akku reicht noch für 2 stunden
+[12:46:59] <rohieb> oh und balke ist hier
+[12:52:27] <rohieb> ohhhhhhhhhh da ist eine steckdose
+[12:52:33] <rohieb> aber am anderen ende des ganges
+[12:53:00] <winnie> rohieb: Raum falten?
+[12:55:14] <rohieb> hmmmmm
+[12:55:27] <rohieb> ich könnte ein nichteuklidisches koordinatensystem drüberlegen
+[12:55:45] <rohieb> winnie: und der sep-matthias läuft hier rum und macht fotos
+[12:55:57] <winnie> rohieb: Nacktfotos?
+[12:55:59] ! Ignifazius has joined.
+[12:56:06] <rohieb> hm, das habe ich ihn nicht gefragt
+[12:56:17] <rohieb> aber es sind sehr überwiegend männliche teilnehmer, also denke ich nicht
+[13:10:30] <Silberwoelfin> rohieb: vllt sind deswegen so viele m�nnliche teilnehmer da...
+[13:13:56] ! jh has joined.
+[13:32:48] ! Silberwoelfin_ has joined.
+[13:35:08] ! Silberwoelfin has quit. (Disconnected by services)
+[13:35:11] ! Silberwoelfin_ is now known as Silberwoelfin
+[13:42:17] ! lurtz has quit. (Quit: Leaving.)
+[13:44:26] <rohieb> Silberwoelfin: weil nacktfotos von ihnen gemacht werden? :P
+[13:44:36] <nubix> nacktfotos?
+[13:44:45] <nubix> kein wunder das ich gehighlited wurde :p
+[13:45:02] <jh> nacktfotos?
+[13:51:08] <rohieb> nacktfotos?
+[13:51:26] <jh> rohieb: du hast von nacktfotos geredet
+[13:51:38] <rohieb> ne, winnie
+[13:54:07] <Silberwoelfin> rohieb: nee, von den wenigen m�dels :P
+[13:54:14] <rohieb> achso
+[13:55:54] <jh> die hören komische musik im fgraum
+[13:56:14] <winnie> jrock?
+[13:57:06] <jh> kA
+[13:57:25] <Valodim> jmetal
+[14:06:56] <rohieb> "Bei einer Kontrolle in Garbsen hatten Polizeibeamte drei Fahrräder überprüft und festgestellt, dass zwei der Räder kurz vorher in Braunschweig gestohlen worden waren. Diese konnten ihren Besitzern, die Anzeige erstattet hatten, bereits wieder ausgehändigt werden."
+[14:06:57] <rohieb> :(
+[14:06:58] <rohieb> meins nicht
+[14:08:14] <jh> ist deins irgendwo angemeldet?
+[14:08:26] <jh> sonst kann man das ja dir nicht zuordnen...
+[14:10:16] <rohieb> ich hab bei der anzeige dir rahmennummer angegeben
+[14:10:30] <jh> ah ok
+[14:10:35] <jh> sowas weißt du O_o
+[14:10:42] <rohieb> äh ja
+[14:10:52] <rohieb> die stand auf der rechnung vom fahrradladen drauf
+[14:11:04] <jh> ah
+[14:11:10] <jh> sowas wird ja bestimmt rausgefeilt ^^
+[14:11:34] <rohieb> hmm
+[14:11:37] <rohieb> könnte natürlich sein...
+[14:11:49] <rohieb> aber dann sieht man doch erst recht, dass das geklaut ist ^^
+[14:11:58] <jh> war ein unfall...
+[14:12:01] <rohieb> ansonsten hab ich ja auch noch so spezifische merkmale dazugeschrieben
+[14:12:06] <jh> zwei räde
+[14:12:07] <jh> lenker
+[14:12:14] <jh> sattel!
+[14:12:24] <rohieb> echt, nur zwei?
+[14:12:28] * rohieb reboot
+[14:12:28] ! rohieb has quit. (Quit: ...yo ho ho, and a bottle of rum!)
+[14:18:11] ! rohieb has joined.
+[14:18:13] <jh> der rebootet aber langsam
+[14:18:13] <jh> ah
+[14:18:14] <jh> ^^
+[14:19:40] <rohieb> hab noch alsa gecheckt
+[14:19:46] <rohieb> und gnome-login dauert ja immer so lange
+[14:20:13] <rohieb> weil das housekeeper-plugin vom gnome-system-daemon so lahm ist, wenn es beim login den thumbnail-cache aufräumt -.-
+[14:20:40] <rohieb> aber sound geht immer noch nicht in dosbox :(
+[14:32:51] ! lurtz has joined.
+[14:49:47] ! lurtz has quit. (Quit: Leaving.)
+[14:51:06] ! CalebRipley has joined.
+[15:01:53] ! elorie has quit. (Quit: Leaving.)
+[15:34:59] ! winnie has quit. (Quit: wisu denn blus?)
+[15:35:54] <rohieb> joejoe ist böse
+[15:36:24] <jh> der studiert ja auch das böse
+[15:36:42] <rohieb> ^^
+[15:36:43] <rohieb> bin mal weg
+[15:36:52] ! rohieb has quit. (Quit: ...yo ho ho, and a bottle of rum!)
+[16:04:41] ! moenni has joined.
+[16:06:14] <jh> moenni!
+[16:06:19] <moenni> jh!
+[16:06:31] <jh> MI?
+[16:08:11] <moenni> ja, sehr wahrscheinlich
+[16:12:19] ! Wechner has quit. (Changing host)
+[16:12:20] ! Wechner has joined.
+[16:17:51] ! Tigaa_laptop has joined.
+[16:20:27] <nubix> !mensa abend
+[16:20:27] <ZombiePoet> Abendmensa Katharinenstraße am Donnerstag:
+[16:20:28] <ZombiePoet> A: Terrine Paprikasuppe mit Mais 1,40€
+[16:20:29] <ZombiePoet> B: 4 Eierkuchen mit heißen Früchten 1,90€
+[16:20:30] <ZombiePoet> C: Champignonrahmschnitzel 1,90€
+[16:20:31] <ZombiePoet> W: 1/2 Brathähnchen 1,90€
+[16:28:17] ! moenni has quit. (Quit: Leaving.)
+[16:29:39] ! Phia1 has joined.
+[16:34:25] ! Phia1 has quit. (Client Quit)
+[16:35:57] ! Tigaa_laptop has quit. (Read error: Connection reset by peer)
+[16:36:00] ! Tigaa_laptop1 has joined.
+[16:38:48] ! Tigaa_laptop1 has quit. (Client Quit)
+[16:38:50] ! Tigaa_laptop has joined.
+[16:54:57] ! joke` has joined.
+[17:05:57] <Silberwoelfin> hihi, schokoreis-milchreis :)
+[17:07:10] <DrMcCoy> Oh, es gab etwas, was Silberwoelfin isst? :P
+[17:07:24] <Silberwoelfin> DrMcCoy: :-P
+[17:07:30] <Silberwoelfin> DrMcCoy: es gibt ne menge, was ich esse
+[17:07:47] <DrMcCoy> lol
+[17:07:48] <DrMcCoy> Klar
+[17:08:03] <Silberwoelfin> aber das wenigste davon ist gem�se^^
+[17:08:29] <DrMcCoy> Ich meine, ich bin auch ein Fleischesser, aber ich mag auch gerne Gemüse
+[17:08:35] <DrMcCoy> Und Fisch ist auch kein Gemüse
+[17:09:02] <DrMcCoy> http://www.reddit.com/r/foodporn/ :)
+[17:09:06] <ZombiePoet> Title: FoodPorn (at www.reddit.com)
+[17:14:17] ! Phia has quit. (Quit: Leaving.)
+[17:16:56] ! serj_ is now known as serj
+[17:22:40] ! PirateKing has quit. (Quit: Leaving.)
+[17:47:28] <jh> !mensa
+[17:47:29] <ZombiePoet> Abendmensa Katharinenstraße am Donnerstag:
+[17:47:30] <ZombiePoet> A: Terrine Paprikasuppe mit Mais 1,40€
+[17:47:31] <ZombiePoet> B: 4 Eierkuchen mit heißen Früchten 1,90€
+[17:47:32] <ZombiePoet> C: Champignonrahmschnitzel 1,90€
+[17:47:33] <ZombiePoet> W: 1/2 Brathähnchen 1,90€
+[17:47:58] <jh> mh, nee
+[17:48:05] <jh> -> home
+[17:48:06] ! jh has quit. (Quit: Logik wird überschätzt.)
+[17:53:41] ! Bowdzone has quit. (Quit: Bowdzone)
+[17:54:29] ! rohieb has joined.
+[17:54:44] ! der_eq has joined.
+[18:04:19] ! elorie has joined.
+[18:09:26] ! jh has joined.
+[18:11:22] ! Tigaa_laptop has quit. (Quit: Leaving.)
+[18:20:19] ! joke` has quit. (Quit: Verlassend)
+[18:20:47] ! sabayonuser3 has joined.
+[18:21:13] ! rohieb has quit. (Quit: ...yo ho ho, and a bottle of rum!)
+[18:22:03] ! sabayonuser3 is now known as zynic
+[18:28:56] <jh> bah, wer hat bloß telefonieren erfunden^^
+[18:29:30] <Silberwoelfin> jh: ich nicht^^
+[18:36:44] <elorie> der_eq: hilight
+[18:40:07] <jh> nubix: möp, ubuntu hat doch ein ruby 1.9
+[18:42:48] ! Phia has joined.
+[18:42:52] <nubix> jh: na warum hast du das dan nicht installiert?!
+[18:44:13] <jh> nubix: weil du gesagt hast, dass es das nicht gibt
+[18:46:39] <nubix> jh: ne, da hast du mich falsch verstanden.
+[18:46:47] <nubix> jh: ich bin der meinung es gibt kein 1.9.2
+[18:48:04] <jh> nubix: es gibt ein paket namens "ruby1.9.1-full" in der version 1.9.2.0-2
+[18:48:05] <jh> ^^
+[18:48:32] <jh> zumindest in ubuntu 11.04
+[18:48:34] <jh> wasn da drauf?
+[18:50:52] <nubix> jh:  hoffentlich das gleiche ansonsten nim halt das repo mit rein
+[18:54:23] ! Phia has quit. (Quit: Leaving.)
+[18:56:35] ! moohieb has joined.
+[18:56:39] <moohieb> moo
+[18:58:20] <DrMcCoy> møø
+[19:03:46] <jh> muh
+[19:14:30] <moohieb> m�p
+[19:14:50] <jh> moohieb: MI?
+[19:15:32] <moohieb> oh
+[19:15:35] <moohieb> hmmmmmm
+[19:15:41] <moohieb> geld und so
+[19:19:18] <jh> moohieb: brauchst ja nicht wieder 3,50 cocktails zu trinken^^
+[19:23:16] <moohieb> mhh
+[19:23:25] <moohieb> erstmal zeug abbauen
+[19:23:58] <elorie> moohieb: im mi gibts ein bachelorgetraenk von mir
+[19:28:24] ! elorie has quit. (Quit: Leaving.)
+[19:41:41] ! zynic has quit. (Quit: Leaving)
+[19:43:38] <moohieb> oh das idt nat�rlich argument
+[19:44:42] ! elorie has joined.
+[19:45:46] ! elorie1 has joined.
+[19:46:47] <moohieb> elorie das idt nat�rlich ein argument
+[19:49:04] ! elorie has quit. (Ping timeout: 248 seconds)
+[19:49:45] <elorie1> moohieb: :)
+[19:50:25] <nubix> elorie1 mit anhang
+[19:50:56] <elorie1> jop
+[19:50:59] ! elorie1 is now known as elorie
+[19:53:29] ! nubix has quit. (Quit: Leaving.)
+[19:54:59] ! nubix has joined.
+[19:55:06] ! nubix has quit. (Client Quit)
+[19:58:23] ! elorie has quit. (Quit: Leaving.)
+[20:00:26] <moohieb> echo elorie.anhang
+[20:00:56] <jh> moohieb: wo bist du? und wann du MI?
+[20:00:58] <moohieb> jh: ja MI, um auf deine frage zu antworten
+[20:01:17] <moohieb> bin grad niebelungenplatz
+[20:01:28] <moohieb> ETA 10 min bis MI
+[20:01:36] <jh> hu? was tust du da?
+[20:01:45] <moohieb> AUF BQAHN WARTEN
+[20:01:50] <moohieb> -gvro�
+[20:01:50] <jh> ACHSO
+[20:01:56] <moohieb> war ja am campus nord
+[20:03:45] <moohieb> hm mit der M2 muss man ja garnicht am gesundheitsamt umsteigen
+[20:05:39] <jh> brr, irgendwie ist mir kalt
+[20:06:43] <moohieb> benutzeajackewmit jh
+[20:07:16] <moohieb> jh: bin da
+[20:07:23] <moohieb> geh noch kurz geld holen
+[20:10:05] <jh> kk, dann fahr ich los
+[20:10:59] ! jh has quit. (Quit: jh)
+[20:28:28] ! jh has joined.
+[20:44:13] ! Bowdzone has joined.
+[20:49:08] <jh> hannes hat lutz zusammengeschlagen!
+[20:50:04] <Silberwoelfin> wtf?
+[20:50:08] <Silberwoelfin> ernsthaft?
+[20:52:50] <jh> ^^
+[20:52:53] <jh> naja, nicht so richtig
+[20:59:34] ! rohieb has joined.
+[20:59:54] <rohieb> ##cs-studs!
+[21:00:52] <Silberwoelfin> rohieb!
+[21:01:08] <rohieb> Silberwoelfin: du bist nicht hier!
+[21:01:12] <rohieb> also, nicht physich ^^
+[21:01:15] <jh> rohieb!
+[21:01:34] <rohieb> jh!
+[21:02:24] <rohieb> +s
+[21:05:37] <rohieb> norman!
+[21:05:41] <jh> jhs?
+[21:13:00] <rohieb> jht?
+[21:13:12] <jh> jh++!
+[21:17:08] ! nubix has joined.
+[21:17:28] <rohieb> nubix du nerd!
+[21:18:45] ! nubix has quit. (Client Quit)
+[21:18:49] ! Peace-Maker has joined.
+[21:32:19] <Silberwoelfin> rohieb!
+[21:32:25] <Silberwoelfin> rohieb: was machst du f�r schei�???
+[21:32:32] ! der_eq has quit. (Remote host closed the connection)
+[21:32:50] <rohieb> Silberwoelfin: ?
+[21:32:56] <rohieb> ah
+[21:33:00] <rohieb> das war normans idee
+[21:33:23] <rohieb> !!!!11elf
+[21:34:10] <Silberwoelfin> mir egal, wessen idee das war, es ist eine schei� idee!
+[21:34:28] * Silberwoelfin guckt alle b�se an!
+[21:34:41] <jh> :(
+[21:34:43] <jh> mich auch?
+[21:35:33] <Silberwoelfin> dich auch, wenn du dich auf sowas einl�sst...
+[21:35:39] <jh> hab ich ja nicht
+[21:35:53] <Silberwoelfin> dann guck ich dich auch nicht b�se an
+[21:36:19] <jh> :-*
+[21:36:29] * Silberwoelfin knuddelt jh
+[21:37:15] ! elorie has joined.
+[21:37:40] <Silberwoelfin> elorie: halt die b�sen jungs mal davon ab, mir meinen jh wegzunehmen, ja?
+[21:38:22] <rohieb> elorie
+[21:38:30] <rohieb> Silberwoelfin: wir machen doch garnix
+[21:38:37] <rohieb> schon garnicht mit elorie
+[21:38:39] <elorie> Silberwoelfin: er wird von norman galoscho und rohieb belagert, da wird das schwer
+[21:38:39] <rohieb> keine angst ^^
+[21:38:53] <elorie> Silberwoelfin: aber ich ha aus gesunder distanz ein auge drauf
+[21:39:06] <rohieb> gesund... ist wohl das richtige wort ^^
+[21:39:13] <elorie> rohieb: ??
+[21:39:18] <Silberwoelfin> rohieb: wenn du was tust, solltest du der jenige sein, der angst haben muss...
+[21:39:24] <rohieb> Silberwoelfin: ich tu ja nix
+[21:39:27] <rohieb> außer mit euch chatten
+[21:39:35] <jh> O_o
+[21:39:43] <rohieb> jh!
+[21:50:59] <rohieb> jaja
+[21:55:58] ! rohieb has quit. (Quit: ...yo ho ho, and a bottle of rum!)
+[21:57:15] <jh> so, mal off
+[21:57:15] ! jh has quit. (Quit: Logik wird überschätzt.)
+[22:00:25] * moohieb knuddelt elorie
+[22:02:20] ! lurtz has joined.
+[22:10:24] ! elorie has quit. (Quit: Leaving.)
+[22:12:14] ! elorie has joined.
+[22:18:40] ! nubix has joined.
+[22:22:42] ! rohieb has joined.
+[22:30:14] * rohieb knuddelt Silberwoelfin 
+[22:30:26] ! moohieb has quit. (Remote host closed the connection)
+[22:36:21] <rohieb> lurtz: du bist im krankenhaus?
+[22:36:39] <lurtz> rohieb: wieso?
+[22:36:45] <rohieb> meinte jh
+[22:36:46] <lurtz> haben krankenhäuser neuerdings ipv6?
+[22:36:52] <rohieb> wer weiß
+[22:37:09] <lurtz> ich bin helmstedt und habe 4std sport hinter mir
+[22:38:06] <rohieb> jh meinte, du wärst im krankenhaus, weil hannes dich zusammengeschlagen hat
+[22:39:07] <lurtz> oh ja ich habe ihn auch hart provoziert mit meinem christenbashing^^
+[22:39:27] <rohieb> christenbashing?
+[22:39:29] <rohieb> brav
+[22:45:53] <Silberwoelfin> hannes ist christ? oO
+[22:46:05] <rohieb> so ein bisschen
+[22:47:13] <Silberwoelfin> ein bisschen sind wir alle christen, wir sind von unserer gesellschaft mit christlichen werten aufgezogen worden, selbst wenn wir nie aktiv in die kirche gegangen sind
+[22:50:00] ! Peace-Maker has quit. (Remote host closed the connection)
+[22:50:07] ! Peace-Maker has joined.
+[22:53:24] <rohieb> ich weigere mich, christ zu sein
+[22:54:05] <rohieb> Silberwoelfin: nein, ich bin mit moralischen werten aufgezogen worden, das stimmt nur zufällig ein bisschen mit ein paar christlichen werten überein
+[23:05:07] ! PirateKing has joined.
+[23:05:51] <elorie> o.O moralische diskussionen mitten in der nacht
+[23:13:30] <nubix> sieht nur so aus ;)
+[23:14:01] <rohieb> ihr seht beide gleich aus...
+[23:14:05] <rohieb> rot und gleich lanf
+[23:14:06] <rohieb> g
+[23:14:35] <nubix> aehm... rot und lang o.0
+[23:14:37] <nubix> wtf?
+[23:14:44] <rohieb> ...
+[23:14:58] <rohieb> elorie: nimm mal nubix den alkohol weg
+[23:15:00] <nubix> rohieb: just what u said
+[23:15:52] ! Scumpeter has quit. (*.net *.split)
+[23:16:42] <elorie> rohieb: der is @home
+[23:17:00] <rohieb> DrMcCoy: nimm mal nubix den alkohol weg
+[23:17:29] <nubix> rohieb: wer sagt, dass DrMcCoy in der naehe ist?
+[23:17:36] <elorie> rohieb: DrMcCoy ist hier
+[23:17:51] <rohieb> -.-
+[23:17:53] ! lurtz has quit. (Remote host closed the connection)
+[23:17:54] <rohieb> muss man alles selber machen
+[23:17:59] * rohieb nimmt nubix den alkohol weg
+[23:18:09] <nubix> rohieb: ich habe keinen alkohol
+[23:18:30] <rohieb> umso schlimmer
+[23:18:37] <nubix> ...
+[23:19:14] <nubix> rohieb, ich weiß manchmal echt nicht genau was in deinem kopf vorgeht ;)
+[23:19:31] <rohieb> ich will auch garnicht, dass du das weißt
+[23:19:35] <rohieb> und du willst das auch nicht ^^
+[23:19:41] ! Scumpeter has joined.
+[23:24:55] ! elorie has quit. (Quit: Leaving.)
+[23:26:17] ! Phia has joined.
+[23:35:47] ! Phia1 has joined.
+[23:38:23] ! Phia has quit. (Ping timeout: 248 seconds)
+[23:41:35] ! Phia1 has quit. (Ping timeout: 248 seconds)
+[23:44:21] ! jh has joined.
+[23:46:02] <jh> re
+[23:46:14] <Silberwoelfin> wb jh :)
+[23:46:31] <rohieb> jh! \o/
+[23:46:53] <jh> Silberwoelfin, rohieb :\o/)
+[23:46:58] <jh> oder so ähnlich
+[23:47:50] <rohieb> ein tuch in der hand?
+[23:49:05] <jh> tuch?
+[23:50:05] <rohieb> ) <-- tuch
+[23:50:49] <jh> deine mudda <- tuch
+[23:52:48] <rohieb> :(
+[23:59:28] ! lurtz has joined.

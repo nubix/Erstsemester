@@ -1,0 +1,383 @@
+[00:00:12] <DrMcCoy> I.e. der Bärtige im gelben GSoC T-Shirt
+[00:00:47] <Nimos> der, der in der ersten runde gleich level6 war?
+[00:01:24] <DrMcCoy> Der, der als erster Level 10 war :P
+[00:01:32] <Nimos> haste denn gewonnen? :D
+[00:02:00] <DrMcCoy> Zusammen mit PirateKing (Blau, rechts neben mir :P)
+[00:02:48] <Nimos> k
+[00:04:27] <DrMcCoy> :P
+[00:32:21] ! rohieb has joined.
+[00:33:27] <DrMcCoy> rohieb!
+[00:34:11] <rohieb> DrMcCoy!
+[00:47:14] ! Sonea has joined.
+[00:52:50] ! ES has quit. (Quit: The cake is a lie!)
+[01:11:20] ! Sonea has quit. (Quit: Leaving.)
+[01:17:11] ! Peace-Maker has quit. (Quit: Bye.)
+[01:47:28] ! elorie has joined.
+[01:49:20] <rohieb> elorie!
+[01:49:48] <elorie> rohieb:
+[01:49:48] <ZombiePoet> elorie: Sent 14 hours and 46 minutes ago: <jh> du hast hier kram liegengelassen
+[01:50:02] <rohieb> und du bist garnicht in meiner dm-übung!
+[01:50:07] <elorie> !tell jh oh o.O evtl meinen char?
+[01:50:07] <ZombiePoet> elorie: Ok.
+[01:50:12] <elorie> rohieb: stimmt
+[01:50:16] <elorie> anscheinend
+[01:50:20] <elorie> rohieb: wann uebst du denn?
+[01:50:39] <rohieb> elorie: wenn ich dir das sage, kommst du bestimmt :P
+[01:57:21] ! nubix has quit. (Quit: Leaving.)
+[02:28:30] ! rohieb has quit. (Quit: ...yo ho ho, and a bottle of rum!)
+[03:18:15] ! conqueror121 has quit. (Read error: Connection reset by peer)
+[03:26:07] ! elorie has quit. (Quit: Leaving.)
+[07:01:52] ! conqueror12 has joined.
+[08:19:42] ! Phia has joined.
+[08:28:30] ! Phia has quit. (Ping timeout: 240 seconds)
+[08:35:04] ! ES has joined.
+[08:35:24] <ES> !mensa
+[08:35:24] <ZombiePoet> Mensa Katharinenstraße am Donnerstag:
+[08:35:25] <ZombiePoet> A: Terrine Hühnerbrühe mit Einlage 1,40€
+[08:35:26] <ZombiePoet> B: Königsberger Klops mit Kapernsauce 1,40€
+[08:35:27] <ZombiePoet> C: Mexikanischer Feuertopf mit Putenbruststreifen, Schoten und Roten Bohnen 1,90€
+[08:35:28] <ZombiePoet> V: Gemüseboulette mit Pinienkernen 1,50€
+[08:35:29] <ZombiePoet> W: Wildschweinrücken an Quittensauce und Rösti 3,50€
+[08:45:02] ! Phia has joined.
+[09:17:18] ! Phia has quit. (Read error: Connection reset by peer)
+[09:34:01] ! Phia has joined.
+[09:44:06] ! Phia has quit. (Ping timeout: 240 seconds)
+[09:53:21] ! jh has joined.
+[09:55:36] ! ES has quit. (Quit: The cake is a lie!)
+[09:56:54] ! PirateKing has joined.
+[09:59:20] ! Phia has joined.
+[09:59:27] <jh> guten abend
+[09:59:27] <ZombiePoet> jh: Sent 8 hours and 9 minutes ago: <elorie> oh o.O evtl meinen char?
+[09:59:56] <jh> !tell elo* ja, char und irgendwelche anderen zettel, auf einem steht was mit Linkfarben oder so
+[09:59:56] <ZombiePoet> jh: Ok.
+[10:08:30] ! Phia has quit. (Ping timeout: 240 seconds)
+[10:10:10] ! ES has joined.
+[10:23:25] ! Phia has joined.
+[10:26:55] ! Ignifazius has joined.
+[10:32:30] ! Phia has quit. (Ping timeout: 240 seconds)
+[10:48:10] ! Phia has joined.
+[10:53:18] ! soney has joined.
+[11:00:17] ! Tigaa_laptop has joined.
+[11:11:22] ! Mobiwoelfin has joined.
+[11:11:49] <Mobiwoelfin> moin
+[11:16:20] ! Mobiwoelfin has quit. (Read error: Connection reset by peer)
+[11:16:38] ! Mobiwoelfin has joined.
+[11:21:35] ! Phia has quit. (Ping timeout: 248 seconds)
+[11:22:43] ! Mobiwoelfin has quit. (Read error: Connection reset by peer)
+[11:25:23] ! elorie has joined.
+[11:25:58] ! Mobiwoelfin has joined.
+[11:28:01] ! Mobiwoelfin has quit. (Read error: Connection reset by peer)
+[11:33:29] ! elorie has quit. (Quit: Leaving.)
+[11:37:05] ! Phia has joined.
+[11:42:32] <Tigaa_laptop> soney mensa?
+[11:46:00] <Tigaa_laptop> also so um 12:30
+[11:46:02] <Tigaa_laptop> ?
+[11:46:07] ! Phia has quit. (Ping timeout: 248 seconds)
+[11:46:24] <Tigaa_laptop> Valodim: ich habe es noch hinbekommen, mit dem Bild, so wie ich wollte
+[11:46:55] <Tigaa_laptop> jetzt sind die ausschnitte des Bildes in weniger als 3 Minuten zu machen.. sie sind alle gleich grpß und gleich angeordnet und haben eine eigene Beschriftung :)
+[11:47:03] <Tigaa_laptop> valodim Mensa?
+[11:57:48] ! Ignifazius has quit. (Quit: *Vanish*)
+[12:01:57] ! Phia has joined.
+[12:05:47] ! nubix has joined.
+[12:07:15] ! nubix has quit. (Client Quit)
+[12:12:30] ! Phia has quit. (Ping timeout: 240 seconds)
+[12:21:28] <Valodim> Tigaa_laptop: ich war eben da, aber vorher nicht online..
+[12:21:40] <Valodim> Tigaa_laptop: woran lags? tex schuld, oder hattest du einen fehler drin?
+[12:25:50] ! elorie has joined.
+[12:27:37] ! Phia has joined.
+[12:28:09] ! nubix has joined.
+[12:30:05] ! nubix has quit. (Client Quit)
+[12:31:08] ! Mobiwoelfin has joined.
+[12:37:18] ! Phia has quit. (Ping timeout: 240 seconds)
+[12:40:21] ! Debi has joined.
+[12:52:56] ! nubix has joined.
+[12:52:59] ! Phia has joined.
+[13:01:21] ! Cascharity has joined.
+[13:10:30] ! Mobiwoelfin has quit. (Ping timeout: 240 seconds)
+[13:10:38] ! Mobiwoelfin has joined.
+[13:12:07] ! nubix has quit. (Quit: Leaving.)
+[13:13:12] ! Mobiwoelfin has quit. (Read error: Connection reset by peer)
+[13:18:07] ! nubix has joined.
+[13:26:06] ! Phia has quit. (Ping timeout: 240 seconds)
+[13:26:17] ! Silberwoelfin has joined.
+[13:39:54] ! Phia has joined.
+[13:53:37] ! elorie has quit. (Quit: Leaving.)
+[13:55:45] ! nubix has quit. (Quit: Leaving.)
+[14:06:39] ! Cascharity has quit. (Quit: Verlassend)
+[14:13:18] ! elorie has joined.
+[14:13:56] ! elorie has quit. (Client Quit)
+[14:16:02] ! nubix has joined.
+[14:22:24] ! elorie has joined.
+[14:28:09] ! elorie has quit. (Quit: Leaving.)
+[14:35:31] <Wechner> Valodim: hier stehen verschiedene Tricks, wie man den automatischen Exit von pulseaudio verhindern kann: http://blog.exi.wthack.de/how-to-setup-a-pulseaudio-user-soundserver-for-your-network-in-gentoo
+[14:38:54] ! Phia has quit. (Ping timeout: 240 seconds)
+[14:54:09] ! rohieb has joined.
+[14:54:19] ! elorie has joined.
+[14:54:51] ! Phia has joined.
+[14:58:12] ! DrMcCoy has changed the topic: Informatik, Informatik- und IST-Studium an der TU-BS, Braunschweig, ...
+[14:59:16] <DrMcCoy> Wechner: Normalerweise will man doch das Gegenteil, nämlich dass das dumme Drecksteil pulse für immer verschwindet...
+[15:00:10] ! lurtz has joined.
+[15:05:07] ! Ignifazius has joined.
+[15:11:06] <soney> Tigaa_laptop: afk
+[15:11:29] ! soney has quit. (Remote host closed the connection)
+[15:29:56] ! zynic has joined.
+[15:30:30] ! Phia has quit. (Ping timeout: 240 seconds)
+[15:36:42] <zynic> !nom
+[15:36:43] <ZombiePoet> Abendmensa Katharinenstraße am Donnerstag:
+[15:36:44] <ZombiePoet> A: Terrine Hühnerbrühe mit Einlage 1,40€
+[15:36:45] <ZombiePoet> B: Curryfleischwurst mit Ketchup AT (s/r) 1,80€
+[15:36:46] <ZombiePoet> C: Hühnerbrustfilet mit weißer Sauce, Spargel und Champignons 1,80€
+[15:36:47] <ZombiePoet> W: 1/2 Brathähnchen 1,90€
+[15:39:21] ! Silberwoelfin has quit. (Quit: Verlassend)
+[15:41:03] <DrMcCoy> C-C-C-Currywurst!
+[15:45:25] <Wechner> DrMcCoy: eben nicht, pulse ist mittlerweile deutlich mature und läuft super, und Dinge wie per-application Lautstärke oder erhöhen der Lautstärke über 100% in Software ganz zu schweigen von TCP-Sinks möchte ich echt nicht mehr missen
+[15:45:37] <DrMcCoy> Pah
+[15:46:03] <Wechner> aber ich erwarte nicht, dass du das verstehst ;)
+[15:46:07] <Wechner> :P
+[15:46:47] <DrMcCoy> Früher, Schnee und Berg rauf und so
+[15:47:04] <DrMcCoy> *grmlgrml*
+[15:48:25] <Wechner> raff ich nicht ;p
+[15:49:46] <DrMcCoy> Hab ich von dir auch nicht erwartet >:|
+[15:49:47] <DrMcCoy> ;P
+[15:50:08] <Wechner> was hältst du eigentlich von systemd?
+[15:50:40] <DrMcCoy> Unnütz
+[15:51:51] <Wechner> I rest my case ;)
+[15:53:42] <DrMcCoy> Naja, du rennst ja sowieso jedem unnützen neuen Trend hinterher
+[15:53:58] <DrMcCoy> Wie funktioniert darcs denn inzwischen? :P
+[15:54:05] <Wechner> gut :)
+[15:54:08] <Wechner> aber git ist besser ;)
+[15:54:36] <Wechner> DrMcCoy: naja, SSD und systemd bringen mein Notebook in 5 Sekunden von Kernel zum Desktop
+[15:54:45] ! nubix has quit. (Quit: Leaving.)
+[15:54:53] <Wechner> openrc und upstart brauchten da deutlich länger
+[15:54:58] <DrMcCoy> Dafür kannst du deine SSD auch in im Schnitt einem Jahr in die Tonne kloppen
+[15:54:59] <Wechner> (auch jeweils mit SSD)
+[15:55:07] <Wechner> unwahrscheinlich
+[15:55:23] <Wechner> die halten schon ein bisschen mehr aus
+[15:55:45] <Wechner> zumal schreibintensive Verzeichnisse (/tmp, /var, ...) gar nicht auf der SSD sind
+[15:56:14] <Wechner> aber selbst wenn halten die soweit ich weiß deutlich länger
+[15:56:25] <DrMcCoy> http://www.codinghorror.com/blog/2011/05/the-hot-crazy-solid-state-drive-scale.html
+[15:56:28] <ZombiePoet> Title: Coding Horror: The Hot/Crazy Solid State Drive Scale (at www.codinghorror.com)
+[15:56:40] <DrMcCoy>     Super Talent 32 GB SSD, failed after 137 days
+[15:56:40] <DrMcCoy>     OCZ Vertex 1 250 GB SSD, failed after 512 days
+[15:56:40] <DrMcCoy>     G.Skill 64 GB SSD, failed after 251 days
+[15:56:40] <DrMcCoy>     G.Skill 64 GB SSD, failed after 276 days
+[15:56:40] <DrMcCoy>     Crucial 64 GB SSD, failed after 350 days
+[15:56:42] <DrMcCoy>     OCZ Agility 60 GB SSD, failed after 72 days
+[15:56:45] <DrMcCoy>     Intel X25-M 80 GB SSD, failed after 15 days
+[15:56:47] <DrMcCoy>     Intel X25-M 80 GB SSD, failed after 206 days
+[15:58:11] <Wechner> naja, also erstmal schreibt man da genaue Modelle hin, Crucial 64GB gibt's mehrere, von Super Talent und G.Skill sicher auch
+[15:58:28] <Wechner> enie Vertex 3 kauft man sowieso nicht, weil Controller-Probleme, und der sorgt dann für den Datenverlust, nicht die SSD an sich
+[15:59:51] <jh> re
+[16:00:05] <jh> rohieb: du wolltest nicht kino, oder?
+[16:00:09] <Wechner> und da steht nicht wirklich, ob Schreibzyklen aufgebraucht oder irgendein anderer Fehler
+[16:00:39] <Wechner> und Backups muss man so oder so immer machen ;)
+[16:01:28] <rohieb> jh: shoontah?
+[16:01:32] <rohieb> jh: dieser komische film?
+[16:01:52] <DrMcCoy> Wechner: Joa, klar. Aber ich will nicht ständig auf das Backup angewiesen sein, das ist ja auch wieder Arbeit und Mühe, das wieder herzustellen
+[16:02:16] <DrMcCoy> Wechner: Trauen tue ich den SSDs jedenfalls nicht
+[16:02:44] ! zynic has quit. (Remote host closed the connection)
+[16:03:41] <jh> rohieb: jo, Four Lions
+[16:05:30] <rohieb> achso
+[16:05:30] <rohieb> nee
+[16:07:56] <Wechner> DrMcCoy: also in der FG kenn ich einige die SSDs im Einsatz haben, und bisher alle keine Probleme, soweit ich weiß
+[16:08:23] <Wechner> und dass eine Vertex 3 Controller-Probleme hat(te), kann man auch kreuz und quer (mittlerweile) auf den Klowänden des Internets lesen ...
+[16:13:21] ! elorie has quit. (Quit: Leaving.)
+[16:16:52] <Tigaa_laptop> Wechner
+[16:16:54] <Tigaa_laptop> ?
+[16:17:09] <Wechner> Tigaa_laptop: ?
+[16:17:24] <Tigaa_laptop> Kennst du dich mit Verlängerungen wissenschaftlicher Arbeiten aus?
+[16:17:40] <Wechner> nicht so richtig, aber hit me und wir schauen mal :)
+[16:18:16] <Tigaa_laptop> ich würde gerne Verlänger und weiß nicht: A) Was ich in den Antrag schreiben soll und b) Welche Form der haben muss
+[16:18:45] <Wechner> Tigaa_laptop: also am besten sprichst du das mit deinem Betreuer ab, der weiß vielleicht auch mehr ...
+[16:18:58] <Wechner> geht es um eine Bachelor- oder Master-Arbeit?
+[16:19:14] <Tigaa_laptop> Masterarbeit
+[16:19:36] <Wechner> dann muss glaub ich auch noch der betreuende Professor den Antrag unterstützen
+[16:19:41] <Tigaa_laptop> hmm der meinte mach mal nen Antrag Fertig
+[16:19:50] <Tigaa_laptop> ja genau soweit bin ich auch shcon
+[16:20:07] <Wechner> hm, ok ...
+[16:20:26] <serj> dann unterschreibt das dein prof... dann gehts an den pruefungsausschuss
+[16:20:29] <Wechner> von der Form her könnte er ziemlich formlos sein (was für ein Satz)
+[16:20:58] <Wechner> also sowas wie "Hiermit beantrage ich nach §... der MPO die Verlängerung meiner Masterarbeit um ... Wochen/Monate. Zur Begründung: ..."
+[16:21:52] <Wechner> und die Begründung sollte natürlich zum einen evtl. belegbar sein (z. B. Krankheit) und zum anderen denke ich schon etwas sein, wofür du objektiv auch nichts kannst (technische Probleme oder so etwas ...)
+[16:22:26] <Wechner> oder es sollte halt deutlich werden, dass es eine unverhältnismäßig wäre und du deine Arbeit mit der Verlängerung erfolgreich abschließen kannst (was der Prof dann ja auch bescheinigen wird)
+[16:22:37] <Wechner> aber das ist jetzt alles mal ins Blaue gesprochen ...
+[16:23:16] <Wechner> wenn du magst, frag vielleicht noch einmal in einer Mail an fginfo@tu-bs.de nach, vielleicht wissen da andere noch mehr, oder wenn du es ungebundener magst, komm nachher ab 18:15 Uhr zu unserem FG-Treffen
+[16:23:31] <jh> Tigaa_laptop: rohieb hat mal seine BA verlängert
+[16:23:53] <jh> Wechner: btw, dein bot ist verstorben
+[16:24:03] <Wechner> meh, schon wieder? :\
+[16:24:10] <jh> Wechner: schon länger^^
+[16:24:39] ! zerobot has joined.
+[16:24:43] <Tigaa_laptop> na ja danke auf jeden fall erstmal
+[16:25:59] <DrMcCoy> Wechner: Der benutzt sicher pulse und schreibt auf ne SSD! ;P
+[16:26:14] <Wechner> DrMcCoy: :P
+[16:26:54] ! lurtz has quit. (Ping timeout: 240 seconds)
+[16:27:19] ! zerobot has quit. (Remote host closed the connection)
+[16:27:23] ! lurtz has joined.
+[16:27:33] ! zerobot has joined.
+[16:36:53] ! lurtz has quit. (Quit: Leaving.)
+[16:37:44] ! lurtz has joined.
+[16:45:17] ! lurtz has quit. (Quit: Leaving.)
+[16:49:28] ! lurtz has joined.
+[17:06:49] ! moenni has joined.
+[17:07:41] ! moenni has quit. (Client Quit)
+[17:20:41] ! Silberwoelfin has joined.
+[17:30:41] <Silberwoelfin> hi
+[17:39:15] <jh> Wechner: ist 033 jetzt offizieller ersatzraum?
+[17:39:24] <jh> Wechner: für den winfo-raum
+[17:39:33] <jh> wie kommt man da rein wenn zu?
+[17:40:13] <Wechner> gar nicht zurzeit
+[17:40:20] <Wechner> d. h. der ist nur halber Ersatzraum
+[17:40:25] <Wechner> das ist noch ein offenes Problem in der FG
+[17:41:40] <Silberwoelfin> Wechner: doof.
+[17:41:55] <jh> winfos anzünden ist auch noch verboten, oder?
+[17:42:36] <Silberwoelfin> ^^
+[17:42:40] <ES> jh:; grauzone
+[17:42:53] <Silberwoelfin> Wechner: kann man irgendwoher einen schlüssel bekommen?
+[17:54:05] <Wechner> !wt4m0c1techdew/
+[17:54:26] <Wechner> Silberwoelfin: nicht dass ich wüsste
+[17:54:32] <Wechner> hm, C&P fail ...
+[17:55:05] ! PirateKing has quit. (Quit: Leaving.)
+[17:55:08] <Wechner> also gleich noch mal ein neues Passwort generieren ^^
+[17:56:18] <jh> :D
+[17:56:25] <jh> Wechner: für was wars denn? :P
+[17:56:36] <Wechner> für einen neuen User auf meinem Server :P
+[17:56:45] <jh> ^^
+[17:56:48] <Wechner> aber das ist noch nicht gesetzt, also keine Hoffnungen machen ;)
+[18:01:38] ! ES has quit. (Quit: The cake is a lie!)
+[18:06:01] ! Sonea has joined.
+[18:06:55] <Silberwoelfin> Sonea: \o/
+[18:07:22] <Sonea> Silberwoelfin: \o/
+[18:16:56] ! PirateKing has joined.
+[18:20:42] ! lurtz1 has joined.
+[18:21:35] ! lurtz has quit. (Ping timeout: 260 seconds)
+[18:31:59] <PirateKing> jetzt geht es alice bald an den kragen ;) http://www.golem.de/1111/87676.html
+[18:36:23] <Valodim> und kabel deutschland erst ;)
+[18:52:03] ! lurtz1 has quit. (Ping timeout: 245 seconds)
+[18:53:14] ! lurtz has joined.
+[19:03:26] <jh> Sonea!
+[19:07:25] ! Ignifazius_ has joined.
+[19:08:50] <jh> PirateKing: die werben doch alle nur mit "bis zu xxx mbit/s"...
+[19:09:25] ! Ignifazius has quit. (Ping timeout: 260 seconds)
+[19:11:16] ! PirateKing1 has joined.
+[19:12:54] ! PirateKing has quit. (Ping timeout: 240 seconds)
+[19:14:21] <jh> PirateKing1: hast dich gleich mal angemeldet?^^
+[19:16:29] <Debi> http://www.golem.de/1111/87506.html
+[19:16:30] <ZombiePoet> Title: Whisky: Mit Laser gegen falschen Scotch - Golem.de (at www.golem.de)
+[19:19:22] ! elorie has joined.
+[19:27:48] ! Ignifazius_ has quit. (Quit: *Vanish*)
+[19:28:56] ! lurtz has quit. (Quit: Leaving.)
+[19:35:01] ! PirateKing has joined.
+[19:36:54] ! PirateKing1 has quit. (Ping timeout: 240 seconds)
+[19:38:10] <rohieb> was ist denn mit IZ033?
+[19:38:19] <rohieb> war das nicht mal seminarraum?
+[19:40:27] ! Silberwoelfin has quit. (Quit: Verlassend)
+[19:41:07] <jh> rohieb: ja, aber der ist nicht immer offen
+[19:41:56] <jh> rohieb: letzte chance für kino :P
+[19:43:24] <rohieb> hä
+[19:43:32] <rohieb> seminarräume sind doch generell nicht immer offen
+[19:43:44] <rohieb> 358 und 251 doch auch nicht
+[19:43:46] <jh> PirateKing: hattest du/ihr eigentlich schon mal nach caches für Sa geguckt?
+[19:44:12] <jh> rohieb: aber der ist wohl relativ selten belegt, und die restliche zeit sollte er als ersatzraum genutzt werden können
+[19:44:47] ! Cascharity has joined.
+[19:45:55] <PirateKing> jh: "die werben doch alle nur mit "bis zu xxx mbit/s"..." <-- ja, aber die hälfe davon müssen sie mindestens liefern und das schafft alice hier in letzter zeit nicht mehr. von den ganzen diconnects mal abgesehen
+[19:46:11] <rohieb> achso
+[19:46:17] <PirateKing> jh: ne, habe noch nicht nach caches geschaut
+[19:47:00] <jh> ok
+[19:47:06] <jh> naja, erstmal schunterkino
+[19:47:07] <jh> bye
+[19:47:11] ! jh has quit. (Quit: jh)
+[19:55:17] ! Phia has joined.
+[20:00:19] ! PirateKing1 has joined.
+[20:02:06] ! PirateKing has quit. (Ping timeout: 240 seconds)
+[20:02:39] ! Phia has quit. (Ping timeout: 248 seconds)
+[20:10:13] <Sonea> jh!
+[20:10:49] <Sonea> hmm warum sind denn alle im schunterkino?
+[20:11:38] <rohieb> ich nicht
+[20:11:41] <rohieb> ich bin bei penny ^^
+[20:18:43] <Sonea> haha :D
+[20:18:48] <Sonea> rohieb: hmm und ich hab auch hunger
+[20:18:49] ! Phia has joined.
+[20:18:55] <Sonea> hallo Phia wie wars?
+[20:19:20] <Sonea> so jetzt weiß ich was ich mache: nach hause gehen und für GRE/Toefl lernen
+[20:19:43] <Sonea> rohieb: und du bist böse, ich war heute extra in der graph drawing übung
+[20:19:58] <Sonea> rohieb: und dann hatte ich keine unterlagen, warum warst du nicht da?
+[20:20:49] <elorie> Sonea: war ganz nett aber fuer informatik kamen nur 2
+[20:20:50] <ZombiePoet> elorie: Sent 10 hours and 20 minutes ago: <jh> ja, char und irgendwelche anderen zettel, auf einem steht was mit Linkfarben oder so
+[20:20:56] <elorie> bei mir waren ca. 10
+[20:22:29] <Sonea> naja ist ja auch medien
+[20:22:37] <Sonea> aber till meinte schon dass es wohl sehr leer war
+[20:24:02] <elorie> und cih habe mal wieder festgetsellt: Braunschweig ist ein dorf
+[20:30:12] <Sonea> inwiefern?
+[20:30:18] <Sonea> also klar
+[20:30:24] <Sonea> aber wen hast du getroffen ;)?
+[20:30:28] <DrMcCoy> Pah, Braunschweig ist gerade richtig
+[20:30:33] <DrMcCoy> Nicht zu klein, nicht zu groß
+[20:32:12] ! der_eq has joined.
+[20:32:39] <elorie> Sonea: meinen ex-chef und eine aushilfe aus meinem jetzigen job
+[20:39:52] ! PirateKing1 is now known as PirateKing
+[20:41:27] ! nubix has joined.
+[20:41:47] <Wechner> nubix: ich soll dir von Sonea ausrichten, dass du ruhig Getränke bestellen kannst
+[20:42:14] <nubix> .
+[20:42:19] <nubix> Wechner: thx
+[20:42:54] <nubix> !tell Sone* Bin erst am Montag wieder in BS. Wenn du vorher etwas bestellt haben willst solltest du das vll besser selbst machen
+[20:42:55] <ZombiePoet> nubix: Ok.
+[20:42:58] <DrMcCoy> Ein nubix!
+[20:47:41] ! nubix has quit. (Quit: Leaving.)
+[20:47:55] <DrMcCoy> Kein nubix :(
+[20:49:44] <rohieb> Sonea: sorry, ich geh mich schämen
+[20:49:49] <rohieb> Sonea: weil das so früh war
+[20:58:03] ! Peace-Maker has joined.
+[20:58:40] ! nubix has joined.
+[21:00:50] ! nubix has quit. (Client Quit)
+[21:02:59] <rohieb> Sonea: war der winnie eigentlich da?
+[21:11:22] <Sonea> rohieb: nee
+[21:11:23] <ZombiePoet> Sonea: Sent 28 minutes ago: <nubix> Bin erst am Montag wieder in BS. Wenn du vorher etwas bestellt haben willst solltest du das vll besser selbst machen
+[21:11:41] <Sonea> elorie: ui
+[21:12:05] <Sonea> rohieb: und wie war krypto?
+[21:12:13] <elorie> Sonea: volker eckhardt falls dir der name vom ehemligenverein aus was sagt ;)
+[21:12:27] <Sonea> !tell nubix komme ich wahrscheinlich auch nciht zu, aber ich weiß bescheid. danke
+[21:12:28] <ZombiePoet> Sonea: Ok.
+[21:13:10] <rohieb> Sonea: nix besonderes
+[21:14:52] ! PirateKing1 has joined.
+[21:16:54] ! Phia has quit. (Ping timeout: 240 seconds)
+[21:16:54] ! PirateKing has quit. (Ping timeout: 240 seconds)
+[21:18:14] <Sonea> so jetzt aber wirklcih nach hause
+[21:18:21] <Sonea> kocht mir jemand essen? :D
+[21:18:37] <rohieb> Droggl bestimmt
+[21:19:22] <Sonea> rohieb: nee der ist ja auch film gucken
+[21:19:44] <Sonea> ganz schön nervig so nen englischen Nachweis auszustellen
+[21:20:44] ! Sonea has left the channel.
+[21:22:30] ! elorie has quit. (Quit: Leaving.)
+[21:28:24] <DrMcCoy> http://www.roxydrew.com/?p=155 :D
+[21:28:26] <ZombiePoet> Title: (Human) Sex Is Boring. | Roxy Drew (at www.roxydrew.com)
+[21:38:07] <rohieb> das gleich würden warscheinlich giraffen, leopardnacktschnecken und gemeine spaltblättlinge über ihr eigenes sexleben sagen, wenn sie bloggen könnten
+[21:38:09] <rohieb> +e
+[21:39:08] <Nimos> was die so denken :D
+[21:42:01] <rohieb> :D
+[21:42:05] <rohieb> wenn sie denken könnten...
+[21:42:13] <rohieb> aslso bei solchen pilzen wär ich mir da nicht sicher
+[21:42:44] ! PirateKing has joined.
+[21:44:06] ! PirateKing1 has quit. (Ping timeout: 240 seconds)
+[21:56:39] ! ES has joined.
+[22:05:33] ! Debi has quit. (Quit: Verlassend)
+[22:19:59] <rohieb> lol :D
+[22:20:11] <rohieb> kucke mir grad die aufgaben von hedgewars für google code-in an
+[22:20:13] <rohieb> die eine ist
+[22:20:15] <rohieb> Play the game like there was no tomorrow and report at least 5 *new* *real* bugs.
+[22:31:22] ! Tigaa_laptop has quit. (Quit: Leaving.)
+[22:40:44] ! lurtz has joined.
+[22:41:01] ! nubix has joined.
+[22:41:24] ! jh has joined.
+[22:43:26] <jh> guten morgen
+[22:47:23] <nubix> guten mittag lieber jh
+[22:47:24] <ZombiePoet> nubix: Sent 1 hour and 34 minutes ago: <Sonea> komme ich wahrscheinlich auch nciht zu, aber ich weiß bescheid. danke
+[22:48:09] <jh> !tell sonea wenn ich dich schon nach schunterkino frage, sag mir doch dass der Droggl da auch hingeht :P
+[22:48:09] <ZombiePoet> jh: Ok.
+[22:48:15] <jh> Droggl: wie fandeste den?^^
+[22:52:48] ! nubix has quit. (Quit: Leaving.)
+[23:06:44] <rohieb> !obey
+[23:06:45] <ZombiePoet> Exterminate!
+[23:08:42] <rohieb> Cascharity: martin buchholz ist der thermo-bestehen-typ?
+[23:17:57] ! nubix has joined.
+[23:35:14] ! PirateKing has quit. (Quit: Leaving.)
+[23:44:31] ! Phia has joined.

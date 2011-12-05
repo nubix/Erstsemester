@@ -1,0 +1,588 @@
+[00:00:00] ! nubix1 is now known as nubix
+[00:00:02] <nubix> Hallo lieber Sonntag!
+[00:01:28] <elorie> nubix: boeser sonntag
+[00:01:54] <nubix> elorie: aber der sonntag ist doch noch regelrecht jungfraeulich
+[00:02:16] <nubix> der hat dir bestimmt noch gar nichts getan :)
+[00:05:54] <ES> woot? wir haben sonntag? o:O
+[00:07:43] <nubix> ES: Ja, deshalb habe ich ihn gerade begruesst
+[00:07:49] ! Peace-Maker has quit. (Quit: Bye.)
+[00:08:12] <ES> damn, bis gerade eben ging ich irgendwie davon aus, dass nach dem aufwachen erst samstag ist
+[00:09:45] ! nubix1 has joined.
+[00:09:53] ! nubix1 has quit. (Changing host)
+[00:09:54] ! nubix1 has joined.
+[00:10:51] <rohieb> elorie: samstag ist scheiße, sonntag ist noch ok
+[00:11:05] <rohieb> so, was mach ich jetzt mit dem angefangenen sonntag
+[00:11:17] <nubix1> rohieb: ich glaube, dass hat bei ihr gerade eher deadline gruende
+[00:11:27] <rohieb> hm
+[00:11:27] <nubix1> rohieb: du koenntest mir ein eis bringen
+[00:11:56] <rohieb> drei tage vor der deadline anfangen == 4.0, kann also nix schief gehen
+[00:11:58] <rohieb> nubix1: pf
+[00:12:20] <nubix1> ich gebe dir auch schokolade als belohnung :)
+[00:12:23] ! nubix has quit. (Ping timeout: 252 seconds)
+[00:12:36] ! nubix1 is now known as nubix
+[00:15:04] <rohieb> hallo
+[00:15:06] <rohieb> wasn das fürn scheiß
+[00:15:15] <rohieb> "password cannot contain non-latin letters"
+[00:15:17] <rohieb> !slap icq
+[00:15:19] * ZombiePoet throws a rock at icq
+[00:15:22] <rohieb> !slap icq hard
+[00:15:23] * ZombiePoet softly pelts icq hard with uncooked peas
+[00:16:16] <rohieb> seit wann gelten ausrufezeichen denn nicht als latin
+[00:16:26] <rohieb> hmpf
+[00:16:34] * rohieb regt sich nicht auf... /me ist ganz ruhig
+[00:17:33] <nubix> rohieb: trink einen schluck wasser und nim eine deiner beruhigungstabletten
+[00:17:38] <nubix> dann geht dir das gleich wieder besser :p
+[00:17:43] <rohieb> hab keine
+[00:18:21] <nubix> trink einen heissen kakao :)
+[00:18:26] <nubix> und iss einen keks dazu :p
+[00:18:30] <rohieb> bin milchallergiker
+[00:18:32] <joke`> rohieb: Deadline wof�r?
+[00:18:36] <rohieb> und hab keinen hunger
+[00:18:42] <rohieb> joke`: ich hab keine deadline
+[00:19:12] <joke`> achso, ich dachte wegen <rohieb> drei tage vor der deadline anfangen == 4.0, kann also nix schief gehen
+[00:19:20] <rohieb> ja
+[00:19:25] * rohieb spricht aus erfahrung
+[00:21:22] <elorie> bringt mir eis
+[00:21:54] <rohieb> hab schon schlafklamotten an... ich glaube, das willst du nicht sehen
+[00:21:57] <nubix> elorie: ohm, ne?
+[00:22:22] <rohieb> hm... man bräuchte nen webdienst, der sachen verschlüsselt, sodass man nicht drankommt, und erst wieder nach ner bestimmten zeitspanne freigibt
+[00:22:49] <rohieb> nubix: willst du nichtmal son teil baun? mit gpg?
+[00:23:25] <nubix> rohieb: gar keine schlechte idee
+[00:23:28] <rohieb> ja
+[00:23:46] * rohieb hat grad sein icq-passwort gewechselt, damit er es für ne weile vergessen kann
+[00:23:54] <rohieb> jetzt weiß ich nur nicht, wohin damit ^^
+[00:24:46] <nubix> rohieb: zettel? usbstick?
+[00:24:52] <nubix> rohieb: kopf?
+[00:25:00] <rohieb> nein, ich will ja grade nicht drankommen
+[00:25:12] <rohieb> entzugskur und so ^^
+[00:25:41] <nubix> rohieb: sorry wtf?!
+[00:25:47] <elorie> rohieb: jh in nem zugeklebten briefumschlag?
+[00:25:55] <elorie> nubix: passt schon
+[00:26:02] <rohieb> ich will zumindest für ne weile icq nicht benutzen, aber ich weiß nicht, ob ichs in zukunft nochmal brauchen werde
+[00:26:30] <rohieb> darum, passwort in ein zufälliges wechseln, passwort jemandem anders geben, passwort vergessen
+[00:26:58] <rohieb> elorie: jaah, aber ich will keinen, der meine icq-nummer kennt...
+[00:27:08] <nubix> rohieb: schicks dir per post mit einem definierten ankunftsdatum :p
+[00:27:11] <elorie> naja traust du ihm oder traust du hm nciht>
+[00:27:26] <rohieb> nubix: lol, das geht?
+[00:27:32] <elorie> rohieb: ansonsten pack in einem zugeklebten umschlag bei deinen eltern in einen ordne rmit eichigen dokumenten oder so
+[00:27:38] <rohieb> elorie: insofern trau ich ihm weniger... ^^
+[00:27:39] <elorie> wichtigen
+[00:27:47] <rohieb> elorie: ah das könnte ich machen
+[00:28:00] <rohieb> hm, aber wenn ich das jetzt aufschreibe, brennt sich das bestimmt in mein gedächtnis ein
+[00:28:26] <joke`> Hm, dann drucke es doch aus und packe den ausdruck in den besagten ordner
+[00:28:31] <rohieb> hab aber keinen drucker ^^
+[00:28:41] <joke`> GITZ, G40?
+[00:29:07] <elorie> narf betaeubungscreme hoert wieder auf zu wirken
+[00:29:07] <rohieb> hmja, aber müsste ich ja in die uni laufen...
+[00:29:23] <joke`> Betaeubungscreme? Wof�r das denn?
+[00:29:37] <nubix> rohieb: wenn das passwort nicht gerade zu einfach ist kannst du es dir wohl nicht lange merken nach dem aufschreiben
+[00:30:03] <rohieb> nubix: dummerweise nimmt icq ja nur passwörter <= 8 zeichen -.-
+[00:30:06] <rohieb> das ist echt ein failsystem
+[00:30:13] <rohieb> kein wunder, dass man das nicht benutzen will
+[00:30:16] <nubix> oh...
+[00:30:32] <rohieb> verdammt, jetzt habe ich es mir beim aufschrieben gemerkt ^^
+[00:30:54] <rohieb> aber die idee mit dem webservice, der sowas macht, ist echt gut
+[00:30:57] <rohieb> und
+[00:31:04] <rohieb> wenn jemand dem webservice nicht vertraut
+[00:31:39] <rohieb> kann er das zeug, was er für ne weile vergessen will, auch selber mit seinem gpg-schüssel verschlüsseln, vor dem abschicken
+[00:32:27] <rohieb> auja, ich glaube, ich hab lust darauf, das jetzt zu bauen
+[00:32:29] <nubix> rohieb: verschluessel doch das pw mit gpg und gib dann den cyphertext jh oder so
+[00:32:33] <rohieb> aber ich muss morgen früh aufstehen...
+[00:32:41] <rohieb> nubix: stimmt, das könnte ich machen
+[00:32:59] <rohieb> cyphertext ist lang genug, um ihn sich nicht zu merken
+[00:33:03] <nubix> du kannst das ding dann auch noch an andere verteilen damit das pw nicht vergessen wird
+[00:38:31] <rohieb> elorie: warum eigentlich jh? ich könnts auch dir schicken
+[00:39:09] <elorie> k.a.
+[00:39:40] <nubix> rohieb: du kannst es verschluesselt sogut wie jedem schicken ^^
+[00:42:18] * nubix likes Martin Sonneborn.
+[00:50:26] ! ES has quit. (Quit: The cake is a lie!)
+[00:54:25] ! CalebRipley has joined.
+[01:03:57] ! joke` has quit. (Ping timeout: 268 seconds)
+[01:10:03] ! PirateKing has quit. (Read error: Connection reset by peer)
+[01:33:10] ! lurtz has joined.
+[01:41:56] <rohieb> n8
+[01:50:27] ! Bowdzone has joined.
+[01:52:00] ! rohieb has quit. (Quit: ...yo ho ho, and a bottle of rum!)
+[01:58:16] ! joke` has joined.
+[02:06:31] ! CalebRipley has quit. (Remote host closed the connection)
+[02:17:50] ! Bowdzone has quit. (Quit: Bowdzone)
+[02:28:09] ! lurtz has quit. (Read error: Connection reset by peer)
+[02:41:04] ! _Rick_ has quit. (Ping timeout: 240 seconds)
+[02:41:50] ! _Rick_ has joined.
+[02:42:53] ! nubix1 has joined.
+[02:42:53] ! nubix1 has quit. (Changing host)
+[02:42:53] ! nubix1 has joined.
+[02:44:13] ! nubix has quit. (Ping timeout: 250 seconds)
+[02:48:42] ! nubix1 has quit. (Quit: Leaving.)
+[03:10:10] ! joke` has quit. (Quit: Verlassend)
+[03:27:27] ! elorie1 has joined.
+[03:31:07] ! elorie has quit. (Ping timeout: 252 seconds)
+[04:44:14] ! elorie has joined.
+[04:46:49] ! elorie1 has quit. (Ping timeout: 245 seconds)
+[05:17:40] ! kiney has joined.
+[05:18:48] ! kiney1 has quit. (Ping timeout: 240 seconds)
+[07:51:31] ! elorie has quit. (Quit: Leaving.)
+[08:40:39] ! Mobiwoelfin has joined.
+[08:40:51] <Mobiwoelfin> moin
+[08:41:41] <DrMcCoy> Mobiwoelfin!
+[08:44:41] <Mobiwoelfin> DrMcCoy!
+[08:50:02] ! Bowdzone has joined.
+[10:15:32] ! Mobiwoelfin has quit. (Quit: Bye)
+[10:30:10] ! moenni has joined.
+[10:36:04] ! ES has joined.
+[11:02:48] ! lurtz has joined.
+[11:15:24] ! Phia has joined.
+[11:26:40] ! PirateKing has joined.
+[11:52:04] ! CalebRipley has joined.
+[11:59:43] ! lurtz has quit. (Remote host closed the connection)
+[12:19:57] ! Ignifazius has joined.
+[13:17:01] ! nubix has joined.
+[13:17:09] ! CalebRipley has quit. (Remote host closed the connection)
+[13:25:37] ! csg has joined.
+[14:18:05] ! moenni has quit. (Read error: Connection reset by peer)
+[14:45:24] ! lurtz has joined.
+[14:57:09] ! elorie has joined.
+[14:57:53] <elorie> .
+[15:12:17] <lurtz> ..
+[15:26:56] <DrMcCoy> ...
+[15:33:52] ! elorie has quit. (Quit: Leaving.)
+[15:37:49] ! moenni has joined.
+[15:48:31] ! Mobiwoelfin has joined.
+[15:49:06] ! sonnenschein has joined.
+[15:53:50] <nubix> ....
+[16:21:52] ! moenni has quit. (Read error: Connection reset by peer)
+[16:24:12] ! sonnenschein_ has joined.
+[16:24:23] ! sonnenschein has quit. (Quit: Verlassend)
+[16:31:27] ! Bowdzone has quit. (Quit: Bowdzone)
+[16:36:21] <DrMcCoy> nubix: Zu spät
+[16:36:42] <nubix> DrMcCoy: War noch in der selben Stunde :)
+[16:37:15] <DrMcCoy> nubix: Ja, aber da waren 3 Quits und ein Join dazwischen
+[16:37:32] <nubix> DrMcCoy: Ach, unwichtig. Der Wille zaehlt
+[16:39:12] <DrMcCoy> Ne.
+[16:39:32] ! joke` has joined.
+[16:39:52] * nubix streckt DrMcoy die Zunge raus.
+[16:39:57] <DrMcCoy> :O
+[16:40:09] * DrMcCoy hält nubixs Zunge fest
+[16:40:15] <nubix> Ihh....
+[16:40:26] * DrMcCoy zieht
+[16:40:35] <nubix> aua....
+[16:40:36] <nubix> Hast du dir wenigstens die Finger gewaschen?
+[16:40:54] <DrMcCoy> nubix: Nein, die sind ganz dreckich
+[16:41:06] <nubix> Das schmeckt irgendwie nach ... uah ...  ich will gar nicht wissen was das ist.
+[16:45:47] <DrMcCoy> Besser so :P
+[17:13:21] ! ES has quit. (Quit: The cake is a lie!)
+[17:21:27] ! csg has quit. (Quit: Nettalk6 - www.ntalk.de)
+[17:35:59] ! sonnenschein_ has quit. (Quit: Ex-Chat)
+[18:05:07] ! Bowdzone has joined.
+[18:13:00] ! elorie has joined.
+[18:14:14] <elorie> moin
+[18:36:48] ! lurtz has quit. (Remote host closed the connection)
+[18:37:38] ! Peace-Maker has joined.
+[18:44:19] ! Mobiwoelfin has quit. (Ping timeout: 245 seconds)
+[18:45:04] ! Bowdzone has quit. (Quit: Bowdzone)
+[18:47:30] ! Mobiwoelfin has joined.
+[19:02:12] ! lurtz has joined.
+[19:05:59] ! Mobiwoelfin has quit. (Ping timeout: 245 seconds)
+[19:13:47] ! Mobiwoelfin has joined.
+[19:20:09] ! Mobiwoelfin has quit. (Ping timeout: 245 seconds)
+[19:25:54] ! PirateKing has quit. (Quit: Leaving.)
+[19:37:11] ! jh has joined.
+[19:38:09] <DrMcCoy> lol, meine Mutter + Onlinebanking
+[19:38:23] <DrMcCoy> Die versucht seit ner Viertelstunde etwas zu überweisen :P
+[19:38:52] <nubix> DrMcCoy: Gib ihr meine Kontonummer, die Tippt sich bestimmt leichter :)
+[19:39:04] <DrMcCoy> :P
+[19:42:44] ! PirateKing has joined.
+[19:56:47] ! nubix has quit. (Quit: Leaving.)
+[19:59:48] ! nubix has joined.
+[19:59:49] ! nubix has quit. (Changing host)
+[19:59:49] ! nubix has joined.
+[20:00:08] ! PirateKing1 has joined.
+[20:00:57] <nubix> Wuah, alles viel zu warm hier!
+[20:01:46] <DooMMasteR> geht voll :)
+[20:02:59] <nubix> nicht in meinem schlafzimmer... schwarzer fussboden vertraegt sich nicht so gut mit sonne
+[20:03:25] <DooMMasteR> lol
+[20:03:29] ! PirateKing has quit. (Ping timeout: 245 seconds)
+[20:03:29] <DooMMasteR> selber schuld :P
+[20:03:38] <DooMMasteR> musste mal putzen :P
+[20:05:28] <nubix> DooMMasteR: Ne, leider hilft das bei dem Holz nicht
+[20:05:36] <nubix> DooMMasteR: Das ist wohl so gewachsen
+[20:05:42] <DooMMasteR> schwarzes holz?
+[20:05:43] <DooMMasteR> aha
+[20:05:51] <DooMMasteR> das glaubst aber auch nur du :P
+[20:06:51] <nubix> DooMMasteR: sagen wir dunkel braun
+[20:06:56] <DooMMasteR> ahh
+[20:12:28] ! nubix has quit. (Quit: Leaving.)
+[20:13:26] ! nubix has joined.
+[20:13:26] ! nubix has quit. (Changing host)
+[20:13:26] ! nubix has joined.
+[20:16:00] ! moohieb has joined.
+[20:16:14] <Peace-Maker> (20:10:58) (@_tobias) that was sooo embarrassing in france
+[20:16:14] <Peace-Maker> (20:11:23) (@_tobias) i was in a restaurant.. some from asia
+[20:16:14] <Peace-Maker> (20:11:36) (@_tobias) i got water in a bowl to wash my fingers
+[20:16:14] <Peace-Maker> (20:11:56) (@Moras) :o
+[20:16:14] <Peace-Maker> (20:11:58) (@_tobias) i didnt know that .. i drunk the water :D
+[20:16:14] <Peace-Maker> (20:12:15) (@_tobias) they looked all to me - :O
+[20:16:14] <Peace-Maker> (20:12:42) (@_tobias) dont have this here
+[20:18:43] <moohieb> moo
+[20:19:34] <jh> Hi
+[20:19:36] <jh> moohieb!
+[20:19:45] <jh> moohieb: jetzt zufällig mccess?^^
+[20:19:57] <jh> mh, wobei, hab eigentlich gar nicht richtig hunger
+[20:20:37] <moohieb> jh: bin erst :44 am hbf
+[20:20:56] <moohieb> ich auch nicht
+[20:21:08] <jh> moohieb: hast du um :44++ hunger?^^
+[20:22:32] <moohieb> hm vllt
+[20:22:54] <moohieb> aber fast nein ganzes geld f�r sprit ausgegeben
+[20:23:00] <moohieb> mein
+[20:23:59] <moohieb> ansonsten hab ich noch birnen und �pfel und einen eimer (und sonnenbrand), mit einem davon werde ich bestimmt satt
+[20:24:10] <moohieb> oh und zug
+[20:24:50] <jh> moohieb: dann sag bescheid wenn du in die nähe kommst
+[20:25:23] <DooMMasteR> moohieb: sprit?
+[20:25:27] <DooMMasteR> trinkst du?
+[20:26:12] ! Mobiwoelfin has joined.
+[20:26:16] <moohieb> nein, aber das w�r auch was %)
+[20:26:36] <moohieb> ansonsten das auto von meinen eltern trinkt sprit
+[20:26:42] <moohieb> Mobiwoelfin!
+[20:26:56] <Mobiwoelfin> moohieb!
+[20:30:57] ! mooohieb has joined.
+[20:31:07] <mooohieb> ach jh can ja jetzt wieder haz bad, oder?
+[20:31:16] <mooohieb> mh
+[20:31:26] <mooohieb> ach jh can haz ja jetzt wieder bad, oder?
+[20:31:56] <DooMMasteR> hmmm
+[20:32:01] <DooMMasteR> ihr also nachher mekkis
+[20:32:02] <DooMMasteR> hmmmm
+[20:32:13] <mooohieb> DooMMasteR: ka
+[20:32:29] <DooMMasteR> ja hmmmm umsomehr hmmmmm
+[20:32:32] ! moohieb has quit. (Ping timeout: 268 seconds)
+[20:32:49] ! mooohieb is now known as moohieb
+[20:32:56] <moohieb> oh
+[20:33:00] <moohieb> Redwoelfin!
+[20:33:26] <Mobiwoelfin> moohieb!
+[20:33:44] * Mobiwoelfin kein mcces
+[20:33:51] * Mobiwoelfin jetzt bus
+[20:33:56] <moohieb> ich bin allerdings auch grad eher redhieb
+[20:33:56] <moohieb> und vonm�ckenzerstochenhieb
+[20:34:25] <Mobiwoelfin> mücken mögen mich auch :/
+[20:34:38] <DooMMasteR> die wollen auch nur leben
+[20:34:42] <moohieb> !ping
+[20:34:43] <elorie> ich hab hier gesern 12 umgebracht ohne einmal gestochen worden zu sein
+[20:34:43] <ZombiePoet> pong
+[20:35:14] <Mobiwoelfin> DooMMasteR: nee, die wollen sich fortpflanzen ;)
+[20:35:25] <DooMMasteR> ja
+[20:35:28] <DooMMasteR> aber erstmal leben
+[20:35:56] <Mobiwoelfin> elorie: glückliche, hab zwei stiche, ohne eine einzige mücke gesehen zu haben
+[20:35:56] <moohieb> elorie: ich hab gestern sicher 50 von denen zerhauen
+[20:36:28] <moohieb> war dementsprechend froh, als ich dusche hatte und die ganzen reste von meiner haut runter waren...^^
+[20:36:51] <elorie> die totet man ja auch in der luft
+[20:37:07] <jh> <mooohieb> ach jh can ja jetzt wieder haz bad, oder? <- jo
+[20:37:10] <moohieb> hatte h�nde voll
+[20:37:12] <moohieb> boot abbauen und so
+[20:37:33] <moohieb> jh: \o/
+[20:37:40] <jh> moohieb \o/
+[20:37:43] <DooMMasteR> moohieb: aber wind war garnich so doll
+[20:37:46] <DooMMasteR> oder?
+[20:37:56] <moohieb> DooMMasteR: ne war nich
+[20:38:07] <Mobiwoelfin> jh: musst mir mal ne liste unserer caches schicken, dann geht das loggen schneller
+[20:38:13] <moohieb> also so windst�rke 2, h�chstens mal 3
+[20:38:23] <DooMMasteR> =.=
+[20:38:29] <DooMMasteR> is doch käse
+[20:38:49] <moohieb> aber daf�r mal zur abwechslung nordwind, sodass man zur�ck schon mit dem wind nach hause konnte
+[20:39:02] <moohieb> bzw nord-west
+[20:39:04] <jh> Mobiwoelfin: ja, kann ich machen
+[20:39:23] <moohieb> sonst ist da immer so ostwind, sodass man nach hause kreuzen muss...
+[20:41:24] ! mooohieb has joined.
+[20:41:37] <mooohieb> jh: nehm jetzt m1
+[20:41:45] <mooohieb> eta 15 min zu hhstr
+[20:41:55] <jh> mooohieb: okay, ich fahr dann aber mitm rad
+[20:42:01] <jh> bin dann so kurz vor 21 uhr da
+[20:42:53] <Mobiwoelfin> es blitzt
+[20:43:07] <nubix> Mobiwoelfin: Dann fahr nicht so schnell mti dem Auto
+[20:43:27] <Mobiwoelfin> nubix: :P
+[20:43:54] <Mobiwoelfin> nubix: fahr kein auto, sizze an der bushaltestelle
+[20:44:15] ! moohieb has quit. (Ping timeout: 268 seconds)
+[20:44:42] <nubix> Mobiwoelfin: Machst du wieder Fotos von irgendwelchen vorbei fahrenden autos? :p
+[20:45:18] <Mobiwoelfin> auch nicht^^
+[20:45:29] ! PirateKing1 has quit. (Quit: Leaving.)
+[20:45:37] <mooohieb> jh: mh +5min wartezeit auf die bahn am hbf
+[20:45:56] <jh> mooohieb: :D
+[20:46:16] <jh> Mobiwoelfin: you've got mail (mit cache-liste)
+[20:46:30] <jh> blitze kann ich bestätigen
+[20:46:37] <jh> oder wetterleuchten
+[20:46:39] <jh> hör kein donner
+[20:47:16] <mooohieb> nimm die kopfh�rer ab
+[20:47:39] <jh> hab keine auf
+[20:47:41] <Mobiwoelfin> jh: thy :*
+[20:50:11] <jh> Mobiwoelfin: ach, damn, beim strand bei SPO gabs ja noch n webcam-cache... aus irgendeinem grund liegt das icon in der nordsee... nicht mehr gesehen
+[20:51:22] <mooohieb> jh: achso, + 3 min fu�weg
+[20:51:25] <jh> mooohieb: wie ist dein standort?^^
+[20:51:35] <mooohieb> reicht also, wenn du so 7 nach dabist
+[20:51:40] <mooohieb> jh: post
+[20:51:47] <mooohieb> stadthalle
+[20:51:55] <jh> kk
+[20:51:59] <mooohieb> stadthalle
+[20:52:14] <jh> text-latitude? :D
+[20:52:29] <mooohieb> leonhardtplatz
+[20:52:58] <mooohieb> lleonhardtplatz
+[20:53:02] <Mobiwoelfin> sonntag nacht und bus ist voll... was machen die vielen leute hier?
+[20:53:10] <mooohieb> leonhardtplatz
+[20:53:12] <jh> party?
+[20:53:21] <mooohieb> Mobiwoelfin: die wolen alle zu dir
+[20:53:33] <mooohieb> jh: leonhardstr
+[20:53:47] <mooohieb> *kathi wink*
+[20:53:59] <jh> da ist kathi?
+[20:54:13] <mooohieb> naja hier in der n�he
+[20:55:05] <mooohieb> magnitor
+[20:55:15] <mooohieb> magnifest
+[20:55:30] <jh> ist das heute noch?
+[20:55:33] <mooohieb> uh voll
+[20:55:42] <jh> ah, offenbar^^
+[20:55:45] <mooohieb> und es regnet nicht ^^
+[20:55:52] <jh> ungewöhnlich^^
+[20:56:04] <mooohieb> o geht doch imme wochenende, oder?
+[20:56:15] <mooohieb> schlos r�ckseite
+[20:56:20] <mooohieb> s
+[20:56:23] <jh> okay, dann such ich mal mein rad
+[20:56:26] <jh> afk.
+[20:56:43] <mooohieb> georg-eckert-str
+[20:57:14] ! Mobiwoelfin has quit. (Ping timeout: 245 seconds)
+[20:59:43] <mooohieb> jezt rathaus
+[20:59:53] <mooohieb> achso der jh ist afk
+[21:00:13] ! Bowdzone has joined.
+[21:11:47] ! Scumpeter has quit. (*.net *.split)
+[21:14:28] ! mooohieb has quit. (Ping timeout: 268 seconds)
+[21:15:23] ! nubix has quit. (Quit: Leaving.)
+[21:15:51] ! nubix has joined.
+[21:15:51] ! nubix has quit. (Changing host)
+[21:15:51] ! nubix has joined.
+[21:21:05] ! Scumpeter has joined.
+[21:35:59] ! moenni has joined.
+[21:37:52] ! Silberwoelfin has joined.
+[21:49:10] <Silberwoelfin> hi
+[21:59:12] <nubix> hi Silberwoelfin
+[22:15:28] <jh> re
+[22:18:46] <Silberwoelfin> wb jh :)
+[22:18:55] <jh> ty =)
+[22:21:05] <Silberwoelfin> jh: grade dritten m�ckenstich gefunden :/
+[22:21:36] <jh> Silberwoelfin: bei fünf gibts einen gratis dazu!
+[22:21:43] <Silberwoelfin> :P
+[22:21:52] <Silberwoelfin> ich verzichte :/
+[22:23:12] ! rohieb has joined.
+[22:23:27] <rohieb> hm... ayauteotl@[domain], ist das wer von euch?
+[22:23:37] <jh> rohieb: Silberwoelfin
+[22:23:45] <rohieb> hö?
+[22:23:52] <Silberwoelfin> rohieb: ich
+[22:24:00] <Silberwoelfin> rohieb: bzw. mein android-smartphone
+[22:24:07] <rohieb> also, hatte ich schon wegen des namens vermutet, aber warum bist du nicht mehr silberwoelfin?
+[22:24:09] <rohieb> achso
+[22:25:15] <Silberwoelfin> rohieb: weil is halt nur f�r mobil, das ist eben das google talk... und einen vern�nftigen jabber-client hab ich sonst leider nicht f�r android gefunden :/
+[22:26:08] <rohieb> achso
+[22:28:36] <rohieb> hm, meine freunde-gruppe in pidgin wird langsam voll... mal wieder aussortieren
+[22:30:23] <jh> bäh, n T5 in hildesheim bei eltern um die ecke
+[22:30:32] <rohieb> haha!
+[22:40:04] <elorie> o.O
+[22:40:16] <elorie> jh: du hast in hi bei eltern und nicht zuhause in hi gesagt o.O
+[22:40:34] <jh> [22:40:23] <elorie> jh: du hast in hi bei eltern und nicht zuhause in hi gesagt o.O <- waaas?
+[22:40:40] <rohieb> das hab ich auch grad gedacht ^^
+[22:40:56] <elorie> quote: in hildesheim bei eltern-> statt zuhause in HI
+[22:41:16] <jh> ahh
+[22:42:08] <rohieb> er ist ja auch hier zuhause
+[22:46:26] <jh> genau
+[22:46:28] <jh> neues bad und so
+[22:46:32] <jh> btw: eloriechen \o/
+[22:46:39] <elorie> jhchen :)
+[22:46:53] <rohieb> oh
+[22:46:58] <rohieb> elorie reviewen
+[22:47:07] <Silberwoelfin> jh: bei mir in der gegend gibts ne menge T5er, wenn du unbedingt einen machen willst...
+[22:47:27] <elorie> rohieb: jap...
+[22:47:31] <jh> Silberwoelfin: nee, eben *nicht*... die kann man ja nur mit ausrüstung machen
+[22:47:43] <elorie> rohieb: ich dachte das wäre ne nette ablenkung ;)
+[22:47:48] <rohieb> elorie: mh
+[22:47:59] <elorie> rohieb: wenn du nicht willst musst du nciht ;)
+[22:48:06] <rohieb> elorie: komische gedanken mit arbeit verdrängen hilft bei mir meist nicht ^^
+[22:48:07] <rohieb> aber danke
+[22:48:10] <elorie> ich find auch noch weitere opfer :p
+[22:48:11] <rohieb> ich werd mal reinschaun
+[22:48:27] <rohieb> aber ich weiß nicht, ob ich ein programm finde, das annotations kann
+[22:48:30] <elorie> drchenmccoy hat mir seine korrektur huete morgen um 7 oder so gegeben ;)
+[22:48:31] <rohieb> +erstellen
+[22:49:27] <elorie> rohieb: der adobe reader ist dein feind fuer dieses bett oder so aehnlich ;)
+[22:49:30] <rohieb> aua :( #nagelbettentzündung
+[22:49:35] <elorie> aber evince muesste das eventuell auch koennen
+[22:49:49] <nubix> elorie: das hoffst du nur.. kann's aber nicht
+[22:50:03] <elorie> ich weiß das er das kann
+[22:50:08] <elorie> ich hab das damit schon gemach
+[22:50:08] <rohieb> elorie: wtf?
+[22:50:16] <rohieb> für welches bett? und was hat adobe damit zu tun
+[22:50:20] <elorie> obwohl mo war das evince?
+[22:50:25] <elorie> fuer das kommentierkrams
+[22:50:33] <rohieb> evince kann sie anzeigen
+[22:50:44] <rohieb> meine version hier kann zumindest keine erstellen
+[22:50:59] <rohieb> okular (das kde-teil) kann das, aber die sind irgendwie eigen und nicht kompatibel...
+[22:52:41] <elorie> ah ok
+[22:52:48] <rohieb> oder ich hab damals gefailt
+[22:52:49] <nubix> jh: freut mich btw. dass tatsaechlich jemand das erstsemesterlog benutzt :)
+[22:53:12] <jh> nubix: hä?
+[22:53:26] <nubix> jh: mein fail
+[22:53:29] <nubix> jh: just ignore
+[22:53:30] <Wechner> rohieb: evince kann Annotations ... in der Sidebar statt Thumbnails/Index Annotations auswählen, dann auf den Add-Registerreiter
+[22:53:57] <rohieb> oh
+[22:53:59] <rohieb> seit wann
+[22:54:36] <rohieb> hm meins kann das nicht
+[22:54:49] <rohieb> da gibt keinen entsprechenden menüeintrag im sidebar-menü
+[22:56:05] <Wechner> hm, ich hab hier 3.0.2 aber das ging definitiv auch schon mit <3
+[22:57:17] <rohieb> hab 2.30
+[22:57:51] ! joke` has quit. (Ping timeout: 252 seconds)
+[22:58:03] <jh> Wechner: aber das speichert evince nicht in den pdf-dateien ab, sondern seperat, sodass nur evince es lesen kann
+[22:58:08] <jh> Wechner: und keine anderen pdf-viewer
+[22:58:25] <jh> Wechner: zugegebenermaßen stand ~2009
+[22:58:32] <jh> Wechner: vielleicht ist das inzwischen anders
+[22:59:08] <Wechner> ist es, bei mir kann der Adobe Reader die sehen
+[22:59:13] <Wechner> und es gibt kein extra Datei
+[22:59:32] <nubix> wow, dann haben die das ja tatsaechlich mal geschaft
+[22:59:36] <Wechner> und angeblich kam das mit 2.32
+[22:59:42] <Wechner> aber in Ubuntu erst ab Natty
+[22:59:56] ! PirateKing has joined.
+[23:00:01] <rohieb> hm das hab ich in den repos hier drin... aber warscheinlich muss ich dafür wieder mein halbes gnome updaten
+[23:00:32] <rohieb> *probier*
+[23:00:39] <jh> Wechner: ok
+[23:01:10] <Wechner> aber wirklich schön und bequem finde ich es immer noch nicht gelöst ...
+[23:01:21] <Wechner> das ist echt schon ein bisschen schade ...
+[23:01:40] <rohieb> hm
+[23:01:44] <Wechner> wobei da die Linux PDF Viewer wohl nur die Hälfte der Schuld trifft ...
+[23:01:52] <rohieb> ich glaube, ich hatte das schonmal ausprobiert, oder?
+[23:02:08] <rohieb> oder war das ein anderes programm, was so ähnlich war?
+[23:02:22] <rohieb> Wechner: warum? ist das nicht öffentlich dokumentiert, oder wie?
+[23:02:29] <elorie> generell ist die idee bestimmte sachen ueber kommentierte pdf zu korrigieren ja gar nicht so verkehrt und in mac/win umgebungen klappt das ja auch
+[23:02:44] <nubix> Wechner: Wenn ein Feature unbequem zu nutzen ist, ist es ja nun wirklich die schuld  des programmierers
+[23:02:49] <Wechner> rohieb: naja, über Sidebar und dann muss man noch den Reiter wählen und dann so einen kleinen Button ... das geht bequemer vom UI
+[23:02:56] <elorie> schade ist es nur das unter linux außer adobe selber kaum ein programm das vernuenftig kann
+[23:02:59] <rohieb> hmja das ist wahr
+[23:03:17] <Wechner> nubix: ja, aber Features werden über die Zeit besser zu benutzen ...
+[23:03:48] <Wechner> nubix: die ersten Versionen sind immer ein bisschen unbeholfen, was das UI angeht ...
+[23:04:17] <nubix> Wechner: wie meinst du es dann, dass die LinuxPDF Viewer ur die Haelfte der Schuld trifft?
+[23:04:31] <elorie> *stellt mal wieder die these auf: die wenigsten entwickler sind wirklich gut darin eine nutzerfreundliche ui zu entwerfen *duck*
+[23:04:52] <Wechner> und 2.32 ist ja die letzte Stable-Version, d. h. ein bisschen kann und wird es noch reifen ;)
+[23:04:56] <rohieb> hihi
+[23:05:03] <rohieb> ich unterstütze elorie mal in der these ^^
+[23:05:43] <elorie> rohieb: naja eigentlich sollte das ja auch nicht deren job sein
+[23:06:06] <rohieb> sondern?
+[23:06:12] <rohieb> wessen dann?
+[23:06:27] <nubix> rohieb: der des interface designers ;)
+[23:08:01] <rohieb> es gibt die funktion des interface designers?
+[23:08:24] <rohieb> hihi, die einleitung hab ich zuletzt geschrieben ^^
+[23:09:25] <nubix> rohieb: irgendjemand muss es ja machen und der softwareentwickler ist da im regelfall definitiv nicht der richtige fuer
+[23:09:40] <rohieb> ja, aber im allgemeinen ist der softwareentwickler auch derjenige, der das macht
+[23:09:50] <rohieb> zumindest in ... ich sag mal, 90% aller open-source-projekte
+[23:09:57] <nubix> genau das ist ja das problem
+[23:10:50] <nubix> rohieb: ich denker sogar in mehr als 90%
+[23:11:30] <rohieb> ja, das war eine untere schranke
+[23:11:37] <rohieb> achso, du weißt ja noch garnicht, was das ist...
+[23:11:44] <Wechner> also in Gnome machen das (auch) Programmierer und ich würde mal behaupten, in der 2.x Serie und erst recht jetzt bei 3.x haben sie einen verdammt guten Job gemacht ...
+[23:11:46] <rohieb> offiziell ^^
+[23:11:50] <nubix> rohieb: bitte?!
+[23:12:07] <rohieb> Wechner: einen guten job? mit dem redesign des desktops? ja wohl eher überhaupt nicht...
+[23:12:09] <nubix> Wechner: es gibt ja auch ausnahmen :)
+[23:12:18] <jh> untere schranke... das ist wenn der zug gleich kommt
+[23:12:21] <rohieb> nubix: das kommt doch erst in diskrete mathe und AuD dran ^^
+[23:12:34] <Wechner> rohieb: na, was kommen jetzt für konservative Bashings auf Gnome? ;p
+[23:12:38] <nubix> rohieb: ahso, dann bin ich jetzt einfach mal unwissend
+[23:12:41] ! joke` has joined.
+[23:13:08] <rohieb> Wechner: es gefällt mir nicht und ich will meinen gnome2-desktop zurück :P
+[23:13:14] <Wechner> war klar :P
+[23:13:36] <Wechner> rohieb: gesell dich zu DrMcCoy und wir anderen machen weiter mit der Innovation und dem Fortschritt ;)
+[23:13:41] <rohieb> Wechner: und ich sehs nicht ein, mich immer nach den leuten zu richten, die das beschließen, dass es so sein soll
+[23:13:57] <rohieb> Wechner: es gibt nicht ohne grund heutzutage noch personen, die ihre mails mit mutt lesen
+[23:14:06] <jh> DrMcCoy benutzt gnome? :P
+[23:14:10] <rohieb> und das ist ja grad der vorteil an dem ganzen ökosystem: man hat die wahl
+[23:14:23] <nubix> jh: r uhe du windowsuser :P
+[23:14:24] <Wechner> daaann nimm den Fallback-Mode, oder XFCE, oder mach einen Fork ... oder nimm awesome, ratpoison, whatever ;)
+[23:14:30] <rohieb> Wechner: ich wollte damit nur ausdrücken, dass ich
+[23:14:31] <rohieb> ja
+[23:14:39] <rohieb> warscheinlich wechseln werde
+[23:14:41] <Wechner> gut :)
+[23:15:00] <Wechner> und ich wollte damit ausdrücken, dass ich mit Gnome 3 sehr zufrieden bin, genau wie viele andere ;)
+[23:15:08] <rohieb> !slap mückengift
+[23:15:09] * ZombiePoet squirts lemon juice at mückengift
+[23:15:17] <rohieb> hah, das passt ja mal wieder :D danke ZombiePoet
+[23:15:23] <rohieb> Wechner: gut, dann sind wir uns ja im grunde einig ^^
+[23:15:25] <Wechner> mmmh, aber jetzt muss ich mal die Rechner runterfahren, die drehen uns bald den Strom hier ab ... :/
+[23:15:39] <nubix> Wechner: Rechnung nicht bezahlt?
+[23:15:43] <rohieb> oh... na wenigstens nicht zur mittagszeit, wenn man das internet braucht
+[23:15:45] <Wechner> doch
+[23:15:48] <jh> rohieb: btw, davon sprach ich: http://drmccoy.de/food/20110821_03_CookieMonsterMuffin3.jpg
+[23:15:54] <Wechner> aber der Verteilerkasten scheint eine Macke zu haben
+[23:16:00] <Wechner> die haben den Anfang der Woche ausgebuddelt
+[23:16:08] <Wechner> und heute wird die ganze Straße abgeschaltet ...
+[23:16:11] <nubix> ouh, mein beileid
+[23:16:29] <Wechner> soll nur 1 1/2h dauern :]
+[23:16:29] * jh gibt Wechner eine -Batterie
+[23:16:34] <rohieb> jh: btw, davon sprach ich: http://de.wikipedia.org/wiki/Roter_Sand_%28Leuchtturm%29
+[23:16:36] <ZombiePoet> Title: Roter Sand – Wikipedia (at de.wikipedia.org)
+[23:16:39] <Wechner> da glaube ich aber noch nicht dran :/
+[23:16:48] <jh> rohieb: k
+[23:16:56] <Wechner> also, wir sehen uns in der post-apokalyptischen Welt, wenn der Strom wieder läuft ;)
+[23:17:18] <rohieb> jh: nicht rote weser ... alte weser war der andere, der anstelle von roter sand in betrieb genommen wurde, sieht übrigens aus wie nichtvondieserwelt ^^
+[23:17:19] <rohieb> http://de.wikipedia.org/wiki/Alte_Weser
+[23:17:21] <ZombiePoet> Title: Alte Weser – Wikipedia (at de.wikipedia.org)
+[23:17:25] <nubix> Wechner: Die Mad Max Welt wird kommen :p
+[23:17:37] <rohieb> jh: die DrMcCoy-muffins sind aber coool ^^
+[23:19:20] ! elorie has quit. (Quit: Leaving.)
+[23:20:26] <jh> eloriechen weg?
+[23:20:57] <nubix> scheint so
+[23:21:08] ! elorie has joined.
+[23:21:22] <jh> eloriechen wieder da :)
+[23:21:23] <nubix> oder auch nicht
+[23:21:37] <elorie> bin wieder da
+[23:22:07] <nubix> buenas noches
+[23:22:54] <rohieb> n8bix
+[23:23:32] <nubix> na ne eigentlich war es als begruessung vom eloriechen gedacht
+[23:25:47] ! moenni has quit. (Quit: Leaving.)
+[23:28:58] <rohieb> hm
+[23:29:09] <rohieb> wenn alle elorie eloriechen nennen, muss ich das auch machen?
+[23:29:17] * rohieb will nicht so mainstream sein
+[23:29:22] <jh> wenn du mainstream sein willst
+[23:29:23] <jh> :D
+[23:29:24] <nubix> ne, besse rnicht
+[23:29:35] <nubix> mainstream ist langweilig
+[23:30:57] <elorie> neeee
+[23:31:10] <elorie> nur jhchen, woelfchen und drchenmccoy duerfen das !
+[23:31:29] <Silberwoelfin> eloriechen :)
+[23:31:31] * nubix stellt fest, dass der dreck auf seinem dem Monitor zu Video gehoert.
+[23:31:37] <nubix> elorie: :(
+[23:31:38] <jh> ^^
+[23:31:55] <elorie> woelfchen :)
+[23:32:59] <DooMMasteR> rohieb jh noch mekkis?
+[23:33:03] <DooMMasteR> oder nicht mehr?
+[23:33:07] <rohieb> DooMMasteR: ne
+[23:33:09] <jh> DooMMasteR: einmal reicht
+[23:33:12] <DooMMasteR> aso
+[23:33:20] <DooMMasteR> ihr wart schon -.-
+[23:33:24] <rohieb> ah ^^
+[23:33:36] * rohieb setzt sich eine elorie/eloriechenhipsterbrille auf
+[23:33:40] <DooMMasteR> -.-
+[23:33:52] <rohieb> DooMMasteR: wir wollten doch direkt nachdem ich angekommen war
+[23:33:55] <Silberwoelfin> rohieb: wat'n dat?
+[23:33:56] <DooMMasteR> hui hoffentlich bekomme ich diesmal die richtige brille
+[23:33:57] <rohieb> ich dachte, du hättest das mitbekommen
+[23:34:03] <rohieb> Silberwoelfin: kennst du  nicht?
+[23:34:11] <rohieb> !google hipsterkitty
+[23:34:13] <ZombiePoet> rohieb: Hipster Kitty - Android App bei AppBrain: <http://de.appbrain.com/app/hipster-kitty/com.amf.hipsterkitty>; Hipster Kitty - Android App bei AppBrain: <http://de.appbrain.com/app/hipster-kitty/chan.HK>; (via Hipster Kitty - Memebase): <http://r3to.tumblr.com/post/6717378931/via-hipster-kitty-memebase>; Hipster Kitty | dragstripgirl: <http://www.dragstripgirl.de/ohne-worte/hipster-kitty/>; (2 more messages)
+[23:34:15] <DooMMasteR> rohieb: naja ich lese nicht alles 100%ig mit
+[23:34:22] <DooMMasteR> und da keiner mehr was gesagt hatte
+[23:34:25] <DooMMasteR> naja egal
+[23:34:30] <rohieb> DooMMasteR: das war so ein paar zeilen nach deiner frage, glaub ich... aber ok
+[23:34:31] <Silberwoelfin> gute nacht
+[23:34:40] <rohieb> n8 woelfchen
+[23:34:43] <nubix> gn8 Silberwoelfin
+[23:35:00] <elorie> n8 woelfchen :)
+[23:35:10] ! Silberwoelfin has quit. (Quit: Verlassend)
+[23:51:44] <rohieb> hmpf, evince-2.32 braucht auch neues gtk und so
+[23:54:55] <rohieb> jh: btw das meinte ich vorhin https://www.xkcd.com/550/
+[23:54:57] <ZombiePoet> Title: xkcd: Density (at www.xkcd.com)
+[23:54:59] <rohieb> oh xkcd hat ja auch https
+[23:55:18] ! Phia has quit. (Quit: Leaving.)
+[23:55:34] <rohieb> elorie: lol, du zitierst nitsche in deiner BA? :D
+[23:55:39] ! PirateKing has quit. (Quit: Leaving.)
+[23:56:16] <elorie> rohieb: ignorier die einleitng erstmal die muss komplett neu
+[23:56:22] <rohieb> achso ok
+[23:58:11] <rohieb> hm, 4096-bit-gpg-schlüssel machen lange signaturen

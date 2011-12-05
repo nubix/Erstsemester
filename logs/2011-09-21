@@ -1,0 +1,520 @@
+[00:08:17] ! elorie has quit. (Quit: Leaving.)
+[00:12:16] <Silberwoelfin> gute nacht
+[00:12:56] ! Silberwoelfin has quit. (Quit: Verlassend)
+[00:16:05] ! jh has quit. (Quit: Logik wird überschätzt.)
+[00:16:14] ! jh has joined.
+[00:16:22] <rohieb>  !tell jh gute nacht
+[00:16:25] <rohieb> tse ^^
+[00:16:39] <jh> rohieb: maschinenwechsel
+[00:16:47] <rohieb> ah ok
+[00:25:43] ! conqueror121 has quit. (Quit: Leaving.)
+[00:34:26] ! moenni has quit. (Read error: Connection reset by peer)
+[00:37:36] ! dasTuch has quit. (Quit: Leaving.)
+[00:43:24] ! elorie has joined.
+[01:01:33] ! serj_ has joined.
+[01:01:37] ! tsuro_ has joined.
+[01:02:25] ! hashier_ has joined.
+[01:06:56] ! Ignifazius has joined.
+[01:07:13] ! Scumpeter has quit. (*.net *.split)
+[01:07:14] ! hashier has quit. (*.net *.split)
+[01:07:14] ! serj has quit. (*.net *.split)
+[01:07:14] ! tsuro has quit. (*.net *.split)
+[01:07:52] ! Ignifazius has quit. (Client Quit)
+[01:08:02] ! dasTuch has joined.
+[01:08:15] ! dasTuch has left the channel.
+[01:11:21] ! Scumpeter has joined.
+[01:12:55] ! nubix has joined.
+[01:18:38] ! moenni has joined.
+[01:26:59] ! Bowdzone has quit. (Quit: Bowdzone)
+[01:30:58] ! nubix has quit. (Quit: Leaving.)
+[01:34:40] ! jh has quit. (Quit: jh)
+[01:36:44] ! Scumpeter has quit. (*.net *.split)
+[01:39:07] ! Scumpeter has joined.
+[01:51:10] <rohieb> n8 alle
+[01:51:16] ! rohieb has quit. (Quit: ...yo ho ho, and a bottle of rum!)
+[02:03:48] ! lurtz has quit. (Remote host closed the connection)
+[02:26:32] ! moenni has quit. (Read error: Connection reset by peer)
+[02:28:00] ! Scumpeter has quit. (*.net *.split)
+[02:33:07] ! Scumpeter has joined.
+[02:37:38] ! elorie has quit. (Quit: Leaving.)
+[03:38:50] ! Cascharity has quit. (Quit: Verlassend)
+[05:02:36] ! CalebRipley has quit. (Remote host closed the connection)
+[05:54:26] ! joke` has quit. (Ping timeout: 252 seconds)
+[06:05:09] ! Scumpeter has quit. (*.net *.split)
+[06:05:11] ! ShadniX has quit. (*.net *.split)
+[06:05:14] ! hashier_ has quit. (*.net *.split)
+[06:05:15] ! kiney1 has quit. (*.net *.split)
+[06:05:17] ! DrMcCoy has quit. (*.net *.split)
+[06:05:18] ! _Rick_ has quit. (*.net *.split)
+[06:05:20] ! zerobot has quit. (*.net *.split)
+[06:05:27] ! Valodim has quit. (*.net *.split)
+[06:05:30] ! DooMMasteR has quit. (*.net *.split)
+[06:05:36] ! ZombiePoet has quit. (*.net *.split)
+[06:05:36] ! pani has quit. (*.net *.split)
+[06:05:42] ! Droggl has quit. (*.net *.split)
+[06:05:45] ! maku has quit. (*.net *.split)
+[06:05:50] ! tsuro_ has quit. (*.net *.split)
+[06:05:50] ! serj_ has quit. (*.net *.split)
+[09:53:15] ! Droggl has joined.
+[09:53:15] ! serj_ has joined.
+[09:53:15] ! tsuro_ has joined.
+[09:53:15] ! kiney has joined.
+[09:53:15] ! _Rick_ has joined.
+[09:53:15] ! DooMMasteR has joined.
+[09:53:15] ! DrMcCoy has joined.
+[09:53:15] ! ShadniX has joined.
+[09:53:15] ! Valodim has joined.
+[09:53:15] ! zerobot has joined.
+[09:53:15] ! hashier_ has joined.
+[09:53:15] ! conqueror12 has joined.
+[09:53:15] ! Silberwoelfin has joined.
+[09:53:15] ! maku has joined.
+[09:53:39] ! Scumpeter has joined.
+[09:53:44] ! PirateKing has joined.
+[09:53:44] ! ZombiePoet has joined.
+[09:53:44] ! pani has joined.
+[09:54:21] ! Phia has joined.
+[10:03:12] ! lurtz has joined.
+[10:04:33] <Phia> !mensa
+[10:04:33] <ZombiePoet> Mensa Katharinenstraße am Mittwoch:
+[10:04:34] <ZombiePoet> A: Terrine Rindfleischsuppe AT mit Nudeln 1,40€
+[10:04:35] <ZombiePoet> B: Frühlingsrolle mit Huhn, Sojasauce und Reis 1,90€
+[10:04:36] <ZombiePoet> C: Kasselerrückenbraten mit Pfefferrahmsauce 1,90€
+[10:04:37] <ZombiePoet> V: Vegetarisches Steak mit Kräuterbutter 1,90€
+[10:04:38] <ZombiePoet> W: Zanderfilet gebraten mit Kräuterbutter und Salzkartoffeln 3,50€
+[10:04:48] <Phia> !mensa beeth
+[10:04:48] <ZombiePoet> Mensa Beethovenstraße am Mittwoch:
+[10:04:49] <ZombiePoet> A: Currygemüseeintopf 1,40€
+[10:04:50] <ZombiePoet> B: Chili con Carne (AT/R) 2,00€
+[10:04:51] <ZombiePoet> C: Schweineschnitzel mit Pfeffersauce 1,90€
+[10:04:52] <ZombiePoet> V: Sojastreifen mit Gemüse und bunten Nudeln 1,80€
+[10:14:02] ! Silberwoelfin has quit. (Quit: Verlassend)
+[10:14:49] ! Silberwoelfin has joined.
+[10:14:57] ! jh has joined.
+[10:17:10] ! Bowdzone has joined.
+[10:18:03] <jh> hi
+[10:18:30] <jh> Silberwoelfin: *knuddel*
+[10:19:09] ! nubix has joined.
+[10:19:18] ! nubix has quit. (Client Quit)
+[10:21:03] <Silberwoelfin> hi jh
+[10:31:40] ! Phia1 has joined.
+[10:35:30] ! nubix has joined.
+[10:41:50] <nubix> !mensa
+[10:41:50] <ZombiePoet> Mensa Katharinenstraße am Mittwoch:
+[10:41:51] <ZombiePoet> A: Terrine Rindfleischsuppe AT mit Nudeln 1,40€
+[10:41:52] <ZombiePoet> B: Frühlingsrolle mit Huhn, Sojasauce und Reis 1,90€
+[10:41:53] <ZombiePoet> C: Kasselerrückenbraten mit Pfefferrahmsauce 1,90€
+[10:41:54] <ZombiePoet> V: Vegetarisches Steak mit Kräuterbutter 1,90€
+[10:41:55] <ZombiePoet> W: Zanderfilet gebraten mit Kräuterbutter und Salzkartoffeln 3,50€
+[10:43:01] <Phia1> nubix: wann willst du in die mensa?
+[10:43:17] <Phia1> ich hab joke versprochen 12:30 beim asta aufzukreuzen
+[10:43:28] <Phia1> also würde ich so 11:45 gehen
+[10:43:42] <nubix> Phia1: ich habe da auch noch keinen festen plan, habe aber selbiges joke versprochen
+[10:44:16] <nubix> um 1145 wuerde ich mich wohl dazu gesellen
+[10:44:22] <Phia1> nubix: ok, dann bis dann
+[10:48:37] ! Phia1 has quit. (Quit: Leaving.)
+[11:11:24] ! tsuro_ has quit. (Quit: http://quassel-irc.org - Chat comfortably. Anywhere.)
+[11:11:33] ! tsuro has joined.
+[11:11:33] ! tsuro has quit. (Changing host)
+[11:11:33] ! tsuro has joined.
+[11:20:07] <jh> wuah, bananennektar schmeckt ja gruselig
+[11:23:23] <jh> so, $viel abwaschen
+[11:26:10] ! Phia has quit. (Quit: Leaving.)
+[11:26:42] ! elorie has joined.
+[11:27:34] ! nubix has quit. (Quit: Leaving.)
+[11:42:09] ! lurtz has quit. (Quit: Leaving.)
+[12:35:01] ! kiney has left the channel.
+[12:44:16] ! CalebRipley has joined.
+[13:03:38] ! Silberwoelfin_ has joined.
+[13:07:55] ! Silberwoelfin has quit. (Ping timeout: 276 seconds)
+[13:33:49] ! nubix has joined.
+[13:45:23] ! csg has joined.
+[13:50:13] ! Silberwoelfin_ is now known as Silberwoelfin
+[14:00:52] ! Phia has joined.
+[14:02:51] ! Silberwoelfin_ has joined.
+[14:03:43] ! Silberwoelfin has quit. (Ping timeout: 260 seconds)
+[14:05:12] ! Silberwoelfin_ is now known as Silberwoelfin
+[14:25:47] ! rohieb has joined.
+[14:25:53] <rohieb> .
+[14:29:32] <Silberwoelfin> rohieb!
+[14:30:26] <rohieb> moo
+[14:39:26] <jh> rohieb!
+[14:41:35] <rohieb> jh! Silberwoelfin!
+[14:45:29] <jh> rowoelfin! Silberhieb!
+[14:45:41] <jh> mh, das klingt falsch :S
+[14:48:47] <rohieb> ^^
+[14:48:49] <rohieb> ah
+[14:48:50] <rohieb> Es wird umgangssprachlich auch als Habeas Corpus Act bezeichnet. Im modernen Sprachgebrauch – vor  allem des angelsächsischen Rechtskreises – wird der Terminus als Kurzform für writ of habeas corpus[2] benutzt, worunter die richterlichen Anordnungen einer Haft bzw. Haftfortdauer, sowie die auf Antrag des Festgehaltenen durchzuführenden Haftprüfungsverfahren zu verstehen sind.
+[14:50:49] <rohieb> -.- http://www.heise.de/open/meldung/Mozilla-Entwickler-diskutieren-weiter-verkuerzten-Release-Zyklus-1346950.html
+[14:50:51] <ZombiePoet> Title: Mozilla-Entwickler diskutieren weiter verkürzten Release-Zyklus | heise open (at www.heise.de)
+[14:54:34] <jh> rohieb: hä@ den absatz
+[14:54:38] <jh> warum postest du das?
+[14:55:01] <rohieb> weil in dem film vorgestern habeas corpus vorkam und keiner wusste, was das ist
+[14:56:43] <jh> ah
+[15:01:00] <jh> warum tut eigentlich mein arm weh?
+[15:01:27] ! lurtz has joined.
+[15:11:16] ! Cascharity has joined.
+[15:12:45] <jh> Cascharity!
+[15:12:53] <Cascharity> jh: \o/
+[15:13:00] <jh> u haz fahrrad!
+[15:15:27] <lurtz> Cascharity! wieso warst du nicht mit in der ov sneak?
+[15:18:39] <jh> echt mal... das ist ja der einzige ort an dem ich dich noch sehe
+[15:42:05] <rohieb> jh: linker oder rechter arm?
+[15:42:14] <jh> rohieb: rechter
+[15:42:25] <jh> aber ich glaub das kommt vom flurfenster zumachen
+[15:42:32] <jh> bin da so abgerutscht beim runterklettert
+[15:42:53] <rohieb> jh: jajaja, ausreden :P
+[15:43:13] <Silberwoelfin> rohieb: das hat er doch gar nicht n�tig :P
+[15:43:19] <rohieb> wer weiß :P
+[15:43:47] <Silberwoelfin> rohieb: na, du nicht :P
+[15:43:54] <rohieb> und du etwa?
+[15:44:10] <Silberwoelfin> ja, ich wei� das
+[15:44:16] <elorie> wtf?
+[15:44:40] <jh> äh
+[15:44:50] <jh> ihr seid alle doof :P
+[15:45:38] <rohieb> elorie: :)
+[15:45:51] <rohieb> jh: ich weiß, das brauchst du mir nicht nochmal zu sagen
+[15:48:25] * Silberwoelfin knuddelt jh
+[15:48:37] <jh> :)
+[15:52:13] * rohieb knuddelt jh
+[15:52:32] <jh> ... :)
+[15:55:05] <rohieb> ::)
+[15:55:38] <DrMcCoy> ) .  .
+[15:59:01] <rohieb> wer ist Robin Meyer-Lucht?
+[16:01:31] <rohieb> hm ok, nichts wichtiges
+[16:14:26] ! elorie has quit. (Quit: Leaving.)
+[16:28:58] ! csg has quit. (Ping timeout: 260 seconds)
+[16:31:58] ! nubix has quit. (Ping timeout: 244 seconds)
+[16:33:16] ! csg has joined.
+[16:39:48] ! nubix has joined.
+[16:39:59] ! nubix has quit. (Changing host)
+[16:39:59] ! nubix has joined.
+[16:40:44] * rohieb is listening to Domine - carus scending [Emperor of the Black Runes] [0:00/6:31]
+[16:40:47] <rohieb> hm ne
+[16:40:49] <rohieb> !lastfm
+[16:40:52] <ZombiePoet> rohieb: Now playing Ooh La La by Goldfrapp from the album Supernature - http://www.last.fm/music/Goldfrapp/_/Ooh+La+La
+[16:40:54] * DrMcCoy is listening to ron Maiden - Don't Look o he Eyes f  Stranger [7:19/8:04]
+[16:41:00] <rohieb> oh iron maiden
+[16:44:05] ! PirateKing has quit. (Quit: Leaving.)
+[16:47:48] <Silberwoelfin> cookies \o/
+[16:48:22] <rohieb> wo?
+[16:48:54] <Silberwoelfin> auf meinen schreibtisch
+[16:50:32] <rohieb> ich will auch!
+[16:50:46] <rohieb> mv Silberwoelfin/schreibtisch/cookies rohieb/schreibtisch
+[16:51:50] <Silberwoelfin> not found: rohieb
+[16:51:52] <DrMcCoy> shred -uz rohieb/schreibtisch
+[16:52:02] <DrMcCoy> Ah, ne
+[16:52:04] <DrMcCoy> shred -uz rohieb/schreibtisch/*
+[16:52:13] <rohieb> mein armer schreibtisch :'(
+[16:52:54] <rohieb> und wo stell ich jetzt meinen laptop drauf?
+[16:53:11] <DrMcCoy> Ne, dein Schreibtisch steht noch
+[16:53:16] <DrMcCoy> Alles was drauf war ist weg
+[16:53:26] <DrMcCoy> I.e. dein Laptop
+[16:53:29] <DrMcCoy> Und die Kekse
+[16:54:14] <rohieb> :'(
+[16:54:19] <rohieb> arme kekse
+[16:54:30] <rohieb> aber meinen laptop hatte ich grade hochgehoben
+[16:54:36] ! der_eq has joined.
+[16:54:39] <rohieb> na gut, muss ich halt neue kekse kaufen
+[16:55:21] <rohieb> afk
+[17:00:25] <nubix> !mensa
+[17:00:31] <ZombiePoet> Abendmensa Katharinenstraße am Mittwoch:
+[17:00:31] <ZombiePoet> A: Terrine Rindfleischsuppe AT mit Nudeln 1,40€
+[17:00:31] <ZombiePoet> B: Pasta-Asciutta-Soja 1,70€
+[17:00:31] <ZombiePoet> C: Geflügelspieß mit Currysauce 1,90€
+[17:00:32] <ZombiePoet> W: 1/2 Brathähnchen 1,90€
+[17:01:12] ! Phia has quit. (Read error: Connection reset by peer)
+[17:02:02] ! PirateKing has joined.
+[17:07:33] ! der_eq_ has joined.
+[17:10:36] ! der_eq has quit. (Ping timeout: 240 seconds)
+[17:12:33] ! conqueror12 has quit. (Quit: Leaving.)
+[17:12:38] ! Cascharity has quit. (Quit: Verlassend)
+[17:15:41] ! ZombiePoet has quit. (Disconnected by services)
+[17:15:44] ! ZombiePoet_ has joined.
+[17:17:37] ! ZombiePoet_ is now known as ZombiePoet
+[17:19:47] ! der_eq_ has quit. (Ping timeout: 252 seconds)
+[17:20:14] ! PirateKing has quit. (Quit: Leaving.)
+[17:23:33] ! nubix has quit. (Quit: Leaving.)
+[17:23:52] ! nubix has joined.
+[17:28:17] ! nubix has quit. (Ping timeout: 244 seconds)
+[17:32:24] ! der_eq_ has joined.
+[17:37:13] ! PirateKing has joined.
+[17:39:35] ! csg has quit. (Ping timeout: 252 seconds)
+[17:40:24] ! der_eq has joined.
+[17:42:51] ! der_eq_ has quit. (Ping timeout: 258 seconds)
+[17:44:15] ! nubix has joined.
+[17:45:55] ! PirateKing has quit. (Quit: Leaving.)
+[17:54:20] ! der_eq_ has joined.
+[17:54:34] ! der_eq has quit. (Ping timeout: 276 seconds)
+[17:55:28] ! Phia has joined.
+[18:00:12] ! PirateKing has joined.
+[18:16:22] ! der_eq has joined.
+[18:17:53] ! der_eq_ has quit. (Ping timeout: 244 seconds)
+[18:19:47] ! der_eq_ has joined.
+[18:23:24] ! der_eq has quit. (Ping timeout: 265 seconds)
+[18:26:18] ! der_eq_ has quit. (Ping timeout: 265 seconds)
+[18:26:52] ! der_eq has joined.
+[18:30:28] * rohieb tee
+[18:32:53] * jh tee too
+[18:32:59] <rohieb> T2?
+[18:33:12] <rohieb> hm, wir könnten mal wieder terminatoren oder matrixen, jh
+[18:33:40] <jh> jo
+[18:41:16] ! der_eq has quit. (Quit: Leaving)
+[19:16:19] ! Phia has left the channel.
+[19:27:44] * DrMcCoy tee tee
+[19:41:16] ! nubix has quit. (Quit: Leaving.)
+[19:41:52] ! nubix has joined.
+[19:48:21] ! joke` has joined.
+[19:51:25] ! lurtz has quit. (Remote host closed the connection)
+[19:52:05] <rohieb> hm
+[19:52:08] <rohieb> am besten
+[19:52:24] <rohieb> alle nomigkeiten in der küche aufbewahren, damit man wenigstens hinlaufen muss, um was zu futtern ^^
+[19:53:28] ! lurtz has joined.
+[19:53:30] <jh> hab nix zu essen
+[19:53:39] <Silberwoelfin> ich auch nicht :(
+[19:53:41] <rohieb> das ist natürlich am besten ^^
+[19:53:44] <rohieb> lurtz!
+[19:53:59] <lurtz> rohieb!
+[19:55:22] * rohieb haz florentiner
+[19:55:36] <jh> ist das nicht ne fechtwaffe?
+[19:56:08] * DrMcCoy has Z҉҉L҉G҉̚̕̚
+[19:56:54] <jh> was ist das?
+[19:57:08] <nubix> irgendein haufen sonderezeichen
+[19:58:09] <jh> sieht aus wie ZALGO?
+[19:58:23] <DrMcCoy> H҉̵̞̟̠̖̗̘Ȅ̐̑̒̚̕̚ IS C̒̓̔̿̿̿̕̚̚̕̚̕̚̕̚̕̚̕̚OMI҉̵̞̟̠̖̗̘NG
+[19:58:29] <jh> wer?
+[19:58:36] <nubix> na super, mein client kann unicode :/
+[19:58:47] <nubix> und jetzt hab ich lauter komische striche im fenster
+[19:58:51] <DrMcCoy> :D
+[19:59:03] ! Bowdzone has quit. (Read error: Connection reset by peer)
+[20:17:36] ! lurtz has quit. (Quit: Leaving.)
+[20:19:36] ! lurtz has joined.
+[20:19:46] ! conqueror12 has joined.
+[20:25:09] ! Sonea has joined.
+[20:25:22] <Sonea> ich will aber nicht gefaltet werden :(
+[20:26:04] * rohieb faltet Sonea 
+[20:26:46] * jh entfaltet Sonea 
+[20:28:14] ! elorie has joined.
+[20:29:13] <Silberwoelfin> Sonea: wie kommst du denn jetzt darauf?
+[20:29:28] <lurtz> die guckt sich bestimmt die vl der komischen an
+[20:29:31] <elorie> Sonea: thx fuer die buecher
+[20:31:11] <Silberwoelfin> lurtz: ja, das wei� ich, aber warum sollte hier jemand Sonea falten? (au�er rohieb offenbar)
+[20:31:13] ! Phia has joined.
+[20:31:18] <DrMcCoy> Sonea, elorie: "George R.R. Martin signed up for Twitter just to kill 140 characters" :P
+[20:31:27] <elorie> DrMcCoy: o.O
+[20:31:57] <Silberwoelfin> kalt, irgendwie...
+[20:31:57] <Sonea> !slap rohieb
+[20:31:58] * ZombiePoet makes rohieb fail on his next exam with a small teaspoon
+[20:32:17] <Sonea> Silberwoelfin: winne hat gesagt dass jan gesagt hat, dass winnie mich zusammen falten soll
+[20:32:27] <Sonea> elorie: ah angekommen? :) gut
+[20:32:43] <Silberwoelfin> warum soll er das denn tun?
+[20:33:04] <Sonea> weil wir gerade faltungskram machen
+[20:33:11] <Sonea> oder so
+[20:33:13] <Sonea> frag ihn
+[20:33:17] <Sonea> ich wars ja nicht
+[20:33:19] <Silberwoelfin> jh!
+[20:33:25] <rohieb> jan hat garnix gesagt O_o
+[20:33:26] <Sonea> vllt ist jh auch einfach böse!
+[20:33:32] <rohieb> genau, jh ist böse!!!!
+[20:33:34] <Sonea> :D
+[20:33:36] <Silberwoelfin> jh ist nicht b�se!
+[20:33:50] <Silberwoelfin> jh ist ganz lieb :)
+[20:34:03] <rohieb> war klar, dass du das sagst :P
+[20:34:05] <jh> *heiligenschein polier*
+[20:34:16] <jh> Sonea: ja, weil ihr grad faltungskram macht
+[20:34:31] <jh> Sonea: aber das habe ich ihm via jabber gesagt, deswegen versteht das hier im irc keiner
+[20:35:09] <Silberwoelfin> winnie ist ja auch gar nicht im irc
+[20:39:23] <jh> doch, nur nicht in ##cs-studs
+[20:40:14] <Silberwoelfin> er mag uns nicht :(
+[20:42:30] <Sonea> genau
+[20:42:38] <Sonea> ihr könnt alle keine schildkröten falten
+[20:43:59] <nubix> Sonea: Kannst du etwa eine Schildkroete fallten?
+[20:44:06] <DrMcCoy> Die armen Schildkröten :(
+[20:44:09] <nubix> Ich habe mir sagen lassen die sind recht fest
+[20:44:18] <DrMcCoy> Hmmmm...
+[20:44:22] <DrMcCoy> Schildkrötensuppe
+[20:44:52] <Sonea> nubix: nö :d
+[20:45:23] <Sonea> nubix: ich meinte aber auch eigentlich: ihr könnte alle keine schildkröte mit einem geraden schnitt in gefaltetes papier erzeugen
+[20:45:29] <Sonea> das kann ich aber ;)
+[20:45:35] <Sonea> bzw. ich weiß wos steht :d
+[20:46:55] <nubix> Sonea: http://erikdemaine.org/foldcut/
+[20:46:57] <ZombiePoet> Title: The Fold-and-Cut Problem (Erik Demaine) (at erikdemaine.org)
+[20:47:16] <nubix> Sonea: ich behaupte fast, das ist ein guter anfang
+[20:49:17] <rohieb> nubix: auf welcher grundlage behauptest du das denn?
+[20:49:22] <rohieb> oh, interessant: "Drei Tage nach den Wahlen in Berlin sind am Mittwoch Vormittag in einem Müllcontainer einer Wohnanlage an der Schöppinger Straße 13 in Lichterfelde-Süd 379 ungeöffnete Briefe mit ausgefüllten Briefwahl-Stimmzetteln gefunden worden."
+[20:49:25] <rohieb> http://www.berlinonline.de/berliner-zeitung/berlin/359527/359528.php
+[20:49:26] <ZombiePoet> Title: Wählervotum landet im Müll - Berliner Zeitung (at www.berlinonline.de)
+[20:50:05] <Sonea> nubix: ja ein anfang, aber kannst du das falten? :d
+[20:50:19] <Sonea> nubix: naja wenn du das hinkriegst ist winnie vllt auch nett zu dir ;P
+[20:51:23] <nubix> Sonea: war winnie etwa nicht nett zu mir?
+[20:54:14] <DrMcCoy> rohieb: Das ist böse :/
+[20:54:34] <rohieb> ja, aber anscheinend nicht mandatsentscheidend
+[20:54:51] <rohieb> aber das hier ist auch nett... ^^ http://www.morgenpost.de/berlin-aktuell/article1770636/Ergebnisse-vertauscht-SPD-verliert-Mandat.html
+[20:54:52] <ZombiePoet> Title: Berlin-Wahl - Ergebnisse vertauscht - SPD verliert Mandat - Berlin Aktuell - Berliner Morgenpost - Berlin (at www.morgenpost.de)
+[20:55:15] <DrMcCoy> o_O
+[21:00:07] <Sonea> fliegengitter an tür ist unpraktisch, oder? :D
+[21:00:47] <Sonea> (20:35:09) Silberwoelfin: winnie ist ja auch gar nicht im irc
+[21:00:47] <Sonea> (20:39:23) jh: doch, nur nicht in ##cs-studs
+[21:00:47] <Sonea> (20:40:14) Silberwoelfin: er mag uns nicht :(
+[21:00:54] <Sonea> nubix darauf war das bezogen
+[21:01:06] <Sonea> der winnie mag euch nicht, weil ihr nicht falten könnt
+[21:01:13] <jh> hm?
+[21:01:13] <Sonea> darum mag er mcih aber :)
+[21:01:20] <jh> winnie mag mich nicht? :(
+[21:01:25] <Sonea> nein!
+[21:01:47] <Sonea> jh: oder kannst du iwas tolles falten, entfalten, fold and cutten?
+[21:03:07] <jh> hab n cuttermesser
+[21:03:12] <jh> damit cutte ich dir was du willst
+[21:03:34] <rohieb> aber bitte keine halsschlagadern
+[21:03:45] <nubix> Sonea: sag ihm er soll sushi machen ^^
+[21:06:10] <jh> rohieb: nur pulsadern am arm?
+[21:06:14] <jh> kk
+[21:06:34] <Sonea> sushi?
+[21:07:16] <nubix> ja, sushi
+[21:07:28] <DrMcCoy> Hmm, Sushi
+[21:07:57] <nubix> DrMcCoy: wenn ich dich frage willst du nie
+[21:07:58] <Sonea> yay voll cool die puzzle :)
+[21:07:59] <Sonea> http://erikdemaine.org/puzzles/
+[21:08:00] <ZombiePoet> Title: Erik Demaine and Martin Demaine's Puzzles (at erikdemaine.org)
+[21:08:26] <DrMcCoy> nubix: Das war 1x :P
+[21:09:14] <nubix> na siehst du? ich hab recht :p
+[21:10:26] <Sonea> winnie lacht voll fies
+[21:10:42] <Sonea> hab hunger!
+[21:10:49] <nubix> Sonea: iss halt winnie
+[21:10:49] <Sonea> was es ist schon nach 9?
+[21:10:58] <Sonea> nubix: nee der ist so süß
+[21:11:11] <nubix> keine lust auf etwas sueßes?
+[21:11:16] <nubix> lieber was deftiges? :p
+[21:11:17] <Sonea> das würde dann schon an vernaschen grenzen und da hat seine freundin bestimmt was dagegen
+[21:11:28] <Sonea> außerdem hab ich gerade echt eher lust auf was herzhaftes
+[21:11:32] <nubix> ah, ja ... aehm...
+[21:11:55] <jh> Sonea: mh, auch hunger, hab grad 4 scheiben knäckebrot gegessen weil ich nix anderes hab^^
+[21:12:14] ! winnie has joined.
+[21:12:22] <jh> winnie: Sonea vernascht dich grad...?
+[21:12:25] * winnie knuddelt jh ein bisschen
+[21:12:35] <Sonea> jh nein eben nicht!
+[21:12:38] <winnie> jh: wenn, dann sehr subtil
+[21:12:43] <Sonea> :D
+[21:12:44] <jh> Sonea: psst!
+[21:12:49] <DrMcCoy> o_O
+[21:12:52] <Sonea> wer weiß winnie wer weiß
+[21:13:02] <winnie> Sonea: ich weiß winnie
+[21:13:18] <DrMcCoy> winnie, Sonea: Nehmt euch nen Channel!
+[21:13:24] <DrMcCoy> :P
+[21:13:52] <winnie> DrMcCoy: ##Soneawinniefolding?
+[21:14:11] <jh> keiner drin
+[21:14:18] <Sonea> yay dann gäbe es ein folding von uns?
+[21:14:24] <winnie> jh: vielleicht zu rigid
+[21:14:42] <winnie> Sonea: ich will mich nicht mit dir folden
+[21:14:52] <jh> warum klingt das so versaut?
+[21:15:19] <Sonea> jh wie fies!!!!
+[21:15:19] <winnie> jh: weil Origami ein O vorne hat
+[21:15:30] <Sonea> ich wollte gerade schreiben: "pöhh aber du bsit ja op"
+[21:15:32] <jh> winnie: äh ok
+[21:15:37] <jh> Sonea: :P
+[21:15:45] <Sonea> winnie: was? ich mich auch nciht mit dir!
+[21:16:05] <winnie> Sonea: dann ist ja gut
+[21:16:13] <winnie> dann mach ich jetzt Stress
+[21:16:33] <Sonea> und ich glaube wir wären zusammen bestimmt höchstens minimally inf. flexible
+[21:16:43] <Sonea> aber eher gener. rigid
+[21:16:52] <Sonea> stress???
+[21:17:00] <winnie> Sonea: ja, wenn man bei mir ein Stück rausnimmt, bin ich nicht mehr flexible
+[21:17:01] <Sonea> achso stress!
+[21:17:03] <jh> nerds.
+[21:17:10] <Sonea> winnie: gar nicht
+[21:17:20] <Sonea> jh: selber
+[21:17:41] <winnie> Sonea: macht selber automatisch aus Plural Singular?
+[21:18:23] ! Bowdzone has joined.
+[21:19:40] <Sonea> winnie: was?
+[21:19:55] <winnie> Sonea: jh ist ja nicht nerds sondern nerd
+[21:21:27] <Sonea> hmm hier laufen auch noch arbeitetende doktoranden rum.....
+[21:21:45] <Sonea> ahh
+[21:21:52] <winnie> Sonea: ne, nur lichtausmachende türenschließende
+[21:26:10] <Sonea> aber davor hat er bestimmt gearbeitet
+[21:26:18] <Sonea> und er hat licht und tür nciht ausgemacht
+[21:26:31] <winnie> stimmt
+[21:26:34] <winnie> die Tür ist noch an
+[21:26:34] <Sonea> winnie: rest ist genügend für MC im kopf
+[21:26:36] <Sonea> oder nciht?
+[21:27:22] ! Sonea has left the channel.
+[21:31:32] ! winnie has quit. (Quit: Leaving.)
+[21:32:58] <rohieb> jh!
+[21:33:21] <rohieb> oh, in hondelage wurde ein vollständiges ichthyosaurierskelett gefunden
+[21:36:33] <jh> rohieb!
+[21:36:57] <rohieb> zu spät? :(
+[21:37:05] <rohieb> hab zeitung gelesen
+[21:37:25] <rohieb> hm, kam grad ins bad, und wunderte mich, dass es schon halb drei ist...
+[21:38:53] <jh> es ist sogar schon halb zehn
+[21:42:18] <rohieb> ja, spiegelvekehrt
+[21:43:53] <jh> uɥǝz qlɐɥ?
+[21:44:58] <DrMcCoy> rohieb: Mir passiert das nie O_o
+[21:45:02] <jh> mh, hunger
+[21:45:03] <nubix> jh, du solltest noch am ? arbeiten
+[21:45:09] <jh> rohieb: gehst du zu mcdonalds?^^
+[21:45:14] <jh> sonst mach ich mir nudelz
+[21:45:15] <rohieb> jh: ¿
+[21:45:18] <rohieb> jh: oh
+[21:45:23] <rohieb> jh: hmmmmmmmmmmmmmmm
+[21:45:27] <rohieb> jh: hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+[21:45:32] ! nubix has left the channel.
+[21:45:38] <lurtz> jh: nudelz
+[21:45:42] <jh> ja
+[21:45:44] <jh> wasser kocht
+[21:45:45] <rohieb> ja
+[21:45:45] ! nubix has joined.
+[21:45:46] <rohieb> besser ^^
+[21:45:59] <rohieb> nuwbix
+[21:46:12] <jh> ok, also nudelz
+[21:46:31] <nubix> nuwbix?! o.0
+[21:47:37] <DrMcCoy> nubix: Was machst du denn dan immer?
+[21:47:59] <DrMcCoy> Join, quit, join, quit
+[21:48:09] <DrMcCoy> Du kannst nicht mal ne Minute lang connected bleiben :P
+[21:49:44] <nubix> DrMcCoy: doch schon, aber mein client disconnected halt wenn ich ihn beende
+[21:51:04] <rohieb> dan beende ihn halt nicht o_O
+[21:51:07] <rohieb> +n
+[21:54:22] <nubix> rohieb: didnt happen on purpose
+[21:58:30] ! joke` has quit. (Ping timeout: 244 seconds)
+[22:03:32] ! PirateKing has quit. (Quit: Leaving.)
+[22:10:24] <Silberwoelfin> jh: meh, jetzt hab ich auch appetit auf nudeln :/
+[22:10:43] <jh> Silberwoelfin: ihr habt doch sicher welche
+[22:11:50] <Silberwoelfin> jh: ja, aber was glaubst du, was meine eltern sagen, wenn ich mir um halb elf nachts nudeln koche???
+[22:15:14] <jh> kA
+[22:15:22] <jh> "Kind, hast du Hunger?"
+[22:16:45] <DrMcCoy> Noch ein Grund, auszuziehen. Keiner guckt mich komisch an, wenn ich mir um 01:00 was zu Essen mache :)
+[22:17:10] <nubix> DrMcCoy: aehm...
+[22:17:33] <DrMcCoy> nubix: :(
+[22:18:15] <DrMcCoy> nubix: Du bist gemein :(
+[22:18:20] <nubix> :)
+[22:24:57] ! Scumpeter has quit. (*.net *.split)
+[22:40:02] ! Scumpeter has joined.
+[22:42:07] ! nubix has quit. (Quit: Leaving.)
+[22:46:21] ! nubix has joined.
+[22:48:18] * DrMcCoy verkneift sich einen Kommentar
+[22:49:23] <Silberwoelfin> wozu?
+[22:50:00] * DrMcCoy verkneift sich eine ntwort
+[22:50:01] <nubix> wahrscheinlich bzgl. reconnects
+[22:58:11] <jh> hat DrMcCoy dir das kabel rausgezogen?^^
+[22:58:33] <DrMcCoy> ...
+[22:58:33] <DrMcCoy> Nein
+[22:59:11] ! Phia has quit. (Read error: Connection reset by peer)
+[23:00:11] <DrMcCoy> /So/ sieht das aus, wenn ich ein Kabel rausziehe
+[23:00:24] <DrMcCoy> ;P
+[23:01:20] ! Peace-Maker has joined.
+[23:02:01] <rohieb> so, mal schnell commander keen durchspielen
+[23:02:58] <DrMcCoy> :)
+[23:23:50] ! Scumpeter has quit. (*.net *.split)
+[23:36:27] ! Scumpeter has joined.
+[23:37:29] <DrMcCoy> Warum kackt den dieser dumme Anne-Will-Livestream alle Minute ab?
+[23:38:49] <nubix> DrMcCoy: meiner ist gut und laeuft :p
+[23:38:52] <Silberwoelfin> gute nacht
+[23:39:06] <Silberwoelfin> schaut doch zusammen, wenn ihr schon zusammen wohnt? oO
+[23:39:17] ! Silberwoelfin has quit. (Quit: Verlassend)
+[23:39:21] <nubix> wuahahahahahahahaaa
+[23:39:31] <DrMcCoy> :(
+[23:39:41] <nubix> Sie haben schon lange genug geredet. Ich glaube je laenger sie reden, desto mehr Prozente werden Sie an die Piraten verlieren.
+[23:40:28] <DrMcCoy> Jo
+[23:42:02] <rohieb> !tell *woelfin <Silberwoelfin> schaut doch zusammen, wenn ihr schon zusammen wohnt? oO <-- hey, das sind informatiker :P
+[23:42:02] <ZombiePoet> rohieb: Ok.
+[23:46:50] <DrMcCoy> Man, man, der Lindner ist ein Arschloch
+[23:51:06] ! joke` has joined.
+[23:58:56] <rohieb> welcher lindner?

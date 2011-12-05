@@ -1,0 +1,560 @@
+[03:09:59] <nubix> .
+[03:12:50] <nubix> wuah, krümel unter der esc taste
+[03:15:15] <rohieb> fail
+[03:15:23] * rohieb nimmt nubix die kekse weg
+[03:15:39] * nubix hat keine Kekse ^^
+[03:16:32] <nubix> gefailt hat Erstsemester gerade wieder. bis gerade eben gabs kein log ...
+[03:17:08] <nubix> weil der bot sogut wie gar nichts darf und ich vergessen habe ihm die rechte zu geben eine neue logdatei zu schreiben
+[03:19:02] ! Peace-Maker has quit. (Quit: get satisfied!  :: core-networks.de ««« (Gamers.IRC) »»» gamersirc.net ::)
+[03:20:09] ! nubix_ has joined.
+[03:20:29] ! nubix_ is now known as Guest667
+[03:25:18] ! Guest667 has quit. (Quit: leaving)
+[03:43:02] <nubix> .
+[03:48:20] ! nubix has quit. (Quit: Leaving.)
+[03:59:19] ! CalebRipley has quit. (Remote host closed the connection)
+[05:01:21] ! rohieb has quit. (Quit: ...yo ho ho, and a bottle of rum!)
+[05:15:45] ! kiney1 has joined.
+[05:17:06] ! kiney has quit. (Read error: Operation timed out)
+[07:56:36] ! jh has joined.
+[07:57:48] <jh> hi
+[08:41:59] <jh> !alias
+[08:42:34] <jh> !nomnom
+[08:42:50] <jh> !nomnom
+[08:42:50] <ZombiePoet> Mensa Beethovenstraße am Montag:
+[08:42:51] <ZombiePoet> A: Eintopf nach Tagesangebot 1,40€
+[08:42:52] <ZombiePoet> B: Hühnerfrikassee mit Champignons und Spargel 1,70€
+[08:42:52] <jh> =)
+[08:42:53] <ZombiePoet> C: Ofenfrischer Fleischkäse mit Zwiebelsauce 1,90€
+[08:42:54] <ZombiePoet> V: Überbackene Kartoffelrösti mit Gemüseragout 1,90€
+[08:43:29] <jh> mh, kein essen
+[08:46:23] <jh> !nom
+[08:46:23] <ZombiePoet> Nothing.
+[08:48:15] ! jh has quit. (Quit: Logik wird überschätzt.)
+[08:57:27] ! Phia has joined.
+[08:57:36] ! ES has joined.
+[08:58:49] ! PirateKing has joined.
+[09:44:33] ! Tigaa_laptop has joined.
+[10:03:46] ! jh has joined.
+[10:04:05] <jh> !tell nubix warum bist du nicht in deinem zuhause? (fg-raum)
+[10:04:05] <ZombiePoet> jh: Ok.
+[10:10:32] ! moenni has joined.
+[10:10:39] <jh> mönny!
+[10:27:41] ! moenni has quit. (Quit: Leaving.)
+[10:30:15] ! lurtz has joined.
+[10:31:45] ! Mobiwoelfin has joined.
+[10:36:20] ! jh has quit. (Quit: Logik wird überschätzt.)
+[10:41:44] <lurtz> Droggl: Mobiwoelfin Phia http://www.doodle.com/yaksgb9geb83d3d7#table Umfrage für die nächste OV-Sneak
+[10:41:45] <ZombiePoet> Title: Doodle: OV-Sneak am 19.09 (at www.doodle.com)
+[10:43:00] ! Bowdzone has joined.
+[10:45:18] ! Mobiwoelfin_ has joined.
+[10:45:18] ! Mobiwoelfin has quit. (Read error: Connection reset by peer)
+[10:45:53] <lurtz> Mobiwoelfin_: www.gema.de
+[10:46:07] <lurtz> Mobiwoelfin_: öhm hast du den ov-sneak link bekommen?
+[10:48:06] <Mobiwoelfin_> lurtz: ja
+[10:48:21] <Mobiwoelfin_> lurtz: was ist mit der gema?
+[10:49:37] <lurtz> hatte den falschen text in der zwischenablage
+[10:49:44] <lurtz> aber wie du siehst wurde die gehackt
+[10:54:38] ! Mobiwoelfin has joined.
+[10:56:19] ! lurtz has quit. (Quit: Leaving.)
+[10:57:13] ! Mobiwoelfin_ has quit. (Ping timeout: 258 seconds)
+[10:59:00] ! Mobiwoelfin has quit. (Ping timeout: 240 seconds)
+[10:59:53] ! jh-uni has joined.
+[11:09:33] ! CalebRipley has joined.
+[11:30:44] ! Phia has quit. (Quit: Leaving.)
+[11:35:19] ! Mobiwoelfin has joined.
+[11:41:53] ! Mobiwoelfin has quit. (Read error: Connection reset by peer)
+[11:42:15] ! Mobiwoelfin has joined.
+[11:43:15] ! Mobiwoelfin_ has joined.
+[11:43:15] ! Mobiwoelfin has quit. (Read error: Connection reset by peer)
+[11:46:25] ! Mobiwoelfin has joined.
+[11:49:13] ! Mobiwoelfin_ has quit. (Ping timeout: 252 seconds)
+[11:51:03] ! Mobiwoelfin has quit. (Ping timeout: 252 seconds)
+[12:03:43] ! Mobiwoelfin has joined.
+[12:06:44] <Mobiwoelfin> jh-uni: \o/
+[12:10:50] <Mobiwoelfin> jh-uni: Mittagessenhunger?
+[12:11:25] ! moenni has joined.
+[12:13:44] ! moenni has quit. (Client Quit)
+[12:23:14] <jh-uni> Mobiwoelfin: mh, eigentlich grad noch nicht so... wo willst du denn hin?
+[12:23:29] <Mobiwoelfin> keine Ahnung
+[12:23:32] ! galoscho has joined.
+[12:23:47] <Mobiwoelfin> wollte nur demnächst mal was essen
+[12:25:04] <Mobiwoelfin> sonst muss ich gleich monitore schleppen und mein rücken tut schon von den beiden druckern eben weh :/
+[12:26:37] <jh-uni> Mobiwoelfin: mach n vorschlag :P
+[12:26:44] <jh-uni> Mobiwoelfin: hdw-bistro-test?^^
+[12:27:09] <jh-uni> galoscho! wie gehts unserer wohnung?
+[12:28:39] <Mobiwoelfin> jh-uni: ja, können wir mal testen^^
+[12:30:09] <galoscho> jh-uni: ich r�um gerade mein zimmer auf
+[12:31:16] <galoscho> jh-uni: der fliesenleger macht irgendwas im bad. k.p. was
+[12:32:07] <jh-uni> kk
+[12:32:09] <jh-uni> Mobiwoelfin: wann los?
+[12:32:46] ! moenni has joined.
+[12:33:15] <Mobiwoelfin> jh-uni: 13 uhr da treffen?
+[12:33:30] <galoscho> !tell nubix* Erstsemester failt bei manchen zeichen. siehe hier: http://nubix.net/cs-studs/show/2011-08-21#bottom
+[12:33:30] <ZombiePoet> galoscho: Ok.
+[12:33:31] <jh-uni> Mobiwoelfin: ok
+[12:34:34] <jh-uni> galoscho: der �bernimmt wohl 1:1 die enkodierung vom sender... wenn du die seite mit iso-8859-15 anguckst, sieht man zB das � unten
+[12:34:56] <galoscho> jo schon gemerkt.
+[12:44:10] <galoscho> !tell nubix* z.b. mit der charguess c-lib kann man encodings bestimmen. dazu gibts ruby-bindings
+[12:44:10] <ZombiePoet> galoscho: Ok.
+[12:44:58] <jh-uni> das wird aber schwer wenn da unterschiedliche encodings sind, oder?
+[12:45:09] <jh-uni> manche senden halt in utf und andere in iso-blubb
+[12:45:24] <jh-uni> wobei... die clients kriegens ja auch angezeigt^^
+[12:45:43] <galoscho> jo ich denke man kann zeile f�r zeile das encoding raten
+[12:45:49] <jh-uni> :D
+[12:45:57] <jh-uni> afk
+[12:46:39] ! Ignifazius has joined.
+[12:54:53] ! Mobiwoelfin_ has joined.
+[12:57:25] ! Mobiwoelfin has quit. (Ping timeout: 252 seconds)
+[12:57:25] ! Mobiwoelfin__ has joined.
+[12:58:58] ! Mobiwoelfin_ has quit. (Ping timeout: 240 seconds)
+[13:01:46] ! Mobiwoelfin__ has quit. (Ping timeout: 240 seconds)
+[13:03:54] ! nubix has joined.
+[13:09:59] ! moenni has quit. (Quit: Leaving.)
+[13:19:19] ! ES has quit. (Quit: The cake is a lie!)
+[13:22:54] <nubix> .
+[13:22:55] <ZombiePoet> nubix: Sent 3 hours and 18 minutes ago: <jh> warum bist du nicht in deinem zuhause? (fg-raum)
+[13:22:56] <ZombiePoet> nubix: Sent 49 minutes ago: <galoscho> Erstsemester failt bei manchen zeichen. siehe hier: http://nubix.net/cs-studs/show/2011-08-21#bottom
+[13:22:57] <ZombiePoet> nubix: Sent 38 minutes ago: <galoscho> z.b. mit der charguess c-lib kann man encodings bestimmen. dazu gibts ruby-bindings
+[13:25:38] <nubix> !tell jh ich bin doch nicht immer zuhause ^^
+[13:25:38] <ZombiePoet> nubix: Ok.
+[13:28:27] ! lurtz has joined.
+[13:35:28] ! galoscho has quit. (Quit: Leaving)
+[13:44:11] ! csg has joined.
+[13:45:21] ! zerobot has joined.
+[13:53:08] <jh-uni> re
+[13:53:15] <jh-uni> nubix: wo treibst du dich denn rum?
+[13:53:23] <nubix> jh-uni: im fgraum
+[13:53:31] <jh-uni> also doch zuhause
+[13:54:23] ! Mobiwoelfin has joined.
+[14:00:06] <nubix> jh-uni: jop
+[14:16:31] ! csg has quit. (Ping timeout: 240 seconds)
+[14:34:23] ! moenni has joined.
+[14:34:59] ! elorie has joined.
+[14:36:39] ! Mobiwoelfin_ has joined.
+[14:36:39] ! Mobiwoelfin has quit. (Read error: Connection reset by peer)
+[14:37:01] ! lurtz has quit. (Quit: Leaving.)
+[14:37:50] ! Mobiwoelfin has joined.
+[14:38:19] <Mobiwoelfin> aufi nach hause :)
+[14:38:26] <elorie> moin
+[14:39:32] ! ES has joined.
+[14:40:05] <DrMcCoy> eloriechen!
+[14:40:54] ! Mobiwoelfin_ has quit. (Ping timeout: 240 seconds)
+[14:41:52] <jh-uni> guten morgen eloriechen
+[14:42:18] <nubix> guten mittag elorie Mobiwoelfin DrMcCoy
+[14:43:57] <elorie> jh-uni: bin schon ganz lange wach
+[14:44:35] ! nubix is now known as nibuxxx
+[14:44:41] ! nibuxxx is now known as nubix
+[14:48:44] ! nubix has quit. (Quit: :asd : :as :)
+[14:49:08] ! nubix has joined.
+[14:49:30] ! nubix has quit. (Client Quit)
+[14:49:41] ! nubix has joined.
+[14:49:49] ! nubix has quit. (Changing host)
+[14:49:49] ! nubix has joined.
+[14:50:23] ! moenni has quit. (Quit: Leaving.)
+[14:51:32] ! lurtz has joined.
+[14:54:04] ! Mobiwoelfin_ has joined.
+[14:55:05] <jh-uni> elorie: kann ja jeder sagen...
+[14:56:06] ! Mobiwoelfin has quit. (Ping timeout: 240 seconds)
+[14:58:32] ! Mobiwoelfin_ is now known as Mobiwoelfin
+[15:05:41] ! Mobiwoelfin has quit. (Ping timeout: 240 seconds)
+[15:12:03] ! Mobiwoelfin has joined.
+[15:19:17] <Mobiwoelfin> einmal gebratene woelfin...
+[15:21:37] <elorie> o.O
+[15:23:18] <DrMcCoy>  mjam
+[15:28:44] <Mobiwoelfin> so gar, dass ich tatsächlich versuchte, mein auto mit dem haustürschlüssel abzuschließen -.-
+[15:40:00] ! Silberwoelfin has joined.
+[15:41:08] <DrMcCoy> Wtf
+[15:41:55] <DrMcCoy> Nana Visitor (Kia Nerys) on Torchwood
+[15:42:05] <DrMcCoy> Kira*
+[15:43:29] ! Erstsemester has joined.
+[15:43:29] ! Users in channel: @DrMcCoy @Wechner Bowdzone CalebRipley DooMMasteR Droggl ES Erstsemester Ignifazius Mobiwoelfin PirateKing Scumpeter ShadniX Silberwoelfin Tigaa_laptop Valodim ZombiePoet _Rick_ elorie hashier jh-uni kiney1 lurtz maku nubix pani serj tsuro zerobot
+[15:43:32] <nubix> äää!
+[15:46:28] ! Wechner has changed the topic: Channel-Logs laufen wieder und sind online: http://cs-studs.mroot.net/log/ || Informatik, Informatik- und IST-Studium an der TU-BS, Braunschweig, ...
+[15:47:48] <DrMcCoy> ...
+[15:47:56] <DrMcCoy> :(
+[15:48:49] <nubix> lol... das sieht ja zum verwechseln ähnlich aus :D
+[15:49:46] <DrMcCoy> Wechner: DeadPoet war besser
+[15:49:54] <Wechner> DrMcCoy: war er nicht ;)
+[15:50:06] <DrMcCoy> Doch
+[15:50:10] <Wechner> warum?
+[15:50:19] <DrMcCoy> Weil.
+[15:50:29] <Wechner> Gut.
+[15:50:46] <DrMcCoy> 1) "zerbot" hört sich scheiße an
+[15:50:56] <DrMcCoy> 2) Keine Evaluation von "..."
+[15:51:18] <DrMcCoy> 3) Sowieso.
+[15:51:30] <Wechner> DrMcCoy: pff, immer diese Konservativen ...
+[15:51:48] <Wechner> und die ...-Spielerei liefer ich vielleicht noch, aber eigentlich wollte ich die hier mal weg haben ...
+[15:51:56] <DrMcCoy> :(
+[15:52:03] <DrMcCoy> Wie gemein
+[15:52:09] <Wechner> hat eher nur noch Leute irritiert in letzter Zeit ...
+[15:52:13] <DrMcCoy> Gewohnheitsrecht und so
+[15:52:29] <DrMcCoy> Wechner: Scheiß auf die Leute :P
+[15:52:32] <Wechner> bzw. hat Gespamme verursacht, weil's dann jeder mal testen wollte
+[15:52:45] <Wechner> Silberwoelfin: neues Projekt, neuer Name ;)
+[15:53:09] <DrMcCoy> Wechner: Da warst du ja mal wieder sehr..."kreativ" bei dem Namen
+[15:53:30] <DrMcCoy> "zerobot"... Ne Null isser, ja
+[15:53:31] <jh-uni> !alias add ... say 0
+[15:53:31] <ZombiePoet> jh-uni: Ok.
+[15:53:34] <jh-uni> ...
+[15:53:36] <jh-uni> mh
+[15:53:37] <jh-uni> !...
+[15:53:46] <jh-uni> schade
+[15:53:56] <nubix> !say x
+[15:54:01] <nubix> schade, die spielerei fehlt
+[15:54:05] <jh-uni> !echo x
+[15:54:05] <ZombiePoet> x
+[15:54:11] <jh-uni> !alias add ... echo 0
+[15:54:11] <ZombiePoet> jh-uni: Ok.
+[15:54:13] <jh-uni> !...
+[15:54:14] <ZombiePoet> 0
+[15:54:17] <jh-uni> ^^
+[15:54:42] <DrMcCoy> Hmm...
+[15:54:43] <DrMcCoy> น
+[15:54:57] <nubix> yay, meiner macht das encoding endlich richtig :)
+[15:54:58] <DrMcCoy> Wechner: Ordentlich UTF-8 kann der ja auch nicht!
+[15:55:12] <Wechner> hmmm ... eigentlich schon :/
+[15:55:17] <DrMcCoy> FailWechner
+[15:55:24] <jh-uni> ZeroPoet?
+[15:55:32] <Wechner> work in progress ;)
+[15:55:39] <nubix> Wechner: ist es zufall, das die logs sehr viel ähnlichkeit mit meinen haben?
+[15:55:43] <Wechner> ich glaub, das failt eher im Viewer
+[15:55:48] <Wechner> nubix: meine sehen schon immer so aus
+[15:55:50] <Wechner> seit 2006
+[15:55:57] <DrMcCoy> Wechner: Und hinterherhängen tut der auch, oder hast du gerade die Logs ausgeschaltet?
+[15:56:01] <nubix> Wechner: ich meinte mehr die erste seite ^^
+[15:56:25] <Wechner> nubix: hast du ein Patent auf ein <ul> von YYYY-MM-DD ? :P
+[15:56:35] <nubix> Wechner: ja!
+[15:56:52] <Wechner> DrMcCoy: ähm, auch ein Fehler im LogViewer ;p
+[15:56:53] <nubix> Wechner: U.S. Patent No. 4686605
+[15:57:04] <Wechner> U.S. ... pfff
+[15:57:06] <DrMcCoy> Wechner: Wie gesagt, DeadPoet war besser.
+[15:57:21] <Wechner> der Viewer war aber nicht von DeadPoet :p
+[15:57:30] <DrMcCoy> Psch
+[15:57:36] <DrMcCoy> Verwirr mich nicht mit Fakten
+[15:59:16] <nubix> !calc 2+2
+[15:59:16] <ZombiePoet> nubix: 4
+[15:59:29] <nubix> !calc 2^5000
+[15:59:29] <ZombiePoet> nubix: Error: Something in there wasn't a valid number.
+[15:59:57] ! jh-uni has quit. (Quit: Informatik finde ich super!)
+[16:00:58] <Wechner> Silberwoelfin: nein, die Pagination hat noch Bugs ;)
+[16:04:30] <nubix> Silberwoelfin: du sollst andere umlaute machen, soll ich sagen
+[16:05:02] <Silberwoelfin> nubix: warum?
+[16:05:16] <nubix> Silberwoelfin: das war ich nicht, das war jan
+[16:06:05] <PirateKing> Silberwoelfin: weil h?ngt komisch aussieht ;)
+[16:06:22] <Silberwoelfin> aber ich mache ganz normale umlaute, wie immer... :(
+[16:06:58] <PirateKing> sieht käse gut aus?
+[16:07:27] ! Erstsemester has joined.
+[16:07:27] ! Users in channel: @DrMcCoy @Wechner Bowdzone CalebRipley DooMMasteR Droggl ES Erstsemester Ignifazius Mobiwoelfin PirateKing Scumpeter ShadniX Silberwoelfin Tigaa_laptop Valodim ZombiePoet _Rick_ elorie hashier kiney1 lurtz maku nubix pani serj tsuro zerobot
+[16:07:41] <nubix> käse?!
+[16:08:32] <nubix> Silberwoelfin: dann mach doch noch mal einen umlaut bitte :)
+[16:08:47] <PirateKing> hat sie doch gerade... so ein käse :p
+[16:09:00] <Silberwoelfin> nubix: ���
+[16:09:04] <nubix> PirateKing: bei dir tut das auch, aber ihr encoding ist irgendwie strange
+[16:09:18] <PirateKing> i know
+[16:09:30] <PirateKing> latin1 vllt?
+[16:09:52] <DrMcCoy> Darum hab ich einen Client, der sowas von selbst konvertiert :P
+[16:10:02] <Silberwoelfin> PirateKing: nee, IRC Latin/Unicode Hybrid
+[16:10:10] <DrMcCoy> Ich kann Silberwoelfin's "hängt" sehen, und auch PirateKing's "käse"
+[16:11:05] <nubix> DrMcCoy: Mein Bot ist da anderer ansicht
+[16:13:15] ! Mobiwoelfin has quit. (Ping timeout: 240 seconds)
+[16:16:54] <elorie> !tell jh braves anmelde-jhchen
+[16:16:55] <ZombiePoet> elorie: Ok.
+[16:18:08] <Silberwoelfin> elorie: ?
+[16:18:20] <Silberwoelfin> ah
+[16:18:24] <elorie> Silberwoelfin: masterarbeitsanmelde-tweet
+[16:18:33] <Silberwoelfin> ja, auch grad gesehen
+[16:22:44] <Silberwoelfin> ist heute der "Unsere Seite wird gerade gewartet"-Tag? schon zwei seiten down, auf die ich grade wollte... :/
+[16:23:21] ! Mobiwoelfin has joined.
+[16:27:28] ! csg has joined.
+[16:29:23] <PirateKing> gema.de? da war anonymous mal wieder am werk... ;)
+[16:40:23] ! Mobiwoelfin has quit. (Quit: Bye)
+[16:48:10] ! Ignifazius has quit. (Quit: *Vanish*)
+[17:01:57] <Wechner> so, der Viewer sollte jetzt auch gefixt sein
+[17:03:59] ! Phia has joined.
+[17:04:12] <DrMcCoy> Τὴ γλῶσσα ვეპხის யாமறிந்த ಬಾ ಇಲ್ಲಿ शक्नोम्यत्तुम्
+[17:04:26] <DrMcCoy> Wechner: Sieht gut aus :P
+[17:09:21] <Phia> lernt außer mir hier noch jemand für Krypto 3?
+[17:09:35] <Wechner> Phia: Dominik lernt glaube ich dafür
+[17:12:24] <Phia> Wechner: ja, stimmt
+[17:12:43] ! lurtz has quit. (Quit: Leaving.)
+[17:24:45] <Wechner> http://www.bildschirmarbeiter.com/content/images/picdump-11-08-19/picdump-11-08-19-025.jpg :D
+[17:34:00] <nubix> Τὴ γλῶσσα ვეპხის யாமறிந்த ಬಾ ಇಲ್ಲಿ शक्नोम्यत्तुम्
+[17:48:55] <DrMcCoy> nubix: Nachmacher
+[17:49:11] <nubix> DrMcCoy: Ja, das war so ein nettes Testset ^^
+[17:49:45] <nubix> DrMcCoy: ich konnte ja nicht ahnen, dass in ruby charsets konvertieren so einfach ist o.0 Kconv.toutf8()
+[17:56:42] ! PirateKing has quit. (Quit: Leaving.)
+[18:08:36] <Silberwoelfin> Phia: mit welcher GP-Basis spielt ihr licherweise DSA?
+[18:10:23] <Phia> Silberwoelfin: Standard 110 GP
+[18:10:32] <Phia> Silberwoelfin: schon ne Idee f端r nen Char?
+[18:10:43] <Silberwoelfin> Phia: bin grad dabei, mir einen auszudenken
+[18:15:35] ! Phia has quit. (Quit: Leaving.)
+[18:22:32] ! der_eq has joined.
+[18:27:14] ! nubix has quit. (Quit: Leaving.)
+[18:27:30] ! lurtz has joined.
+[18:37:34] ! Phia has joined.
+[18:43:00] ! der_eq has quit. (Remote host closed the connection)
+[19:12:41] ! csg has quit. (Ping timeout: 240 seconds)
+[19:16:44] ! jh has joined.
+[19:27:25] ! Tigaa_laptop has quit. (Quit: Leaving.)
+[19:28:24] <Silberwoelfin> jh: \o/
+[19:28:31] <jh> Silberwoelfin \o/
+[19:28:32] <ZombiePoet> jh: Sent 6 hours and 2 minutes ago: <nubix> ich bin doch nicht immer zuhause ^^
+[19:28:33] <ZombiePoet> jh: Sent 3 hours and 11 minutes ago: <elorie> braves anmelde-jhchen
+[19:31:31] ! lurtz has quit. (Ping timeout: 260 seconds)
+[19:35:37] ! rohieb has joined.
+[19:37:03] ! nubix has joined.
+[19:40:28] ! galoscho has joined.
+[19:42:43] <galoscho> bk
+[19:43:57] <DrMcCoy> stoff
+[19:44:54] <jh> beh辰lter
+[19:45:07] <ES> entleerer
+[19:46:11] <nubix> Weiß jemand hier ob man mit dem Semesterticket auch die in der NWB nach bremerhaven fahren darf?
+[19:46:39] <elorie> nubix: steht auf der astaseite theor.
+[19:48:59] <nubix> elorie: thx... antwort gefunden. Seit diesem Semester nicht mehr
+[19:50:02] <nubix> Warum machen die denn so etwas doofes
+[19:53:42] <galoscho> nubix: Kconv ist speziell f Kanji...
+[19:54:28] ! moenni has joined.
+[19:54:34] <nubix> galoscho: ja, irgendwie glaube ich andauernd eine l旦sung zu finden. die am ende aber irgendwie nicht wirklich befriedigend ist :)
+[19:54:56] <galoscho> rchardet knte helfen.. ist ein ruby port des firefox charset detectors
+[19:55:04] ! moenni has quit. (Client Quit)
+[19:55:07] <galoscho> rchardet ist der name des gems
+[19:55:13] <nubix> thx
+[19:55:17] <nubix> morgen mal gucken
+[20:04:19] ! nubix has quit. (Ping timeout: 245 seconds)
+[20:05:32] ! nubix has joined.
+[20:06:32] <nubix> .
+[20:11:12] ! der_eq has joined.
+[20:26:24] ! nubix has quit. (Ping timeout: 245 seconds)
+[20:58:24] ! moenni has joined.
+[20:58:44] ! moenni has quit. (Client Quit)
+[21:08:42] ! der_eq has quit. (Quit: Leaving)
+[21:12:19] ! lurtz has joined.
+[21:12:45] ! nubix has joined.
+[21:31:04] <DrMcCoy> Verdammte Marienk辰fer
+[21:31:30] <nubix> Haben die dich etwa angefallen?
+[21:31:40] <DrMcCoy> Jo
+[21:31:54] <DrMcCoy> Da f辰llt mir pl旦tzlich so ein doofes Vieh auf's Keyboard
+[21:31:57] <nubix> Finger abgebissen?
+[21:32:41] <DrMcCoy> Ich mein, was soll denn das? Ich komm ja auch nicht einfach so in ein fremdes Haus und schmeiß mich auf ein Keyboard
+[21:33:32] <jh> das gibt gerade ein witziges bild in meinem kopf
+[21:38:06] <DrMcCoy> Scheiß Marienkäfer
+[21:38:18] <DrMcCoy> Da treibt eins in meiner Teetasse
+[21:39:07] <DrMcCoy> Ich will wieder Winter :(
+[21:39:26] <DrMcCoy> Bei -5属C gibt es auch keine doofen Marienk辰fer
+[21:40:50] <elorie> besser marienkaefer als motten und muecken
+[21:41:01] <DrMcCoy> Motten tun nichts
+[21:41:06] <DrMcCoy> M端cken sind doof, ja
+[21:42:41] <elorie> marienkaefer sind huebsch und niedlich
+[21:42:41] <DrMcCoy> M端cken, kleine nervige Fliegen, Marienk辰fer, ..., Motten
+[21:42:56] <nubix> elorie: ack
+[21:43:04] <DrMcCoy> elorie: Marienk辰fer sind nervig und spritzen alles mit ner stinkener Fl端ssigkeit zu
+[21:43:20] <nubix> DrMcCoy: du hast merkw端rdige Marienk辰fer bei dir
+[21:43:26] <DrMcCoy> nubix: https://secure.wikimedia.org/wikipedia/de/wiki/Reflexbluten
+[21:43:28] <ZombiePoet> Title: Reflexbluten – Wikipedia (at secure.wikimedia.org)
+[21:43:54] <nubix> Du sollst ja auch nicht drauf dr端cken
+[21:44:05] <DrMcCoy> nubix: Das tun die auch, wenn ich die verscheuchen will
+[21:44:17] <nubix> DrMcCoy: Lass die doch einfach in ruhe
+[21:44:27] <DrMcCoy> nubix: Wenn die in meinen Tee fligen?!?
+[21:44:27] <nubix> Nutz die Taste halt nicht ^^
+[21:44:41] <nubix> s/Taste/Tasse/
+[21:44:52] <DrMcCoy> Ich soll die in Ruhe lassen? Die sollen mich in Ruhe lassen
+[21:44:55] <DrMcCoy> Ich war zuerst hier
+[21:45:13] <DrMcCoy> => Ich will wieder Winter
+[21:45:19] <nubix> Du  bist ganz sch旦n b旦se dich an kleinen niedlichen Marienk辰fern zu vergehen
+[21:45:20] <jh> der kl端gere gibt nach!
+[21:45:28] <jh> "zu vergehen" O_o
+[21:45:33] <jh> schon wieder komische bilder
+[21:45:49] <nubix> jh: du hast merkw端rdige Gedanken
+[21:46:23] <jh> nubix: wenn du w端sstest!
+[21:46:29] <DrMcCoy> nubix: Die vergehen sich an mir!
+[21:46:50] <nubix> DrMcCoy: Ja klar, wenn sich der T辰ter zum Opfer macht!
+[21:46:59] <nubix> jh: ich will's gar nicht wissen
+[21:47:34] <DrMcCoy> nubix: Wie gesagt, ich bin hier einfach, tippe und drinke friedlich Tee, da kommt so ein Marienk辰fer an und bel辰stigt micha
+[21:47:37] <DrMcCoy> mich*
+[21:48:44] <nubix> DrMcCoy: Ich wette du hast den kleinen Kﾃ､fer sogar noch mit Sﾃｼﾃ殃gkeiten in deine Wohnung gelockt
+[21:49:14] <nubix> Da kommst du nicht mehr raus ;)
+[21:49:41] <jh> "drinke" :D
+[21:52:37] <DrMcCoy> :O
+[21:52:56] <DrMcCoy> jh: Jaja, Nebenher rede ich mit clones auf englisch, da kommt sowas vor
+[21:53:03] <jh> ^^
+[21:53:12] <jh> mit klonen von dir?
+[21:53:38] <DrMcCoy> Ne
+[21:55:31] ! Ignifazius has joined.
+[21:58:14] ! Ignifazius has quit. (Client Quit)
+[22:00:56] <jh> warum hab ich nix sﾃｼﾃ歹n
+[22:01:01] <jh> rohieb: eis bei mcdonalds?
+[22:02:42] <rohieb> ne
+[22:03:26] <elorie> hmm eis
+[22:03:35] <elorie> noch eine art von frustfutter
+[22:03:39] <jh> elorie: eis bei mcdonalds?
+[22:03:43] <elorie> gute idee nur zu faul zum aufstehen
+[22:03:46] <elorie> ne ichhab eis im eisfach
+[22:03:55] <jh> elorie: eis bei elorie?
+[22:04:22] <elorie> hmm
+[22:04:28] <elorie> aber ich bin doch schon im bett
+[22:04:45] <jh> elorie: eis bei elorie im bett? ich glaub dann haut Silberwoelfin mich ^^
+[22:05:03] <elorie> jh: du duerftest dann neben dem bett auf dem stuhl sitzen
+[22:05:39] <elorie> jh: oder nmuesstest vor der schlazimmertuer im stehen essen :p
+[22:05:41] ! ShadniX has quit. (Ping timeout: 240 seconds)
+[22:06:01] <jh> elorie: du kannst dich sicher auch aus dem bett entfernen :P
+[22:06:25] <nubix> Mir m旦chte doch bestimmt jemand eis vorbei bringen :)
+[22:06:25] ! ShadniX has joined.
+[22:06:36] <jh> nubix: eis in elories bett?
+[22:06:50] <rohieb> eislorie?
+[22:06:59] <elorie> o.O
+[22:07:11] <nubix> jh: wenn du das eis in elories bett tust und dann das bett hier her bringst k旦nnte es klappen
+[22:07:17] <elorie> bleibt gefaelligst be mcdonalds,,, das einzig frierende in meinem bett bin ich
+[22:07:46] <jh> nubix: mh, kA wie schwer das bett ist... und elorie ist ja auch so schwer *duck*
+[22:07:54] <elorie> pfff
+[22:07:54] * Silberwoelfin ist deprimiert
+[22:08:00] <elorie> Silberwoelfin: nicht deprimiert sein
+[22:08:03] <nubix> jh: mir geht's um das eis und nicht um elorie ^^
+[22:08:14] <jh> Silberwoelfin: du auch eis in elories bett?
+[22:08:42] <jh> nubix: aso, eis ins bett, elorie ausm bett raus, und dann das bett zu dir?
+[22:08:42] <Silberwoelfin> ich h舩te lieber eis in meinem bett
+[22:08:48] <jh> nubix: wozu dann das bett?
+[22:08:54] <jh> nubix: eis in Silberwoelfins bett?
+[22:09:07] <elorie> jh: du schickst nubix in Silberwoelfins bett?
+[22:09:09] <nubix> jh: mir ist das bett egal. ich will bloß eis
+[22:09:25] <nubix> elorie: jh weiß das ich brav bin ^^
+[22:09:29] <jh> Silberwoelfin: so wie ich euren gefrierschrank kenne, ist da sogar bestimmt eis drin^^
+[22:09:53] <jh> elorie: zum eis essen O_o
+[22:11:34] <nubix> jh: elorie denkt besitmmt irgendwas merkw端rdiges
+[22:11:57] <jh> nubix: ja, es ist ja elorie
+[22:12:21] <nubix> jh: na, sie ist doch lieb
+[22:12:33] <elorie> !slap jan^2
+[22:12:33] * ZombiePoet removes jan^2's heart 
+[22:12:50] <jh> nubix: nein, eine hexe :P
+[22:12:51] <nubix> elorie: wtf... o.0 womit hab ich mir denn das gerade verdient?! :(
+[22:12:55] <jh> also in dsa :P
+[22:13:11] <nubix> elorie: ich hab sogar gesagt, dass du lieb bist :/
+[22:13:27] <jh> nubix: lieb sein ist halt b旦se, obv
+[22:13:34] <nubix> jh: scheint so
+[22:13:43] <nubix> tzzzz
+[22:13:59] <jh> hm, ich k旦nnte nat端rlich auch rewenieren um an eis zu kommen
+[22:14:23] <nubix> jh: ruf einen taxidienst an, die sollen dir eis bringen ;)
+[22:14:35] <jh> machen die das?
+[22:14:41] <jh> da m端ssten die ja geld auslegen und so
+[22:14:42] <nubix> klar
+[22:15:06] <nubix> die wollen halt auch fahrkosten und co haben ^^
+[22:15:18] <jh> ja, das kriegen sie ja aber erst wenn sie dich gefunden haben
+[22:15:21] <jh> -> risiko
+[22:15:36] <nubix> Im regelfall funktioniert das.
+[22:15:45] <nubix> ansonsten kommen die eh vorher bei dir vorbei
+[22:16:09] <nubix> anfahrt + fahrt zu rewe und zur端ck + eiskosten
+[22:20:56] <elorie> hmph eine fliege die ds9 schaut
+[22:21:18] <jh> nubix: gibt aber n mindestpreis f端r fahrten, oder?
+[22:21:26] <jh> w辰ren ja nur paar hundert meter...
+[22:21:28] <nubix> elorie: der ist wohl langweilig
+[22:21:35] <jh> elorie: ich dachte private practice?
+[22:21:38] <nubix> jh: weiß ich nicht genau
+[22:21:56] <elorie> jh: gerade 1 folge ds9
+[22:21:59] <nubix> jh: ruf an und frag. Ich weiß das auch nur, weil unser Mieter Taxifahrer ist
+[22:22:29] <jh> nubix: dann kannst du doch viel besser fragen
+[22:22:38] <jh> elorie: also in 20min die komplette serie durch?
+[22:22:49] <nubix> jh: der ist aber gerade ewa 100km weiter nord-westlich
+[22:23:05] <jh> nubix: einkaufen? :D
+[22:23:40] <nubix> jh: bestimmt
+[22:23:54] <elorie> nein
+[22:25:42] <nubix> Wuah, der ganze Flur riecht nach H辰nchen weil sich einer der Fahrlerer gerade gef端hlte 20 H辰nchenkeulen in der Ofen getan hat
+[22:26:12] * nubix --- Rechtschreibfail
+[22:26:38] <jh> vielleicht macht er auch gerade Pril
+[22:27:03] <nubix> jh: ich war ja gerade in der K端chen und hab das Zeug gesehen. Wirklich lecker sieht das auch nicht aus.
+[22:27:12] <jh> ^^
+[22:27:59] <nubix> Wer will schon um 2300, so viele H辰hnchenkeulen essen?! Das ist doch auch nicht ganz normal
+[22:28:38] <jh> mh, fehlermeldungen wegklicken ohne sie zu lesen = nicht so kluk
+[22:31:24] <rohieb> jh: meh
+[22:31:28] <rohieb> jh: eis
+[22:32:50] <Phia> galoscho: hast du Mittwoch Zeit und Lust, Krypto3 noch mal durchzusprechen?
+[22:33:11] <Phia> galoscho: du hast doch auch Donnerstag Pr端fung, oder?
+[22:35:53] <jh> rohieb: sagte ich doch
+[22:36:09] <rohieb> jh: jetz?
+[22:36:27] <jh> [22:02:49] <rohieb> ne
+[22:36:30] <jh> du failbob
+[22:37:58] <galoscho> Phia: hm ich hab mittwoch schon die prung
+[22:38:16] * jh is teh highlight0r
+[22:38:24] <Phia> galoscho: oh, ok, wie w辰re es mit morgen nachmittag?
+[22:38:36] <galoscho> Phia: jo das passt schon eher
+[22:38:37] <Phia> galoscho: ich bin noch nicht ganz durch durch den stoff
+[22:38:38] <rohieb> jh: dann nicht
+[22:39:07] <Phia> galoscho: wann und wo passt es dir denn?
+[22:39:08] <galoscho> Phia: ich bin ehr morgen im fg-raum um mit dominik und markus zu lernen
+[22:39:25] <Phia> galoscho: ah gut, dann kreuz ich einfach da auf
+[22:39:36] <Phia> galoscho: so gegen 1, denke ich
+[22:39:39] <galoscho> Phia: genau :)
+[22:39:45] <rohieb> jh: aber jetz hab ich hunger auf eis
+[22:40:35] <galoscho> Phia: hm manchmal brauch ich etwas l舅ger und bin vllt erst um 2 da aber ich versuche um 1 da zu sein
+[22:40:54] <Phia> galoscho: kein Stress, dann komm ich eben erst um 2
+[22:41:55] <jh> galoscho: ach morgen um "dreiviertel acht" kommt jemand der die duschwanne einsetzt
+[22:42:00] <jh> ich glaube das ist 7:45
+[22:42:05] <jh> pongi ist dann auch da
+[22:42:33] <galoscho> jh: ok ich schlafe bestimmt noch
+[22:42:35] <jh> galoscho: und donnerstag kommt n maler, der aber irgendwie dreimal malen muss
+[22:42:43] <jh> deswegen diese woche auf jeden fall noch nicht fertig
+[22:43:12] <galoscho> menno
+[22:45:47] <galoscho> pipikaka
+[22:46:45] <galoscho> so ich geh mal off... c
+[22:46:47] <galoscho> u
+[22:46:52] ! galoscho has quit. (Quit: Leaving)
+[22:54:17] <jh> rohieb: willste mich jetzt morgen dabei haben oder nicht?
+[22:56:05] <rohieb> meh
+[22:56:17] <rohieb> mach wie du willst
+[22:56:19] <rohieb> ist mir egal
+[22:56:31] <rohieb> aber beschwer dich nachher nicht :P
+[22:57:53] <jh> rohieb: dann sag mir wo
+[22:58:10] <rohieb> dreiecksraum
+[22:58:37] <jh> eh, raumnummer?
+[22:58:47] <Silberwoelfin> jh: 262A, oder so
+[22:58:58] <jh> ah
+[22:58:58] <jh> der is dreieckig?
+[22:59:56] <Phia> jh: naja so ungef辰hr
+[23:00:09] <Phia> ich h辰tte das jetzt eher als Trapezf旦rmig beschrieben
+[23:00:37] <Phia> aber da die eine der zwei parallelen Seiten recht kurz ist (praktisch nur die T端r) passt Dreieck auch ganz gut
+[23:00:59] <Phia> aber wenn wir die T端r auf nen Punkt reduzieren, passt keiner mehr durch ;)
+[23:01:56] ! Bowdzone has quit. (Quit: Bowdzone)
+[23:02:03] <jh> Phia: doch, P端nktchen :P
+[23:05:39] ! PirateKing has joined.
+[23:08:29] <Silberwoelfin> gn8
+[23:08:58] ! Silberwoelfin has quit. (Quit: Verlassend)
+[23:24:20] <jh> rohieb: 14 oder 15 uhr?
+[23:25:04] <elorie> um 15 uhr koennte ich auch da sein ;)
+[23:25:29] <rohieb> waah nochmehr zuschauer?
+[23:25:30] <rohieb> jh: 14h
+[23:25:49] <jh> kk
+[23:26:11] <jh> *termin nach oben schieb*
+[23:27:33] <nubix> jh: er hat 15h gesagt oder?
+[23:27:34] <elorie> ^^
+[23:27:56] <jh> ja, hatte ich mir zumindest aufgeschrieben
+[23:28:27] <elorie> rohieb: wenn du 14h sagst und der termin um 15h ist warten alle bestimmt so lange
+[23:29:53] <rohieb> elorie: wenn ich 14h sage und die leute erst um 15h kommen, sind sie selber schuld
+[23:30:14] <elorie> deshalb warten sie ja
+[23:30:45] ! bitsteller has joined.
+[23:30:47] <DooMMasteR> hmmm
+[23:30:54] <DooMMasteR> spacewalk?
+[23:31:22] <jh> doofe zeit!
+[23:31:34] <jh> mach mal viele bilders
+[23:41:55] ! bitsteller has quit. (Quit: Ex-Chat)
+[23:45:19] <elorie> meh die serienfliege nervt
+[23:47:08] ! rohieb has quit. (Quit: ...yo ho ho, and a bottle of rum!)
+[23:47:42] <DooMMasteR> jh ich bin nicht dabeu
+[23:47:54] <DooMMasteR> wir wolltenda ja nicht mit 300 leuten auflaufen
+[23:48:14] <jh> DooMMasteR: bilder in qr code einbetten is witzig
+[23:48:15] <jh> f端r logo
+[23:48:27] <DooMMasteR> ????
+[23:48:33] <DooMMasteR> aso
+[23:48:39] <DooMMasteR> du meinst nne QRcode mit logo
+[23:48:41] <elorie> jh: alt
+[23:48:45] <elorie> DooMMasteR: ja
+[23:48:49] <DooMMasteR> yo
+[23:49:21] <elorie> solange das logo in der mitte aka nicht auf die 4 justierungspunkten ist und bestimmte fehlerraten beruecksichtigt werden wird das wohl schon ne weile gemacht
+[23:49:35] <DooMMasteR> http://setjapan.wordpress.com/2009/04/17/louis-vuitton-qr-code/
+[23:49:37] <ZombiePoet> Title: Louis Vuitton choose SET Japan for latest QR marketing push SET JAPAN (at setjapan.wordpress.com)
+[23:49:38] <DooMMasteR> :P
+[23:50:44] <DooMMasteR> jh: http://www.youtube.com/watch?v=64in_yApB2Q
+[23:50:45] <ZombiePoet> Title: Audi Japan & Audi Japan Sales 世界最大のQRコードを制作 - YouTube (at www.youtube.com)
+[23:50:45] <DooMMasteR> :P
+[23:51:03] ! lurtz has quit. (Quit: Gott sei dank man, gibs ne Pumpgun)
+[23:51:54] <jh> http://dl.dropbox.com/u/1589203/barcode-image.axd.png =)
+[23:52:13] <jh> naja, muss mal irgendein designnazi machen
+[23:57:44] <elorie> *verkneift sich einen kommentar*
+[23:59:47] <jh> elorie: ja, genau, sowas wie n mewi :P

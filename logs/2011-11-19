@@ -1,0 +1,217 @@
+[00:00:38] ! Bowdzone has quit. (Quit: Bowdzone)
+[00:01:32] ! Silberwoelfin has quit. (Quit: Verlassend)
+[00:05:13] ! jh has quit. (Quit: jh)
+[00:28:15] ! soney has joined.
+[00:47:02] ! conqueror12 has quit. (Quit: Leaving.)
+[00:49:04] ! lurtz has quit. (Ping timeout: 240 seconds)
+[00:50:07] ! Ignifazius has quit. (Quit: *Vanish*)
+[01:01:24] ! lurtz has joined.
+[01:25:38] ! nubix has quit. (Quit: Leaving.)
+[01:34:41] ! ES has quit. (Quit: The cake is a lie!)
+[02:04:09] ! rohieb has quit. (Quit: ...yo ho ho, and a bottle of rum!)
+[02:13:28] ! lurtz has quit. (Ping timeout: 240 seconds)
+[02:15:52] ! lurtz has joined.
+[03:18:51] ! lurtz has quit. (Quit: Leaving.)
+[03:42:10] ! soney has quit. (Quit: Leaving.)
+[09:43:53] ! ES has joined.
+[09:47:26] ! Silberwoelfin has joined.
+[09:50:13] ! jh has joined.
+[10:12:19] ! ES has quit. (Quit: The cake is a lie!)
+[10:13:29] ! Bowdzone has joined.
+[10:33:44] <jh> morgen
+[10:35:42] <Silberwoelfin> mag mir jemand verraten, wie ich in eclipse ein schon existierendes eclipse-project öffne? -.-
+[10:36:06] <jh> file - open project?^^
+[10:36:17] <Silberwoelfin> jh: haha... gibts nicht -.-
+[10:37:11] <jh> Silberwoelfin: http://itscommonsensestupid.blogspot.com/2009/01/open-existing-project-in-eclipse.html
+[10:37:12] <ZombiePoet> Title: It's common sense, stupid: Open Existing Project in Eclipse (at itscommonsensestupid.blogspot.com)
+[10:37:38] <jh> also du musst es quasi in deinem workspace importieren
+[10:37:52] <jh> weil eclipse projekte direkt auf dateisystemebene verwaltet
+[10:38:34] <Silberwoelfin> das ist schon in meinem workspace
+[10:38:47] ! elorie has joined.
+[10:38:48] <Silberwoelfin> ich hab mein workspace extra in den ordner gelegt, wo das projekt ist
+[10:39:38] <jh> naja, mach halt einfach mal das new + import from filesystem gedöns
+[10:49:43] ! nubix has joined.
+[10:54:50] ! nubix has quit. (Ping timeout: 276 seconds)
+[11:29:33] ! lurtz has joined.
+[11:29:42] <jh> gn8
+[11:29:45] ! jh has quit. (Quit: jh)
+[11:39:15] ! Ignifazius has joined.
+[11:40:31] ! Ignifazius has quit. (Client Quit)
+[11:41:03] ! Ignifazius has joined.
+[11:59:22] ! Ignifazius has quit. (Quit: *Vanish*)
+[12:03:08] ! nubix has joined.
+[12:17:34] ! Ignifazius has joined.
+[12:41:51] ! conqueror12 has joined.
+[13:19:08] ! Debi has joined.
+[13:44:37] ! elorie has quit. (Quit: Leaving.)
+[13:54:33] ! nubix has quit. (Quit: Leaving.)
+[13:55:41] ! Silberwoelfin_ has joined.
+[13:58:44] ! Soneobil has joined.
+[13:59:00] ! Silberwoelfin has quit. (Ping timeout: 240 seconds)
+[13:59:11] <Soneobil> Silberwoelfin: toefl auch done....
+[13:59:24] <Soneobil> hmm na toll :D
+[14:01:33] ! Soneobil has quit. (Read error: Connection reset by peer)
+[14:03:02] ! Silberwoelfin_ is now known as Silberwoelfin
+[14:04:18] ! Bowdzone has quit. (Quit: Bowdzone)
+[14:05:35] ! Soneobil has joined.
+[14:06:45] <Soneobil> Silberwoelfin: toefl auch done, speaking auch katastrophal aber rest besser als erwartet
+[14:11:04] ! Soneobil has quit. (Ping timeout: 240 seconds)
+[14:15:26] ! elorie has joined.
+[14:43:26] ! jh has joined.
+[14:54:02] <jh> morgen
+[14:55:43] <elorie> morgen
+[15:21:33] ! Ignifazius has quit. (Quit: *Vanish*)
+[15:39:37] ! rohieb has joined.
+[15:40:52] ! Peace-Maker has quit. (Quit: Bye.)
+[16:10:15] ! Sonea has joined.
+[16:23:46] <rohieb> Sonea
+[16:23:58] <rohieb> conqueror12: mitschrift?
+[16:34:56] <DrMcCoy> Hmmpf
+[16:35:01] <DrMcCoy> Meine Mutter hat wohl langeweile
+[16:35:12] <DrMcCoy> Gestern ruft die mich an, heute ruft die mich an
+[16:35:36] <jh> DrMcCoy: du hast n telefon?
+[16:35:42] <DrMcCoy> jh: Ja, leider
+[16:35:57] <DrMcCoy> Steht da so im Wohnzimmer run
+[16:35:58] <DrMcCoy> rum*
+[16:36:28] <DrMcCoy> Vor allem bin ich morgen bei meinen Eltern
+[16:36:39] <jh> ich auch
+[16:37:32] <Sonea> rohieb
+[16:37:48] <DrMcCoy> Sonea
+[16:37:55] <Sonea> DrMcCoy
+[16:38:04] <Sonea> wie aussagekräftig :D
+[16:38:11] <DrMcCoy> Jo
+[16:38:17] <Sonea> oh man, mich ärgert das.... ich hab speaking verkackt
+[16:38:31] <Sonea> scheiße.... wenn ich deswegen jetzt nicht nach kanada kann, wäre das echt kacke
+[16:38:47] <DrMcCoy> Jo, das ist auch das, wo ich Probleme habe
+[16:38:56] <DrMcCoy> Lesen, schreiben, hören, kein Problem
+[16:39:00] <DrMcCoy> Aber sprechen? Ne
+[16:40:46] <rohieb> wie kann man das verkacken?
+[16:41:08] ! elorie has quit. (Quit: Leaving.)
+[16:41:38] <rohieb> also, was waren da die anforderungen?
+[17:06:33] ! elorie has joined.
+[17:08:20] <rohieb> tee!
+[17:08:39] <rohieb> orangenmarzipanrittersport!
+[17:08:42] <rohieb> elorie!
+[17:09:01] <rohieb> mjam, lecker
+[17:09:02] <elorie> rohieb:
+[17:11:33] ! Sonea has quit. (Quit: Leaving.)
+[17:36:55] <rohieb> ich kann verstehen, warum DrMcCoy so ein teefan ist :)
+[17:37:17] * DrMcCoy trink gerade Kaffee
+[17:37:36] <DrMcCoy> <3 Kaffee
+[17:37:40] <DrMcCoy> <3 Tee
+[17:38:13] <DrMcCoy> rohieb: Was fuer Tee?
+[17:38:22] <rohieb> mh
+[17:38:23] <rohieb> schlag mich
+[17:38:25] <rohieb> earl grey
+[17:38:33] <DrMcCoy> Bah
+[17:38:51] <DrMcCoy> Ich mag keine Motten
+[17:39:23] <rohieb> war aber das, was ich grad da hatte
+[17:39:33] <DrMcCoy> :P
+[17:40:51] <jh> <Sonea> oh man, mich ärgert das.... ich hab speaking verkackt <- toffifee-test? was hast du?
+[17:49:16] <jh> ach, die ist ja weg
+[18:00:40] ! ES has joined.
+[18:25:49] ! nubix has joined.
+[19:13:13] ! Sonea has joined.
+[19:13:16] <Sonea> re
+[19:13:39] <Sonea> rohieb: aber das ist doch eine der "veraschungsschokis", die kleiner sind, oder?
+[19:13:59] <rohieb> nee, die hab ich gestern gegessen ^^
+[19:14:08] <rohieb> aber eine dieser weihnachtseditionen
+[19:16:31] <Sonea> ja aber die sind doch kleiner als die anderen oder nicht?
+[19:16:41] <Sonea> rohieb: bist du eigentlich zu frieden mit deiner rolle? :)
+[19:16:49] <Sonea> jh: und was ist mit dir?
+[19:20:38] ! lurtz1 has joined.
+[19:21:16] ! lurtz has quit. (Ping timeout: 244 seconds)
+[19:24:07] <jh> Sonea: was ist mit mir?
+[19:24:19] <jh> und was ist mit deinem toffifeetest, Sonea?
+[19:27:00] <Silberwoelfin> rohieb: du kriegst ne frage, hast 15 sekunden zum überlegen und 45sekunden, eine gut strukturierte antwort zu geben, ohne zu stammeln oder ähnliches
+[19:27:11] <rohieb> uh
+[19:27:19] <rohieb> das heißt ja, dass man klar denken muss
+[19:27:21] <rohieb> nix für mich
+[19:27:25] <Silberwoelfin> genau^^
+[19:27:52] <Silberwoelfin> Sonea: aber ich hab da trotzdem noch über 20 punkte für gekriegt, also wirst du das wohl auch geschafft haben ;-)
+[19:27:56] <rohieb> Sonea: sonst hätte ich die ja nicht grün angekreuzt :P
+[19:32:13] <jh> ah, krimirollen
+[19:32:17] <jh> war unfähig zu lesen
+[19:32:27] <jh> Sonea: joa, passt schon, hab ja gesagt nebenrolle ist ok
+[19:32:38] <jh> dann bin ich halt sicher dass ich kein verbrecher bin!
+[19:32:46] <jh> ihr mörder
+[19:34:54] <rohieb> hihi stimmt ^^
+[19:37:31] * DrMcCoy ist jedenfalls zufrieden
+[19:42:26] <Silberwoelfin> ich hätte das küchenmädchen bevorzugt, ich weiß nicht genau, wie ich "die Perle auf jedem Ball" darstellen soll...
+[19:50:13] <nubix> Silberwoelfin: sieh einfach gut aus :p
+[19:53:25] <Silberwoelfin> nubix: genau das ist das problem :P
+[19:55:06] <nubix> Silberwoelfin: Ach meine liebe Tochter, du bist doch immer schönste
+[19:57:03] <DrMcCoy> lol
+[20:13:03] ! Sonea has quit. (Quit: Leaving.)
+[20:41:46] ! jh has quit. (Quit: Logik wird überschätzt.)
+[20:41:50] <Silberwoelfin> brumm brumm
+[20:41:52] ! Silberwoelfin has quit. (Quit: Verlassend)
+[21:20:23] <rohieb> meh.
+[21:20:28] <rohieb> warum will meine kamera nicht mehr
+[21:20:41] <rohieb> und warum wehrt sie sich gegen alle disassemblierversuche
+[21:29:29] <DooMMasteR> lol
+[21:30:06] <DooMMasteR> welche cam?
+[21:30:06] <DooMMasteR> welche HW/arch?
+[21:31:02] <DooMMasteR> rohieb: willste die FW fixen?
+[21:31:25] <rohieb> DooMMasteR: ja. mal kucken, ob chdk da drauf läuft
+[21:54:56] <rohieb> woooo cool
+[21:55:04] <rohieb> DooMMasteR: ist ne powershot a530
+[21:55:12] <rohieb> aber die schrift ist etwas klein im chdk-menü
+[21:56:17] <DooMMasteR> ahh
+[21:56:25] <DooMMasteR> ich hab ne a490
+[21:56:32] <DooMMasteR> da ist das font klasse
+[21:56:45] <DooMMasteR> aber die cam hat kein display button :P
+[21:56:59] <DooMMasteR> deshalb ist der play button doppelt belegt
+[21:57:05] <DooMMasteR> als alt und als play button :P
+[21:57:57] <DooMMasteR> an der alt firmware also CHDK kann man aber auch ohne disassemblierung rumfummeln :P
+[21:58:10] <DooMMasteR> DryOS selbst ist ein offenes buch
+[21:58:25] <DooMMasteR> an der FW was zu drehen ist jedoch sau dreckige arbeit -.-
+[22:00:38] ! Sonea has joined.
+[22:00:59] <rohieb> ah, man kann font einstellen
+[22:02:23] <Sonea> !tell *woelfin naja mal schaun. also ich hab bei einer antwort total abgebrochen. weil ich die frage falsch verstanden hatte und mir das mittendrin aufgefallen ist und bei den anderen bin ich mit der zeit nicht klar gekommen und hab dann nur halbe antworten gegeben... und bei ner anderen bin ich mittendrin nochmal zum anfang gesprungen
+[22:02:23] <ZombiePoet> Sonea: Ok.
+[22:04:55] <nubix> Sonea: wieso habe ich das gefühl, dass das nur eine frau verstehen kann...
+[22:05:55] <DooMMasteR> rohieb: jepp klar :P
+[22:05:57] <DooMMasteR> auch dessen farbe usw.
+[22:05:59] <elorie> nubix: ich versteh das :p
+[22:06:15] <nubix> elorie: du bist auch eine frau ;)
+[22:06:40] <elorie> :p
+[22:06:42] <elorie> vielleicht
+[22:07:15] <nubix> elorie: … gegenteiliges würde mich ehrlich wundern
+[22:07:18] <rohieb> nubix: ich versteh das auch
+[22:07:25] <rohieb> und ich bin keine frau
+[22:07:27] <nubix> rohieb: du bist auch eine ...
+[22:07:37] <elorie> :p
+[22:08:09] <nubix> no offense rohieb
+[22:08:14] <rohieb> nubix: dann scheint es wohl vorteilhaft, frau zu sein
+[22:08:20] <rohieb> tut mir leid, dass du benachteiligt bist, nubix
+[22:08:31] <nubix> das habe ich nie bestritten rohieb
+[22:08:32] <Sonea> nubix: was? den text oder wie man sowas machen kann?
+[22:08:44] <nubix> Sonea: Ja, genau
+[22:08:46] <nubix> :p
+[22:09:23] <Sonea> nubix: anscheinend bist du sehr benachteiligt,wenn du auf eine oder frage mit ja antwortest ;P
+[22:09:32] <DooMMasteR> rofl, männer sind zwar im frauenverständniss benachteiligt, aber frauen auch im männerverständniss
+[22:09:46] <DooMMasteR> männer haben für beides eine lösung :P BIER
+[22:10:04] <rohieb> DooMMasteR: hmm, irgendwie spinnt die batterieanzeige
+[22:10:05] <nubix> Sonea: danke, aber das war beabsichtigt :)
+[22:10:21] <rohieb> DooMMasteR: fängt bei 25% an, aber geht rapide runter bis auf 0%
+[22:10:22] <DooMMasteR> das ist normal
+[22:10:31] <DooMMasteR> rohieb: die spinnt bei mir auch manchmal
+[22:10:35] <rohieb> und dann wieder hoch auf 9% :D
+[22:10:37] <Sonea> nubix: na dann ist ja gut. und ich bin gerade froh, dass ich gar nicht versucht habe deine intention zu verstehen....
+[22:10:38] <rohieb> hm
+[22:10:40] <DooMMasteR> ich ziege mir immer voltage mit an
+[22:10:44] <DooMMasteR> das ist brauchbarer
+[22:10:49] <Sonea> naja gn8
+[22:10:51] <Sonea> bin müde
+[22:10:53] <nubix> Sonea: gn8 :)
+[22:10:57] <rohieb> n8 Sonea
+[22:11:03] <Sonea> heute um 06:50 uhr kam das taxi...
+[22:11:12] <Sonea> rohieb: nubix: schlaft gut :9
+[22:11:15] <Sonea> :)
+[22:11:19] ! Sonea has quit. (Quit: Leaving.)
+[22:11:29] <DooMMasteR> heute um 0600 stand ich auf :P
+[23:12:47] <rohieb> ich hab das gefühl, der akku wird voller, je länger ich die kamera benutze
+[23:20:23] <rohieb> aber warscheinlich ist das nur wegen der temperatur
+[23:38:30] ! conqueror121 has joined.
+[23:40:36] ! conqueror12 has quit. (Ping timeout: 258 seconds)

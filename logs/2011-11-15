@@ -1,0 +1,540 @@
+[00:09:50] ! soney has quit. (Quit: Leaving.)
+[00:21:29] <jh> rohieb: da hatten wir grad food für @home gekauft
+[00:21:37] <jh> rohieb: (kontext sms)
+[00:21:39] <jh> gn8
+[00:21:41] <rohieb> ah
+[00:21:42] <rohieb> n8 jh
+[00:21:53] <jh> !mensa
+[00:21:53] <ZombiePoet> Mensa Katharinenstraße am Dienstag:
+[00:21:54] <ZombiePoet> A: Terrine Erbsensuppe mit Fleischeinlage AT 1,40€
+[00:21:55] <ZombiePoet> B: Schinkennudeln mit italienischer Tomatensauce 1,90€
+[00:21:56] <ZombiePoet> C: Zwiebelsahneschnitzel 1,90€
+[00:21:57] <ZombiePoet> V: Bulgur mit Kirschtomaten und frischen Kräutern 1,90€
+[00:21:58] <ZombiePoet> W: Filetgulasch mit Spätzle 3,10€
+[00:22:03] <jh> rohieb: vielleicht mensa 12:30?
+[00:22:21] <rohieb> ja, vielleicht
+[00:25:37] ! jh has quit. (Quit: jh)
+[00:39:15] ! ES has quit. (Quit: The cake is a lie!)
+[00:42:21] ! Debi has quit. (Quit: Verlassend)
+[01:33:29] ! lurtz has quit. (Quit: Leaving.)
+[01:41:30] ! Peace-Maker has quit. (Quit: Bye.)
+[01:42:02] ! nubix has quit. (Quit: Leaving.)
+[01:51:21] ! rohieb has quit. (Quit: ...yo ho ho, and a bottle of rum!)
+[02:10:55] ! Bowdzone has quit. (Quit: Bowdzone)
+[02:23:00] ! joke` has quit. (Quit: Verlassend)
+[02:29:06] ! Cascharity has quit. (Quit: Verlassend)
+[08:33:42] ! ES has joined.
+[08:39:12] ! Phia has joined.
+[08:52:47] ! PirateKing has joined.
+[08:56:12] ! bgalias has joined.
+[09:04:37] ! elorie has joined.
+[09:06:37] ! nubix has joined.
+[09:06:42] ! nubix has quit. (Client Quit)
+[09:07:57] ! jh has joined.
+[09:09:39] <jh> guten morgen internet
+[09:10:11] <elorie> guten morgen jh
+[09:10:26] <jh> guten morgen elorie
+[09:10:44] ! elorie has left the channel.
+[09:23:03] ! Phia has quit. (Quit: Leaving.)
+[09:30:06] ! ES has quit. (Quit: The cake is a lie!)
+[09:34:44] ! Cascharity has joined.
+[09:42:28] ! nubix has joined.
+[09:44:30] ! elorie2 has joined.
+[09:44:52] <elorie2> hmph eduroam verlaesst mich schon wieder dauernd
+[09:47:56] ! elorie has joined.
+[09:49:32] <DrMcCoy> Möpmöp
+[09:49:50] <elorie> vielorie -.-
+[09:51:29] ! elorie1 has joined.
+[09:51:41] ! elorie2 has quit. (Ping timeout: 260 seconds)
+[09:51:55] <elorie1> !nom
+[09:51:55] <ZombiePoet> Mensa Katharinenstraße am Dienstag:
+[09:51:56] <ZombiePoet> A: Terrine Erbsensuppe mit Fleischeinlage AT 1,40€
+[09:51:57] <ZombiePoet> B: Schinkennudeln mit italienischer Tomatensauce 1,90€
+[09:51:58] <ZombiePoet> C: Zwiebelsahneschnitzel 1,90€
+[09:51:59] <ZombiePoet> V: Bulgur mit Kirschtomaten und frischen Kräutern 1,90€
+[09:52:00] <ZombiePoet> W: Filetgulasch mit Spätzle 3,10€
+[09:54:33] ! jh has quit. (Quit: jh)
+[09:55:02] ! elorie2 has joined.
+[09:55:05] ! elorie has quit. (Ping timeout: 244 seconds)
+[09:58:31] ! elorie has joined.
+[09:58:38] ! elorie1 has quit. (Ping timeout: 276 seconds)
+[10:01:10] <nubix> nice bulgur
+[10:01:22] <nubix> anyone mensen nachher?
+[10:01:27] ! conqueror12 has joined.
+[10:02:07] ! elorie1 has joined.
+[10:02:36] ! elorie2 has quit. (Ping timeout: 258 seconds)
+[10:04:20] ! elorie has quit. (Ping timeout: 252 seconds)
+[10:08:15] ! elorie has joined.
+[10:08:42] <elorie> nubix: me glaube ich
+[10:09:40] <nubix> ok
+[10:11:37] ! elorie1 has quit. (Ping timeout: 244 seconds)
+[10:11:45] ! elorie1 has joined.
+[10:15:02] ! elorie has quit. (Ping timeout: 245 seconds)
+[10:15:18] ! elorie has joined.
+[10:17:13] ! elorie1 has quit. (Read error: Operation timed out)
+[10:18:48] ! elorie1 has joined.
+[10:20:44] ! maku has quit. (Ping timeout: 276 seconds)
+[10:20:55] ! elorie has quit. (Ping timeout: 244 seconds)
+[10:21:35] ! Bowdzone has joined.
+[10:22:24] ! elorie has joined.
+[10:24:06] ! maku has joined.
+[10:25:00] ! elorie1 has quit. (Ping timeout: 253 seconds)
+[10:25:52] ! elorie1 has joined.
+[10:28:35] ! elorie has quit. (Ping timeout: 260 seconds)
+[10:29:26] ! elorie has joined.
+[10:31:49] ! elorie1 has quit. (Ping timeout: 260 seconds)
+[10:32:58] ! elorie1 has joined.
+[10:35:23] ! elorie has quit. (Ping timeout: 244 seconds)
+[10:36:29] ! elorie has joined.
+[10:38:57] ! elorie1 has quit. (Ping timeout: 256 seconds)
+[10:40:00] ! elorie1 has joined.
+[10:42:17] ! elorie has quit. (Ping timeout: 252 seconds)
+[10:43:39] ! elorie has joined.
+[10:45:00] ! elorie1 has quit. (Read error: Operation timed out)
+[10:47:07] ! elorie1 has joined.
+[10:47:18] ! bgalias has quit.
+[10:48:19] ! ES has joined.
+[10:50:32] ! elorie has quit. (Ping timeout: 252 seconds)
+[10:50:39] ! elorie has joined.
+[10:53:50] ! elorie1 has quit. (Ping timeout: 252 seconds)
+[10:54:24] ! elorie1 has joined.
+[10:56:16] ! elorie2 has joined.
+[10:56:16] ! elorie1 has quit. (Read error: Connection reset by peer)
+[10:57:52] ! elorie has quit. (Ping timeout: 240 seconds)
+[10:59:44] ! elorie has joined.
+[11:03:18] ! elorie1 has joined.
+[11:03:19] ! elorie has quit. (Read error: Connection reset by peer)
+[11:03:23] ! elorie2 has quit. (Read error: Operation timed out)
+[11:06:50] ! elorie has joined.
+[11:10:19] ! elorie2 has joined.
+[11:10:23] ! elorie1 has quit. (Ping timeout: 248 seconds)
+[11:12:40] ! nubix has quit. (Quit: Leaving.)
+[11:13:08] ! elorie2 has quit. (Client Quit)
+[11:14:08] ! elorie has quit. (Ping timeout: 244 seconds)
+[11:18:44] <Nimos> !mensa
+[11:18:44] <ZombiePoet> Mensa Katharinenstraße am Dienstag:
+[11:18:45] <ZombiePoet> A: Terrine Erbsensuppe mit Fleischeinlage AT 1,40€
+[11:18:46] <ZombiePoet> B: Schinkennudeln mit italienischer Tomatensauce 1,90€
+[11:18:47] <ZombiePoet> C: Zwiebelsahneschnitzel 1,90€
+[11:18:48] <ZombiePoet> V: Bulgur mit Kirschtomaten und frischen Kräutern 1,90€
+[11:18:49] <ZombiePoet> W: Filetgulasch mit Spätzle 3,10€
+[11:21:37] ! Silberwoelfin has joined.
+[11:21:44] ! rohieb has joined.
+[11:21:56] ! nubix has joined.
+[11:22:08] <DrMcCoy> nubix: Wann kommst du denn heute abend wieder?
+[11:22:21] <DrMcCoy> nubix: Ich würde nämlich ne Spinat-Feta-Lasagne machen
+[11:22:21] <nubix> DrMcCoy: oehm, gut frage, y?
+[11:22:45] <rohieb> !mensa
+[11:22:45] ! Silberwoelfin has quit. (Read error: Connection reset by peer)
+[11:22:45] <ZombiePoet> Mensa Katharinenstraße am Dienstag:
+[11:22:46] <nubix> DrMcCoy: jedenfalls nicht vor 1800
+[11:22:47] <ZombiePoet> A: Terrine Erbsensuppe mit Fleischeinlage AT 1,40€
+[11:22:48] <ZombiePoet> B: Schinkennudeln mit italienischer Tomatensauce 1,90€
+[11:22:49] <ZombiePoet> C: Zwiebelsahneschnitzel 1,90€
+[11:22:50] <ZombiePoet> V: Bulgur mit Kirschtomaten und frischen Kräutern 1,90€
+[11:22:51] <ZombiePoet> W: Filetgulasch mit Spätzle 3,10€
+[11:22:53] <DrMcCoy> nubix: kk
+[11:23:08] <rohieb> ohhhh DrMcCoy kocht? :)
+[11:23:23] ! Silberwoelfin has joined.
+[11:23:23] ! Silberwoelfin has quit. (Read error: Connection reset by peer)
+[11:25:26] ! joejoe_ has joined.
+[11:26:03] ! Silberwoelfin has joined.
+[11:26:13] <joejoe_> wird hier immernoch so viel geidlet? :D
+[11:26:27] <Silberwoelfin> hi
+[11:26:51] <joejoe_> Holi
+[11:26:59] <joejoe_> narf dummes autocorrect
+[11:27:05] <DrMcCoy> Ne, wir tun nur so
+[11:28:47] <joejoe_> nur so tun is doch gerade idlen :P
+[11:29:06] ! joejoe_ has quit. (Remote host closed the connection)
+[11:37:00] ! winnie has joined.
+[11:37:11] <winnie> hallo alle!
+[11:37:14] <winnie> !seen jh
+[11:37:14] <ZombiePoet> winnie: jh was last seen in ##cs-studs 2 hours, 26 minutes, and 47 seconds ago: <jh> guten morgen elorie
+[11:37:19] <winnie> hm
+[11:37:54] <winnie> Stiefelwœlfin: wo hast du denn den Jan versteckt?
+[11:38:03] <Silberwoelfin> winnie: \o/
+[11:38:15] <Silberwoelfin> winnie: den hab ich in den keller gesperrt ;-)
+[11:38:28] <winnie> Stiefelwœlfin: holst du ihn da um 12:30 zur Fütterung raus?
+[11:38:41] <Silberwoelfin> !nom
+[11:38:41] <ZombiePoet> Mensa Katharinenstraße am Dienstag:
+[11:38:42] <ZombiePoet> A: Terrine Erbsensuppe mit Fleischeinlage AT 1,40€
+[11:38:43] <ZombiePoet> B: Schinkennudeln mit italienischer Tomatensauce 1,90€
+[11:38:44] <ZombiePoet> C: Zwiebelsahneschnitzel 1,90€
+[11:38:45] <ZombiePoet> V: Bulgur mit Kirschtomaten und frischen Kräutern 1,90€
+[11:38:46] <ZombiePoet> W: Filetgulasch mit Spätzle 3,10€
+[11:38:54] <Silberwoelfin> winnie: joa, denke schon
+[11:39:04] <Silberwoelfin> spätzle \o/
+[11:39:27] <Silberwoelfin> jedes mal, wenn ich den startbildschirm von eclipse sehe, krieg ich panik -.-
+[11:39:34] <winnie> aber mit so ekligen Tierstücken drumherum...
+[11:39:48] <winnie> Stiefelwœlfin: warum guckst du dir dann nicht was schöneres an?
+[11:40:34] <Silberwoelfin> winnie: weil das android sdk mit eclipse mit dem wenigsten aufwand funktioniert
+[11:42:37] <winnie> Stiefelwœlfin: du kannst ja den Startbildschirm durch Nacktfotos von jh ersetzen oder so
+[11:42:55] <Silberwoelfin> lol^^
+[11:44:00] <winnie> Stiefelwœlfin: da sind ein paar, falls du keine hast: www.google.de/search?q=jh
+[11:44:03] <winnie> ups
+[11:44:51] <winnie> Stiefelwœlfin: da sind ein paar, falls du keine hast: http://www.google.de/search?q=jh&tbm=isch
+[11:44:52] <ZombiePoet> Title: jh - Google-Suche (at www.google.de)
+[11:45:21] <Silberwoelfin> winnie: das sind irgendwie hauptsächlich frauen...
+[11:45:40] <winnie> Stiefelwœlfin: tja...
+[11:45:59] <Silberwoelfin> hm, googles safesearch ist komisch
+[11:46:16] <Silberwoelfin> die steht auf moderate und trotzdem krieg ich ganzkörper nacktfotos^^
+[11:47:11] <winnie> Stiefelwœlfin: vielleicht damit du nicht auf die Idee kommst, safesearch auszuschalten und dann die ganz harten Sachen siehst
+[11:55:21] <Silberwoelfin> nee, ohne ist auch nicht härter
+[11:58:08] ! ES has quit. (Ping timeout: 260 seconds)
+[11:58:14] ! rohieb has quit. (Ping timeout: 276 seconds)
+[11:58:24] ! ES has joined.
+[12:05:51] ! ES_ has joined.
+[12:06:42] ! ES has quit. (Ping timeout: 245 seconds)
+[12:07:56] ! elorie has joined.
+[12:09:51] ! csg has joined.
+[12:10:08] ! elorie1 has joined.
+[12:11:17] <csg> ho
+[12:12:07] ! elorie has quit. (Ping timeout: 244 seconds)
+[12:12:25] ! rohieb has joined.
+[12:13:28] ! Bowdzone has quit. (Read error: Connection reset by peer)
+[12:24:54] ! Silberwoelfin has quit. (Quit: Verlassend)
+[12:29:00] ! rohieb has quit. (Ping timeout: 240 seconds)
+[12:36:44] <DrMcCoy> nubix: Achso, ich hab übrigends jetzt den Toner bestellt :P
+[12:38:06] <nubix> DrMcCoy: wow... :)
+[12:38:58] ! Tigaa_laptop has joined.
+[12:39:45] <elorie1> !tell jh -chen was hast du jetzt eigentlich fuer nen char
+[12:39:45] <ZombiePoet> elorie1: Ok.
+[12:47:18] ! ES_ is now known as ES
+[12:47:45] <DrMcCoy> elorie1: Achso, ich sollte auch nochmal ne Hintergrundsgeschichte in das Wiki schreiben
+[12:48:17] <DrMcCoy> elorie1: Mache ich gleich, nachm Einkaufen
+[12:48:30] <elorie1> DrMcCoy: genau :)
+[12:48:33] <elorie1> danke
+[12:48:55] <DrMcCoy> !tell Phia* Ich hatte extra ne Template für Charaktere eingerichtet, und du ignorierst die :P
+[12:48:55] <ZombiePoet> DrMcCoy: Ok.
+[13:06:28] <DrMcCoy> !tell Phia* Hätte ich natürlich dir auch gerade persönlich sagen können, aber daran denke ich natürlich nicht :P. Hab immer anderes im Kopf, wenn ich durch die Gegend laufe, oftmals merke ich auch gar nicht, wenn ich an jemanden vorbeilaufen :P
+[13:06:29] <ZombiePoet> DrMcCoy: Ok.
+[13:08:03] ! nubix has quit. (Quit: Leaving.)
+[13:08:36] ! elorie1 has quit. (Quit: Leaving.)
+[13:12:14] ! Phia has joined.
+[13:12:45] <DrMcCoy> Phia!
+[13:13:07] ! rohieb has joined.
+[13:14:22] ! nubix has joined.
+[13:15:54] <Phia> DrMcCoy:
+[13:15:54] <ZombiePoet> Phia: Sent 26 minutes ago: <DrMcCoy> Ich hatte extra ne Template für Charaktere eingerichtet, und du ignorierst die :P
+[13:15:55] <ZombiePoet> Phia: Sent 9 minutes ago: <DrMcCoy> Hätte ich natürlich dir auch gerade persönlich sagen können, aber daran denke ich natürlich nicht :P. Hab immer anderes im Kopf, wenn ich durch die Gegend laufe, oftmals merke ich auch gar nicht, wenn ich an jemanden vorbeilaufen :P
+[13:16:38] <Phia> DrMcCoy: hab ich schon entdeckt, hatte dann aber keinen nerv mehr, es noch zu ändern
+[13:19:10] ! nubix has quit. (Client Quit)
+[13:20:34] ! nubix has joined.
+[13:22:10] ! elorie has joined.
+[13:22:18] <Phia> DrMcCoy: gefällt es dir jetzt besser?
+[13:23:25] <DrMcCoy> Jo, danke :)
+[13:25:44] ! elorie1 has joined.
+[13:28:31] ! elorie has quit. (Ping timeout: 248 seconds)
+[13:29:16] ! elorie has joined.
+[13:31:02] ! elorie1 has quit. (Read error: Operation timed out)
+[13:32:44] ! Ignifazius has joined.
+[13:32:51] ! elorie1 has joined.
+[13:34:15] ! winnie has quit. (Quit: Leaving.)
+[13:36:16] ! elorie has quit. (Ping timeout: 240 seconds)
+[13:36:16] ! Phia has quit. (Ping timeout: 240 seconds)
+[13:37:33] ! elorie has joined.
+[13:37:38] <nubix> 1337!
+[13:39:28] ! elorie1 has quit. (Ping timeout: 240 seconds)
+[13:39:59] ! elorie1 has joined.
+[13:43:24] ! elorie has quit. (Ping timeout: 258 seconds)
+[13:43:26] ! elorie2 has joined.
+[13:47:03] ! elorie has joined.
+[13:47:30] ! elorie1 has quit. (Ping timeout: 260 seconds)
+[13:48:23] ! elorie2 has quit. (Read error: Operation timed out)
+[13:50:34] ! elorie1 has joined.
+[13:51:23] ! Ignifazius has quit. (Quit: *Vanish*)
+[13:51:31] ! Phia has joined.
+[13:53:45] ! elorie has quit. (Ping timeout: 258 seconds)
+[13:54:03] ! elorie has joined.
+[13:55:00] ! nubix has quit. (Quit: Leaving.)
+[13:57:25] ! elorie1 has quit. (Ping timeout: 260 seconds)
+[13:57:36] ! elorie1 has joined.
+[13:57:40] ! elorie1 has quit. (Client Quit)
+[13:59:21] ! Sonea has joined.
+[13:59:31] <Sonea> gut drauf \o/
+[13:59:37] <Sonea> und die ganze zeit den raum am nerven
+[14:00:18] <ES> drogen?
+[14:00:22] <DrMcCoy> Blergh
+[14:01:02] ! elorie has quit. (Ping timeout: 258 seconds)
+[14:02:42] ! Silberwoelfin has joined.
+[14:03:16] <Silberwoelfin> hi
+[14:05:07] ! nubix has joined.
+[14:05:29] <Sonea> huhu Silberwoelfin
+[14:05:42] <Sonea> hmm niemand will die böse stiefmutter spielen
+[14:05:59] <Sonea> DrMcCoy: würdest du den spielen, wenn das der böse stiefvater wäre?
+[14:06:03] <Sonea> :D
+[14:06:25] <Silberwoelfin> Sonea: haben doch auch noch nicht alle abgestimmt
+[14:06:28] <nubix> böser stiefvater?!
+[14:06:35] ! Cascharity_ has joined.
+[14:07:13] <Silberwoelfin> Sonea: ausserdem hat Phia die doch auf vielleicht, im notfall müsste sie die dann spielen
+[14:08:54] <Sonea> Silberwoelfin: aber dann müssen drei männer nebenrollen spielen
+[14:08:58] <DrMcCoy> Sonea: Wenn es unbedingt sein muss... Aber eigentlich hätte ich gerne ne Hauptrolle, also den faulen Hänsel :P
+[14:09:01] <Sonea> wir haben ja nur 5 weibchen
+[14:09:10] ! Cascharity has quit. (Ping timeout: 256 seconds)
+[14:09:19] <Silberwoelfin> DrMcCoy: stiefmutter/-vater ist doch ne hauptrolle?
+[14:09:23] <DrMcCoy> Bzw. wenn ne Nebenrolle, dann am liebsten Rumpelstilzchen
+[14:09:40] <Sonea> und das problem ist halt dass es bei den märchen 5 weibliche hauptrollen und 4 männliche gibt
+[14:09:48] <DrMcCoy> Silberwoelfin: Oh, stimmt, verguckt
+[14:09:51] <Sonea> wobei noch kein mann sich für herrn holle eingetragen hat
+[14:10:10] <Sonea> DrMcCoy: ich fänds voll witzig wenn du der märchenprinz wärst :D
+[14:10:14] <DrMcCoy> lol
+[14:10:21] <ES> o_O
+[14:10:51] <Sonea> ich fänds cool wenn mai schneewittchen machen würde
+[14:11:04] <DrMcCoy> Naja, das würde ich eigentlich nur Not machen
+[14:11:12] <DrMcCoy> Also den Prinz, nicht Schneewittchen :P
+[14:11:35] <Sonea> ich find die hexe voll cool
+[14:11:43] <Sonea> :D
+[14:11:54] <Sonea> DrMcCoy: nicht auch schneewittchen?
+[14:11:59] <Sonea> das wäre ja noch viel witziger :d
+[14:12:24] <DrMcCoy> lol
+[14:12:46] <DrMcCoy> Ich glaube, das wird dann zu albern :P
+[14:12:52] <Silberwoelfin> ich glaube, ich würde lieber den piratenschatz spielen
+[14:12:55] <Sonea> die haarfarbe wäre schonmal gut
+[14:13:06] <rohieb> Silberwoelfin: d.h. du versteckst dich und wir vergraben dich?
+[14:13:14] <Sonea> Silberwoelfin: du liegst in der ecke rum und wartest drauf dass wir dich entdecken?
+[14:13:24] <DrMcCoy> Sonea: Das ist kein Ebenholz, was ich da aufm Kopf habe
+[14:13:31] <Silberwoelfin> genau :D
+[14:13:34] <Sonea> DrMcCoy: ja naja aber so fast
+[14:13:42] <Sonea> DrMcCoy: also das ginge grad noch durch
+[14:13:53] <Silberwoelfin> rohieb: nicht ihr vergrabt mich, ihr müsst mich suchen und ausgraben
+[14:13:58] <Sonea> winnie meinte, dass ne lehrerin in der schule unbedingt ne blonde schneewittchen haben wollte oO
+[14:14:11] <Sonea> Silberwoelfin: aber dafür musst du doch vergraben sein
+[14:14:18] <ES> Silberwoelfin: also wirst du vorher von jemand 3. an einem unbekannte ort vergraben?
+[14:14:43] <Silberwoelfin> ES: jo, kannst du ja machen^^
+[14:15:34] <Sonea> Oo ich zitier mal grad winnie: "ok, interessante fetische"
+[14:15:59] <Silberwoelfin> ES: lieber mit luft für 48 stunden und wlan
+[14:16:26] <Silberwoelfin> :(
+[14:16:31] <DrMcCoy> Sonea: Da war die Lehrerin wohl ne Leererin
+[14:16:55] <Silberwoelfin> ES: dann möchte ich aber ein netzteil und ne steckdose mit strom dazu
+[14:18:06] ! rohieb has quit. (Quit: ...yo ho ho, and a bottle of rum!)
+[14:19:25] ! csg has quit. (Quit: csg)
+[14:22:16] ! Phia has quit. (Ping timeout: 240 seconds)
+[14:34:21] ! elorie has joined.
+[14:36:25] ! Phia has joined.
+[14:43:56] <DrMcCoy> http://www.somethingpositive.net/sp11072011.shtml :D
+[14:43:58] <ZombiePoet> Title: something positive: archive (at www.somethingpositive.net)
+[14:47:33] ! nubix has quit. (Quit: Leaving.)
+[15:06:40] ! Phia has quit. (Ping timeout: 240 seconds)
+[15:21:30] ! Phia has joined.
+[15:23:22] ! lurtz has joined.
+[15:28:40] ! Phia has quit. (Ping timeout: 240 seconds)
+[15:35:59] ! ES has quit. (Quit: The cake is a lie!)
+[15:43:52] ! Phia has joined.
+[15:57:30] ! ES has joined.
+[16:00:08] ! nubix has joined.
+[16:11:12] ! Phia has quit. (Ping timeout: 248 seconds)
+[16:25:35] ! Phia has joined.
+[16:36:42] ! Silberwoelfin has quit. (Quit: Verlassend)
+[16:40:16] ! Phia has quit. (Ping timeout: 240 seconds)
+[16:43:22] ! elorie has quit. (Quit: Leaving.)
+[16:46:22] ! Debi has joined.
+[16:49:44] ! Silberwoelfin has joined.
+[16:51:35] ! ES has quit. (Quit: The cake is a lie!)
+[16:51:46] ! jh has joined.
+[16:57:07] ! Phia has joined.
+[17:04:58] <jh> !tell elo* krieger mit anderthalbhänder... details sind noch nicht fertig
+[17:04:58] <ZombiePoet> jh: Ok.
+[17:05:26] ! elorie has joined.
+[17:36:31] ! Tigaa_laptop has left the channel.
+[17:45:01] <jh> gn8
+[17:45:03] ! jh has quit. (Quit: jh)
+[17:49:57] ! PirateKing has quit. (Quit: Leaving.)
+[17:54:58] <Sonea> !mensa
+[17:55:12] <Sonea> !mensa abend
+[17:55:19] <Sonea> !nom
+[17:55:38] <Sonea> doof
+[17:57:50] <ZombiePoet> Sonea: An error has occurred and has been logged. Please contact this bot's administrator for more information.
+[17:58:22] <ZombiePoet> Sonea: An error has occurred and has been logged. Please contact this bot's administrator for more information.
+[17:58:22] <ZombiePoet> Sonea: An error has occurred and has been logged. Please contact this bot's administrator for more information.
+[18:05:31] <Sonea> !mensa
+[18:05:32] <ZombiePoet> Abendmensa Katharinenstraße am Dienstag:
+[18:05:33] <ZombiePoet> A: Terrine Erbsensuppe mit Fleischeinlage AT 1,40€
+[18:05:34] <ZombiePoet> B: Rührei 1,50€
+[18:05:35] <ZombiePoet> C: Fisch-Nuggets mit Remoulade 1,90€
+[18:05:36] <ZombiePoet> W: 1/2 Brathähnchen 1,90€
+[18:05:47] <Sonea> ok keine abendmensa :/
+[18:07:13] ! PirateKing has joined.
+[18:08:57] ! Silberwoelfin has quit. (Quit: Verlassend)
+[18:13:39] <Droggl> Sonea: also zuhause brot/brötchen/whatever zusammen essen?
+[18:18:18] ! nubix has quit. (Quit: Leaving.)
+[18:18:27] ! nubix has joined.
+[18:20:43] <Sonea> Droggl: jo was ist denn generell dein plan?
+[18:21:15] <Droggl> bin jetzt noch mit max grad am worxorn, kann noch nich genau sagen wie lange wir noch machen
+[18:21:24] <Droggl> dann nach haus
+[18:21:34] <Droggl> im rewe futter mitnehmen, z.B. brötchen oder brot
+[18:21:44] <Droggl> mit dir bigbang und/oder himym gucken und das essen
+[18:21:51] <Droggl> weiter hab ich noch nich geplant
+[18:22:20] <Droggl> wäre meine momentane "arbeitshypothese" von einem plan ;)
+[18:22:40] <Droggl> vllt noch n bissl paper lesen / forschen zuhaus, aber muss nich
+[18:22:58] <Droggl> wenn ich erstmal zuhaus bin hat der schweinehund bestimmt eh schon wieder gewonnen ;)
+[18:42:42] <Sonea> Droggl: k ich hab grad keine lust mehr
+[18:42:50] <Sonea> und würde vllt gleich mal nach hause gehen
+[18:43:02] <Sonea> Droggl: oder ist bei dir bereits ein ende abzusehen?
+[18:43:23] <Droggl> nee direkt noch nich
+[18:45:59] ! nubix has quit. (Quit: Leaving.)
+[18:49:40] ! elorie has quit. (Ping timeout: 256 seconds)
+[18:55:52] ! lurtz has quit. (Ping timeout: 240 seconds)
+[18:56:03] ! Cascharity__ has joined.
+[18:57:23] ! Cascharity has joined.
+[19:00:02] ! Cascharity_ has quit. (Ping timeout: 245 seconds)
+[19:00:17] ! Cascharity__ has quit. (Ping timeout: 244 seconds)
+[19:05:35] ! nubix has joined.
+[19:10:54] ! lurtz has joined.
+[19:13:40] <Sonea> Droggl: so jetzt würde ich demnächst wirklich mal gehen
+[19:13:48] <Sonea> Droggl: hab grad noch was wegen mma gemacht
+[19:28:29] ! lurtz has quit. (Quit: Leaving.)
+[19:29:59] <Sonea> Droggl: rohieb und ich wollten jetzt zusammen los
+[19:30:08] <Sonea> Droggl: are you ready
+[19:30:09] <Sonea> ?
+[19:30:23] <Sonea> soll ich sonst was von rewe kaufen?
+[19:30:25] <Droggl> 5min?
+[19:30:29] <Sonea> zumindest brot oder so?
+[19:30:29] <DrMcCoy> !tell elorie* Von der Menge her hättest du eigentlich sogar mitessen können
+[19:30:29] <ZombiePoet> DrMcCoy: Ok.
+[19:30:32] <Sonea> Droggl: alles klar
+[19:31:29] ! Sonea has left the channel.
+[19:41:49] ! bgalias has joined.
+[20:33:37] ! rohieb has joined.
+[20:35:50] ! elorie has joined.
+[20:40:09] <DrMcCoy> 'lorie!
+[20:41:14] <elorie> DrMcCoy: :)
+[20:41:14] <ZombiePoet> elorie: Sent 3 hours and 36 minutes ago: <jh> krieger mit anderthalbhänder... details sind noch nicht fertig
+[20:41:16] <elorie> brrr kalt
+[20:41:16] <ZombiePoet> elorie: Sent 1 hour and 10 minutes ago: <DrMcCoy> Von der Menge her hättest du eigentlich sogar mitessen können
+[20:41:29] <DrMcCoy> elorie: Falsch
+[20:41:37] <DrMcCoy> elorie: Warm. > 0°C :)
+[20:41:38] <rohieb> mjam spinatlauflauf
+[20:41:51] <elorie> DrMcCoy: ne laut meinem auto warens unter 0
+[20:42:02] <rohieb> draußen oder drinnen?
+[20:42:09] <rohieb> elorie: kennst du tobias wittek?
+[20:42:48] <DrMcCoy> elorie: Forecastfox sagt 1°C
+[20:43:01] <elorie> rohieb: sollte ich?
+[20:43:16] <rohieb> nee
+[20:43:20] <rohieb> aber du kennst sonst immer jeden ^^
+[20:43:33] <DrMcCoy> Ne, das ist hashier
+[20:44:21] <elorie> rohieb: nein kenne cih nciht, außerdem da sist ein winfo...
+[20:44:30] <rohieb> das weißt du anscheinend ^^
+[20:44:37] <rohieb> DrMcCoy: ja, und pip
+[20:45:12] <elorie> rohieb: google
+[20:45:22] <rohieb> naja egal
+[20:45:25] <rohieb> hella wollte das wissen :P
+[20:45:31] <rohieb> und johannes krainer
+[20:46:37] <rohieb> weil die bei ihr in der mma-übung sind
+[20:46:56] <elorie> krainer kenne cih, da sist nen ist-student, freund von pegasuus
+[20:47:19] <rohieb> ja genau
+[20:47:23] <rohieb> soviel hatte ich auch noch im kopf
+[20:47:31] <rohieb> aber zu dem findet man auch kein bild
+[20:50:53] <rohieb> seid ihr garnicht dsaen heute, elorie, DrMcCoy?
+[20:51:06] ! elorie has quit. (Read error: Connection reset by peer)
+[20:51:20] <rohieb> mkay...
+[20:53:31] <DrMcCoy> rohieb: Ne, ist dieses mal am Donnerstag
+[20:53:37] <DrMcCoy> Also übermorgen
+[20:53:45] <rohieb> mkay
+[20:53:52] <DrMcCoy> Hmm, verdammt, ich muss noch ne Hintergrundgeschichte schreiben
+[20:54:00] <DrMcCoy> Zuerst aber mehr Baldur's Gate :P
+[20:54:05] <rohieb> meh
+[20:54:07] <rohieb> contiki
+[20:54:08] <rohieb> -.-
+[20:54:09] <rohieb> will nicht
+[20:54:17] <DrMcCoy> contiki?
+[20:54:20] <rohieb> das ist so eine verkrüppelte api
+[20:54:22] <rohieb> ja
+[20:54:30] <DrMcCoy> Okay
+[20:54:39] <rohieb> dieses betriebssystem, das auf den ibr-sensorknoten läuft
+[20:54:44] ! elorie has joined.
+[20:54:49] <rohieb> und der tcpip-stack ist total kaputt
+[20:55:21] <rohieb> aber da hab ich hier ja schon drüber gerantet hier
+[20:55:41] <rohieb> problem ist, ich soll das bis übermorgen zum laufen bekommen und hab keine ahnung, warum mein code nicht funktioniert
+[20:55:51] ! Silberwoelfin has joined.
+[20:55:59] <rohieb> Silberwoelfin!
+[20:56:16] <Silberwoelfin> rohieb: \o/
+[20:57:40] <DrMcCoy> Silberwoelfin!
+[20:58:07] <Silberwoelfin> DrMcCoy!
+[21:05:01] <serj> rohieb:
+[21:05:09] <serj> bock peace mission mitorganisieren?
+[21:05:30] <serj> habe mit wolf/balke geredet, haetten genug beamer, switches, netze, multimedia etc.
+[21:05:34] <serj> raeme
+[21:05:38] <serj> raeume
+[21:07:46] <rohieb> yay
+[21:07:49] <rohieb> was für räume wo?
+[21:07:57] <serj> 160/161?
+[21:08:06] <serj> und noch nen 3 seminarraum oder so
+[21:08:09] <rohieb> und da ist dann auch wer?
+[21:08:14] <serj> nope
+[21:08:19] <rohieb> so zwischen den tagen ist ja da tote hose
+[21:08:25] <serj> es kann nur sein, dass heizungen relativ runter fahren
+[21:08:38] <serj> aber letztes jahr war einer von wolfs leuten da und meinte es geht
+[21:08:42] <rohieb> ah ok
+[21:08:51] <serj> laut balke wars arsch kalt :D
+[21:09:14] <serj> vllt kann man irgendwo paar elektroheizungen besorgen :P
+[21:09:18] <rohieb> hrhrhr
+[21:09:50] <serj> also die frage ist dann nur noch, ob die frau kramer uns ne genehmigung gibt
+[21:10:08] <serj> aber wolfs unterstuetzung haetten wir
+[21:10:40] <rohieb> das ist die tante, die von der verwaltung dafür zuständig ist?
+[21:11:03] <serj> nicht die, die das mit den studiengebuehren verkackt hat
+[21:11:08] <serj> aber die mag z.b. Wechner nicht :D
+[21:11:21] <rohieb> ok :D
+[21:11:49] <rohieb> wo sitzt denn die frau?
+[21:11:58] <rohieb> und kann man bei der einfach so reinschneien?
+[21:12:00] <serj> ka, finde ich morgen raus
+[21:12:37] <rohieb> ok
+[21:12:53] <rohieb> hm, dieser IZ033, hab gehört, der gehört jetzt der fachgruppe?
+[21:13:48] <rohieb> !seen conq*
+[21:13:49] <ZombiePoet> rohieb: conq* could be conqueror12 (11 weeks, 3 days, 0 hours, 3 minutes, and 28 seconds ago), conqueror121 (19 weeks, 2 days, 1 hour, 18 minutes, and 21 seconds ago), conqueror122 (1 year, 20 weeks, 6 days, 5 hours, 31 minutes, and 16 seconds ago), conqueror123 (1 year, 20 weeks, 6 days, 6 hours, 6 minutes, and 57 seconds ago), or conqmobil (1 year, 48 weeks, 4 days, 20 hours, 54 minutes, and 38 (1 more message)
+[21:14:10] <rohieb> mh. wie heißtn der auf twitter...
+[21:16:56] <rohieb> achja, konkwidong
+[21:17:21] <conqueror12> rohieb: JAAA
+[21:17:25] <conqueror12> sorry
+[21:17:29] <conqueror12> ich guck gleich mal
+[21:17:56] <rohieb> oh
+[21:17:58] <rohieb> das ging schnell :D
+[21:24:30] <conqueror12> rohieb: hm ich find nur noch fotos und keine pdf
+[21:25:03] <rohieb> sind die fotos denn toll? ^^
+[21:25:10] <conqueror12> die pdf hätte uch nur die fotos
+[21:25:16] <conqueror12> also man kanns lesen
+[21:25:22] <rohieb> achso
+[21:25:23] <rohieb> jo ist ok
+[21:25:28] <conqueror12> aber es sind viele
+[21:25:42] <rohieb> zip?
+[21:26:16] <conqueror12> joa, ich guck sie gleich nochmal durch.  ich schick es dir morgen früh. ich skype gerade. ich schreibs mir aber auf, damit ich es nicht vergesse
+[21:26:21] <rohieb> jo ok
+[21:53:22] ! ShadniX_ has joined.
+[21:54:50] ! ShadniX has quit. (Ping timeout: 258 seconds)
+[21:57:15] ! soney has joined.
+[22:01:52] <rohieb> geschiebemergel!
+[22:04:48] ! soney has quit. (Ping timeout: 258 seconds)
+[22:19:45] ! lurtz has joined.
+[22:30:11] ! bgalias has quit.
+[22:43:59] ! nubix has quit. (Read error: Connection reset by peer)
+[22:44:03] ! nubix1 has joined.
+[22:45:55] ! nubix1 has quit. (Read error: Connection reset by peer)
+[22:45:59] ! nubix has joined.
+[23:03:04] <Silberwoelfin> gute nach
+[23:03:05] <Silberwoelfin> +t
+[23:04:12] ! Silberwoelfin has quit. (Quit: Verlassend)
+[23:22:27] ! ES has joined.
+[23:45:39] <Phia> !notes
+[23:45:39] <ZombiePoet> Phia: I currently have notes waiting for amiga4000, bondro, Br4inFlam0r, BrainFlaim0r*, conqueror, Freak*, joke, norman*, Oran, pipboy2000*, PirateKing, and PirateKing*.
+[23:46:01] ! Phia has quit. (Quit: Leaving.)
+[23:46:06] ! conqueror121 has joined.
+[23:47:55] ! conqueror12 has quit. (Ping timeout: 258 seconds)
+[23:48:11] <PirateKing> .
+[23:48:11] <ZombiePoet> PirateKing: Sent 4 days, 0 hours, and 6 minutes ago: <jh> vielleicht da so cachen? -> http://coord.info/map?ll=52.384944,9.771928&z=15&mt=osm
+[23:48:12] <ZombiePoet> PirateKing: Sent 2 days, 3 hours, and 5 minutes ago: <elorie> 7 in Fechtwaffen aber nur 4 in Raufen? bei den SF?
+[23:48:13] <ZombiePoet> PirateKing: Sent 3 days, 12 hours, and 10 minutes ago: <jh> also ich nehme mal an wir fahren mit dem zug um 12:20, wenn nicht, meldet euch mal :P
+[23:49:54] <PirateKing> elorie: ja, das ist eben ein waffenloser kampstil... den gab's gratis
+[23:49:59] <elorie> aaha
+[23:50:04] <elorie> ah ok hatte mich nur gewundert
+[23:50:23] <elorie> dann fuchtel ruhig weiter mt deinem zahnstocher in der luft ;)
+[23:50:37] <PirateKing> jo :D
+[23:50:42] <rohieb> zahnstocher, klingt lustig
+[23:50:46] <PirateKing> langfristig geht es dann auf linkhand
+[23:50:54] <elorie> :)
+[23:50:55] <rohieb> PirateKing: ich hab noch ne ganze packung, falls du brauchst
+[23:51:03] <elorie> klicgr gut
+[23:51:31] <PirateKing> rohieb: prima, da kann ich dann... leute mit bewerfen :P
+[23:51:51] <rohieb> notiz: nicht mehr in PirateKings nähe kommen
+[23:52:09] <PirateKing> ach, sowas geht nur selten ins auge...
+[23:54:32] <rohieb> notiz: glasauge bestellen
+[23:54:42] <rohieb> kommt auch besser als pirat an silvester ^^
+[23:59:32] ! conqueror121 has quit. (Quit: Leaving.)

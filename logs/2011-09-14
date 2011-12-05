@@ -1,0 +1,375 @@
+[00:06:08] ! sonnenschein has joined.
+[00:14:12] ! PirateKing has quit. (Read error: Connection reset by peer)
+[00:27:05] ! sonnenschein has quit. (Quit: Verlassend)
+[00:29:19] <elorie> gn8
+[00:29:21] ! elorie has quit. (Quit: Leaving.)
+[00:50:46] <jh> gn8
+[00:51:14] ! jh has quit. (Quit: jh)
+[01:11:52] ! Ignifazius has joined.
+[01:12:26] ! Ignifazius has quit. (Client Quit)
+[01:13:12] ! Ignifazius has joined.
+[01:13:21] ! Ignifazius has quit. (Client Quit)
+[01:23:00] ! moenni has joined.
+[02:00:39] ! nubix has joined.
+[02:00:39] ! nubix has quit. (Changing host)
+[02:00:39] ! nubix has joined.
+[02:21:07] ! moenni has quit. (Read error: Connection reset by peer)
+[02:53:18] ! nubix1 has joined.
+[02:53:18] ! nubix1 has quit. (Changing host)
+[02:53:18] ! nubix1 has joined.
+[02:55:13] ! nubix has quit. (Ping timeout: 260 seconds)
+[03:15:12] ! nubix has joined.
+[03:17:55] ! nubix1 has quit. (Ping timeout: 260 seconds)
+[03:33:54] ! nubix has quit. (Remote host closed the connection)
+[03:35:06] ! nubix has joined.
+[03:35:07] ! nubix has quit. (Changing host)
+[03:35:07] ! nubix has joined.
+[03:37:58] ! nubix has quit. (Remote host closed the connection)
+[03:46:12] ! nubix has joined.
+[04:11:30] ! nubix has quit. (Remote host closed the connection)
+[05:16:50] ! Cascharity has quit. (Read error: Connection reset by peer)
+[07:04:12] ! Scumpeter has quit. (*.net *.split)
+[07:04:13] ! ZombiePoet has quit. (*.net *.split)
+[07:04:13] ! pani has quit. (*.net *.split)
+[07:04:14] ! maku` has quit. (*.net *.split)
+[07:04:14] ! ShadniX has quit. (*.net *.split)
+[07:04:15] ! DrMcCoy has quit. (*.net *.split)
+[07:04:19] ! _Rick_ has quit. (*.net *.split)
+[07:04:22] ! Wechner has quit. (*.net *.split)
+[07:04:22] ! zerobot has quit. (*.net *.split)
+[07:04:24] ! DooMMasteR has quit. (*.net *.split)
+[07:06:25] ! ShadniX has joined.
+[07:06:25] ! Scumpeter has joined.
+[07:06:25] ! DrMcCoy has joined.
+[07:06:25] ! DooMMasteR has joined.
+[07:06:25] ! _Rick_ has joined.
+[07:06:25] ! ZombiePoet has joined.
+[07:06:25] ! maku` has joined.
+[07:06:25] ! pani has joined.
+[07:06:25] ! Wechner has joined.
+[07:06:25] ! zerobot has joined.
+[08:23:04] ! moenni has joined.
+[08:48:10] ! PirateKing has joined.
+[09:10:04] ! jh has joined.
+[09:11:20] <jh> hi
+[09:24:17] <DrMcCoy> Morgen
+[09:47:06] ! nubix has joined.
+[09:47:06] ! nubix has quit. (Changing host)
+[09:47:06] ! nubix has joined.
+[09:50:46] <jh> nubix: dein hostname verschleiern klappt ja gut *g*
+[09:57:55] <jh> !tell galoscho wtf hast du da bestellt? und sei gefälligst da wenn du tonnenschwere dinge per spedition bestellst O_o
+[09:57:55] <ZombiePoet> jh: Ok.
+[09:59:37] <nubix> jh: ja... total ^^
+[09:59:52] <nubix> jh: der macht das mit dem reconnect auch richtig unauffaellig
+[10:02:09] ! nubix has quit. (Quit: Leaving.)
+[10:02:32] ! nubix has joined.
+[10:33:26] ! lurtz has joined.
+[10:35:34] ! Silberwoelfin has joined.
+[10:35:54] <Silberwoelfin> hi
+[10:36:14] <nubix> moin Silberwoelfin
+[10:41:06] <jh> Silberwoelfin \o/
+[10:46:33] ! Phia has joined.
+[10:53:20] <jh> & bye
+[10:53:21] ! jh has quit. (Quit: jh)
+[10:59:50] <Phia> wer hat noch nicht gegen Vorratsdatenspeicherung unterschrieben? https://epetitionen.bundestag.de/index.php?action=petition;sa=details;petition=17143
+[11:04:27] <Phia> Wenn die Petition bis heute 24:00 die 50.000er Marke knackt, dann kann der Antragsteller das anliegen persönlich im Bundestag vorstellen.
+[11:04:34] ! der_eq has joined.
+[11:05:38] <Phia> Ansonsten kann die Petition noch bis zum 6.10. mitgezeichnet werden und kommt dann ganz normal in den Bundestag, ohne dass jemand, der sich damit ernsthaft beschäftigt hat, sie vorstellen darf.
+[11:08:44] <nubix> Phia: na das sollte sich doch machen lassen ;)
+[11:14:05] <Phia> nubix: das hoffe ich auch
+[11:25:07] ! Bowdzone has joined.
+[11:50:52] ! jh-uni has joined.
+[11:53:04] <jh-uni> Mensavorschl�ge?
+[11:53:07] <jh-uni> !nom
+[11:53:07] <ZombiePoet> Mensa Katharinenstraße am Mittwoch:
+[11:53:08] <ZombiePoet> A: Terrine Linsensuppe mit Würstchen AT 1,40€
+[11:53:09] <ZombiePoet> B: Kartoffelspalten mit Kräuterdip 1,50€
+[11:53:10] <ZombiePoet> C: Fleischspieß mit ungarischer Sauce 1,70€
+[11:53:11] <ZombiePoet> V: Camembert gebacken mit Preiselbeersauce und Sesamstange 1,90€
+[11:53:12] <ZombiePoet> W: Schweinefilet mit Steinpilzsauce und Kartoffelklößen 3,10€
+[11:56:11] <der_eq> mir egal, ich kann immer ;)
+[11:56:29] <nubix> wow, was fuer eine Aussage
+[11:59:16] <der_eq> hehe
+[12:01:39] <jh-uni> der_eq: O_o
+[12:01:46] <jh-uni> Silberwoelfin: was hast du f�r pr�ferenzen?
+[12:02:07] <jh-uni> sonst w�rde ich wieder 13 uhr vorschlagen
+[12:03:09] <DrMcCoy> Scheiße
+[12:03:17] * DrMcCoy hat gerade die eekanne kaputtgehauen :(
+[12:04:20] <der_eq> oh noes :(
+[12:04:49] <Silberwoelfin> jh-uni: mir egal, ich kann mich auch noch ein bisschen so über wasser halten (mit blätterteigschnecken) ;)
+[12:05:17] <nubix> DrMcCoy: mein Beileid
+[12:05:51] <Phia> http://zeichnemit.de/
+[12:05:52] <ZombiePoet> Title: Petition gegen Vorratsdatenspeicherung - zeichne mit! (at zeichnemit.de)
+[12:11:50] <jh-uni> Silberwoelfin, der_eq: dann mensa 13 uhr
+[12:11:55] <jh-uni> moenni: mensa 13 uhr
+[12:11:57] ! nubix1 has joined.
+[12:12:03] <jh-uni> nubix1: mensa 13 uhr
+[12:12:06] <jh-uni> rest: mensa 13 urh ;)
+[12:12:23] <nubix1> jh-uni: ne ist gerade schlecht so mit der entfernung
+[12:12:38] <moenni> jh, joa kann man machen
+[12:14:16] <der_eq> jh-uni: kay
+[12:15:33] <Phia> jh: bin immer noch krank und will euch mal lieber nicht anstecken, auch wenn camembert natürlich verlockend klingt
+[12:16:09] <nubix1> Phia: dich hat's auch erwischt?!
+[12:16:55] ! nubix1 has quit. (Remote host closed the connection)
+[12:17:09] <Phia> nubix1: bin schon seit montag ein bisschen erkältet aber gestern wars ganz schlimm
+[12:17:57] <Silberwoelfin> Phia: wir sind auch (fast) alle erkältet
+[12:18:13] <Phia> Silberwoelfin: ich weiß
+[12:18:29] ! lurtz has quit. (Remote host closed the connection)
+[12:18:37] <nubix> Phia: hm, doof...
+[12:27:09] ! Ignifazius has joined.
+[12:39:12] ! moenni has quit. (Read error: Connection reset by peer)
+[12:49:55] ! Silberwoelfin has quit. (Quit: Page closed)
+[12:52:26] ! elorie has joined.
+[12:56:35] <jh-uni> afk mensa
+[12:57:02] <nubix> guten hunger jh-uni\
+[13:46:16] ! moenni has joined.
+[13:47:10] <jh-uni> !tell *ohieb* cachen mit #, lydia, sandra & mir ab ~16:30 am s�dsee, Bobs Rucksack?
+[13:47:10] <ZombiePoet> jh-uni: Ok.
+[13:56:54] ! Silberwoelfin has joined.
+[13:57:06] <Silberwoelfin> re
+[13:59:49] <jh-uni> wbwoelfin
+[14:11:39] <Silberwoelfin> hat hier jemand ahnung von adobes lifecycle designer?
+[14:15:23] ! Tigaa_laptop has joined.
+[14:19:43] ! nubix1 has joined.
+[14:21:25] ! nubix2 has joined.
+[14:22:17] ! nubix2 has quit. (Read error: Connection reset by peer)
+[14:22:30] ! nubix2 has joined.
+[14:22:31] ! nubix2 has quit. (Client Quit)
+[14:22:45] <nubix> wlanfail sry
+[14:23:22] ! nubix1 has quit. (Read error: Connection reset by peer)
+[14:36:58] ! Peace-Maker has joined.
+[14:37:25] ! Peace-Maker has quit. (Client Quit)
+[14:37:54] ! Peace-Maker has joined.
+[14:49:03] <jh-uni> >50000!
+[14:50:33] <nubix> jh-uni: \o/
+[14:50:54] <Silberwoelfin> jh-uni: zeilen code? masterarbeitsseiten?^^
+[14:51:04] <nubix> Silberwoelfin: mitzeichner
+[14:51:05] <jh-uni> Silberwoelfin: petionisten
+[14:51:14] <Silberwoelfin> achso...
+[14:51:21] <nubix> jh-uni: es war Artley, Nicolas J.	Germany / Nordrhein-Westfalen
+[14:51:24] <Silberwoelfin> hm, ich zieh mal um
+[14:51:55] ! Silberwoelfin has quit. (Quit: Page closed)
+[14:54:10] <jh-uni> nubix: die letzten 10000 gingen ein bisschen schnell... ist bestimmt ganz viel fake
+[14:54:37] <nubix> jh-uni: ich hoffe mal, wenn es der fall ist, dass es nicht auffaellt
+[14:54:50] <jh-uni> ^^
+[14:59:41] ! Cascharity has joined.
+[15:02:22] <jh-uni> Cascharity \o/
+[15:02:39] <Cascharity> jh-uni: \o/
+[15:03:09] <jh-uni> alle klausuren �berlebt?
+[15:03:14] <jh-uni> & bestanden
+[15:03:20] <Cascharity> nee
+[15:03:26] <Cascharity> also letzteres nicht...
+[15:04:27] <jh-uni> nee @ das erste h�tte mich jetzt auch stark irritiert
+[15:04:34] <jh-uni> :P
+[15:07:58] <DrMcCoy> Cascharity!
+[15:09:14] <Cascharity> DrMcCoy!
+[15:10:17] ! Silberwoelfin has joined.
+[15:10:35] <Silberwoelfin> re
+[15:11:36] <DrMcCoy> Silberwoelfin!
+[15:11:41] <Silberwoelfin> DrMcCoy!
+[15:17:08] <hashier> jh-uni: Wir haben so einen Variablen Maulschluessel
+[15:18:25] ! Cascharity has quit. (Quit: Verlassend)
+[15:21:17] <jh-uni> hashier: kk
+[15:21:32] <elorie> blubb
+[15:21:48] <jh-uni> eloblubbchen!
+[15:22:15] <elorie> jhunichen
+[15:22:42] <DrMcCoy> <*(((><
+[15:23:02] <nubix> DrMcCoy: man koennte meinen du bist ein crhist so oft wie du hier fische machst
+[15:23:02] <DrMcCoy> blubbblubb
+[15:23:23] * DrMcCoy slaps nubix 
+[15:24:39] <DrMcCoy> Fuer ein rotes A bin ich nicht kreativ genug
+[15:24:55] <elorie> o.O
+[15:26:00] <DrMcCoy> elorie: https://www.examiner.com/images/blog/EXID26261/images/AtheistA.jpg
+[15:26:19] <elorie> DrMcCoy: ah ok cih dachte gerade an einen anderes roten buchstaben der aufgeneht wurde bei einer ehebrecherin
+[15:26:55] <DrMcCoy> Doofer Film
+[15:27:19] <elorie> ich dachte nciht an die verfilmung dazu sondern an das zugrundeliegende buch
+[15:28:36] <DrMcCoy> Okay, das hab ich nicht gelesen
+[15:28:58] ! nubix1 has joined.
+[15:29:31] <elorie> ich kenne auch nur die zusammenfassung aber prinzipiell ist es ja durchaus verbreitet menschen durch aufnaeher an ihren kleidungsstuecken und taschen zu gruppen zuzuordnen
+[15:35:50] ! nubix1 has quit. (Read error: Connection reset by peer)
+[15:54:59] ! Ignifazius has quit. (Quit: *Vanish*)
+[15:56:12] <elorie> jh-uni: du fehlst nebenan
+[15:56:34] <jh-uni> nebenan?
+[15:56:42] <jh-uni> Silberwoelfin: ich komme zum fgraum
+[15:56:44] ! jh-uni has quit. (Quit: Informatik finde ich super!)
+[15:58:11] ! Silberwoelfin has quit. (Ping timeout: 276 seconds)
+[15:58:56] ! Cascharity has joined.
+[16:07:49] ! nubix has quit. (Quit: Leaving.)
+[16:10:11] ! nubix has joined.
+[16:10:12] ! nubix has quit. (Changing host)
+[16:10:12] ! nubix has joined.
+[16:13:49] ! Peace-Maker has quit. (Quit: get satisfied!  :: core-networks.de ««« (Gamers.IRC) »»» gamersirc.net ::)
+[16:24:40] ! Cascharity has quit. (Quit: Verlassend)
+[16:38:51] ! moenni has quit. (Read error: Connection reset by peer)
+[16:44:44] ! Tigaa_laptop has left the channel.
+[17:20:52] ! Cascharity has joined.
+[17:32:20] ! PirateKing has quit. (Quit: Leaving.)
+[17:49:31] ! PirateKing has joined.
+[17:58:18] ! nubix1 has joined.
+[18:05:44] ! nubix2 has joined.
+[18:05:46] ! nubix1 has quit. (Read error: Connection reset by peer)
+[18:06:43] ! nubix1 has joined.
+[18:06:44] ! nubix2 has quit. (Read error: Connection reset by peer)
+[18:07:48] ! nubix2 has joined.
+[18:07:48] ! nubix1 has quit. (Read error: Connection reset by peer)
+[18:09:14] ! nubix1 has joined.
+[18:09:19] ! nubix2 has quit. (Read error: Connection reset by peer)
+[18:14:11] ! nubix1 has quit. (Ping timeout: 252 seconds)
+[18:23:38] ! nubix1 has joined.
+[18:25:50] ! nubix1 has quit. (Read error: Connection reset by peer)
+[18:30:52] ! der_eq has quit. (Remote host closed the connection)
+[18:38:56] ! Bowdzone has quit. (Quit: Bowdzone)
+[18:49:39] ! conqueror12 has joined.
+[19:33:12] ! nubix1 has joined.
+[19:35:19] ! nubix2 has joined.
+[19:35:25] ! nubix1 has quit. (Read error: Connection reset by peer)
+[19:38:52] ! nubix2 has quit. (Read error: Connection reset by peer)
+[19:39:02] ! nubix1 has joined.
+[19:40:02] ! nubix2 has joined.
+[19:40:03] ! nubix1 has quit. (Read error: Connection reset by peer)
+[19:42:07] ! nubix1 has joined.
+[19:42:07] ! nubix2 has quit. (Read error: Connection reset by peer)
+[19:42:24] ! nubix1 has quit. (Client Quit)
+[19:47:51] <elorie> DrMcCoy: http://www.macnews.de/mac/drahtlose-solartastatur-fur-den-mac-von-logitech-242111 <— wohl eher nichts fuer dich ;)
+[19:47:53] <ZombiePoet> Title: Drahtlose Solartastatur für den Mac von Logitech � macnews.de (at www.macnews.de)
+[19:51:35] ! Peace-Maker has joined.
+[19:53:02] <DrMcCoy> elorie: Brrr
+[19:53:21] <DrMcCoy> elorie: Die sieht doch schon so aus, dass die ein Scheißtippgefühl hat
+[19:53:42] <DrMcCoy> Beste Tastatur evar: https://secure.wikimedia.org/wikipedia/de/wiki/IBM_Model_M
+[19:53:43] <ZombiePoet> Title: IBM Model M – Wikipedia (at secure.wikimedia.org)
+[19:55:53] <elorie> DrMcCoy: ging eeher um das solarfeature :p
+[19:56:35] <DrMcCoy> :P
+[20:01:34] <nubix> elorie: das feature wird ad absurdum gefuert bei DrMcCoy der sitzt doch eh den ganzen tag im dunkeln
+[20:03:52] <DrMcCoy> nubix: Well, thank you, Captain Obvious.
+[20:04:12] <DrMcCoy> nubix, der Witzerklärbär
+[20:04:15] <nubix> DrMcCoy: ich hab's auch gerade gesehen :/
+[20:04:36] <DrMcCoy> :P
+[20:04:40] <nubix> Ich hab den Kommentar von elorie bzgl. des Links uebersehen
+[20:10:59] ! moenni has joined.
+[20:12:26] ! nubix1 has joined.
+[20:14:03] ! nubix2 has joined.
+[20:14:03] ! nubix1 has quit. (Read error: Connection reset by peer)
+[20:17:37] ! nubix2 has quit. (Read error: Connection reset by peer)
+[20:17:43] ! nubix1 has joined.
+[20:18:46] ! nubix2 has joined.
+[20:18:47] ! nubix1 has quit. (Read error: Connection reset by peer)
+[20:20:22] ! Bowdzone has joined.
+[20:22:26] ! nubix1 has joined.
+[20:23:00] ! nubix2 has quit. (Ping timeout: 240 seconds)
+[20:34:37] ! nubix2 has joined.
+[20:36:06] ! nubix2 has left the channel.
+[20:36:36] ! nubix1 has quit. (Ping timeout: 240 seconds)
+[20:40:01] ! nubix1 has joined.
+[20:46:13] ! rohieb has joined.
+[20:48:35] ! nubix has quit. (Quit: Leaving.)
+[20:51:26] ! nubix1 has quit. (Read error: Connection reset by peer)
+[20:51:29] ! nubix has joined.
+[20:51:43] <rohieb> all nubixes have vanishe... hm, doch nicht
+[20:52:26] <nubix> rohieb: mein ap hier zickt total rum
+[20:52:40] <nubix> der meint er muesse mich andauernd rausschmeißen
+[20:55:08] ! Mobiwoelfin has joined.
+[20:55:15] ! nubix has quit. (Read error: Connection reset by peer)
+[20:55:25] ! nubix has joined.
+[20:58:00] <rohieb> maku`: meine schwester meinte, sie war in gore
+[20:58:02] <rohieb> mh
+[20:58:04] <rohieb> nicht maku
+[20:58:09] <rohieb> Mobiwoelfin: meine schwester meinte, sie war in gore
+[21:01:52] ! nubix has quit. (Read error: Connection reset by peer)
+[21:01:55] ! nubix1 has joined.
+[21:05:18] <rohieb> hm, fiji ist anscheinend am ende der welt
+[21:05:23] <rohieb> zumindest am ende der osm-welt
+[21:06:46] ! nubix has joined.
+[21:07:18] ! nubix1 has quit. (Read error: Connection reset by peer)
+[21:09:03] ! Mobiwoelfin has quit. (Ping timeout: 260 seconds)
+[21:15:08] ! nubix has quit. (Read error: Connection reset by peer)
+[21:15:11] ! nubix1 has joined.
+[21:20:13] ! nubix1 has quit. (Read error: Connection reset by peer)
+[21:23:40] ! Phia has quit. (Read error: Connection reset by peer)
+[21:30:37] ! jh has joined.
+[21:31:54] <rohieb> mh
+[21:32:11] <rohieb> skype mit mutter, wobei mein mikro nicht funktioniert und ich schreibe und sie redet... strange
+[21:32:12] <rohieb> jh!
+[21:32:45] <jh> rohieb!
+[21:32:45] <ZombiePoet> jh: Sent 2 hours and 4 minutes ago: <rohieb> südsee ist doch so weit weg ohne rad...
+[21:32:50] <jh> rohieb: warst du segeln?^^
+[21:32:56] <jh> rohieb: südsee per bus/bahn
+[21:32:57] <rohieb> ne
+[21:33:00] <rohieb> achso
+[21:33:15] <jh> rohieb: per rad... wo ja auch sandra, lydia und # n fahrrad haben...
+[21:34:35] <rohieb> wasweißich :P
+[21:34:41] <rohieb> wie lang issn # noch da?
+[21:35:28] <jh> bis So
+[21:36:07] <rohieb> cool
+[21:49:34] ! lurtz has joined.
+[21:49:45] <jh> ein lurtz
+[21:49:46] <jh> na sowas
+[21:49:51] <rohieb> lurtz!
+[21:49:55] <lurtz> und nicht von eduroam
+[21:50:02] <rohieb> ich hab dein haus gefunden!
+[21:50:09] <jh> du hast woanders internet geklaut
+[21:50:21] <jh> rohieb: am südsee gibts n ungemappten steg!
+[21:50:27] <rohieb> ich weiß
+[21:50:42] <rohieb> wobei... welchen meinst du?
+[21:50:43] <jh> oh
+[21:50:46] <jh> ist doch schon da
+[21:50:46] <rohieb> den gesperrten?
+[21:50:52] <jh> nur in meinem gps-osm nicht
+[21:50:56] <jh> das ist von ~april
+[21:51:01] <jh> rohieb: der ganz im süden
+[21:51:09] <jh> http://osm.org/go/0G46k9RIC--
+[21:51:09] <rohieb> ja, der ist da
+[21:51:11] <ZombiePoet> Title: OpenStreetMap (at osm.org)
+[22:02:41] <jh> ewig viel umweg gelaufen weil autobahn im weg war
+[22:02:48] <jh> dabei war n übergang ganz in der nähe :[
+[22:02:53] ! _Rick_ has quit. (*.net *.split)
+[22:02:54] ! moenni has quit. (*.net *.split)
+[22:02:54] ! conqueror12 has quit. (*.net *.split)
+[22:02:57] ! Wechner has quit. (*.net *.split)
+[22:02:57] ! zerobot has quit. (*.net *.split)
+[22:03:00] ! DooMMasteR has quit. (*.net *.split)
+[22:03:03] ! DrMcCoy has quit. (Quit: Reconnecting)
+[22:03:42] ! moenni has joined.
+[22:03:42] ! conqueror12 has joined.
+[22:03:42] ! DooMMasteR has joined.
+[22:03:42] ! _Rick_ has joined.
+[22:03:42] ! Wechner has joined.
+[22:03:42] ! zerobot has joined.
+[22:04:21] ! DrMcCoy has joined.
+[22:04:49] <rohieb> jh: wenn du osm hattest, warum hast du dich dann verlaufen?
+[22:04:49] ! zerobot has quit. (Write error: Broken pipe)
+[22:05:07] <jh> rohieb: weil es unsinnig erschien nach norden zu laufen wenn wir nach süden wollen
+[22:05:21] <rohieb> wo seid ihr denn langgelaufen  o_O
+[22:05:21] <jh> und weil andere meinten im süden gäbe es auch noch n über/untergang
+[22:05:39] <jh> sind dann halt bis zur Westerbergstraße
+[22:05:54] <jh> zu fuß von ca. höhe ringgleis
+[22:06:32] <rohieb> wtf westerbergstr?
+[22:06:37] <rohieb> ok
+[22:06:42] <rohieb> wo wollet ihr denn hin %)
+[22:07:36] <jh> nördlicher südsee
+[22:07:39] <jh> bobs rucksack halt
+[22:08:41] <rohieb> und wo kamt ihr her?
+[22:14:42] <rohieb> mh, heiße lasagne ist heiß
+[22:15:20] ! Scumpeter has quit. (*.net *.split)
+[22:15:20] ! ZombiePoet has quit. (*.net *.split)
+[22:15:22] ! pani has quit. (*.net *.split)
+[22:15:22] ! maku` has quit. (*.net *.split)
+[22:15:30] ! maku has joined.
+[22:16:22] ! Scumpeter has joined.
+[22:16:24] ! pani has joined.
+[22:16:25] ! pani has quit. (Changing host)
+[22:16:25] ! pani has joined.
+[22:16:28] <rohieb> wb spalter
+[22:18:28] ! ZombiePoet has joined.
+[22:18:47] ! ShadniX has quit. (*.net *.split)
+[22:18:56] <lurtz> pani!
+[22:19:18] ! ShadniX has joined.
+[22:20:18] <pani> jo?
+[22:33:49] <lurtz> ich war gestern und heute wieder in göttingen
+[22:33:59] <lurtz> ich sollte dir vielleicht vorher mal bescheid sagen^^
+[22:45:46] ! conqueror12 has quit. (Quit: Leaving.)
+[22:55:12] ! moenni has quit. (Quit: Leaving.)
+[23:24:04] <DrMcCoy> http://www.doomshallrise.de/wp/?p=63 :(
+[23:24:05] <ZombiePoet> Title: Doom Shall Rise Festival � Doom Shall Rise (at www.doomshallrise.de)
+[23:24:36] <pani> hehe, genau ^^
+[23:52:34] ! lurtz has quit. (Remote host closed the connection)
+[23:56:10] ! joke` has joined.

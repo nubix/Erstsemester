@@ -1,0 +1,744 @@
+[00:06:53] ! Joe77 has joined.
+[00:07:01] <Joe77> Hallo
+[00:07:21] <DrMcCoy> Hej hej
+[00:08:43] <Joe77> Ich check nicht ganz das pumping lemma verfahren und da brauch ich noch 2 aufgaben für die morgigen theoinf hausaufgaben auf clevershit leider noch nicht freigeschalten kann da jmd mal für mich was rauskopieren? :D
+[00:09:21] <Joe77> bitte bitte :P
+[00:09:55] ! nubix1 has quit. (Read error: Connection reset by peer)
+[00:09:59] ! nubix has joined.
+[00:10:31] <DrMcCoy> Herrscht in deiner Gegend ein Mangel an Satzzeichen? :P
+[00:10:50] ! Debi has quit. (Quit: Verlassend)
+[00:10:59] <Joe77> Leider ja und auch Zeit für Schlaf wenn es so weitergeht.
+[00:11:49] ! nubix has quit. (Read error: Connection reset by peer)
+[00:11:52] ! nubix1 has joined.
+[00:11:57] <joke`> Joe77: Habe gerade die queue bearbeitet, sprich du solltest auf clevershit kommen
+[00:12:17] <joke`> Joe77: Aber wenn du so allgemein an die ha rangehst (in letzter minute ohne nachdenken abschreiben) wirst du in der klausur viel spass haben
+[00:12:17] <joke`> not
+[00:12:50] <DrMcCoy> joke` der Moralapostel
+[00:13:43] <Joe77> danke aufjeden fall schonmal, meine Zeitplanung habe ich ein wenig verschätzt :D
+[00:14:09] <joke`> arneb: Pumping Lemma ist definitiv klausurrelevant
+[00:14:13] <DrMcCoy> jo
+[00:14:27] <joke`> arneb: Also bei uns kam das dran und bei allen mir bekannten altklausuren auch
+[00:14:28] <Joe77> =(
+[00:14:40] <joke`> erst: Schreiben sie das PL auf (geschenkt, da man sich ja nen spicker machen darf)
+[00:14:49] <joke`> und dann meistens eine aufgabe um das ding abzunudeln
+[00:15:35] <joke`> und da kommt in der klausur im normallfall nichts wirklich kaputtes dran
+[00:15:41] <arneb> joke: ja, das stimmt, das ist in der Tat wichtig...
+[00:17:56] <joke`> allgemein ist die theoinf1 klausur gut durch verfahren lernen zu bestehen
+[00:18:23] <joke`> also pumping lemma, potenzmengenautomat, kleene algorithmus, cyk-algo etc
+[00:18:37] <arneb> joke: mal anderes Thema: git. auf mein lokales repo committe ich und pushe das dann mal ab und zu zu den anderen?
+[00:18:40] <joke`> und dazu ein paar einfache automaten der art "gegeben sei sprache foo, basteln sie passenden automaten"
+[00:18:45] <joke`> arneb: ja
+[00:18:58] <joke`> oder "gegeben ist automat bar, welche sprache erkennt er"
+[00:19:14] <joke`> bei uns konnte man nur damit locker ne note zwischen 2,7 (meine) und 4,0 schaffen
+[00:19:42] <joke`> bei git kannst du auch ganz ohne zentrales repo auskommen
+[00:20:04] <joke`> oder irgendein netzwerklaufwerk
+[00:20:09] <joke`> das ist ja das geile daran
+[00:21:43] <joke`> es sei denn du hast physikalisch zugriff auf irgendnen root-server
+[00:21:46] <joke`> dann dort einrichten
+[00:22:42] <joke`> Joe77: machst du die ha alleine? Das habe ich zwar damals auch, aber das ist ehrlich gesagt nicht zu empfehlen
+[00:22:52] <joke`> suche dir irgend jemanden zum gemeinsamen machen oder wenigstens abgleichen
+[00:23:20] <joke`> und dazu gabs auch andere meinungen
+[00:23:37] ! Ignifazius has quit. (Quit: *Vanish*)
+[00:26:16] ! nubix1 has quit. (Quit: Leaving.)
+[00:27:21] <Joe77> ja zum lerntreff werde ich mich ggf auch mal begeben und ich hatte die tage mir ansätze angehört aber von den bekannten im umkreis war bis heute immer noch nicht so recht bekannt was letzlich richtig ist
+[00:29:10] ! nubix has joined.
+[00:30:25] ! soney1 has joined.
+[00:31:55] <joke`>  das ist normal
+[00:33:16] ! Droggl has quit. (Read error: Operation timed out)
+[00:34:37] ! pani has quit. (Read error: Operation timed out)
+[00:35:19] ! Droggl has joined.
+[00:35:42] ! pani has joined.
+[00:35:42] ! pani has quit. (Changing host)
+[00:35:42] ! pani has joined.
+[00:37:14] ! nubix has quit. (Quit: Leaving.)
+[00:39:58] ! nubix has joined.
+[00:45:10] ! nubix has quit. (Quit: Leaving.)
+[00:46:50] ! elorie1 has joined.
+[00:47:17] <DrMcCoy> vielorie!
+[00:47:30] ! elorie has quit. (Ping timeout: 244 seconds)
+[00:48:37] <arneb> na denn, machts gut n8
+[00:48:49] ! nubix has joined.
+[00:48:53] ! arneb has quit. (Quit: Leaving)
+[00:57:02] ! soney1 has quit. (Quit: Leaving.)
+[00:58:27] ! Joe77 has left the channel.
+[00:58:57] ! rohieb has quit. (Read error: No route to host)
+[01:03:29] ! soney has quit. (Quit: Leaving.)
+[01:24:21] ! Peace-Maker has quit. (Quit: Bye.)
+[01:43:32] ! joke` has quit. (Quit: Verlassend)
+[02:22:45] ! ES has quit. (Quit: The cake is a lie!)
+[03:39:06] ! Bowdzone has quit. (Quit: Bowdzone)
+[04:31:44] ! Cascharity has quit. (Quit: Verlassend)
+[04:38:27] ! nubix has quit. (Read error: Connection reset by peer)
+[04:38:29] ! nubix1 has joined.
+[04:40:23] ! nubix1 has quit. (Read error: Connection reset by peer)
+[04:40:25] ! nubix has joined.
+[04:42:26] ! nubix has quit. (Read error: Connection reset by peer)
+[04:42:28] ! nubix1 has joined.
+[04:44:18] ! nubix1 has quit. (Read error: Connection reset by peer)
+[04:44:21] ! nubix has joined.
+[04:46:12] ! nubix has quit. (Read error: Connection reset by peer)
+[04:46:15] ! nubix1 has joined.
+[04:48:06] ! nubix has joined.
+[04:48:10] ! nubix has quit. (Changing host)
+[04:48:10] ! nubix has joined.
+[04:48:10] ! nubix1 has quit. (Read error: Connection reset by peer)
+[05:20:01] ! nubix has quit. (Read error: Connection reset by peer)
+[05:20:05] ! nubix1 has joined.
+[05:22:40] ! nubix1 has quit. (Read error: Connection reset by peer)
+[05:22:43] ! nubix has joined.
+[05:39:17] ! elorie1 has quit. (Quit: Leaving.)
+[06:20:22] ! elorie has joined.
+[08:51:30] ! jh has joined.
+[08:52:10] <jh> hi
+[08:53:20] ! ES has joined.
+[09:13:30] ! Phia has joined.
+[09:16:22] <jh> ES!
+[09:16:23] <jh> Phia!
+[09:16:50] <ES> jh?
+[09:17:07] <ES> !mensa
+[09:17:08] <ZombiePoet> Mensa Katharinenstraße am Donnerstag:
+[09:17:09] <ZombiePoet> A: Terrine Champignoncremesuppe 1,40€
+[09:17:10] <ZombiePoet> B: Bauernfrühstück mit Gewürzgurke 1,90€
+[09:17:11] <ZombiePoet> C: Putenhaxe mit Bratensauce 1,90€
+[09:17:12] <ZombiePoet> V: gebackener Balkankäse mit Tomate und Oliven 1,90€
+[09:17:13] <ZombiePoet> W: Schnitzel XXL mit Chips 3,10€
+[09:18:11] <jh> die mensawoche ist nicht so gut...
+[09:18:16] <jh> !mensa fr
+[09:18:16] <ZombiePoet> Mensa Katharinenstraße am Freitag:
+[09:18:17] <ZombiePoet> A: Terrine Gulaschsuppe AT 1,40€
+[09:18:18] <ZombiePoet> B: Cannelloni mit Käse-Sahnesauce 1,90€
+[09:18:19] <ZombiePoet> C: Seelachsfilet gebacken 2,00€
+[09:18:20] <ZombiePoet> V: Cheddar Cheese Peppers mit Dip und Risotto 1,90€
+[09:18:21] <ZombiePoet> W: Entenkeule mit Orangensauce und Kroketten 3,10€
+[09:20:38] <jh> du willst ja nur wieder meine gurke haben
+[09:25:55] <ES> oh ja, ich will an deine gurke^^
+[09:39:13] ! Tigaa_laptop has joined.
+[10:13:32] ! arneb has joined.
+[10:22:44] ! pipboy20k has joined.
+[10:22:47] <pipboy20k> moin
+[10:25:55] ! Silberwoelfin has joined.
+[10:26:42] <Silberwoelfin> moin
+[10:26:45] <pipboy20k> hoi
+[10:28:15] <Silberwoelfin> pipboy20k: Wechners server ist down
+[10:28:22] <pipboy20k> ahso...
+[10:28:26] <pipboy20k> dig und ping gingen
+[10:28:39] <Silberwoelfin> pipboy20k: nimm das log: http://nubix.net/cs-studs/
+[10:28:41] <ZombiePoet> Title: Channellog - ##cs-studs (at nubix.net)
+[10:28:46] <pipboy20k> thxy :)
+[10:44:54] <Cadvan> pipboy20k: ping funktioniert hier nicht :/
+[10:46:21] <jh> Cadvan: was hast du mit deinem server angestellt?^^
+[10:46:28] <Cadvan> ich gar nichts :/
+[10:46:36] <jh> wars DrMcCoy?
+[10:47:01] <Cadvan> und irgendwie hat's dabei meinen V-Server wohl aber verrissen
+[10:47:07] <Cadvan> und jetzt sind sie am wiederherstellen :/
+[10:47:25] <jh> ah^^
+[10:48:33] <Cadvan> und so wirklich detailfreudig wie sonst sind die dieses Mal auch nicht...
+[10:48:42] <jh> so ein bundestrojaner muss halt mit viel sorgfalt installiert werden ;)
+[10:49:01] <Cadvan> das ist das letzte
+[11:02:52] ! Phia has quit. (Quit: Leaving.)
+[11:06:38] <jh> Silberwoelfin: die eierschalen haben die mülltüte aufgeschlitzt O_o
+[11:08:06] <Silberwoelfin> lol^^
+[11:08:26] <Silberwoelfin> jh: dann taugen deine mülltüten nichts :P
+[11:10:20] <jh> pff, das sind die guten von Ja!
+[11:14:24] ! ES has quit. (Quit: The cake is a lie!)
+[11:21:01] <Silberwoelfin> jh: Ja!, die taugen nicht :-P
+[11:21:55] ! Peace-Maker has joined.
+[11:28:30] <jh> der dhl-mann bringt hannes pakete und mir nicht :'(
+[11:28:39] <arneb> jh: gut != Ja! ;-)
+[11:29:36] <jh> jaja, ihr benutzt alle kohlenanofaserverstärkte müllbeutel mit titanbeschichtung...
+[11:30:14] <arneb> natürlich, was dachtest du denn? Nobel geht die Welt zugrunde
+[11:30:27] <arneb> (wer nutzt noch Kohlefaser? Aramid!)
+[11:34:05] <Silberwoelfin> jh: wenn du mal was bestellst, dann bringt dir der dhl-mann auch pakete ;-)
+[11:34:37] <jh> aber dann will der auftraggeber vom dhl-mann irgendwie so... gled
+[11:34:43] <jh> oder so ähnlich
+[11:35:41] <Silberwoelfin> jh: genau
+[11:35:48] <Silberwoelfin> jh: ohne geld, keine pakete
+[11:36:23] * elorie haz waschaschine :)
+[11:36:51] <Silberwoelfin> alle zu elorie zum wäsche waschen!
+[11:37:00] <elorie> nee noch nciht angeschlossen
+[11:37:00] <Silberwoelfin> ;-)
+[11:43:12] ! arneb has quit. (Disconnected by services)
+[12:05:27] ! arneb has joined.
+[12:05:30] ! PirateKing has joined.
+[12:26:06] <jh> !mensa
+[12:26:07] <ZombiePoet> Mensa Katharinenstraße am Donnerstag:
+[12:26:08] <ZombiePoet> A: Terrine Champignoncremesuppe 1,40€
+[12:26:09] <ZombiePoet> B: Bauernfrühstück mit Gewürzgurke 1,90€
+[12:26:10] <ZombiePoet> C: Putenhaxe mit Bratensauce 1,90€
+[12:26:11] <ZombiePoet> V: gebackener Balkankäse mit Tomate und Oliven 1,90€
+[12:26:12] <ZombiePoet> W: Schnitzel XXL mit Chips 3,10€
+[12:26:14] <jh> achja, gab ja nix :[
+[12:27:02] ! Cadvan has quit. (Quit: Leaving)
+[12:33:12] <Silberwoelfin> !mensa beeth
+[12:33:12] <ZombiePoet> Mensa Beethovenstraße am Donnerstag:
+[12:33:13] <ZombiePoet> A: Kartoffeleintopf mit Rippenspeck 1,40€
+[12:33:14] <ZombiePoet> B: Putengulasch mit Champignons 1,60€
+[12:33:15] <ZombiePoet> C: Königsberger Klopse mit Kapernsauce 1,40€
+[12:33:16] <ZombiePoet> V: Gebackener Camembert mit Preiselbeeren 1,90€
+[12:35:28] ! ES has joined.
+[12:36:20] ! nubix has quit. (Quit: Leaving.)
+[12:38:34] ! lurtz has joined.
+[12:57:30] ! Phia has joined.
+[12:59:18] ! Silberwoelfin has quit. (Quit: Verlassend)
+[13:00:32] <lurtz> !mensa
+[13:00:32] <ZombiePoet> Mensa Katharinenstraße am Donnerstag:
+[13:00:33] <ZombiePoet> A: Terrine Champignoncremesuppe 1,40€
+[13:00:34] <ZombiePoet> B: Bauernfrühstück mit Gewürzgurke 1,90€
+[13:00:35] <ZombiePoet> C: Putenhaxe mit Bratensauce 1,90€
+[13:00:36] <ZombiePoet> V: gebackener Balkankäse mit Tomate und Oliven 1,90€
+[13:00:37] <ZombiePoet> W: Schnitzel XXL mit Chips 3,10€
+[13:03:28] ! winnie has joined.
+[13:03:36] <winnie> hallo alle!
+[13:03:38] <winnie> !mensa
+[13:03:39] <ZombiePoet> Mensa Katharinenstraße am Donnerstag:
+[13:03:40] <ZombiePoet> A: Terrine Champignoncremesuppe 1,40€
+[13:03:41] <ZombiePoet> B: Bauernfrühstück mit Gewürzgurke 1,90€
+[13:03:42] <ZombiePoet> C: Putenhaxe mit Bratensauce 1,90€
+[13:03:43] <ZombiePoet> V: gebackener Balkankäse mit Tomate und Oliven 1,90€
+[13:03:44] <ZombiePoet> W: Schnitzel XXL mit Chips 3,10€
+[13:03:58] <winnie> jh: mal ordentlich einen abmensen?
+[13:04:24] <jh> winnie, nee, @home essen
+[13:04:30] <jh> was isst du denn davon?
+[13:04:45] <winnie> jh: na, V
+[13:05:11] <jh> winnie: wollte mit sandra $belegteBaguettes machen, falls du wieder lust hast^^
+[13:05:40] <winnie> jh: joa, hab Lust, aber muss noch Präsentation bauen... werd also eher schnell mensen
+[13:05:46] <jh> kk
+[13:06:01] <jh> winnie: präsentation == du bist mit projektarbeit fertig?^^
+[13:06:56] <winnie> jh: ne, präsentation == ich fange mit Praktikum an ;-)
+[13:07:16] <jh> achso, mit inga?
+[13:07:23] <winnie> genau
+[13:07:27] <jh> kk
+[13:07:36] <winnie> heute müssen wir unterschreiben, dass wir unsere Seele gegen INGAs eintauschen
+[13:07:43] <winnie> !seen rohieb
+[13:07:43] <ZombiePoet> winnie: rohieb was last seen in ##cs-studs 13 hours, 20 minutes, and 51 seconds ago: <rohieb> joke`: das ist doch nur zusätzlicher aufwand zu coden :P
+[13:08:11] <jh> afk, rewe
+[13:16:04] ! nubix has joined.
+[13:16:16] ! nubix has quit. (Client Quit)
+[13:18:03] ! Bowdzone has joined.
+[13:22:55] ! nubix has joined.
+[13:23:47] ! Ignifazius has joined.
+[13:24:44] ! Ignifazius has quit. (Client Quit)
+[13:25:28] ! Ignifazius has joined.
+[13:31:55] ! Sonea has joined.
+[13:35:04] ! jh is now known as Tempwoelfin
+[13:35:07] <Tempwoelfin> winnie: \o/
+[13:35:18] <Tempwoelfin> winnie: deine seele ist aber wichtiger als INGA!
+[13:35:29] <Tempwoelfin> Sonea: \o/
+[13:36:23] ! Nimos has quit. (Ping timeout: 240 seconds)
+[13:37:10] <Sonea> Tempwoelfin!
+[13:37:21] <Sonea> winnie ist mensen
+[13:40:06] ! Nimos has joined.
+[13:57:12] <Tempwoelfin> woelfin kaputt :-(
+[13:57:27] <winnie> Tempwoelfin: wieder zusammenbauen!
+[13:59:28] ! Tempwoelfin is now known as jh
+[14:00:19] <jh> schon wieder ein hijacker
+[14:07:44] <Sonea> hmm?
+[14:08:21] <winnie> Sonea: jh wurde von Tempwoelfin gehijackt
+[14:08:30] <jh> genau
+[14:10:12] <Sonea> der arme
+[14:11:59] <jh> ja :(
+[14:12:09] <jh> muss meinen rechner wohl öfter sperren^^
+[14:12:14] ! Phia has left the channel.
+[14:14:20] <winnie> jh: oder deine Wölfin
+[14:18:16] <Sonea> hihi
+[14:19:26] <Sonea> naja ich geh mal nach hause und schaue obich post vom daad hab...
+[14:19:28] ! Sonea has left the channel.
+[14:25:23] ! elorie has quit. (Quit: Leaving.)
+[14:26:42] ! Ignifazius has quit. (Quit: *Vanish*)
+[14:53:08] ! arneb has quit. (Quit: leaving)
+[14:56:06] ! nubix has quit. (Quit: Leaving.)
+[15:01:57] ! nubix has joined.
+[15:04:53] ! pipboy20k has quit. (Quit: Verlassend)
+[15:08:35] ! Cascharity has joined.
+[15:08:45] ! elorie has joined.
+[15:42:02] ! joke_ has joined.
+[15:42:17] ! joke_ is now known as joke`
+[15:48:04] ! joke_ has joined.
+[15:48:30] ! joke_ is now known as Guest80514
+[15:48:54] ! joke` has quit. (Disconnected by services)
+[15:48:59] ! Guest80514 is now known as joke`
+[15:54:52] ! joke` has quit. (Ping timeout: 244 seconds)
+[16:27:24] <lurtz> !mensa
+[16:27:24] <ZombiePoet> Abendmensa Katharinenstraße am Donnerstag:
+[16:27:25] <ZombiePoet> A: Terrine Champignoncremesuppe 1,40€
+[16:27:26] <ZombiePoet> B: Chili-Rinderragout 1,50€
+[16:27:27] <ZombiePoet> C: Schollenfilet 2,00€
+[16:27:28] <ZombiePoet> W: 1/2 Brathähnchen 1,90€
+[16:32:27] ! joke__ has joined.
+[16:32:51] ! nubix has quit. (Quit: Leaving.)
+[16:37:07] ! rohieb has joined.
+[16:38:16] ! joke__ has quit. (Ping timeout: 244 seconds)
+[16:39:53] ! nubix has joined.
+[16:41:49] ! soney has joined.
+[16:41:49] ! Tigaa_laptop has left the channel.
+[16:49:53] ! soney has quit. (Quit: Leaving.)
+[16:53:35] ! soney has joined.
+[16:58:05] <rohieb> hmmmmmmmm... auf phobos gibts so einen monolithen http://de.wikipedia.org/wiki/Phobos-Monolith
+[16:58:07] <ZombiePoet> Title: Phobos-Monolith – Wikipedia (at de.wikipedia.org)
+[16:58:31] <rohieb> ich würde mal gern nahaufnahmen von dem sehen. der ist bestimmt tiefschwarz und quaderförmig.
+[17:01:25] ! nubix has quit. (Quit: Leaving.)
+[17:09:16] ! rohieb has quit. (Ping timeout: 244 seconds)
+[17:10:01] ! PirateKing has quit. (Quit: Leaving.)
+[17:10:57] ! nubix has joined.
+[17:20:57] ! arneb has joined.
+[17:21:28] <arneb> !help
+[17:21:28] <ZombiePoet> arneb: (help [<plugin>] [<command>]) -- This command gives a useful description of what <command> does. <plugin> is only necessary if the command is in more than one plugin.
+[17:21:39] <nubix> !help help
+[17:21:39] <ZombiePoet> nubix: (help [<plugin>] [<command>]) -- This command gives a useful description of what <command> does. <plugin> is only necessary if the command is in more than one plugin.
+[17:22:41] <arneb> !help lame
+[17:22:41] <ZombiePoet> arneb: Error: There is no command "lame".
+[17:22:48] <nubix> !help *
+[17:22:48] <ZombiePoet> nubix: Error: There is no command "*".
+[17:23:07] ! winnie has quit. (Quit: Leaving.)
+[17:23:40] <jh> !help me
+[17:23:40] <ZombiePoet> jh: Error: There is no command "me".
+[17:24:25] <DrMcCoy> Haben wollen: http://www.amazon.de/Game-of-Thrones/dp/B0064MR9HA/ref=sr_1_2?ie=UTF8&qid=1322151788&sr=8-2
+[17:24:45] <jh> packs auf deine hochzeitswunschliste
+[17:24:53] <DrMcCoy> o_
+[17:24:55] <DrMcCoy> O
+[17:25:04] <DrMcCoy> Da ist mir doch direkt ein Auge abgefallen
+[17:25:37] <DrMcCoy> Ich glaube nicht, dass ich Geschenke kriege, wenn andere Leute heiraten
+[17:25:52] <elorie> ^^
+[17:25:53] <nubix> DrMcCoy: Warum kaufst du dir dsa nicht einfach?!
+[17:26:04] <nubix> DrMcCoy: bzw. vorbestellen
+[17:26:09] <DrMcCoy> nubix: Weil ich keine Zeitmaschine habe
+[17:26:11] <elorie> DrMcCoy: musst du im notfalls zu weihnachten die kuhgel heiraten ;)
+[17:26:16] <DrMcCoy> elorie: :D
+[17:26:42] <DrMcCoy> nubix: Mir geht es eigentlich darum, dass ich das jetzt haben will :P
+[17:27:14] <jh> offenbar gibts schon ein musterexemplar :P
+[17:27:19] <lurtz> !rank
+[17:27:22] <lurtz> !lame
+[17:27:28] <lurtz> !nick-o-meter
+[17:27:28] <ZombiePoet> lurtz: The "lame nick-o-meter" reading for "lurtz" is 0.0%.
+[17:27:36] <DrMcCoy> !nick-o-meter
+[17:27:36] <ZombiePoet> DrMcCoy: The "lame nick-o-meter" reading for "DrMcCoy" is 17.6%.
+[17:27:39] <DrMcCoy> :(
+[17:27:39] <jh> jetzt geht das wieder los
+[17:27:44] <nubix> !nick-o-meter
+[17:27:44] <ZombiePoet> nubix: The "lame nick-o-meter" reading for "nubix" is 0.0%.
+[17:27:45] <arneb> !nick-o-meter
+[17:27:45] <ZombiePoet> arneb: The "lame nick-o-meter" reading for "arneb" is 0.0%.
+[17:27:59] <DrMcCoy> Wohl weil CamelCase
+[17:28:03] <lurtz> tja
+[17:28:09] <DrMcCoy> !lastfm
+[17:28:12] <ZombiePoet> DrMcCoy: Last played Highlander by The Lord Weird Slough Feg from the album Twilight of the Idols - http://www.last.fm/music/The+Lord+Weird+Slough+Feg/_/Highlander
+[17:28:19] <jh> DrMcCoy: nee, das führt eine tiefe psychologische analyse durch...
+[17:28:22] <lurtz> !nick-o-meter lutz0r
+[17:28:22] <ZombiePoet> lurtz: The "lame nick-o-meter" reading for "lutz0r" is 30.7%.
+[17:28:33] <nubix> !nick-o-meter jh
+[17:28:34] <ZombiePoet> nubix: The "lame nick-o-meter" reading for "jh" is 0.0%.
+[17:28:37] <lurtz> !nick-o-meter 7utz0r
+[17:28:37] <ZombiePoet> lurtz: The "lame nick-o-meter" reading for "7utz0r" is 75.3%.
+[17:28:38] ! maximilian____ has joined.
+[17:28:49] <lurtz> !nick-o-meter 7u4z0r
+[17:28:49] <ZombiePoet> lurtz: The "lame nick-o-meter" reading for "7u4z0r" is 99.8%.
+[17:28:50] <nubix> !nick-o-meter maximilian__
+[17:28:51] <ZombiePoet> nubix: The "lame nick-o-meter" reading for "maximilian__" is 14.4%.
+[17:29:01] <DrMcCoy> !nick-o-meter 1337
+[17:29:01] <ZombiePoet> DrMcCoy: The "lame nick-o-meter" reading for "1337" is 95.0%.
+[17:29:38] <lurtz> !nick-o-meter 7u4z0r|away
+[17:29:38] <ZombiePoet> lurtz: The "lame nick-o-meter" reading for "7u4z0r|away" is 99.8%.
+[17:29:46] <nubix> !nick-o-meter maximilian___
+[17:29:46] <ZombiePoet> nubix: The "lame nick-o-meter" reading for "maximilian___" is 25.6%.
+[17:29:53] <DrMcCoy> Tja, 100% geht wohl nicht
+[17:30:17] <lurtz> !nick-o-meter 7u4z0r|away__
+[17:30:18] <ZombiePoet> lurtz: The "lame nick-o-meter" reading for "7u4z0r|away__" is 99.8%.
+[17:30:36] <lurtz> !nick-o-meter _
+[17:30:36] <ZombiePoet> lurtz: The "lame nick-o-meter" reading for "_" is 0.0%.
+[17:30:39] <arneb> !nick-o-meter ____
+[17:30:39] <ZombiePoet> arneb: The "lame nick-o-meter" reading for "____" is 69.4%.
+[17:30:40] <lurtz> !nick-o-meter ___
+[17:30:41] <ZombiePoet> lurtz: The "lame nick-o-meter" reading for "___" is 25.6%.
+[17:30:51] <lurtz> !nick-o-meter ___________________
+[17:30:51] <ZombiePoet> lurtz: The "lame nick-o-meter" reading for "___________________" is 99.98%.
+[17:30:55] <lurtz> !nick-o-meter ____________________________
+[17:30:55] <ZombiePoet> lurtz: The "lame nick-o-meter" reading for "____________________________" is 99.98%.
+[17:30:55] ! maximilian____ is now known as ___
+[17:31:01] <arneb> !nick-o-meter ______________________________________________________________________________
+[17:31:01] <ZombiePoet> arneb: The "lame nick-o-meter" reading for "______________________________________________________________________________" is 99.991%.
+[17:31:11] <lurtz> !nick-o-meter _______________________________________________________________________________________________________________________
+[17:31:11] <ZombiePoet> lurtz: The "lame nick-o-meter" reading for "_______________________________________________________________________________________________________________________" is 99.991%.
+[17:31:13] <DrMcCoy> Jetzt wird's albern
+[17:31:20] <nubix> !nick-o-meter penis
+[17:31:20] <ZombiePoet> nubix: The "lame nick-o-meter" reading for "penis" is 0.0%.
+[17:31:35] <DrMcCoy> nubix: Zu kurz :P
+[17:31:45] <lurtz> !nick-o-meter Mr_Penis
+[17:31:45] <ZombiePoet> lurtz: The "lame nick-o-meter" reading for "Mr_Penis" is 14.4%.
+[17:31:45] <nubix> DrMcCoy: !
+[17:31:53] <DrMcCoy> nubix: SCNR :P
+[17:31:58] <arneb> !nick-o-meter Mr_P@en!s
+[17:31:58] <ZombiePoet> arneb: The "lame nick-o-meter" reading for "Mr_P@en!s" is 69.4%.
+[17:32:39] <lurtz> !nick-o-meter Mr_Mr
+[17:32:39] <ZombiePoet> lurtz: The "lame nick-o-meter" reading for "Mr_Mr" is 14.4%.
+[17:32:49] <lurtz> !nick-o-meter MrMr
+[17:32:49] <ZombiePoet> lurtz: The "lame nick-o-meter" reading for "MrMr" is 0.0%.
+[17:33:02] <lurtz> !nick-o-meter MrMr|away
+[17:33:02] <ZombiePoet> lurtz: The "lame nick-o-meter" reading for "MrMr|away" is 14.4%.
+[17:33:08] <DrMcCoy> lurtz: Okay, ist mal langsam gut :P
+[17:34:16] <lurtz> !nick-o-meter MrMr:,,|,,
+[17:34:17] <ZombiePoet> lurtz: The "lame nick-o-meter" reading for "MrMr:,,|,," is 99.96%.
+[17:34:27] <___> !nick-o-meter
+[17:34:27] <ZombiePoet> ___: The "lame nick-o-meter" reading for "___" is 25.6%.
+[17:34:34] <lurtz> !nick-o-meter MrMr:,,|,,:( .Y. )
+[17:34:34] <ZombiePoet> lurtz: The "lame nick-o-meter" reading for "MrMr:,,|,,:( .Y. )" is 99.98%.
+[17:34:54] <lurtz> so mensa
+[17:34:58] ! lurtz has quit. (Quit: Leaving.)
+[17:35:12] ! arneb has quit. (Quit: leaving)
+[17:48:57] ! PirateKing has joined.
+[17:57:05] <nubix> !nick-o-meter ßΩΩ
+[17:57:05] <ZombiePoet> nubix: The "lame nick-o-meter" reading for "ßΩΩ" is 99.96%.
+[17:57:15] <nubix> !nick-o-meter ßΩ¨ˆ¨ˆœ∑´ßΩ
+[17:57:15] <ZombiePoet> nubix: The "lame nick-o-meter" reading for "ßΩ¨ˆ¨ˆœ∑´ßΩ" is 99.995%.
+[17:57:24] <nubix> !nick-o-meter ßΩ¨ˆ¨ø¡™ºˆœ∑´ßΩ
+[17:57:24] <ZombiePoet> nubix: The "lame nick-o-meter" reading for "ßΩ¨ˆ¨ø¡™ºˆœ∑´ßΩ" is 99.996%.
+[17:57:28] <DrMcCoy> nubix: Das sind keine validen IRC-Nicks
+[17:57:34] <nubix> DrMcCoy: ja und?
+[17:57:37] <DrMcCoy> ...
+[18:00:24] ! ES has quit. (Quit: The cake is a lie!)
+[18:01:10] ! soney has quit. (Quit: Leaving.)
+[18:17:28] ! ___ has quit. (Ping timeout: 244 seconds)
+[18:22:02] ! lurtz has joined.
+[18:23:53] ! arneb has joined.
+[18:23:53] ! elorie has quit. (Quit: Leaving.)
+[18:28:29] <arneb> lurtz: weiter im Chat?
+[18:35:03] ! elorie has joined.
+[18:35:21] ! Silberwoelfin has joined.
+[18:35:41] <Silberwoelfin> hi
+[18:37:07] ! Peace-Maker has quit. (Quit: Bye.)
+[18:37:22] <lurtz> arneb: na gut
+[18:47:04] ! der_eq has joined.
+[18:57:33] ! Cadvan has joined.
+[19:00:10] <DrMcCoy> Cadvan: Irgendwelche Neuigkeiten?
+[19:00:50] ! arneb has quit. (Quit: leaving)
+[19:01:09] ! lurtz has quit. (Quit: Leaving.)
+[19:01:45] <DrMcCoy> :(
+[19:02:09] <DrMcCoy> Das ist doch Scheisse :(
+[19:03:01] <DrMcCoy> Das sind jetz 36 Stunden
+[19:03:14] <Cadvan> ja
+[19:03:20] <Cadvan> ich schreibe denen auch noch mal gleich
+[19:08:30] ! nubix has quit. (Quit: Leaving.)
+[19:11:06] ! nubix has joined.
+[19:27:28] ! rohieb has joined.
+[19:31:47] ! bgalias has joined.
+[19:32:20] <Silberwoelfin> rohieb: \o/
+[19:32:28] ! nubix has quit. (Quit: Leaving.)
+[19:33:39] ! elorie has quit. (Quit: Leaving.)
+[19:39:41] <rohieb> lolo
+[19:41:45] <jh> lolo?
+[19:43:24] <rohieb> +ha
+[19:43:41] <jh> Willkommen in ##cs-studs, rohieb!
+[19:47:15] <rohieb> 'lolo
+[19:53:38] <Silberwoelfin> bäh, skyrim ist ja games for windows -.-
+[19:56:57] ! Cascharity has quit. (Quit: Verlassend)
+[19:59:38] ! Ignifazius has joined.
+[20:08:44] <DrMcCoy> :(
+[20:08:55] <Cadvan> DrMcCoy: ich bekomm jetzt erst einmal einen zweiten V-Server, wo ich ein System-Backup wiederherstellen kann ...
+[20:09:14] <DrMcCoy> hmmkay
+[20:09:26] <DrMcCoy> :/
+[20:09:26] <Cadvan> ich hab gerade nicht mehr im Kopf, was ich darin gesichert hab ...
+[20:09:42] <Cadvan> so oder so bekomm ich aber auch das reparierte FS so gut es geht ...
+[20:10:05] <DrMcCoy> jo :(
+[20:10:25] ! Sonea has joined.
+[20:12:08] <Silberwoelfin> Sonea: \o/
+[20:12:11] <Cadvan> DrMcCoy: hm, ok, laut dem Backup-Script waren /home und die Websites in dem Tarball nicht mit drin :/
+[20:12:23] <jh> DrMcCoy: gut dass ich noch kein char in dem wiki angelegt hab^^
+[20:12:24] <DrMcCoy> :(
+[20:18:57] <Sonea> Silberwoelfin: \o/
+[20:19:08] <Sonea> lalalalalaaaaa
+[20:22:51] <Silberwoelfin> Sonea: was würdest du davon halten, in der fachgruppe einen frauenabend einzuführen? so einmal im monat alle informatikerinnen einladen und ein-zwei stunden einen männer-freien fg-raum haben?^
+[20:23:07] <Sonea> :D
+[20:23:16] <Sonea> hihi, fände ich mal witzig
+[20:23:21] <Sonea> nerven die dich?
+[20:23:44] <Sonea> also wäre zumindest mal ganz gut um evtl. auch mal mit zu kriegen wie die anderen frauen so klar kommen/drauf sind etc.
+[20:24:28] <Sonea> meike hatte ja z.b. mal berichtet, dass frauen bei manchen profs nachteile hatten
+[20:24:47] <Sonea> aber das klingt dann so wie dieser frauen treff von den lesbischen emanzen :D :P
+[20:24:57] <Sonea> so wie dieses frauen kaffee
+[20:25:03] <Sonea> äh café ^^
+[20:25:50] <Silberwoelfin> das kenn ich nicht
+[20:26:11] <rohieb> hm, wieviele frauen gibts denn überhaupt so?
+[20:26:20] <rohieb> in den ersti-jahrgängen sind die ja exorbitant hoch ^^
+[20:30:17] <jh> ohoh, und in 5 jahren übernehmen die frauen die informatik
+[20:30:25] <Sonea> ja genau
+[20:30:34] <jh> und verdrängen die männer in studiengänge wie pharmazie
+[20:30:40] <Sonea> rohieb: hmm naja so 30 mind. ;)
+[20:30:49] <Sonea> rohieb: aber so ingesamt halt
+[20:30:56] <jh> echt? O_o
+[20:31:00] <Sonea> hmm vllt war das auch etwas hoch gegriffen
+[20:31:05] <jh> ich kenn... 5?
+[20:31:29] <rohieb> ich kenn 3
+[20:31:33] <jh> Silberwoelfin, Sonea, steffi, steffi, phia, lydia_,
+[20:31:40] <rohieb> zwei steffis?
+[20:31:43] <jh> ja
+[20:31:50] <rohieb> oh, ich kenn noch eine franzzi
+[20:31:52] <rohieb> also 5
+[20:32:00] <jh> ah, elorie^^
+[20:32:03] <rohieb> 7 ok
+[20:32:10] <rohieb> und meike zählt nicht... ^^
+[20:32:13] <jh> anna-lena
+[20:32:16] <jh> meike ist ja ist
+[20:32:18] <rohieb> wer ist annalena?
+[20:32:19] <jh> meike ist ja IST
+[20:32:20] <Sonea> jh: ich kenne pauline, Silberwoelfin, mich, melli, emmy, elorie, steffi, phia, chrissi, franzi, nina, die drei, die jetzt im dritten sind
+[20:32:20] <rohieb> ach die
+[20:32:31] <jh> emmy ist informatik?
+[20:32:31] <Silberwoelfin> ich kenne noch eine sandra, anja, vanessa, pauline und ari
+[20:32:31] <Sonea> ah annalena
+[20:32:36] <Sonea> jh: ja unter anderem
+[20:32:39] <jh> achja, sandra und anja
+[20:32:46] <jh> sind die echte informatik oder mischwesen?
+[20:32:49] <Sonea> genau sandra meinte ich
+[20:32:50] <rohieb> also wenn wir jetzt anfangen, alle leute aufzuzählen, die wir kennen, leave ich aber :P
+[20:32:54] <Silberwoelfin> die sind echte informatiker
+[20:32:55] <rohieb> s/wir/ihr/
+[20:33:06] <Sonea> aso und ähm da war noch eine andere in meiner übung.....
+[20:33:16] <Sonea> ah ja stimmt das ist ja anja
+[20:33:17] <Sonea> :D
+[20:33:19] <jh> rohieb: ich kenne dich
+[20:33:31] <Sonea> rohieb: aber vanessa kennst du doch auch, oder?
+[20:33:37] <Sonea> die war mal in unserem jahrgang
+[20:33:40] <rohieb> Sonea: wer ist das
+[20:33:40] <Sonea> und dann aber lange krank
+[20:33:40] <jh> wer ist vanessa?
+[20:33:54] <Silberwoelfin> Sonea: dann gibts zwei vanessa
+[20:33:57] <rohieb> Sonea: dein jahrgan != mein jahrgang
+[20:33:58] <jh> und wer sind melli und nina?
+[20:33:59] <Sonea> also ich kenne eine vanessa, die ähm wie war ihr spitzname?
+[20:34:00] <Sonea> hmm
+[20:34:07] <jh> und pauline
+[20:34:10] <rohieb> Sonea: insbesondere, dein jahrgang != unser jahrgang
+[20:34:11] <jh> Sonea kennt zuviele menschen
+[20:34:19] <rohieb> pauline kenn ich immer noch nich
+[20:34:25] <Sonea> so ne kleine mit großen augen und roten haaren
+[20:34:28] <Sonea> schwarze klamotten
+[20:34:30] ! Phia has joined.
+[20:34:31] <Sonea> etwas rundlicher
+[20:34:34] <rohieb> Sonea: meinst du elorie?^^
+[20:34:39] <Sonea> hing viel mit jerg und so rum
+[20:34:41] <rohieb> ok, rundlicher nicht
+[20:34:44] <Sonea> :D
+[20:34:45] <jh> elorie ist wenig rundlich^^
+[20:34:52] <jh> ah, dings gibts auch noch
+[20:34:55] <Sonea> melli und nina sind hiwis in der algorithmik
+[20:34:58] <Sonea> pauline auch
+[20:35:00] <jh> die müsste auch in eurem jahrgang sein
+[20:35:01] <Sonea> aber für lehre
+[20:35:03] <jh> aber name vergessen
+[20:35:07] <Sonea> und die anderen sind im wsn kram
+[20:35:27] <Sonea> und pauline sieht lena meier landruth ähnlich, oder wie man die schreibt
+[20:35:33] <Sonea> also die erinnert mich immer an sie
+[20:35:36] <jh> O_o
+[20:35:46] <Sonea> ist glaub ich auch im 3. semester
+[20:35:53] <jh> pics?
+[20:36:09] <Silberwoelfin> Sonea: pauline ist in meinem semester
+[20:36:09] <Sonea> aso und dann gibts noch die blonde mit dem lippen piercing
+[20:36:18] <Sonea> die mit löffler zusammen ist
+[20:36:21] <Sonea> Silberwoelfin: aso ok
+[20:36:27] <Sonea> stimmt hat ja schon seminar gemacht...
+[20:36:30] <jh> wer ist löffler?^^
+[20:36:36] ! bgalias has quit.
+[20:36:43] <Silberwoelfin> jh: du brauchst keine pics... :-(
+[20:37:00] <jh> Silberwoelfin: ich will sehen was Sonea mit "sieht lena meier landruth ähnlich" meint
+[20:37:05] <rohieb> jh: der eine dikrmathehiwi
+[20:37:07] <rohieb> +s
+[20:37:28] <jh> rohieb: mein "dikrmathehiwi" war ne frau und mehr kenn ich nicht
+[20:37:42] <rohieb> <Sonea> und pauline sieht lena meier landruth ähnlich, oder wie man die schreibt <-- hört sich an, als ob ich die unglaublich gern kennen lernen will
+[20:37:48] <rohieb> jh: k.
+[20:37:52] <jh> rohieb: :D
+[20:38:02] <rohieb> jh: es gibt irgendwie überabzählbar viele informatiker, die kann man nicht alle kennen ^^
+[20:38:20] <jh> ich stelle mal die behauptung auf dass die abzählbar sind
+[20:38:27] <jh> beweis: sie passen offenbar alle in Soneas kopf
+[20:38:38] <jh> und Soneas kopf hat endliches volumen
+[20:38:45] <rohieb> Silberwoelfin: kennst du debi?
+[20:38:47] <rohieb> äh
+[20:38:50] <rohieb> Sonea: kennst du debi?
+[20:38:58] <rohieb> *gegenbeispiel such*
+[20:39:00] <jh> niemand kennt debi :D
+[20:39:03] <rohieb> :D
+[20:39:04] <jh> das ist unfair!
+[20:39:15] <rohieb> doch, irgendwer hier kannte ihn doch letztens
+[20:39:36] <Sonea> jh: philipp, der ist auch immer auf den spieleabend, sieht oft relativ bekifft aus :D
+[20:40:01] <rohieb> der war übrigens in meinem abijahrgang
+[20:40:08] <Sonea> rohieb: hmm vllt nicht unter dem namen
+[20:40:38] <Sonea> rohieb: also ich finde sie sieht schon ziemlich gut aus, hab mich auch gewundert, dass sie keine winfo ist
+[20:40:43] <rohieb> Sonea: langjähriger theoinf-hiwi
+[20:40:51] <rohieb> hat anscheinend so nen bart mit vier zöpfen
+[20:40:56] <rohieb> Sonea: :D
+[20:41:04] <Sonea> aber nicht der dicke alte
+[20:41:05] <Sonea> oder?
+[20:41:13] <rohieb> !quote add <Sonea> also ich finde sie sieht schon ziemlich gut aus, hab mich auch gewundert, dass sie keine winfo ist
+[20:41:13] <ZombiePoet> rohieb: Ok.  Quote #23 added.
+[20:41:22] <rohieb> Sonea: kann ich nicht sagen, keiner hier kennt ihn :D
+[20:41:23] <Sonea> oh man -.-
+[20:41:25] <rohieb> oh nein, 23!
+[20:41:36] <jh> Sonea: du hast dich damit grad son bisschen selbst geflamed, ne?
+[20:41:48] <Sonea> jh: ich meinte das eigentlich anders
+[20:41:53] <jh> und andere anwesende
+[20:41:59] <jh> Sonea: jaja, jetzt rausreden :P
+[20:42:04] <Sonea> ich meinte: sie sieht gut aus. und sie sieht etwas winfomäßig aus
+[20:42:22] <Sonea> ich finde man kann auch gut aussehen und info sein, aber es gibt eine bestimmt winfoaussehart
+[20:42:33] <Sonea> ach manno
+[20:43:00] <Silberwoelfin> Sonea: da kommst du nicht mehr raus^^
+[20:43:00] <rohieb> :D
+[20:43:08] <Sonea> das war nicht gemeint, dass sie gut aussieht => kann keine info sein
+[20:43:12] <rohieb> wird nicht besser, Sonea ^^
+[20:43:19] <Sonea> :(
+[20:43:27] <jh> Sonea: genau, gibs auf und such bilder :P
+[20:43:28] <Sonea> na toll
+[20:43:37] <Sonea> jh: hab ich grad schon verssucht
+[20:43:44] <Sonea> aber keins gefunden auf die schnelle
+[20:47:48] <rohieb> Sonea: oh, ich kenn eine vanessa stein, meinst du die?
+[20:47:58] <rohieb> die war in meiner vorkursgruppe
+[20:48:08] <Sonea> hmm nee ich glaub die hieß anders mit nachnamen
+[20:48:24] <rohieb> und fand es schöner, wenn die javaprogramme so eigene fenster haben und bunt und so, statt einfach so auf der konsole aufzugeben :D
+[20:48:31] <rohieb> (war blond. was nix heißen muss.)
+[20:56:55] <Phia> !nick-o-meter Phia
+[20:56:55] <ZombiePoet> Phia: The "lame nick-o-meter" reading for "Phia" is 0.0%.
+[20:57:47] ! PirateKing is now known as xh4x0rx
+[20:57:52] <xh4x0rx> nick xh4x0rx
+[20:58:03] <xh4x0rx> !nick xh4x0rx
+[20:58:03] <ZombiePoet> xh4x0rx: Error: You don't have the admin capability. If you think that you should have this capability, be sure that you are identified before trying again. The 'whoami' command can tell you if you're identified.
+[20:58:23] <xh4x0rx> !nick-o-meter xh4x0rx
+[20:58:23] <ZombiePoet> xh4x0rx: The "lame nick-o-meter" reading for "xh4x0rx" is 99.2%.
+[20:58:27] <xh4x0rx> :D
+[20:58:41] ! xh4x0rx is now known as PirateKing
+[20:58:50] <Phia> !nick-o-meter xkcd
+[20:58:50] <ZombiePoet> Phia: The "lame nick-o-meter" reading for "xkcd" is 0.0%.
+[20:59:05] <PirateKing> ein x reicht einfach nicht
+[21:02:16] <Silberwoelfin> !nick-o-meter Silberwoelfin
+[21:02:16] <ZombiePoet> Silberwoelfin: The "lame nick-o-meter" reading for "Silberwoelfin" is 0.0%.
+[21:02:21] ! Bowdzone has quit. (Read error: Connection reset by peer)
+[21:04:21] ! elorie has joined.
+[21:11:56] <rohieb> !nickometer elorie
+[21:11:56] <ZombiePoet> rohieb: The "lame nick-o-meter" reading for "elorie" is 0.0%.
+[21:13:24] <elorie> -.-
+[21:14:37] <DrMcCoy> Alle sind weniger lame als ich
+[21:15:39] <Phia> !nickometer PirateKing
+[21:15:39] <ZombiePoet> Phia: The "lame nick-o-meter" reading for "PirateKing" is 0.0%.
+[21:16:33] <DrMcCoy> !nickometer DocMcCoy
+[21:16:34] <ZombiePoet> DrMcCoy: The "lame nick-o-meter" reading for "DocMcCoy" is 17.6%.
+[21:16:42] <DrMcCoy> !nickometer DrMcCoy
+[21:16:42] <ZombiePoet> DrMcCoy: The "lame nick-o-meter" reading for "DrMcCoy" is 17.6%.
+[21:16:46] <jh> DrMcCoy: alle rennen weniger mit baumstämmen in gebäude als du
+[21:16:58] <DrMcCoy> hmpf
+[21:17:02] <jh> :P
+[21:17:52] <DrMcCoy> Ich brauchte doch den Stein!!!11
+[21:19:00] <jh> :D
+[21:19:50] <DrMcCoy> Sonst waer die Insel untergangen!!111
+[21:20:03] <DrMcCoy> INS WASSER!
+[21:21:59] <jh> kleine ecke vom stein hätte übrigens auch gereicht^^
+[21:22:26] <elorie> aber der stein
+[21:22:28] <elorie> ...
+[21:22:29] <elorie> :p
+[21:22:57] <DrMcCoy> jh: Pfft
+[21:23:10] <DrMcCoy> jh: Wenn, dann richtig
+[21:24:51] <Silberwoelfin> lol?
+[21:25:10] * Silberwoelfin will auch mal wieder spielen...
+[21:26:51] <rohieb> stein? baumstamm? insel?
+[21:27:11] <Silberwoelfin> dsa
+[21:27:20] <rohieb> oh tbbt
+[21:27:24] <rohieb> noch nicht
+[21:27:48] <DrMcCoy> Kein TBBT heute
+[21:27:57] <DrMcCoy> Truhthahn-Tag
+[21:28:17] <DrMcCoy> -h
+[21:30:26] <rohieb> ach manno
+[21:30:27] <Cadvan> DrMcCoy: ich stelle gerade das System auf dem neuen V-Server her...
+[21:30:54] <DrMcCoy> Cadvan: danke :)
+[21:31:24] <Cadvan> naja, das Problem bleibt, dass damit die User-Daten noch nicht wiederhergestellt sind...
+[21:31:33] <DrMcCoy> Ja
+[21:31:36] <DrMcCoy> Ne
+[21:31:36] <DrMcCoy> :(
+[21:32:09] <DrMcCoy> Doof :(
+[21:32:15] <Cadvan> deine Datenbanken sollten aber noch in der Sicherung sein ...
+[21:32:28] <Cadvan> weil die ja in /var oder so liegen ...
+[21:33:03] <Cadvan> ah, und Dumps hab ich davon auch noch ...
+[21:33:53] <DrMcCoy> Cadvan: Wird das dann das permantente System, und das Recover-Zeugs wird manuell rüberkopiert?
+[21:35:14] <Cadvan> so hab ich das jetzt vor, ja
+[21:35:17] <DrMcCoy> Oky
+[21:35:25] <Cadvan> DNS update ich gerade schon nebenbei ...
+[21:35:55] <DrMcCoy> Hmm, liegen bei WordPress die Bilder in der Datenbank oder im Dateisystem?
+[21:36:07] <Cadvan> und aus dem Recovery brauch ich dann sowieso nur noch evtl. Daten, die da noch aktueller sind, weil das Backup von 4 Uhr morgens war (was nicht so viel relevantes sein sollte), und die User-Daten
+[21:36:12] <Cadvan> im Dateisystem :\
+[21:36:12] ! Ignifazius_ has joined.
+[21:36:16] <DrMcCoy> Doof :(
+[21:36:22] <Cadvan> ja :/
+[21:37:52] ! ES has joined.
+[21:38:07] <DrMcCoy> Wie ist denn das, kann ich im Prinzip ein neues WordPress da aufsetzen, die gleiche Datenbank nehmen und dann einfach manuell die Bilder rüberkopieren? Funktioniert das, oder macht der was kaputt, wenn zwischenzeitlich die Bilder fehlen?
+[21:38:35] <elorie> in nem xml export von wp waären sogar die bilde drin, wenn du davon eins hast
+[21:38:45] <DrMcCoy> elorie: Hab ich nicht
+[21:38:49] <elorie> :/
+[21:39:38] <Cadvan> DrMcCoy: sollte er nichts kaputt machen ...
+[21:40:20] <DrMcCoy> Hmmkay
+[21:40:23] <Cadvan> und das sollte gehen ...
+[21:43:23] ! Sonea has quit. (Quit: Leaving.)
+[21:46:41] ! Sonea has joined.
+[22:20:32] ! Phia has quit. (Quit: Leaving.)
+[22:21:10] ! nubix has joined.
+[22:34:53] <Silberwoelfin> gute nacht
+[22:35:19] ! Silberwoelfin has quit. (Quit: Verlassend)
+[22:35:23] <jh> rohieb: lös mal http://www.geocaching.com/seek/cache_details.aspx?wp=GC3857C !
+[22:35:24] <ZombiePoet> Title: GC3857C bersichtlich?! (Unknown Cache) in Niedersachsen, Germany created by Aerowinx (at www.geocaching.com)
+[22:35:44] <rohieb> jh: da fehlt ein sudo
+[22:35:54] <jh> rohieb: sudo !
+[22:36:13] <rohieb> wennschon sudo !!
+[22:36:53] <jh> oh, gc.com hat endlich ein feature um mysterykoordinaten einzutragen \o/
+[22:38:21] ! elorie has quit. (Quit: Leaving.)
+[22:42:59] <jh> lol, die haben ihr feedback-system wieder abgeschaltet... weil es zuviel feedback gab :D
+[22:43:00] ! Ignifazius has quit. (Quit: *Vanish*)
+[22:44:38] ! Sonea has quit. (Quit: Leaving.)
+[22:46:32] <Cadvan> das gibt's doch jetzt nicht! O_O
+[22:46:48] <Cadvan> gerade ist der neue Server am Hochfahren vom Backup, da kommt der alte wieder online? O_O
+[22:46:59] ! Cascharity has joined.
+[22:47:05] <DrMcCoy> lolo
+[22:48:16] <DrMcCoy> Cadvan: Der mag mein ssh aber nicht (publickey)
+[22:48:28] <DrMcCoy> I.e. mein home ist zumindestens Teilweise kaputt
+[22:49:41] <Cadvan> DrMcCoy: das DNS zeigt wahrscheinlich schon auf den neuen
+[22:49:47] <Cadvan> und da gibt's dein Home (noch) nicht, ja
+[22:50:57] <DrMcCoy> DNS umbiegen dauert doch normalerweise
+[22:51:12] <DrMcCoy> ping sagt 84.200.12.215, das war IIRC der alte
+[22:51:36] <Cadvan> hm, ok
+[22:51:38] <Cadvan> ja, war es
+[22:51:50] <DrMcCoy> Guck mal, was da komisch ist :P
+[22:52:03] <Cadvan> fuck
+[22:52:10] <Cadvan> das ist nicht der alte ...
+[22:52:10] <DrMcCoy> :(
+[22:52:13] <DrMcCoy> Aha
+[22:52:18] <Cadvan> das ist auch der neue
+[22:52:23] <DrMcCoy> Okay o_O
+[22:52:40] <DrMcCoy> Klasse
+[22:53:09] <DrMcCoy> Gut, dann kannst du DNS wieder zurückbiegen?
+[22:53:15] <jh> gn8
+[22:53:15] <Cadvan> nein
+[22:53:23] <Cadvan> ich hab ja die neue IP zugeteilt bekommen
+[22:53:26] <DrMcCoy> Achso
+[22:53:38] <Cadvan> wenn der alte V-Server wieder abgeschaltet wird, irgendwann nach dem Recovery geht die IP mit weg
+[22:53:54] <DrMcCoy> Okay
+[22:53:56] <Cadvan> das funktioniert nur, weil die im gleichen Subnetz wohl sind und gleich geroutet werden ...
+[22:54:49] <Cadvan> hm, ok, sie sind zumindesnt nicht per se im gleichen subnetz
+[22:54:57] <Cadvan> aber vielleicht werden die beiden Subnetze gleich geroutet ...
+[22:54:59] <Cadvan> egal
+[22:55:31] ! jh has quit. (Quit: jh)
+[23:00:08] ! Wechner has joined.
+[23:00:08] ! Wechner has quit. (Changing host)
+[23:00:08] ! Wechner has joined.
+[23:00:25] <Cadvan> hm, ok, also das funktioniert noch ...
+[23:06:59] <Cadvan> hm, bitlbee geht nicht mehr :(
+[23:08:52] <DrMcCoy> :(
+[23:10:38] ! der_eq has quit. (Remote host closed the connection)
+[23:10:42] ! Ignifazius has joined.
+[23:13:21] <Cadvan> ah ,toll, man kann die Account-Files also nicht im laufenden Prozess sichern, na klar :/
+[23:13:45] ! Ignifazius_ has quit. (Quit: *Vanish*)
+[23:14:04] ! Ignifazius_ has joined.
+[23:14:22] ! Ignifazius_ has quit. (Client Quit)
+[23:14:42] ! Ignifazius has quit. (Client Quit)
+[23:15:02] <Cadvan> hm, ok ...
+[23:15:09] <Cadvan> der bekommt ein stranges permission denied ...
+[23:15:11] <Cadvan> doof
+[23:19:29] <Cadvan> ok, scheint zu gehen ...
+[23:27:32] ! Sonea has joined.
+[23:28:50] ! Cascharity has quit. (Quit: Verlassend)
+[23:41:29] ! PirateKing has quit. (Quit: Leaving.)
+[23:49:20] <Wechner> und mindestens die Spammer haben den Mailserver auch schon wieder gefunden ..
+[23:50:12] ! ES has quit. (Ping timeout: 244 seconds)
+[23:54:17] ! ES has joined.
+[23:57:01] ! Cadvan has quit. (Quit: Leaving)
+[23:59:57] ! Phia has joined.

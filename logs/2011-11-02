@@ -1,0 +1,535 @@
+[00:01:51] ! blaine has joined.
+[00:12:11] <blaine> Gentlemen, I have recently dropped acid.
+[00:41:21] ! elorie has joined.
+[00:47:46] ! nubix has quit. (Read error: Connection reset by peer)
+[00:47:50] ! nubix1 has joined.
+[00:56:50] ! jh has joined.
+[00:58:53] <jh> re
+[01:12:37] ! Debi has quit. (Quit: Verlassend)
+[01:14:19] <jh> gn8
+[01:14:22] ! jh has quit. (Quit: jh)
+[01:24:32] ! lurtz has quit. (Quit: Leaving.)
+[01:27:00] ! nubix1 has quit. (Quit: Leaving.)
+[01:54:45] ! conqueror121 has quit. (Read error: Connection reset by peer)
+[01:59:22] ! ES has quit. (Quit: The cake is a lie!)
+[02:08:43] ! elorie has quit. (Quit: Leaving.)
+[02:26:42] ! Bowdzone has quit. (Read error: Connection reset by peer)
+[03:06:36] ! tsuro has quit. (Ping timeout: 258 seconds)
+[03:09:26] ! tsuro has joined.
+[03:09:27] ! tsuro has quit. (Changing host)
+[03:09:27] ! tsuro has joined.
+[06:19:09] ! ZombiePoet has quit. (Ping timeout: 260 seconds)
+[06:19:09] ! DrMcCoy has quit. (Ping timeout: 260 seconds)
+[06:19:25] ! DrMcCoy has joined.
+[06:19:58] ! ZombiePoet has joined.
+[08:10:39] ! Cascharity has joined.
+[08:12:26] ! Mobiwoelfin has joined.
+[08:12:32] <Mobiwoelfin> moin
+[08:32:04] ! elorie has joined.
+[08:35:30] ! jh has joined.
+[08:36:05] <jh> hi
+[08:37:39] ! Phia has joined.
+[08:52:24] ! Mobiwoelfin has quit. (Ping timeout: 240 seconds)
+[08:54:15] ! Mobiwoelfin has joined.
+[08:58:13] ! nubix has joined.
+[08:58:23] ! nubix has quit. (Client Quit)
+[09:04:31] ! bgalias has joined.
+[09:13:39] ! Silberwoelfin has joined.
+[09:16:53] ! Cascharity has quit. (Read error: Connection reset by peer)
+[09:18:24] ! Mobiwoelfin has quit. (Ping timeout: 240 seconds)
+[09:19:02] ! elorie has quit. (Quit: Leaving.)
+[09:39:49] ! Silberwoelfin has quit. (Quit: Verlassend)
+[09:52:27] ! nubix has joined.
+[09:56:57] ! Bowdzone has joined.
+[09:57:43] ! PirateKing has joined.
+[09:59:48] ! Tigaa_laptop has joined.
+[10:07:58] ! lurtz has joined.
+[10:18:16] ! elorie has joined.
+[10:18:26] ! Mobiwoelfin has joined.
+[10:24:36] <nubix> !ping
+[10:24:36] <ZombiePoet> pong
+[10:27:26] <jh> !pong
+[10:28:31] ! nubix has left the channel.
+[10:55:57] ! elorie has quit. (Quit: Leaving.)
+[11:06:00] ! Mobiwoelfin has quit. (Ping timeout: 240 seconds)
+[11:06:56] ! Mobiwoelfin has joined.
+[11:12:27] ! conqueror12 has joined.
+[11:14:13] ! ES has joined.
+[11:16:50] <ES> !mensa
+[11:16:50] <ZombiePoet> Mensa Katharinenstraße am Mittwoch:
+[11:16:51] <ZombiePoet> A: Terrine Chinasuppe mit Glasnudeln 1,40€
+[11:16:52] <ZombiePoet> B: Chili con Carne AT 1,50€
+[11:16:53] <ZombiePoet> C: Putenroulade 1,90€
+[11:16:54] <ZombiePoet> V: Große Frühlingsrolle mit Reis 1,90€
+[11:16:55] <ZombiePoet> W: Rinderhüftsteak mit Kräuterbutter dazu Pommes frites 3,60€
+[11:21:30] ! Silberwoelfin has joined.
+[11:21:39] <Silberwoelfin> hi
+[11:23:12] ! Mobiwoelfin has quit. (Ping timeout: 240 seconds)
+[11:23:52] ! nubix has joined.
+[11:25:01] ! elorie has joined.
+[11:26:03] <Silberwoelfin> !nom
+[11:26:03] <ZombiePoet> Mensa Katharinenstraße am Mittwoch:
+[11:26:04] <ZombiePoet> A: Terrine Chinasuppe mit Glasnudeln 1,40€
+[11:26:05] <ZombiePoet> B: Chili con Carne AT 1,50€
+[11:26:06] <ZombiePoet> C: Putenroulade 1,90€
+[11:26:07] <ZombiePoet> V: Große Frühlingsrolle mit Reis 1,90€
+[11:26:08] <ZombiePoet> W: Rinderhüftsteak mit Kräuterbutter dazu Pommes frites 3,60€
+[11:28:22] ! Bowdzone has quit. (*.net *.split)
+[11:28:25] ! ES has quit. (*.net *.split)
+[11:28:30] ! _Rick_ has quit. (*.net *.split)
+[11:28:34] ! Droggl has quit. (*.net *.split)
+[11:28:38] ! Nimos has quit. (*.net *.split)
+[11:28:41] ! Wechner has quit. (*.net *.split)
+[11:28:42] ! Valodim has quit. (*.net *.split)
+[11:28:47] <jh> byebye ihr 7
+[11:32:38] ! _Rick_ has joined.
+[11:32:38] ! Droggl has joined.
+[11:32:38] ! Nimos has joined.
+[11:33:12] ! Bowdzone has joined.
+[11:37:30] ! Wechner has joined.
+[11:37:50] ! Valodim has joined.
+[11:39:54] ! ES has joined.
+[11:41:57] <Phia> Valodim: Umfrage für alle DSA-Spieler von den Helden.jar Entwicklern http://blog.helden-software.de/umfrage/index.php?sid=81631%20
+[11:41:58] <ZombiePoet> Title: Helden Generierung :: (at blog.helden-software.de)
+[11:42:21] <Phia> PirateKing: hast du den Link schon an die Göttinger verteilt?
+[11:42:45] <PirateKing> Phia: nein
+[11:43:51] <Phia> PirateKing: hm, sind auch gerade keine online
+[11:44:04] <Phia> ich schick mal ne mail rum
+[11:44:05] <PirateKing> ok...
+[11:44:27] <ES> jh: heute mensa irgendwann?
+[11:44:58] <jh> ES: mh, unentschlossen... so richtig gibts nix und voll
+[11:49:18] ! rohieb has joined.
+[11:49:49] ! nubix has quit. (Quit: Leaving.)
+[11:50:07] ! nubix has joined.
+[11:50:35] <rohieb> jh: das hatte ich auch gedacht... also du bist nicht so für mensa zu haben?
+[11:51:10] <jh> rohieb: was hattest du auch gedacht?
+[11:53:25] <rohieb> jh: dass du total auf den mensasalat abfährst
+[11:53:41] <jh> rohieb: naja, W ist ok
+[11:53:47] <rohieb> !nom
+[11:53:47] <ZombiePoet> Mensa Katharinenstraße am Mittwoch:
+[11:53:49] <ZombiePoet> A: Terrine Chinasuppe mit Glasnudeln 1,40€
+[11:53:50] <ZombiePoet> B: Chili con Carne AT 1,50€
+[11:53:51] <ZombiePoet> C: Putenroulade 1,90€
+[11:53:52] <ZombiePoet> V: Große Frühlingsrolle mit Reis 1,90€
+[11:53:53] <ZombiePoet> W: Rinderhüftsteak mit Kräuterbutter dazu Pommes frites 3,60€
+[11:53:55] <rohieb> hm.
+[11:53:58] <jh> aber das Silberwoelfchen will glaub ich nicht so richtig in die mensa... oder?
+[11:54:07] <rohieb> vielleicht weil kräuterbutter
+[11:54:43] <Silberwoelfin> gibt schon wieder pommes -.-
+[11:55:04] <rohieb> nicht nur
+[11:55:07] <Silberwoelfin> putenroulade ist eklig, da ist spinat drin und der kartoffelbrei schmeckt nicht
+[11:58:56] <jh> rohieb, Silberwoelfin: mal n autonachtcache?^^ http://www.geocaching.com/seek/cache_details.aspx?wp=GC2V3TZ
+[11:58:58] <ZombiePoet> Title: GC2V3TZ manituela goes 5000 - Drive NC (Multi-cache) in Niedersachsen, Germany created by Elmzwerg (at www.geocaching.com)
+[11:59:12] <Silberwoelfin> jh: ja
+[11:59:38] <jh> bzw. gibts noch gute nachtcaches in braunschweig + \eps?
+[12:00:48] <rohieb> meh
+[12:00:49] <rohieb> kalt
+[12:01:52] <jh> !weather braunschweig
+[12:01:57] <jh> nope?
+[12:02:40] ! Wechner has quit. (Changing host)
+[12:02:40] ! Wechner has joined.
+[12:03:05] ! nubix is now known as Guest61213
+[12:03:05] ! rohieb is now known as Guest2574
+[12:03:10] <Guest2574> O_o
+[12:03:12] <Guest2574> wtf?
+[12:04:42] ! Wechner has changed the topic: Kneipentour der Fachgruppe Informatik am Do, 03.11., ab 20 Uhr, Mensa 1 Haupteingang || Informatik, Informatik- und IST-Studium an der TU-BS, Braunschweig, ...
+[12:05:06] ! Guest2574 is now known as rohieb
+[12:05:12] <rohieb> komischer nickserv.
+[12:07:36] <rohieb> nickserv laggt
+[12:08:26] <jh> rohieb: lieber http://www.geocaching.com/seek/cache_details.aspx?wp=GC145A8 ?
+[12:08:28] <ZombiePoet> Title: Geocaching > Hide and Seek a Geocache > Premium Member Only Cache (at www.geocaching.com)
+[12:08:39] <rohieb> jh hauch kalt
+[12:08:50] <rohieb> und Dies ist ein Nachtcache für Geocacher mit Zeit, also nichts für zwischendurch.
+[12:08:52] ! ES has quit. (Quit: The cake is a lie!)
+[12:08:52] <Silberwoelfin> jh: wir können auch einen nachtcache machen, den du schon hast :P
+[12:08:53] ! Moenni_Mo has joined.
+[12:09:03] <jh> Silberwoelfin: nö :P
+[12:09:44] <jh> Phia, PirateKing: habt ihr nachtcache-interesse oder ist euch auch zu kalt?
+[12:09:59] <Silberwoelfin> rohieb: hast irgendeinen (nacht-)cache noch nicht gemacht, den jh schon gemacht hat und willst den mit mir zusammen machen?
+[12:10:18] <Silberwoelfin> sonst hol ich ja niemals auf...
+[12:10:27] <rohieb> Silberwoelfin: nachtcaches sind doch so kalt!
+[12:10:36] <Silberwoelfin> rohieb: musst du dir mehr anziehen :P
+[12:10:49] ! Guest61213 has quit. (Quit: Leaving.)
+[12:10:54] <rohieb> aber das ändert nicht die temperatur draußen
+[12:11:04] <Silberwoelfin> aber dann ist dir nicht mehr so kalt
+[12:11:10] <rohieb> das denkst du ^^
+[12:11:17] <Silberwoelfin> die temperatur draußen wird noch ne weile weiter fallen
+[12:12:43] <rohieb> ich weiß :(
+[12:14:15] <elorie> rohieb: wieso jammerst du ueber kaelte? o.O
+[12:14:16] <ZombiePoet> elorie: Sent 17 hours and 39 minutes ago: <jh-mobil> u failed.
+[12:14:29] <rohieb> elorie: weil kälte doof ist
+[12:14:42] <elorie> jh: o.O warum?
+[12:14:54] <jh> elorie: rechne mal die zeit um
+[12:15:01] <rohieb> Silberwoelfin: es geht doch nicht um die anzahl
+[12:15:09] <rohieb> Silberwoelfin: es geht ums spaß haben :p
+[12:15:12] <elorie> jh: aaaah ^^
+[12:15:16] <jh> rohieb: seit wann bist du so ne temperaturmemme? wir waren doch sonst auch bei $kalt cachen
+[12:15:42] <rohieb> jh: das ist ausrede für "ich finde cachen in letzter zeit nicht mehr so interessant"
+[12:15:55] <rohieb> jh: also nicht mensa/cafeteria?
+[12:16:04] <Silberwoelfin> rohieb: :(
+[12:16:07] <jh> rohieb: ok, dann wäre es einfacher das zu sagen, dann brauch ich dich nämlich nicht andauernd fragen
+[12:16:18] <rohieb> ok
+[12:16:20] ! nubix has joined.
+[12:16:30] <Silberwoelfin> bye
+[12:16:33] ! Silberwoelfin has quit. (Quit: Verlassend)
+[12:17:07] ! nubix has quit. (Changing host)
+[12:17:07] ! nubix has joined.
+[12:17:29] <jh> rohieb: nein, nicht mensa/cafeteria
+[12:18:30] <rohieb> jh: vielleicht im frühling/sommer wieder
+[12:19:26] ! nubix has quit. (Client Quit)
+[12:27:01] ! Moenni_Mo has quit. (Quit: Leaving.)
+[12:42:28] ! Cascharity has joined.
+[12:48:10] ! bgalias has quit.
+[12:59:59] ! elorie has quit. (Quit: Leaving.)
+[13:00:04] ! Ignifazius has joined.
+[13:04:39] ! rohieb has quit. (Quit: ...yo ho ho, and a bottle of rum!)
+[13:05:20] ! nubix has joined.
+[13:17:46] <nubix> jemand um 13:30 mensen?
+[13:37:34] ! ES has joined.
+[13:39:44] ! elorie has joined.
+[13:40:01] ! Phia1 has joined.
+[13:41:41] ! Phia has quit. (Ping timeout: 240 seconds)
+[13:42:40] ! elorie has quit. (Client Quit)
+[13:56:09] ! Tigaa_laptop has quit. (Ping timeout: 256 seconds)
+[14:00:22] ! Tigaa_laptop has joined.
+[14:08:32] <jh> nubix: nope!
+[14:08:49] <nubix> chuck testa!
+[14:32:45] ! Cascharity has quit. (Quit: Verlassend)
+[14:50:57] ! elorie has joined.
+[14:55:48] ! joke` has joined.
+[15:15:55] ! Mobiwoelfin has joined.
+[15:22:47] ! Phia1 is now known as Phia
+[15:26:47] <Nimos> ab wann wird programmieren 1 interessant für leute mit relativ viel programmiererfahrung? :(
+[15:28:00] <jh> ab der übungsklausur? :P
+[15:28:15] <jh> musst halt java-spezifische dinge für die klausur können
+[15:28:26] ! Mobiwoelfin has quit. (Quit: Bye)
+[15:28:37] ! Mobiwoelfin has joined.
+[15:29:24] <Phia> Nimos: Ab dem ersten Übungszettel bei dem du denkst "Hilfe was ist denn jetzt los?" - falls das gar nicht passiert, dann ab der Übungsklausur.
+[15:29:52] <Mobiwoelfin> Nimos: wenn du java gut kannst, vermutlich gar nicht^^ brauchst aber für die klausur so struckmann-spezifische dinge...
+[15:30:06] <jh> hoare-kalkül!
+[15:31:46] <Nimos> hm, naja, ich hatte halt grad die erste kleine übung, und ich frag mich halt, in welchem tempo das jetzt vorrangeht :D
+[15:32:23] <Nimos> java an sich hab ich zwar noch nicht sooviel gemacht, aber letztendlich ist die sprache ja nicht so kompliziert
+[15:33:32] <jh> gibt ja sicher irgendwo ne themenübersicht... anhand dessen solltest du ja sehen können was dir was sagt und was nicht so
+[15:34:37] <Nimos> joa, guck ich nacher mal
+[15:34:58] <Nimos> die idee ist mir auch erst gekommen, nachdem ich hier gefragt hab :D
+[15:35:34] ! jh is now known as Tempwoelfin
+[15:36:04] <Tempwoelfin> Nimos: nicht besonders schnell, schau dir mal die Folien aus den Vorjahren an, so viel ändert sich bei ihm nicht
+[15:36:18] ! Tempwoelfin is now known as jh
+[15:49:51] ! joke has joined.
+[15:50:17] ! joke is now known as Guest16594
+[15:50:29] ! joke` has quit. (Disconnected by services)
+[15:50:36] ! Guest16594 is now known as joke`
+[15:55:19] <elorie> joke`: wtf so langsam steigt dem fsp seine nicht-macht echt zu kopf
+[16:28:54] ! rohieb has joined.
+[16:31:44] ! soney has joined.
+[16:36:35] ! Ignifazius has quit. (Quit: *Vanish*)
+[16:41:58] ! rohieb has quit. (Ping timeout: 260 seconds)
+[16:52:40] ! nubix has quit. (Quit: Leaving.)
+[16:57:33] ! nubix has joined.
+[16:58:57] ! joke` has quit. (Ping timeout: 244 seconds)
+[17:15:39] ! ES_ has joined.
+[17:16:03] ! nubix has quit. (Quit: Leaving.)
+[17:18:43] ! ES has quit. (Ping timeout: 258 seconds)
+[17:23:26] ! der_eq has joined.
+[17:28:13] ! bgalias has joined.
+[17:31:05] ! lurtz has quit. (Quit: Leaving.)
+[17:31:40] ! PirateKing has quit. (Quit: Leaving.)
+[17:32:31] ! Tigaa_laptop has left the channel.
+[17:44:53] ! nubix has joined.
+[17:57:32] ! Peace-Maker has joined.
+[17:58:43] ! Bowdzone has quit. (Read error: Connection reset by peer)
+[17:59:24] ! soney has quit. (Ping timeout: 244 seconds)
+[18:05:53] ! joke_ has joined.
+[18:06:19] ! joke_ is now known as Guest83776
+[18:08:25] ! Guest83776 is now known as joke`
+[18:08:33] ! ES_ is now known as ES
+[18:08:46] <ZombiePoet> joke`: Sent 19 hours and 38 minutes ago: <ShadniX> Giev mal IPs im Query. Und oder Jabber-ID. Im IRC erwisch ich dich ja nie ;p
+[18:09:22] <elorie> unter rumschicken verstehen die keinen piratepd ink
+[18:09:28] <joke`> und wo der unterschied zwischen einer url ist, die nur fachschaften-Leser kennen oder einer text-datei aufm gleichen verteiler...
+[18:09:47] <elorie> das versuch mal nem chemiker zu erklaeren...
+[18:10:02] <elorie> die denken vermutlich die datei ist seit 2h per google findbar
+[18:10:34] <joke`> Lustig auch das rein/raus Spiel
+[18:10:48] <elorie> das fsp haelt sich halt fuer die ultimative hochschulregierung/.….
+[18:10:50] <joke`> was einige leute jetzt machen
+[18:11:17] ! ES has quit. (Quit: The cake is a lie!)
+[18:11:20] <joke`> da wurde schon manch grober unfug verhindert
+[18:11:36] <elorie> joke`: ne die machen da fatalerweise mehr
+[18:11:52] <joke`> ja, aber auch das ist imho ok
+[18:11:59] <joke`> referenten bestimmen/nachfragen
+[18:12:21] <joke`> absprache, wer erstiparty macht/nicht macht
+[18:12:30] <elorie> das problem ist das es keien beratung oder vorschlaege sind sondern in deren augen beschluesse
+[18:12:31] <joke`> allgemeiner austausch zwischen fachschaften
+[18:12:35] <joke`> ist imho schon ok
+[18:13:43] <elorie> ja aber wie gesgat sie behandeln es als beschluesse
+[18:13:49] <elorie> wozu sie einfach mal keine grundlage haben
+[18:14:01] <elorie> sie sind sowas wie nen parteitag kein landtag...
+[18:14:24] <joke`> Jo, das triffts ganz gut, halt fraktionssitzung der bunten fachschaftenliste, so hats martin mal genannt :)
+[18:14:32] <elorie> das sind nun echt keine geheimen finanzzahlen
+[18:14:47] <elorie> ja aber sie verhalten sich halt nciht wie auf ner fraktionssitzung
+[18:14:57] <joke`> Hm, die Fachschaftenkasse? Oder ergebnis der erstiparty? Das sollte imho schon nicht jeder wissen
+[18:15:06] <elorie> da stehen doch keien absoluten zahlen
+[18:15:15] <joke`> mom
+[18:15:27] <elorie> nur die 2200 der messung
+[18:15:36] <elorie> und da sist ne zahl die nun nciht geheim sein sollte
+[18:16:12] <joke`> siehe query :)
+[18:16:16] <elorie> j eben
+[18:16:27] <elorie> halt alles nichts geheimes
+[18:16:34] ! nubix has quit. (Quit: Leaving.)
+[18:17:14] <joke`> hm, praktisch
+[18:17:25] <joke`> robotik labor macht zu, also kann ich mir den wahnsinn mal im detail durchlesen
+[18:18:19] ! lurtz has joined.
+[18:19:34] <joke`> bin kurz weg
+[18:19:36] <joke`> raumwechsel
+[18:34:10] <Mobiwoelfin> Droggl: ping mal deine Freundin
+[18:34:25] <Droggl> !tell Sonea ping
+[18:34:25] <ZombiePoet> Droggl: Ok.
+[18:34:34] <elorie> ^^
+[18:38:00] ! Sonea has joined.
+[18:38:28] ! moohieb has joined.
+[18:38:29] <Mobiwoelfin> Sonea!
+[18:38:44] <moohieb> Mobiwoelfin!
+[18:38:48] <moohieb> Sonea!
+[18:38:53] <Mobiwoelfin> moohieb!
+[18:39:33] <Sonea> huhu
+[18:39:33] <ZombiePoet> Sonea: Sent 5 minutes ago: <Droggl> ping
+[18:39:39] <Sonea> Mobiwoelfin!
+[18:39:45] <Sonea> Droggl: hi
+[18:39:49] <Droggl> ho
+[18:39:53] <Sonea> moohieb!
+[18:39:58] <Droggl> Mobiwoelfin hat gesagt, ich soll dich pingen
+[18:40:06] <Sonea> oder eher Droggl: pong
+[18:40:07] <Sonea> aso
+[18:40:10] <Sonea> ja bin da
+[18:40:19] <Sonea> hab vorher noch hausarbeit gemacht und so
+[18:40:31] <moohieb> Droggl: kites ho?
+[18:40:39] <Sonea> geschirrspüler, kochen, wäsche abhangen und neue anmachen
+[18:40:42] <Sonea> etwas geputzt
+[18:40:44] <Droggl> moohieb: wie meinen?
+[18:40:54] <Sonea> etwas aufgeräumt und so
+[18:40:55] <Droggl> Sonea: ui, cool :)
+[18:41:11] <moohieb> Droggl: nvm, random tbbt-assoziation ;)
+[18:41:28] <Droggl> ah ^^
+[18:41:35] <moohieb> geschirrspüler kochen?
+[18:41:43] <Droggl> was hast du denn gekocht Sonea?
+[18:42:19] <Sonea> ok nicht wirklich gekoht aber essen zubereitet
+[18:42:25] <Sonea> weißt  du doch
+[18:42:31] ! Cascharity has joined.
+[18:42:31] <Sonea> hat aber acuh so ne weile gedauert
+[18:42:51] <Droggl> ah ok, naja die bezeichnung kochen hatte mich etwas verwirrt ^^
+[18:42:55] ! lurtz has quit. (Ping timeout: 260 seconds)
+[18:43:03] <Droggl> aber voll lieb von dir dass du das alles gemacht hast, dankeschön :)
+[18:43:33] ! lurtz has joined.
+[18:43:38] ! joke_ has joined.
+[18:43:43] <Droggl> moohieb: hab auch schon zu eye of the tiger geforscht hier ^^
+[18:43:57] ! joke` has quit. (Disconnected by services)
+[18:44:01] ! joke_ is now known as joke`
+[18:44:25] <Mobiwoelfin> Sonea: ich würd ganz gern um 23 uhr zuhause sein, dafür müsste ich 21:53 hier losfahren, entsprechend bald sollten wir zu spielen anfangen
+[18:44:27] <jh> Sonea!
+[18:44:49] <Sonea> Mobiwoelfin: ah alles klar
+[18:44:55] <Sonea> aber Droggl ist ncoh auf arbeit
+[18:45:01] <Droggl> ack dat
+[18:45:07] <Sonea> darum hatte ich noch gar nciht versucht darüber mit euch zu reden
+[18:45:13] <Sonea> Droggl: wann kommst du nach hause?
+[18:45:25] <Sonea> wenns lange dauert können wir ja sonst auch zu dritt spielen
+[18:45:42] <Sonea> also erstmal und wenn dann ncoh zeit ist kann ja Droggl dazu kommen
+[18:45:44] <Droggl> hm eig hätt ich gern das hier noch zum laufen gebracht, irgendwas zwischen 5 minuten und 2 stunden ;)
+[18:46:04] <Sonea> hmm ok
+[18:46:06] <Droggl> aber wollt auch nicht so mega ewig hier bleiben heut
+[18:46:22] <Sonea> wärst du denn böse wenn wir dann erstmal zu dritt spielen?
+[18:46:25] <Droggl> nö
+[18:46:37] <Sonea> Droggl: bis du dann hier bist vergeht ja trotzdem noch ne zeit
+[18:46:38] <Droggl> aber ich schätze um 7 hab ich auch die schnauze voll und gehe nach haus
+[18:46:45] <Droggl> yo
+[18:46:50] <Sonea> und dann wirds vllt knapp
+[18:46:51] <Droggl> also fangt ruhig an
+[18:46:56] <Sonea> hmm
+[18:46:57] <Droggl> ich will eh auch noch n bissl was essen zuhaus
+[18:47:05] <Sonea> ich hab auch iwie hunger
+[18:47:10] <Sonea> aber noch nciht auf obstsalat
+[18:47:40] <Sonea> aber wir haben jetzt ne riesenschüssel voll mit melone, kiwi, banane, apfel, mango und traube
+[18:48:09] <Sonea> Mobiwoelfin: jh: soll ich gleich einfach mal rüber kommen?
+[18:48:21] <Sonea> Mobiwoelfin: jh: oder wollt ihr hier her kommen?
+[18:48:29] <Sonea> und was wollt ihr spielen?
+[18:48:33] <Mobiwoelfin> Sonea: warte, bis ich angezogen bin ;-)
+[18:48:47] <Sonea> soll ich stone age oder thurn und taxis mitbringen?
+[18:48:48] <Mobiwoelfin> Sonea: der obstsalat klingt lecker
+[18:48:53] ! PirateKing has joined.
+[18:49:00] <Sonea> Mobiwoelfin: kann auch obstsalat mitbringen
+[18:49:03] <Sonea> haben eh genug
+[18:49:11] <Droggl>  melone, kiwi, banane, apfel, mango und traube // freu :) gut ausgesucht :)
+[18:49:39] <Sonea> war halt alles an früchten was man im winter kaufen kann und in nen obstsalat passt ;)
+[18:49:47] <Sonea> Mobiwoelfin: hat der jh dich nackig gemacht? :D
+[18:50:01] <Droggl> von mir aus  können wir das auch gern bei uns machen, haben ja noch das "spielzimmer"
+[18:50:17] <Droggl> aber entscheide du ruhig, du bist ja vor ort ;)
+[18:51:29] <jh> Droggl: 7 ist in 10min
+[18:51:38] <jh> die 10min + laufzeit können wir ja auch noch warten O_o
+[18:52:18] <jh> meinetwegen auch gern bei euch
+[18:52:21] <jh> @ Sonea
+[18:52:26] <Droggl> naja +5min meinen kram zusammensuchen hier, +essen, +5min die ich jetzt schon im irc verlabert hab ;)
+[18:52:48] <Wechner> joke`: was meiner Meinung nach das einzig sensible an dem Protokoll war, war, dass da drin steht, wer aus dem AStA was in den zukünftigen Semestern plant (Magisterarbeit, oder was das war, weil das personenbezogen ist), alles andere raff ich auch nicht, warum die so ein Theater machen
+[18:53:07] <Wechner> joke`: hab auch schon eine recht bissige Mail formuliert, überlege noch, ob ich sie abschicke gerade ...
+[18:53:16] <jh> send! send! send!
+[18:53:16] <jh> :P
+[18:53:21] <joke`> Wechner: Bitte, bitte
+[18:53:44] <joke`> Ich meine, der hat doch gesehen, was ich gemacht habe, warum hat er dann nicht den stecker gezogen?
+[18:54:03] <joke`> Wechner: Till hat schon, wurde noch nicht freigeschaltet
+[18:54:13] <joke`> Wechner: Naja die personelle situation im asta ist ja kein geheimnis
+[18:54:24] ! lurtz has quit. (Quit: Leaving.)
+[18:55:08] <Wechner> joke`: ich sag ja auch nicht, dass da nicht stehen darf, dass sie aufhören (müssen)
+[18:55:11] <Wechner> nur die Gründe warum
+[18:55:23] <joke`> jo
+[18:55:33] ! ES has joined.
+[18:56:32] <Droggl> oh man
+[18:56:48] <Droggl> merke: Thread.sleep(20) schläft nicht 20 sekunden, sondern 20 millisekunden
+[18:56:50] <Droggl> *plonk*
+[18:57:10] <Sonea> jh: Droggl: mir egal aber ich glaub nicht, dass Droggl hier in 20 min aufschlägt
+[18:57:16] <Wechner> joke`: jo, ok
+[18:57:28] <Sonea> was wolltet ihr denn jetzt spielen jh Mobiwoelfin?
+[18:57:32] <jh> Sonea: vielleicht in 20 milliesekunden :D
+[18:57:32] <Wechner> joke`: ist meine Einschätzung, wo ich vorsichtig wäre, das kann man natürlich auch anders sehen
+[18:57:37] <jh> Sonea: thurn und dingens?
+[18:57:39] <Sonea> stone age wollte henning z.b. sowieso nciht spielen
+[18:57:49] <joke`> Wechner: Jo stimmt
+[18:58:09] <Sonea> jh: kk
+[18:58:15] <Sonea> das dauert eh etwas zum erklären
+[18:58:52] <jh> Sonea: okay, dann esse ich noch was und Mobiwoelfin kämpft gegen ihr handy... und dann kommen wir zu dir?
+[18:58:59] <Sonea> ok von mir aus
+[18:59:43] <Droggl> Sonea: yo stimmt hatte ich gesagt, jetzt wo ich so drüber nachdenke, mit 4 leutz isses ja nochmal wieder was anderes
+[18:59:52] <Droggl> spielt einfach wozu ihr bock habt, ich komm dann dazu
+[19:00:02] <Droggl> und wenn ihr dann noch n bissl am spielen seid nich schlimm, esse ich so lange
+[19:00:13] <Wechner> joke`: meine Mail ist auch raus
+[19:00:18] <joke`> :D
+[19:00:23] <joke`> Ich schreibe gerade an meiner
+[19:01:16] ! rohieb has joined.
+[19:01:56] ! moohieb has quit. (Remote host closed the connection)
+[19:04:30] <jh> rohieb!
+[19:04:37] <rohieb> ja!
+[19:07:59] ! nubix has joined.
+[19:10:34] <joke`> Wechner: Werden deine eigentlich sofort freigeschaltet?
+[19:10:40] <joke`> Ich hab sie noch nicht gesehen
+[19:11:33] <Wechner> nein
+[19:11:36] <Wechner> auch moderiert
+[19:20:37] <jh> Sonea: mach schon mal die tür auf!
+[19:20:38] ! jh has quit. (Quit: jh)
+[19:27:17] ! Mobiwoelfin has quit. (Ping timeout: 240 seconds)
+[19:28:18] <Wechner> jo
+[19:28:25] <Wechner> deine kommen direkt durch?
+[19:29:29] <nubix> Ich habe extra meine Popcornvorraete aufgestockt. aber irgendwie kommt da gerade nicht mehr viel
+[19:32:31] <joke`> Wechner: Ja, ich habe das mal direkt abboniert
+[19:32:35] <joke`> ist aber die ausnahme
+[19:32:43] <joke`> bis auf die moderatoren sind sonst nur fachgruppen im verteiler
+[19:32:46] <joke`> insgesamt 32
+[19:32:58] <joke`> bei 32 * 10 komme ich auf 320 mitlesende, von wegen "nur intern"
+[19:33:07] <joke`> tendenziell eher mehr mit karteileichen
+[19:33:54] <Wechner> ja, das sowieso mal
+[19:37:04] ! Cascharity has quit. (Quit: Verlassend)
+[19:40:47] ! elorie has quit. (Quit: Leaving.)
+[19:43:59] ! Sonea has quit. (Quit: Leaving.)
+[19:45:49] ! PirateKing has quit. (Quit: Leaving.)
+[19:47:48] ! PirateKing has joined.
+[19:49:30] <joke`> bin weg
+[19:49:38] ! joke` has quit. (Quit: Verlassend)
+[19:52:12] <ShadniX> joke!
+[19:52:13] <ShadniX> damnit
+[19:52:18] <ShadniX> und mein tell hat er auch total ignoriert
+[19:52:31] <ShadniX> !tell joke* Giev mal IPs im Query. Und oder Jabber-ID. Im IRC erwisch ich dich ja nie ;p
+[19:52:31] <ZombiePoet> ShadniX: Ok.
+[19:53:19] <rohieb> :D
+[19:53:28] <rohieb> hast du ein hilight auf "joke* has quit"? ^^
+[19:53:53] <ShadniX> ne - komme grad von der arbeit
+[19:53:55] <ShadniX> und mach den monitor an
+[19:53:57] <ShadniX> und seh dann das
+[19:59:10] <rohieb> !tell elorie wieviele von diesen ROI legen– wait for it –dary codes hast du eigentlich schon gewonnen?
+[19:59:11] <ZombiePoet> rohieb: Ok.
+[19:59:55] <ShadniX> rohieb: vor allem will der joke was von mir - auch wenn er das noch nicht ganz realisiert hat - und warum ich ihm dann dafür hinterher laufen muss...
+[20:00:13] <rohieb> dann warte doch einfach, bis er zu dir kommt
+[20:01:08] <rohieb> jp bode hat uns hiwis heute geraten, wenn wir mal mit nem studenten sprechen wollen wegen irgendwas, sollen wir ihm bei den hausaufgaben punkte abziehen, der wird dann schon von alleine kommen ^^
+[20:02:10] <nubix> rohieb: wehe das machst du bei mir ^^
+[20:09:03] <rohieb> hrhrhrhrhr
+[20:09:11] <rohieb> man kann ja drüber diskutieren
+[20:13:58] ! Debi has joined.
+[20:17:06] ! bgalias has quit.
+[20:27:41] ! lurtz has joined.
+[20:27:56] <rohieb> mh, was soll das denn http://www.tvsubtitles.net/tvshow-260-2.html
+[20:27:58] <ZombiePoet> Title: TVsubtitles.net - Subtitles "MacGyver" season 2 (at www.tvsubtitles.net)
+[20:45:40] ! Bowdzone has joined.
+[20:46:57] ! elorie has joined.
+[20:59:20] ! joke` has joined.
+[21:01:06] <rohieb> nubix: kannst dich aber auch von jonathan ärgern lassen in der hinsicht :P
+[21:01:27] <nubix> rohieb: kommt darauf an wer meine uebung korrigiert am ende
+[21:01:38] <nubix> und ich glaube er wuerde mich nicht aergern ;)
+[21:02:00] <rohieb> ich würde dich doch auch nie ärgern!
+[21:02:33] <nubix> rohieb: naaa ob ich dir das glauben kann?
+[21:03:09] <rohieb> im internet kann man doch nie was glauben
+[21:15:59] <rohieb> die knorr hochzeitssuppe schmeckt komisch
+[21:20:32] <rohieb> vielleicht, weil mir eine braut dazu fehlt ... ^^
+[21:24:52] ! Moenni_Mo has joined.
+[21:32:02] <Debi> joke`: Ich bin nun inkognito :P
+[21:32:08] <joke`> Ah, ok
+[21:32:17] <joke`> wie kommts?
+[21:32:28] <joke`> Aha ok
+[21:32:59] <joke`> Habe mich schon gewundert, warum daniel in der liste auftaucht
+[21:33:58] <rohieb> welcher daniel überhaupt?
+[21:36:44] <elorie> sind morgen eigtl. schon theo inf uebungen?
+[21:36:45] <ZombiePoet> elorie: Sent 1 hour and 37 minutes ago: <rohieb> wieviele von diesen ROI legen– wait for it –dary codes hast du eigentlich schon gewonnen?
+[21:36:55] <elorie> rohieb: keinen deshalb retweete cih ncoh
+[21:37:16] <rohieb> ah gut. dann folge ich dir noch nicht wieder :P
+[21:38:32] <rohieb> hm, kennt man den?
+[21:38:43] <elorie> Debi: btw viele grüße an deinen mitbewohner ;)
+[21:39:04] ! Moenni_Mo has quit. (Quit: Leaving.)
+[21:40:35] <rohieb> der name kommt mir bekannt vor, aber ich kann kein gesicht zuordnen?
+[21:41:54] <joke`> xipho auf clevershit, da hatte er iirc auch ein aktuelles foto
+[21:45:28] <Debi> elorie: An ausgerechnet meinen Mitbewohner? Au weia
+[21:45:47] <elorie> Debi: dem bin cih letztes wochenende zufaellig in lehre ueber den weg gestolpert
+[21:46:02] <Debi> elorie: Ah das kann ich mir gut vorstellen
+[21:46:30] <elorie> :)
+[21:47:15] <rohieb> wer ist denn Debis mitbewohner?
+[21:47:21] <rohieb> und wer ist überhaupt Debi? :D
+[21:47:35] * rohieb muss wohl mal wieder zum spieleabend gehen
+[21:48:58] <elorie> ^^
+[21:49:07] <elorie> rohieb: debis mitbewohner ist afaik chemiker
+[21:49:19] <rohieb> ah.
+[21:49:28] <rohieb> bloß nicht zu wenig über ihn verraten :P
+[21:50:27] <elorie> :p
+[21:51:35] <Debi> rohieb: Das wenige ist schon schlimm genug ;)
+[21:51:38] ! Mobiwoelfin has joined.
+[21:53:14] <rohieb> ah k
+[22:08:04] <Mobiwoelfin> elorie: was machst du denn in lehre?
+[22:09:45] <elorie> Mobiwoelfin: menschen besuchen
+[22:09:59] <elorie> Mobiwoelfin: ich bin auf dem weg dahin sogar an groß brunsrode vorbei gefahren
+[22:11:20] <Mobiwoelfin> auf dem weg von bs nach lehre an gr. brunsrode vorbeifahren? wie macht man das denn? o.O
+[22:12:15] <elorie> auobahn, flechtorf runter ;)
+[22:12:54] <rohieb> hm, wo sind wir denn hingefahren, als wir das schild zu Mobiwoelfin gesehen haben, elorie?
+[22:13:31] <Mobiwoelfin> elorie: von dir aus ist das aber ein umweg...
+[22:14:24] <elorie> rohieb: zu Mobiwoelfin zum filme schauen
+[22:14:32] <elorie> Mobiwoelfin: jop bin blind ohne navi gefahren
+[22:14:37] <rohieb> ne, das war woanders
+[22:14:40] <elorie> Mobiwoelfin: bzw bin vom sueden braunschweigs aus gefahren
+[22:15:59] <Mobiwoelfin> rohieb: nachtcache? jelpke vllt?
+[22:16:10] <rohieb> achja
+[22:26:59] ! rohieb has quit. (Ping timeout: 276 seconds)
+[22:28:06] <elorie> ^^
+[22:28:08] <elorie> danke
+[22:28:29] ! Mobiwoelfin has quit. (Ping timeout: 240 seconds)
+[22:31:06] ! Mobiwoelfin has joined.
+[22:50:20] <Debi> Gute Nacht
+[22:51:39] ! Debi has quit. (Quit: Verlassend)
+[22:51:58] ! Mobiwoelfin_ has joined.
+[22:54:20] ! Mobiwoelfin_ has quit. (Client Quit)
+[22:54:53] ! Mobiwoelfin has quit. (Ping timeout: 240 seconds)
+[22:54:54] ! Mobiwoelfin_ has joined.
+[22:55:20] ! Mobiwoelfin_ has quit. (Client Quit)
+[23:03:17] ! conqueror12 has quit. (Read error: Connection reset by peer)
+[23:04:12] ! conqueror12 has joined.
+[23:16:09] ! Cascharity has joined.
+[23:35:09] ! der_eq has quit. (Remote host closed the connection)
+[23:49:57] ! nubix has quit. (Read error: Connection reset by peer)
+[23:50:00] ! nubix1 has joined.
+[23:51:51] ! nubix1 has quit. (Read error: Connection reset by peer)
+[23:51:54] ! nubix has joined.
+[23:54:08] ! nubix has quit. (Read error: Connection reset by peer)
+[23:54:11] ! nubix1 has joined.
+[23:54:26] ! lurtz has quit. (Quit: Leaving.)
+[23:56:11] ! lurtz has joined.
+[23:57:43] ! nubix1 has quit. (Read error: Connection reset by peer)
+[23:57:46] ! nubix has joined.

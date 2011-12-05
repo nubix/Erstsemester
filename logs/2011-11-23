@@ -1,0 +1,447 @@
+[00:06:29] ! rohieb has quit. (Remote host closed the connection)
+[00:06:54] ! rohieb has joined.
+[00:09:34] ! Ignifazius has quit. (Quit: *Vanish*)
+[00:14:45] ! elorie has quit. (Quit: Leaving.)
+[00:30:07] ! elorie has joined.
+[00:32:03] ! Nimos has quit. (Quit: ZNC - http://znc.sourceforge.net)
+[00:33:33] ! Nimos has joined.
+[00:37:21] ! Debi has quit. (Quit: Verlassend)
+[00:41:27] ! jh has joined.
+[00:42:35] <rohieb> jh!
+[00:42:55] <jh> rohieb!
+[00:42:55] <jh> hi
+[01:02:23] <jh> !mensa
+[01:02:24] <ZombiePoet> Mensa Katharinenstraße am Mittwoch:
+[01:02:25] <ZombiePoet> A: Terrine Hühnersuppe mit Reis 1,40€
+[01:02:26] <ZombiePoet> B: Kartoffelchips mit Ketchup und Mayonnaise 1,50€
+[01:02:27] <ZombiePoet> C: Spaghetti mit Sauce Bolognese AT, geriebener Käse 2,40€
+[01:02:28] <ZombiePoet> V: Gnocchi auf Blattspinat mit Mozzarella überbacken, 1,90€
+[01:02:29] <ZombiePoet> W: Lachs mit Meeresfrüchten auf Bandnudeln 3,10€
+[01:02:32] <jh> rohieb: mensierst du?
+[01:02:40] <rohieb> hmmmmmm
+[01:02:48] <rohieb> spinat, mozzaralle
+[01:02:50] <rohieb> ella
+[01:03:01] <elorie> nom gnocchi
+[01:03:17] <rohieb> hm
+[01:03:19] <rohieb> denke schon
+[01:03:30] <jh> hm, ist silberwoelfin was davon...?
+[01:03:32] <jh> +s
+[01:03:38] <jh> rohieb: wann würdest du?
+[01:03:50] <rohieb> ich glaube, woelfin ist nix davon
+[01:03:59] <rohieb> zumindest nicht hühnchen
+[01:04:05] <rohieb> sondern woelfchen, wennschon
+[01:04:11] <jh> ich hab ihr vorhin gesagt dass wir auch was @home kochen können wenns nix essbares in der mensa gibt
+[01:04:30] <jh> also sag mal potenzielle zeit, ich weiß aber noch nicht ob ich dabei bin
+[01:04:53] <rohieb> öh
+[01:05:00] <rohieb> potenzielle zeit
+[01:05:07] <jh> winnie sagt "nach 13 uhr"
+[01:05:08] <rohieb> vor 13.00
+[01:05:14] <rohieb> weil da ist krypto
+[01:05:34] <jh> ^^
+[01:06:57] <jh> naja, dann morgen mal sehen
+[01:06:58] <jh> gn8
+[01:07:05] <rohieb> ok
+[01:07:06] <rohieb> n8
+[01:07:07] <rohieb> oh
+[01:07:09] <rohieb> schon wieder
+[01:07:11] <rohieb> time flies -.-
+[01:07:15] <jh> ?
+[01:07:34] <rohieb> so spät
+[01:07:45] <jh> aso
+[01:07:47] <jh> ja
+[01:07:51] ! jh has quit. (Quit: jh)
+[01:25:34] ! ES has quit. (Quit: The cake is a lie!)
+[01:32:16] ! Nimos has quit. (Ping timeout: 248 seconds)
+[01:36:33] ! Nimos has joined.
+[01:50:52] ! Peace-Maker has quit. (Quit: Bye.)
+[01:53:49] ! Bowdzone has quit. (Quit: Bowdzone)
+[01:55:46] ! Cascharity has quit. (Quit: Verlassend)
+[02:05:16] * rohieb winkt
+[02:05:18] ! rohieb has quit. (Quit: ...yo ho ho, and a bottle of rum!)
+[02:15:15] ! lurtz has quit. (Quit: Leaving.)
+[02:34:24] ! nubix has quit. (Read error: Connection reset by peer)
+[02:34:28] ! nubix1 has joined.
+[02:58:33] ! nimosf has joined.
+[02:58:34] ! Nimos has quit. (Ping timeout: 252 seconds)
+[03:05:52] ! nubix1 has quit. (Read error: Connection reset by peer)
+[03:05:55] ! nubix has joined.
+[03:34:29] ! zerobot has quit. (Quit: PADI! - Fight for your right!)
+[03:35:12] ! zerobot has joined.
+[04:12:30] ! elorie1 has joined.
+[04:14:55] ! elorie has quit. (Ping timeout: 260 seconds)
+[04:17:57] ! nimosf has quit. (Ping timeout: 245 seconds)
+[04:19:03] ! Nimos has joined.
+[05:26:16] ! Nimos has quit. (Ping timeout: 240 seconds)
+[05:28:33] ! Nimos has joined.
+[05:37:28] ! Nimos has quit. (Ping timeout: 240 seconds)
+[05:44:33] ! Nimos has joined.
+[06:37:18] ! elorie1 has quit. (Quit: Leaving.)
+[06:53:57] ! zerobot has quit. (Read error: Operation timed out)
+[06:54:16] ! Wechner has quit. (Ping timeout: 240 seconds)
+[06:54:40] ! DrMcCoy has quit. (Ping timeout: 240 seconds)
+[06:57:57] ! Mobiwoelfin has joined.
+[06:58:56] <Mobiwoelfin> !tell jh woelfin isst nichts davon, und wenn, eher 13:00 oder später, weil vorher Numerik
+[06:58:56] <ZombiePoet> Mobiwoelfin: Ok.
+[07:38:16] ! Mobiwoelfin has quit. (Ping timeout: 240 seconds)
+[07:40:07] ! Mobiwoelfin has joined.
+[07:53:04] ! Nimos has quit. (Ping timeout: 240 seconds)
+[07:54:33] ! Nimos has joined.
+[08:12:55] ! Phia has joined.
+[08:17:04] ! Mobiwoelfin has quit. (Ping timeout: 240 seconds)
+[08:22:40] ! Nimos has quit. (Ping timeout: 240 seconds)
+[08:23:33] ! Nimos has joined.
+[08:42:57] ! Mobiwoelfin has joined.
+[08:58:35] ! jh has joined.
+[09:00:30] <jh> hi
+[09:00:30] <ZombiePoet> jh: Sent 2 hours and 1 minute ago: <Mobiwoelfin> woelfin isst nichts davon, und wenn, eher 13:00 oder später, weil vorher Numerik
+[09:04:31] ! Phia has quit. (Ping timeout: 248 seconds)
+[09:06:34] ! PirateKing has joined.
+[09:15:20] ! nubix has quit. (Quit: Leaving.)
+[09:36:38] ! nubix has joined.
+[09:39:04] ! Mobiwoelfin has quit. (Ping timeout: 240 seconds)
+[09:39:28] ! nubix has quit. (Client Quit)
+[09:43:30] <jh> !tell *ohieb* eher nicht mensa heute
+[09:43:30] <ZombiePoet> jh: Ok.
+[09:43:32] ! jh has quit. (Quit: jh)
+[09:45:11] ! nubix has joined.
+[09:56:58] ! Cadvan has joined.
+[10:03:26] ! Phia has joined.
+[10:20:20] ! ES has joined.
+[10:20:53] <ES> !mensa
+[10:20:53] <ZombiePoet> Mensa Katharinenstraße am Mittwoch:
+[10:20:54] <ZombiePoet> A: Terrine Hühnersuppe mit Reis 1,40€
+[10:20:55] <ZombiePoet> B: Kartoffelchips mit Ketchup und Mayonnaise 1,50€
+[10:20:56] <ZombiePoet> C: Spaghetti mit Sauce Bolognese AT, geriebener Käse 2,40€
+[10:20:57] <ZombiePoet> V: Gnocchi auf Blattspinat mit Mozzarella überbacken, 1,90€
+[10:20:58] <ZombiePoet> W: Lachs mit Meeresfrüchten auf Bandnudeln 3,10€
+[10:23:28] ! lurtz has joined.
+[10:25:35] ! Cadvan has quit. (Quit: Leaving)
+[10:26:36] ! nubix has left the channel.
+[10:26:39] ! nubix has joined.
+[10:45:12] ! HH93 has joined.
+[10:48:19] ! nubix has quit. (Quit: Leaving.)
+[10:48:47] ! HH93 has left the channel.
+[10:54:57] ! nubix has joined.
+[11:00:40] ! Phia has quit. (Ping timeout: 240 seconds)
+[11:16:13] ! ES has quit. (Quit: The cake is a lie!)
+[11:16:16] ! Phia has joined.
+[11:21:56] ! elorie has joined.
+[11:23:05] ! Mobiwoelfin has joined.
+[11:29:49] ! nubix has quit. (Quit: Leaving.)
+[11:35:13] ! nubix has joined.
+[11:42:25] <elorie> !nom
+[11:42:25] <ZombiePoet> Mensa Katharinenstraße am Mittwoch:
+[11:42:26] <ZombiePoet> A: Terrine Hühnersuppe mit Reis 1,40€
+[11:42:27] <ZombiePoet> B: Kartoffelchips mit Ketchup und Mayonnaise 1,50€
+[11:42:28] <ZombiePoet> C: Spaghetti mit Sauce Bolognese AT, geriebener Käse 2,40€
+[11:42:29] <ZombiePoet> V: Gnocchi auf Blattspinat mit Mozzarella überbacken, 1,90€
+[11:42:30] <ZombiePoet> W: Lachs mit Meeresfrüchten auf Bandnudeln 3,10€
+[11:42:57] <nubix> hm, gnocchi...
+[11:48:40] <Nimos> mit mozzarella :O
+[11:51:41] ! Mobiwoelfin_ has joined.
+[11:51:42] ! Mobiwoelfin has quit. (Read error: Connection reset by peer)
+[11:53:15] ! Peace-Maker has joined.
+[11:57:26] <nubix> Nimos: jep, Gnocchi sind toll
+[11:57:30] <nubix> !nom abend
+[11:57:30] <ZombiePoet> Abendmensa Katharinenstraße am Mittwoch:
+[11:57:31] <ZombiePoet> A: Terrine Hühnersuppe mit Reis 1,40€
+[11:57:32] <ZombiePoet> B: Kaiserschmarren mit Vanillesauce und Mandeln 1,90€
+[11:57:33] <ZombiePoet> C: Gyros mit Zwiebelringen AT 1,90€
+[11:57:34] <ZombiePoet> w: 1/2 Brathähnchen 1,90€
+[11:58:01] <Nimos> ohja
+[12:04:42] ! nubix has quit. (Read error: Connection reset by peer)
+[12:04:59] ! nubix has joined.
+[12:15:04] ! Phia has quit. (Ping timeout: 240 seconds)
+[12:15:58] ! Mobiwoelfin_ has quit. (Quit: Bye)
+[12:16:15] ! Mobiwoelfin has joined.
+[12:18:26] ! Mobiwoelfin has quit. (Client Quit)
+[12:19:20] ! Mobiwoelfin has joined.
+[12:24:10] ! ES has joined.
+[12:27:13] ! Mobiwoelfin has quit. (Ping timeout: 244 seconds)
+[12:27:57] ! lurtz has quit. (Quit: Leaving.)
+[12:28:07] ! lurtz has joined.
+[12:29:11] ! Phia has joined.
+[12:31:41] ! conqueror121 has quit. (Read error: Connection reset by peer)
+[12:36:17] ! Bowdzone has joined.
+[12:45:16] ! lurtz has quit. (Quit: Leaving.)
+[12:45:42] ! lurtz has joined.
+[12:47:47] ! nubix has quit. (Quit: Leaving.)
+[12:51:32] ! Ignifazius has joined.
+[12:54:52] ! elorie has quit. (Quit: Leaving.)
+[13:10:42] ! nubix has joined.
+[13:12:36] ! jh has joined.
+[13:14:59] ! Tigaa_laptop has joined.
+[13:20:05] <jh> hi
+[13:30:40] ! Phia has quit. (Ping timeout: 240 seconds)
+[13:43:29] ! nubix has quit. (Quit: Leaving.)
+[13:45:04] ! Phia has joined.
+[13:46:12] ! nubix has joined.
+[13:52:19] ! Cascharity has joined.
+[14:02:21] ! Cadvan has joined.
+[14:02:25] ! Cadvan has left the channel.
+[14:03:31] ! Phia has quit. (Quit: Leaving.)
+[14:04:40] ! Cadvan has joined.
+[14:04:44] ! Cadvan has left the channel.
+[14:08:26] ! Cadvan has joined.
+[14:08:31] ! Cadvan has left the channel.
+[14:09:23] ! Cadvan has joined.
+[14:09:27] ! Cadvan has left the channel.
+[14:11:14] ! Cadvan has joined.
+[14:11:18] ! Cadvan has left the channel.
+[14:15:18] ! Cadvan_ has joined.
+[14:15:53] ! lurtz has quit. (Quit: Leaving.)
+[14:35:53] ! Cadvan_ has quit. (Quit: Leaving)
+[14:47:44] ! nubix has quit. (Quit: Leaving.)
+[14:50:49] ! nubix has joined.
+[14:58:29] ! DrMcCoy has joined.
+[15:15:33] ! elorie has joined.
+[15:18:35] ! Cadvan has joined.
+[15:24:43] ! nubix has quit. (Quit: Leaving.)
+[15:26:01] ! soney has joined.
+[15:31:40] ! nubix has joined.
+[15:36:32] ! Bowdzone has quit. (Read error: Connection reset by peer)
+[15:38:39] ! Silberwoelfin has joined.
+[15:39:10] ! Bowdzone has joined.
+[15:39:30] ! soney has quit. (Quit: Leaving.)
+[15:39:39] ! soney has joined.
+[15:40:37] <Silberwoelfin> hi
+[15:45:25] ! lurtz has joined.
+[15:50:42] ! nubix has quit. (Quit: Leaving.)
+[15:59:03] ! nubix has joined.
+[16:17:04] ! elorie has quit. (Quit: Leaving.)
+[16:23:03] ! Phia has joined.
+[16:26:25] ! Debi has joined.
+[16:32:09] ! nubix has quit. (Quit: Leaving.)
+[16:34:15] ! Phia has left the channel.
+[16:34:31] ! nubix has joined.
+[16:35:54] ! nubix has quit. (Client Quit)
+[16:39:34] <jh> in meinem bett liegt johannes O_o
+[16:45:51] <DrMcCoy> Rawr :)
+[16:52:20] <jh> idee haben -> tab aufmachen -> vergessen was man tun wollte :[
+[16:57:18] ! PirateKing has quit. (Quit: Leaving.)
+[16:59:23] ! Sonea has joined.
+[16:59:30] <Sonea> heyho
+[17:00:38] ! Cadvan has quit. (Quit: Leaving)
+[17:03:38] ! lurtz has quit. (Quit: Leaving.)
+[17:15:15] ! Ignifazius has quit. (Quit: *Vanish*)
+[17:17:07] ! nubix has joined.
+[17:23:06] ! PirateKing has joined.
+[17:25:02] ! lurtz has joined.
+[17:33:19] ! elorie has joined.
+[17:37:32] ! Phia has joined.
+[17:44:47] ! Cadvan has joined.
+[17:59:39] ! moohieb has joined.
+[17:59:49] <moohieb> !mensa
+[17:59:49] <ZombiePoet> Abendmensa Katharinenstraße am Mittwoch:
+[17:59:50] <ZombiePoet> A: Terrine Hühnersuppe mit Reis 1,40€
+[17:59:51] <ZombiePoet> B: Kaiserschmarren mit Vanillesauce und Mandeln 1,90€
+[17:59:52] <ZombiePoet> C: Gyros mit Zwiebelringen AT 1,90€
+[17:59:53] <ZombiePoet> w: 1/2 Brathähnchen 1,90€
+[17:59:54] <ZombiePoet> moohieb: Sent 8 hours and 16 minutes ago: <jh> eher nicht mensa heute
+[18:00:17] <moohieb> jh: abendmensen?
+[18:00:28] <moohieb> oder weranders?
+[18:01:38] <moohieb> lurtz? Silberwoelfin? Sonea?
+[18:17:51] ! Phia has left the channel.
+[18:18:13] <Silberwoelfin> moohieb: ne
+[18:18:51] <Silberwoelfin> nach hause fahren
+[18:18:55] ! Silberwoelfin has quit. (Quit: Verlassend)
+[18:20:53] <DrMcCoy> moohieb: Ich auch nicht :P
+[18:21:19] <DrMcCoy> Oh
+[18:21:20] <DrMcCoy> http://www.tor.com/blogs/2011/11/anne-mccaffrey-in-remembrance
+[18:21:22] <ZombiePoet> Title: Anne McCaffrey, 1926-2011 | Tor.com (at www.tor.com)
+[18:23:12] ! soney has quit. (Ping timeout: 244 seconds)
+[18:25:26] <lurtz> moohieb: nope no mensa today
+[18:29:13] <jh> moohieb: mh, gyros... aber schon $warm gegessen heute :/
+[18:31:58] ! Cadvan has quit. (Quit: Leaving)
+[18:42:02] ! moohieb has quit. (Remote host closed the connection)
+[18:49:09] ! Sonea has left the channel.
+[18:53:42] ! Phia has joined.
+[19:02:02] ! moohieb has joined.
+[19:02:10] <jh> moohieb \o/
+[19:02:23] <moohieb> jh: ] \o/
+[19:04:08] ! Tigaa_laptop has left the channel.
+[19:26:51] ! rohieb has joined.
+[19:27:46] ! moohieb has quit. (Remote host closed the connection)
+[19:28:54] ! der_eq has joined.
+[19:29:05] ! nubix1 has joined.
+[19:29:06] ! nubix has quit. (Read error: Connection reset by peer)
+[19:30:49] ! nubix1 has quit. (Read error: Connection reset by peer)
+[19:30:53] ! nubix has joined.
+[19:31:33] ! Silberwoelfin has joined.
+[19:32:12] <rohieb> wbwoelfin
+[19:32:33] <rohieb> Valodim: wer war das andere nochmal, mit dem du in der mensa warst?
+[19:33:32] ! nubix has quit. (Read error: Connection reset by peer)
+[19:33:35] ! nubix1 has joined.
+[19:36:05] ! nubix1 has quit. (Read error: Connection reset by peer)
+[19:36:08] ! nubix has joined.
+[19:38:40] <Silberwoelfin> thxhieb
+[20:07:06] <jh> ups, mein laptop lief in meinem rucksack bis der akku leer war :S
+[20:08:09] <rohieb> hat er sich nicht schlafen gelegt?
+[20:08:37] <DrMcCoy> failjh
+[20:09:27] <jh> ich vermute mal es hing irgendwo
+[20:09:49] <jh> hat sich zumindest auch nicht bei $wenig akku runtergefahren
+[20:09:57] <jh> sondern bis absolut leer verbraucht
+[20:10:51] <DrMcCoy> tja
+[20:10:53] <DrMcCoy> failjh
+[20:14:03] <Valodim> rohieb: arne
+[20:14:13] <rohieb> achja
+[20:14:18] <rohieb> ich vergesse seinen namen immer
+[20:15:20] <rohieb> jhisch: @larsan Soso, "Russland hatte die 13,5 Tonnen schwere Sonde am 9. Februar zum Marsmond Phobos gestartet"... <-- was ist damit?
+[20:16:56] <jh> rohieb: quote aus dem artikel den er retweetet hat und falsch
+[20:17:10] <rohieb> weil?
+[20:17:24] <jh> weil das im november war
+[20:17:28] <rohieb> achso
+[20:19:14] <rohieb> mh, da macht jemand meine timeline kaputt... http://rohieb.name/stuff/timelinekaputt.png
+[20:34:43] ! soney has joined.
+[20:41:08] ! arneb has joined.
+[20:41:16] <rohieb> ach da isser
+[20:41:19] <rohieb> hallo arneb
+[20:41:22] <arneb> moin moin
+[20:41:54] <Phia> hallo
+[20:41:54] <arneb> wer bist du denn?
+[20:41:56] <ZombiePoet> Phia: Sent 1 day, 2 hours, and 3 minutes ago: <Sonea> hier steckt übrigens noch ein USB-stick von dir im rechner. (iz 311 in hannen) ist so das kram drauf
+[20:42:26] <rohieb> arneb: ich hab dich mit Valodim in der mensa gesehn!
+[20:42:54] <rohieb> Phia: und wir haben es winnie nicht gezeigt ^^
+[20:43:23] <rohieb> arneb: hab mit euch geredet
+[20:43:24] <rohieb> der bin ich ^^
+[20:43:35] <arneb> hab ich auch grad festgestellt :-D
+[20:44:04] <arneb> Sonar war wieder gut, kann man sich echt antun, die Vorlesung...
+[20:44:11] <rohieb> jo
+[20:46:33] <arneb> Hmhm... kommen wir mal wieder zu TheoInf und so...
+[20:52:06] <rohieb> arneb: bist du eigentlich ersti oder zweiti?
+[20:52:12] <rohieb> oder n+1-ti?
+[20:53:56] <arneb> schon richtig, Ersti. Aber freut mic, dass das nicht direkt ersichtlich ist :-D
+[20:54:37] <rohieb> hab das gefühl fürs alter verloren
+[20:55:11] <rohieb> als ich letztens aufsicht für bundeswettbewerb informatik gemacht hab, hab ich auch gedacht, dass die sich nicht von drittsemestern unterscheiden... ^^
+[20:55:22] <arneb> :-D
+[20:55:32] <arneb> achja, der war ja vor dem Vorkurs info...
+[20:55:39] ! Phia has quit. (Quit: Leaving.)
+[20:57:07] <Debi> <arneb> Hmhm... kommen wir mal wieder zu TheoInf und so... <- Was gibts denn mit TheoInf und so?
+[20:58:47] ! Phia has joined.
+[20:59:43] <Debi> arneb: Na gut, das geht am besten ohne Chat nebenbei ;)
+[21:04:29] <arneb> Debi: Wer bist du denn eigentlich?
+[21:06:19] ! PirateKing has quit. (Quit: Leaving.)
+[21:07:10] <rohieb> Debi: ich bin dir auch noch nie begegnet
+[21:07:44] ! PirateKing has joined.
+[21:09:20] <jh> ich kenn Debi auch nicht
+[21:09:21] <jh> glaub ich
+[21:09:43] <rohieb> Debi: ah, dann machst du mit mario zusammen wsn-praktikum?
+[21:10:27] <Debi> arneb: Ich hab das zwei Jahre gemacht ja
+[21:10:40] <Debi> rohieb: Ne, ich mach kein wsn-Praktikum, und Mario sagt mir auch nix
+[21:11:36] <rohieb> hm, dann war das wer anders, der auch so einen bart mit zöpfen hat ^^
+[21:11:47] <arneb> Debi: Na gut, ich mach jetzt erstmal weiter... kann also dauern mit ner Antwort ;-)
+[21:12:37] ! maximilian has joined.
+[21:13:06] <rohieb> ja, vermutlich ^^
+[21:14:09] ! Phia has quit. (Quit: Leaving.)
+[21:20:03] ! Sonea has joined.
+[21:20:13] <Sonea> hmm schon wieder 20 nach 9?
+[21:20:20] <Sonea> vllt sollte ich mal nach hause gehen
+[21:21:09] <rohieb> ja, solltest du
+[21:21:53] <Sonea> rohieb: na gut
+[21:22:05] <Sonea> rohieb: hier steht pbrigens noch deine mate flasche rum
+[21:22:11] <Sonea> soll ich die mal runter bringen?
+[21:22:16] <rohieb> ah
+[21:22:23] <rohieb> ja, wenn du da eh langgehst, wäre das nett
+[21:22:30] <Sonea> jo k
+[21:22:40] <Sonea> dann bin cih mal aufm weg nach hause...
+[21:22:42] ! Sonea has left the channel.
+[21:24:26] <jh> die joint um zu sagen dass sie geht? :D
+[21:32:16] <rohieb> anscheinend :P
+[21:57:46] ! joke` has joined.
+[22:08:20] ! Cadvan has joined.
+[22:18:46] <Silberwoelfin> gute nacht
+[22:19:01] ! Silberwoelfin has quit. (Quit: Verlassend)
+[22:22:50] <DrMcCoy> http://lockerz.com/s/158652436 :D
+[22:22:51] <ZombiePoet> Title: Lockerz.com : Grace F-H's Photo (at lockerz.com)
+[22:27:46] <jh> rohieb: erklär mal diesen roes-comic auf deiner soup, pls
+[22:27:56] <rohieb> jh: guck doctor who ^^
+[22:28:26] <jh> hm, nö
+[22:29:16] <jh> du hast wenig gesoupt
+[22:29:19] <jh> das muss mehr werden
+[22:29:20] <rohieb> jh: woher kommt "resistance is futile"?
+[22:29:29] <jh> aus star trek
+[22:29:38] <rohieb> hja, welche serie
+[22:29:51] <jh> the next generation und folgende
+[22:30:03] <rohieb> ok
+[22:30:31] <jh> rohieb: http://www.youtube.com/watch?v=WZEJ4OJTgg8
+[22:30:32] <ZombiePoet> Title: We are The Borg - YouTube (at www.youtube.com)
+[22:30:39] <rohieb> kthx
+[22:31:07] <rohieb> da hat grad jemand gesagt "resistance is useless"
+[22:31:15] <jh> "If Star Trek has taughts anything, futurisitc energy weapons are shit against zombies. It's better to use a Tommy maching gun" :D
+[22:31:20] <jh> rohieb: wo ist "da"?
+[22:31:28] ! Ignifazius has joined.
+[22:31:30] <rohieb> Doctor Who S04E12
+[22:31:58] <jh> warum guckst du denn den mist? :/
+[22:32:01] <jh> der verdirbt dich doch nur
+[22:35:10] <DrMcCoy> ...
+[22:35:17] * DrMcCoy slaps jh
+[22:35:33] <jh> bei dir isses zu spät^^
+[22:36:36] <DrMcCoy> :(
+[22:49:01] ! der_eq has quit. (Remote host closed the connection)
+[22:55:28] <rohieb> !slap jh
+[22:55:28] * ZombiePoet tortures jh kind of dreadfully with a herring
+[22:56:04] <jh> aua
+[22:56:06] <jh> :'(
+[22:57:11] ! lurtz has quit. (Quit: Leaving.)
+[23:05:48] ! maximilian has quit. (Remote host closed the connection)
+[23:06:23] ! lurtz has joined.
+[23:14:47] ! PirateKing has quit. (Quit: Leaving.)
+[23:19:09] ! Phia has joined.
+[23:19:35] <Phia> !seen Wechner
+[23:19:35] <ZombiePoet> Phia: Wechner was last seen in ##cs-studs 1 day, 5 hours, 9 minutes, and 36 seconds ago: <Wechner> und man kann so was auch gleich lassen, dann schwenkt das Thema gar nicht erst in so eine Richtung :P
+[23:20:22] <DrMcCoy> !seen Cadvan
+[23:20:22] <ZombiePoet> DrMcCoy: Cadvan was last seen in ##cs-studs 33 weeks, 0 days, 12 hours, 16 minutes, and 38 seconds ago: <Cadvan> schon wieder Cadvan
+[23:20:47] <DrMcCoy> Failbot
+[23:20:51] <DrMcCoy> 18:32:25 -!- Cadvan [~martin@77-20-245-1-dynip.superkabel.de] has quit [Quit: Leaving]
+[23:22:06] <DrMcCoy> Phia: Das ist Wechners Alt, wenn er den IRC-Client auf seinem Desktoprechner startet
+[23:22:30] <Phia> ok
+[23:22:54] <DrMcCoy> Der Server ist immer noch down :(
+[23:23:11] <DrMcCoy> Ah, Cadvan ist sogar da
+[23:23:21] <DrMcCoy> Cadvan: Ping
+[23:24:13] <DrMcCoy> Ah, 22:08 gejoint, hab ich nicht gesehen
+[23:25:34] ! arneb has quit. (Quit: Leaving)
+[23:26:41] ! arneb has joined.
+[23:27:08] <Phia> !notes
+[23:27:08] <ZombiePoet> Phia: I currently have notes waiting for amiga4000, Br4inFlam0r, BrainFlaim0r*, conqueror, Freak*, hashier, joke, max*, and pipboy2000*.
+[23:33:47] ! Phia has quit. (Quit: Leaving.)
+[23:36:19] ! joke` is now known as joke
+[23:36:21] <joke> d
+[23:36:21] <ZombiePoet> joke: Sent 1 year, 18 weeks, 6 days, 12 hours, and 16 minutes ago: <Sonea> nwa ergebnisse sind draußen
+[23:36:22] <ZombiePoet> joke: Sent 1 year, 9 weeks, 4 days, 2 hours, and 28 minutes ago: <hashier> http://www.youtube.com/watch?v=W27WSHTVyx4&feature=related
+[23:36:27] ! joke is now known as joke`
+[23:38:26] <jh> sind sie ja jetzt
+[23:40:58] <DrMcCoy> aber nwa ergebnisse sind draußen!!!!!1111
+[23:41:57] <joke`> jh: ahja stimmt
+[23:42:12] <joke`> komisch, meine mich zu erinnern, dass von sonea trotzdem mal gekriegt zu haben
+[23:42:37] <jh> O_o
+[23:42:50] <jh> du kannst dich an tells von vor 1 year, 18 weeks erinnern?
+[23:43:20] <joke`> jh: nein, aber ich habe dieses jahr schon mal so ne umbennenungsaktion gemacht
+[23:43:28] <jh> aso
+[23:43:42] <jh> vielleicht ist der rohieb so gemein und fügt die immer wieder hinzu
+[23:43:43] <jh> :P
+[23:43:50] <joke`> bestimmt!
+[23:44:11] <DrMcCoy> !tell joke nwa ergebnisse sind draußen!!!!!1111
+[23:44:11] <ZombiePoet> DrMcCoy: Ok.
+[23:44:14] <DrMcCoy> :P
+[23:44:50] <jh> DrMcCoy: aber da steht jetzt nicht 1 year, 18 weeks dabei
+[23:44:57] ! nubix has quit. (Read error: Connection reset by peer)
+[23:44:59] ! nubix1 has joined.
+[23:45:05] <DrMcCoy> hmm, stimmt
+[23:45:22] <jh> du musst vorher deine uhr zurückstellen!!!111
+[23:45:34] <DrMcCoy> ne
+[23:45:57] <DrMcCoy> ZombiePoets Uhr
+[23:46:15] <rohieb> <joke`> hm, kann man solche alten tells nicht mal löschen? <-- das ist doch nur zusätzlicher aufwand
+[23:46:39] <joke`> egal
+[23:46:52] <rohieb> joke`: das ist doch nur zusätzlicher aufwand zu coden :P
+[23:46:57] <joke`> ok
+[23:50:25] <jh> gn8
+[23:50:34] ! lurtz has quit. (Quit: Leaving.)
+[23:50:41] <jh> !mensa do
+[23:50:41] <ZombiePoet> Mensa Katharinenstraße am Donnerstag:
+[23:50:42] <ZombiePoet> A: Terrine Champignoncremesuppe 1,40€
+[23:50:43] <ZombiePoet> B: Bauernfrühstück mit Gewürzgurke 1,90€
+[23:50:44] <ZombiePoet> C: Putenhaxe mit Bratensauce 1,90€
+[23:50:45] <ZombiePoet> V: gebackener Balkankäse mit Tomate und Oliven 1,90€
+[23:50:46] <ZombiePoet> W: Schnitzel XXL mit Chips 3,10€
+[23:50:52] <jh> :[
+[23:50:55] ! jh has quit. (Quit: jh)

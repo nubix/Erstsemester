@@ -1,0 +1,528 @@
+[00:02:24] ! csg has quit. (Ping timeout: 240 seconds)
+[00:13:01] <Cascharity> rohieb: teilweise, also fast wie n dicker blauer fleck
+[00:15:28] <DrMcCoy> http://www.atheistmedia.com/2011/10/this-world-spains-stolen-babies-bbc.html
+[00:15:30] <ZombiePoet> Title: This World: Spain's Stolen Babies - BBC | Atheist Media Blog (at www.atheistmedia.com)
+[00:29:16] ! nubix has joined.
+[00:34:39] <Phia> winnie: noch da?
+[00:34:39] <ZombiePoet> Phia: Sent 41 minutes ago: <winnie> ich hab versucht, dir mitzuteilen, dass ich auch an InformatikCup Aufgabe 1 interessiert bin... aber irgendwie bist du nicht hier, wenn ich hier bin ^^
+[00:34:40] <ZombiePoet> Phia: Sent 41 minutes ago: <winnie> ... und http://www.scip.org
+[00:34:49] <winnie> Phia: jo
+[00:34:51] <Phia> joa, scip ist ne gute idee
+[00:36:16] ! rohieb has quit. (Quit: n8)
+[00:36:29] <Phia> winnie: das denke ich auch
+[00:36:54] <Phia> wir sollten uns mal zusammen setzen und über die IP-Formulierung nachdenken
+[00:37:01] <winnie> jo
+[00:37:31] <Phia> ob ich allerdings neben der Masterarbeit genug zeit und nerven hab, das dann auch zu programmieren, weiß ich nich
+[00:37:38] <Phia> joa, oder morgen
+[00:37:59] <Phia> aber wenn dir nö
+[00:38:07] <Phia> nächste woche besser passt
+[00:38:19] <Phia> dann sag doch einfach mal ne zeit
+[00:38:27] <winnie> werde morgen wohl den ganzen Tag daran sitzen
+[00:38:37] <Phia> winnie: wann gibst du die ab?
+[00:38:40] ! elorie has joined.
+[00:38:46] <winnie> Phia: vor zwei Monaten... -.-
+[00:39:01] <elorie> .
+[00:39:04] <Phia> winnie: ach so
+[00:40:03] <Phia> winnie: nö, aber ich mach hiwi für computational geometry - vormals algorithmische geometrie und ich werde wohl zum ersten termin gehen um abzusprechen, wann die übung sein soll
+[00:42:06] <Phia> winnie: ok, dann werde ich dienstag spätestens um 11:15 im fgraum sein - oder lieber in der algorithmik?
+[00:42:29] <winnie> Phia: FG ist schon in Ordnung, ist ja nicht so weit :-)
+[00:42:52] <Phia> winnie: ok machen wir es so
+[00:42:55] <winnie> hab bis 11:15 graph drawing
+[00:44:06] <winnie> ... ist sogar in IZ 160
+[00:44:26] <Phia> winnie: ah, das passt ja
+[00:44:57] <Phia> und ich will 15 uhr zu computational geometry
+[00:45:31] <Phia> also müssten wir dann noch irgendwann in die mensa aber das kriegen wir sicher hin
+[00:45:35] <winnie> jo, ich auch ;-)
+[00:45:43] <winnie> also in die mensa und zu CG
+[00:45:57] <Phia> super
+[00:48:53] <Phia> n8
+[00:48:59] ! Phia has quit. (Quit: Leaving.)
+[00:58:10] ! hashier has quit. (Ping timeout: 260 seconds)
+[01:13:22] ! lurtz has quit. (Ping timeout: 258 seconds)
+[01:16:24] ! Peace-Maker has quit. (Quit: Bye.)
+[01:21:55] ! elorie has quit. (Quit: Leaving.)
+[01:30:40] ! lurtz has joined.
+[01:34:14] <lurtz> !tell phia kann auch daran gelegen haben, dass ich englisch nicht so gut wie deutsch kann. ich fand contagion ok. ich kenne mich aber auch nicht aus wie viren oder proteine aussehen
+[01:34:14] <ZombiePoet> lurtz: Ok.
+[01:51:22] <lurtz> Cascharity: also mein handyakku ist so gut wie leer
+[01:51:34] <lurtz> Cascharity: hat das irgendwas mit dir zu tun?^^
+[02:06:51] ! ES has quit. (Quit: The cake is a lie!)
+[02:08:02] ! Cascharity has quit. (Read error: Connection reset by peer)
+[02:24:06] ! ShadniX has quit. (Quit: Verlassend)
+[02:26:21] ! lurtz1 has joined.
+[02:28:35] ! lurtz has quit. (Ping timeout: 252 seconds)
+[02:31:21] ! lurtz1 has quit. (Quit: Leaving.)
+[02:38:14] ! ShadniX has joined.
+[03:01:18] ! winnie has quit. (Remote host closed the connection)
+[04:27:12] ! Mobiwoelfin has quit. (Ping timeout: 240 seconds)
+[04:42:36] ! Mobiwoelfin has joined.
+[04:52:00] ! nubix has quit. (Read error: Connection reset by peer)
+[04:52:04] ! nubix1 has joined.
+[04:52:30] ! Moenni_Mo has joined.
+[05:03:17] <Moenni_Mo> !notes
+[05:03:18] <ZombiePoet> Moenni_Mo: I currently have notes waiting for amiga4000, bondro, Br4inFlam0r, BrainFlaim0r*, conqueror, der_eq, Freak*, joke, norman*, Oran, phia, pipboy2000*, and sone*.
+[05:14:09] ! Moenni_Mo has quit. (Quit: Leaving.)
+[05:22:30] ! nubix1 has quit. (Read error: Connection reset by peer)
+[05:22:33] ! nubix has joined.
+[06:45:29] ! nubix1 has joined.
+[06:45:30] ! nubix has quit. (Read error: Connection reset by peer)
+[06:45:33] ! nubix1 has quit. (Changing host)
+[06:45:33] ! nubix1 has joined.
+[06:46:05] ! Cascharity has joined.
+[06:47:21] ! nubix1 has quit. (Read error: Connection reset by peer)
+[06:47:24] ! nubix has joined.
+[06:49:51] ! nubix has quit. (Read error: Connection reset by peer)
+[06:49:55] ! nubix1 has joined.
+[07:01:56] ! conqueror12 has joined.
+[07:02:53] ! Moenni_Mo has joined.
+[07:06:35] ! Moenni_Mo has quit. (Client Quit)
+[07:07:38] ! Cascharity has quit. (Read error: Connection reset by peer)
+[07:11:24] ! Bowdzone has joined.
+[07:13:32] ! Bowdzone has quit. (Client Quit)
+[07:14:00] ! Bowdzone has joined.
+[08:04:08] ! elorie has joined.
+[08:10:06] ! Bowdzone has quit. (Read error: Connection reset by peer)
+[08:22:18] ! Phia has joined.
+[08:27:57] ! conqueror12 has quit. (Quit: Leaving.)
+[08:54:57] ! PirateKing has joined.
+[08:56:10] ! elorie has quit. (Quit: Leaving.)
+[09:07:53] ! jh has joined.
+[09:08:34] <jh> hallo internet
+[09:40:13] ! elorie has joined.
+[09:43:58] ! elorie has quit. (Client Quit)
+[09:49:12] ! Mobiwoelfin has quit. (Ping timeout: 240 seconds)
+[09:50:04] <DrMcCoy> hallo jh
+[09:51:02] <jh> hallo DrMcCoy
+[09:51:08] <jh> DrMcCoy: hab erst jetzt dein memo gesehen^^
+[09:51:20] <jh> irgendwie ist das in xchat nur doof im server-tab abgezeigt worden
+[09:52:23] <DrMcCoy> :P
+[09:52:44] ! Mobiwoelfin has joined.
+[09:54:25] <jh> Mobiwoelfin \o/
+[09:57:54] <jh> mh, eher Schlafwoelfin
+[10:18:42] <jh> yay, mit ssh-tunnel über die uni kann man auch paper lesen
+[10:18:48] <jh> dann brauch ich ja kein vpn mehr :)
+[10:19:07] ! ES has joined.
+[10:19:47] <jh> ES: was isn mit jonas los?
+[10:20:06] <ES> jonas s.?
+[10:20:43] <ES> wieso? was soll mit dem sein?
+[10:20:53] <jh> der hat komisches zeug in twitter gespammt
+[10:21:29] <ES> ka, hab doch kein twitter
+[10:22:09] <jh> hätte ja sein können dass du andere kommunikationskänäle zu ihm hast^^
+[10:22:32] <ES> hab ihn diese woche noch nicht gesehen
+[10:23:25] ! rohieb has joined.
+[10:23:59] ! rohieb has quit. (Read error: Connection reset by peer)
+[10:24:30] ! rohieb has joined.
+[10:24:50] ! rohieb has quit. (Read error: Connection reset by peer)
+[10:25:10] ! elorie has joined.
+[10:26:48] ! Mobiwoelfin has quit. (Ping timeout: 240 seconds)
+[10:28:01] <elorie> !mensa
+[10:28:01] <ZombiePoet> Mensa Katharinenstraße am Freitag:
+[10:28:02] <ZombiePoet> A: Terrine Hühnerbrühe mit Eierstich 1,40€
+[10:28:03] <ZombiePoet> B: 6 Frühlingsrollen mit Ingwer- Fruchtsauce 1,50€
+[10:28:04] <ZombiePoet> C: Fischfilet gebacken 2,00€
+[10:28:05] <ZombiePoet> V: Fladenbrot mit Balkankäse und Tomate, überbacken 1,90€
+[10:28:06] ! Mobiwoelfin has joined.
+[10:28:07] <ZombiePoet> W: Schweinerückensteak mit Tomate und Mozzarella dazu Knoblauchsauce und Pommes frites 3,10€
+[10:31:06] <jh> hallo elorie
+[10:31:21] <jh> schon wieder nix in der mensa^^
+[10:33:47] ! nubix1 has quit. (Quit: Leaving.)
+[10:37:12] ! Mobiwoelfin has quit. (Ping timeout: 240 seconds)
+[10:37:34] <Phia> !nomnom
+[10:37:34] <ZombiePoet> Mensa Beethovenstraße am Freitag:
+[10:37:35] <ZombiePoet> A: Tageseintopf 1,40€
+[10:37:36] <ZombiePoet> B: Gedünstetes Hokifilet mit Tomatensauce 2,20€
+[10:37:37] <ZombiePoet> C: Schaschlik mit pikanter Sauce 1,80€
+[10:37:38] <ZombiePoet> V: Korsische Kartoffelpfanne mit Hirtenkäse und Oliven 1,80€
+[10:37:39] <ZombiePoet> Phia: Sent 9 hours and 3 minutes ago: <lurtz> kann auch daran gelegen haben, dass ich englisch nicht so gut wie deutsch kann. ich fand contagion ok. ich kenne mich aber auch nicht aus wie viren oder proteine aussehen
+[10:43:49] ! Mobiwoelfin has joined.
+[10:44:05] <jh> hallo Phia
+[10:44:11] <jh> und wb Mobiwoelfin ^^
+[10:44:47] <Mobiwoelfin> jh :-)
+[10:45:15] <elorie> hmm beethovenstraße ginge ja sogar
+[10:46:59] <Phia> jh: hallo
+[10:51:29] <jh> was ist denn ein hoki?
+[10:51:44] <elorie> ein fisch
+[10:51:47] <jh> meh
+[10:52:00] ! elorie has quit. (Quit: Leaving.)
+[10:52:21] <jh> !mensa hbk
+[10:52:21] <ZombiePoet> Mensa HBK am Freitag:
+[10:52:22] <ZombiePoet> C: Hähnchen “Cordon bleu” 1,80€
+[10:52:23] <ZombiePoet> V: Germknödel mit Vanillesauce 1,50€
+[10:52:24] <ZombiePoet> W: Tilapiafilet mit Kräuterbutter 2,20€
+[10:52:47] <jh> ich rate mal... Tilapia ist auch ein fisch?^^
+[10:52:58] <jh> jap^^
+[10:53:09] ! rohieb has joined.
+[10:53:14] <jh> hallo rohieb
+[10:53:30] <Mobiwoelfin> ein rohieb ist kein fisch.
+[10:53:38] ! nubix has joined.
+[10:53:44] <jh> hallo nubix
+[10:53:56] <nubix> moin moin
+[10:54:06] <nubix> weiß hier zufaellig ein wo proggen 1 stattfindet?
+[10:54:20] ! rohieb has quit. (Read error: Connection reset by peer)
+[10:54:28] <nubix> oh, ok, internet hilft
+[10:54:35] <nubix> vergesst es
+[10:54:36] <jh> 19.1 oder AM?
+[10:55:00] <nubix> sn19.1
+[10:55:18] ! nubix has quit. (Client Quit)
+[10:58:24] ! rohieb has joined.
+[11:00:09] ! rohieb_ has joined.
+[11:00:14] ! rohieb_ has quit. (Remote host closed the connection)
+[11:05:35] ! Silberwoelfin has joined.
+[11:26:07] ! nubix has joined.
+[11:32:06] ! elorie has joined.
+[11:44:23] ! Cascharity has joined.
+[11:44:59] <jh> hallo Cascharity
+[11:45:08] <Cascharity> jh: moin
+[11:45:08] <rohieb> hallo jh
+[11:45:16] <jh> rohieb laggt
+[11:45:24] <elorie> moin
+[11:45:41] <jh> elorie laggt mehr^^
+[11:45:46] <rohieb> jh: es ist ja auch noch früh
+[11:46:04] <jh> rohieb: wie kommts dass du schon bei bewusstsein bist?
+[11:46:07] <elorie> jh: neee
+[11:46:09] <jh> oder noch? :D
+[11:46:11] <jh> elorie: doch
+[11:46:17] <rohieb> winnie wollte joggen
+[11:46:20] <jh> ah
+[11:46:25] <jh> joghieb
+[11:46:40] <rohieb> ja
+[11:46:41] ! Mobiwoelfin has quit. (Ping timeout: 244 seconds)
+[11:46:43] <rohieb> mal duschen gehen ^^
+[11:46:52] <jh> duschieb
+[11:47:01] <elorie> jh: ich bin brav und hoere strucki zu
+[11:47:18] <rohieb> prog1?
+[11:47:36] <rohieb> stimmt, ist ja fr 11.30 immer übung
+[11:48:20] <jh> proglorie
+[11:48:22] ! Mobiwoelfin has joined.
+[11:48:25] ! Mobiwoelfin has quit. (Client Quit)
+[11:58:43] ! lurtz has joined.
+[12:20:02] ! lurtz1 has joined.
+[12:20:02] ! lurtz has quit. (Read error: Connection reset by peer)
+[12:24:34] <rohieb> hmm
+[12:24:40] <rohieb> ich hätte lust auf sushi
+[12:24:47] <rohieb> elorie: sushiessen? :)
+[12:24:57] <elorie> rohieb: NOM
+[12:25:01] <elorie> rohieb: gib ;)
+[12:25:06] <rohieb> elorie: nee hab doch selbst keins
+[12:25:12] <elorie> hpf
+[12:25:19] <rohieb> aber wäre bereit, in die stadt zu fahren, wenn jemand mitkommt ^^
+[12:25:46] <rohieb> !mensa
+[12:25:46] <ZombiePoet> Mensa Katharinenstraße am Freitag:
+[12:25:47] <ZombiePoet> A: Terrine Hühnerbrühe mit Eierstich 1,40€
+[12:25:48] <ZombiePoet> B: 6 Frühlingsrollen mit Ingwer- Fruchtsauce 1,50€
+[12:25:49] <ZombiePoet> C: Fischfilet gebacken 2,00€
+[12:25:50] <ZombiePoet> V: Fladenbrot mit Balkankäse und Tomate, überbacken 1,90€
+[12:25:51] <ZombiePoet> W: Schweinerückensteak mit Tomate und Mozzarella dazu Knoblauchsauce und Pommes frites 3,10€
+[12:25:54] <rohieb> achja, freitag.
+[12:26:16] <rohieb> V klingt nach einer alternative zu sushi
+[12:26:50] <elorie> das ist das wiederliche v das besser klingt als e sis
+[12:27:16] <jh> "wiederlich"^^
+[12:27:31] <jh> mh, hab auch noch keine mittagessenspläne
+[12:27:31] <elorie> :p
+[12:27:36] <rohieb> jh: hsushi?
+[12:27:41] <rohieb> -tab
+[12:27:44] <jh> rohieb: bist du auch für was anderes als shushi zu haben?
+[12:27:47] <rohieb> +tab - h
+[12:27:47] <jh> -buchstaben
+[12:27:57] <rohieb> jh: aber natürlich
+[12:28:01] <rohieb> kommt drauf an, für was :>
+[12:28:11] <jh> heißen sex?
+[12:28:16] <rohieb> ähh nicht mit dir
+[12:28:20] <jh> :'(
+[12:28:26] <rohieb> aber im schloss gibts ja auch $was anderes
+[12:29:06] <rohieb> zb bratwurst
+[12:29:11] <rohieb> oder mcces
+[12:29:16] <rohieb> oder nordsee
+[12:30:03] <jh> oh bratwurst
+[12:30:07] ! Ignifazius has joined.
+[12:30:56] <rohieb> elorie: ack zu 13h+ sushi im schloss?
+[12:31:07] <elorie> rohieb: nope muss dann arbeiten :/
+[12:31:10] <elorie> leider
+[12:31:22] <rohieb> ah ok
+[12:31:26] <rohieb> mehr geld verdienen für sushi? ^^
+[12:31:30] ! Ignifazius has quit. (Client Quit)
+[12:31:52] <rohieb> jh: du ack 13h+ bratwurst/sushi?
+[12:31:57] ! Ignifazius has joined.
+[12:32:38] <elorie> rohieb: genau
+[12:37:29] ! zynic has joined.
+[12:44:55] ! nubix has quit. (Quit: Leaving.)
+[12:45:12] ! elorie has quit. (Quit: Leaving.)
+[12:49:23] ! zynic has quit. (Ping timeout: 252 seconds)
+[12:49:39] <rohieb> jh: timeout
+[12:49:43] <rohieb> jh: ich mach mir mal was zu essen
+[12:53:14] <Silberwoelfin> rohieb: ups
+[12:53:29] <Silberwoelfin> rohieb: zu spät? :(
+[12:53:35] ! Cascharity has quit. (Read error: Connection reset by peer)
+[12:54:40] ! Debi has joined.
+[12:54:59] <jh> rohieb: 13h+ wäre ok gewesen^^
+[12:55:04] <jh> sorry, war nicht am rechner
+[12:55:27] ! ES has quit. (Quit: The cake is a lie!)
+[12:56:32] ! nubix has joined.
+[13:03:32] <jh> rohieb: was gibts denn bei dir zu essen?^^
+[13:03:34] <jh> winniereste?^^
+[13:04:01] <rohieb> äh
+[13:04:05] <rohieb> reispfanne
+[13:04:52] <jh> mh, silberwoelfin verteilt apfelsaft in meinem zimmer :[
+[13:05:04] <jh> rohieb: reispfanne für mich?
+[13:07:47] <Silberwoelfin> jh will mich aufschneiden :(
+[13:08:18] <rohieb> jh: ne, für mich
+[13:08:31] <jh> rohieb: dann muss /me verhungern? :'(
+[13:08:45] <rohieb> jh: nein
+[13:08:54] <jh> rohieb: also doch für mich? :)
+[13:08:58] <rohieb> jh: nein
+[13:09:02] <jh> rohieb: dann muss /me verhungern? :'(
+[13:09:05] ! csg has joined.
+[13:09:06] <rohieb> jh: nein
+[13:09:09] <jh> mh
+[13:09:14] ! lurtz1 has quit. (Quit: Leaving.)
+[13:09:16] <jh> das ist doch aber ausschließend
+[13:09:21] <rohieb> jh: nein
+[13:09:27] <jh> rohieb: sag mal ja
+[13:13:23] <rohieb> jh: nein
+[13:22:10] ! Silberwoelfin has quit. (Quit: Verlassend)
+[13:30:48] <jh> schon wieder marienkäfer
+[13:37:25] <rohieb> mariechenkäfer?
+[13:37:43] ! hashier has joined.
+[13:38:31] <rohieb> hashier: \o/
+[13:38:39] <hashier> rohieb: \o/
+[13:38:47] <rohieb> hashier: \o/
+[13:38:51] <rohieb> wie gehts?
+[13:39:10] <hashier> Ich sitze in einer Vorlesung!
+[13:39:33] <hashier> ångström 80127
+[13:39:48] <hashier> jetta bra, och då
+[13:40:12] <rohieb> ähhh ja ok ^^
+[13:40:44] <rohieb> google translate kennt "jetta" nicht
+[13:44:45] <hashier> sehr gut
+[13:46:40] ! elorie has joined.
+[13:48:47] ! csg has quit. (Ping timeout: 260 seconds)
+[13:50:54] <jh> rohieb: ja, an meinem fenster
+[13:50:56] <jh> hashier!
+[13:51:05] <nubix> uih ne raute
+[13:51:16] <rohieb> jh: keine eloriechenkäfer? ^^
+[13:51:27] <jh> mh, schokoerdnüsse sind irgendwie nicht so das gute mittagessen
+[13:51:28] <rohieb> ui ein nubi×
+[13:51:38] <jh> rohieb: nee, marienkäfer
+[13:51:51] <jh> kann die von unten angucken^^
+[13:52:00] <rohieb> jh: böseböse
+[13:52:10] <rohieb> nicht unschuldigen mariechenkäfern unter den rock kucken
+[13:52:10] <jh> hrhr
+[13:52:15] <jh> gibts da männchen und weibchen?
+[13:52:33] <hashier> jh!
+[13:53:15] <rohieb> jh: marienkäfer sind keine einzeller
+[13:53:41] <jh> alle nicht-einzeller haben männchen und weibchen?
+[13:55:22] <rohieb> hmm
+[13:55:33] <rohieb> wollte eben noch "ja" sagen, aber bin mir grad nicht mehr so sicher
+[13:56:06] <rohieb> aber mir fällt grad auch kein fall ein, wo das nicht so ist
+[13:57:06] <jh> http://de.wikipedia.org/wiki/Asexuelle_Fortpflanzung
+[13:57:07] <ZombiePoet> Title: Ungeschlechtliche Vermehrung – Wikipedia (at de.wikipedia.org)
+[13:58:25] <rohieb> ohhhhhhhhhhh http://e.asset.soup.io/asset/2443/3710_71f0_480.jpeg
+[13:58:40] <rohieb> jh: hast recht, pflanzen
+[14:15:23] ! ES has joined.
+[14:18:42] <rohieb> hm, ich muss mal ropen lernen
+[14:19:09] <nubix> rohieb: yep
+[14:20:27] <rohieb> das ist schwer
+[14:20:33] <nubix> es geht
+[14:20:38] <rohieb> wenn man abspringt, kann man ja nicht die richtung ändern ^^
+[14:20:46] <jh> ropen?
+[14:21:08] <rohieb> ja
+[14:21:10] <rohieb> hedgewars
+[14:21:17] <rohieb> das seilteil da
+[14:21:17] <jh> The Ropen is a flying cryptid[1] alleged to live in the vicinity of Papua New Guinea.
+[14:21:22] <rohieb> ne :D
+[14:21:23] <jh> achso
+[14:21:33] <jh> seit wann spielst du hedgewars?
+[14:23:11] <rohieb> seit letztens ^^
+[14:25:22] <rohieb> aber shoppa gegen den computer macht keinen spaß
+[14:26:18] <nubix> rohieb: dann halt im inet
+[14:32:32] <rohieb> aber da kann man nicht so gut ropen üben ^^
+[14:33:42] <nubix> doch, gerade dort
+[14:33:45] <nubix> da kannst du ja den profis zugucken
+[14:33:53] <nubix> da habe ich die besten sachen ueberhaupt gesehen
+[14:34:11] <nubix> als ich mir das erste mal ropes angeguckt habe hab ich den mund nicht mehr zu ekommen so genial waren die
+[14:34:48] ! Phia has quit. (Ping timeout: 240 seconds)
+[14:34:57] <nubix> Glaube das war Sh4d0w gegen Izack
+[14:35:03] <nubix> wow war das genial
+[14:40:05] ! Silberwoelfin has joined.
+[14:40:17] <Silberwoelfin> re
+[14:44:02] <jh> wb Silberwoelfin
+[14:44:22] <Silberwoelfin> thx jh :)
+[14:44:54] <hashier> ihr spielt also ncoh immer nicht teeworld
+[14:45:28] <jh> hashier: hab aber schon tee getrunken heute
+[14:49:45] <rohieb> nubix: mir ist die zeit bei shoppa immer zu kurz
+[14:49:49] <rohieb> oder ich fall irgendwo runter
+[14:49:59] <nubix> ja, das ist normal. geht mir auch so
+[14:50:07] ! Phia has joined.
+[14:50:14] <nubix> besonders seit dem sie das gameplay etwas geaendert haben
+[14:51:42] ! lurtz has joined.
+[14:53:28] ! Cascharity has joined.
+[14:55:01] <Cascharity> mäh, die neuen roten gummibärchen sind doof
+[14:57:14] <jh> es gibt neue rote gummibärchen?
+[14:58:13] <Nimos> anscheinend sind die wohl neu :O
+[15:00:00] <Cascharity> es gibt seit nem jahr oder so 2 sorten rote, und die eine ist doof
+[15:03:37] <Nimos> Das Sortiment wurde im August 2007 teilweise verändert (siehe Übersicht). Als Geschmacksrichtung kam Apfel neu hinzu. Apfel bekam die Farbe grün, und die Geschmacksrichtung Erdbeere, die bisher die Farbe grün hatte, wurde auf hellrot umgefärbt.
+[15:03:39] <Nimos> :D
+[15:07:12] ! PirateKing has quit. (Quit: Leaving.)
+[15:09:31] <rohieb> wtf
+[15:09:39] <rohieb> grad ein shoppa-race gesehen
+[15:09:49] <rohieb> mit nem russen :D
+[15:09:56] <rohieb> der hatte es aber wirklich drauf
+[15:10:53] ! Ignifazius has quit. (Quit: *Vanish*)
+[15:24:12] ! nubix has quit. (Quit: Leaving.)
+[15:56:22] ! nubix has joined.
+[16:05:35] <rohieb> hm. einkaufen.
+[16:05:37] <rohieb> away
+[16:05:41] ! Cascharity has quit. (Quit: Verlassend)
+[16:13:29] <jh> hm. tanzen.
+[16:13:30] <jh> away
+[16:13:31] <jh> :P
+[16:13:33] ! jh has quit. (Quit: jh)
+[16:14:29] <rohieb> tanzen o_O
+[16:19:04] <nubix> rohieb: tanzen ist toll
+[16:19:31] <nubix> zumindest mochtest ich es bei den fuer mich bis jetzt seltenen gelegenheiten
+[16:21:52] <Phia> nubix: was tanzt du denn so?
+[16:22:45] <nubix> wenn ich tanzen koennte wuerde ich dir darauf vernuenftig antworten koennen :)
+[16:24:19] <nubix> Ich kann es eigentlich nicht. Hatte nun aber bis jetzt recht selten mal die gelegenheit mich mal zu versuchen und fands eigentlich ganz toll
+[16:24:38] <Phia> nubix: beim unisport gibts kurse
+[16:25:30] <Phia> nubix: ich würd ja salsa empfehlen, weil man da nur einen tanz richtig und zwei so ein bisschen lernt, in den normalen tanzkursen lernt man ganz viele nur so ein bisschen und keinen richtig
+[16:26:04] <nubix> hm, danke für den tipp :)
+[16:26:33] <Phia> nubix: der nachteil ist, dass auf den meisten tanzgelegenheiten eher wenig salsa gespielt wird
+[16:26:46] <Phia> und wenn das dann das einzige ist, was man kann, ist das auch nicht so genial
+[16:27:00] <elorie> salsa ist toll btw
+[16:27:10] <Phia> elorie: ja, finde ich auch
+[16:27:28] <Phia> ich hatte in gö mal nen partner, mit dem ich im F-Kurs Salsa war
+[16:27:59] <Phia> war zwar dann doch mehr ein AF-Kurs, aber trotzdem super, wenn man irgendwann ein großes Figuren-Repertoire hat
+[16:28:19] <Phia> und man muss nicht ständig umschalten
+[16:28:43] <Phia> ich weiß, dass meine alte Tanzschule sowas auch für andere Tänze angeboten hat, z.B. zwei Wochenenden Diskofox-Kurs
+[16:28:52] <Phia> gibts sowas hier in BS?
+[16:29:39] <elorie> jop
+[16:29:47] <Phia> elorie: super, wo?
+[16:29:57] <elorie> haeusler hat zum beispiel ab und an we-kure
+[16:29:59] <elorie> kurse
+[16:30:02] <elorie> hoffman bestimmt ach
+[16:31:20] <Phia> oh wow, gleich diesen Sonntag gibts Discofox
+[16:33:53] <Phia> elorie: vielen dank für die tipps
+[16:36:39] ! PirateKing has joined.
+[16:42:50] <elorie> np
+[16:42:56] <elorie> hihi der kommt gerade richtig ^^
+[16:43:29] <Phia> elorie: hoffmann hat auch einen im november
+[16:43:35] <Phia> welche tanzschule ist denn besser?
+[16:43:55] <elorie> ich war bei haeusler, aber das ist in bs ne art glaubensfrage
+[16:48:16] <rohieb> elorie: hast du jh überzeugt? ^^
+[16:48:52] <rohieb> nom, > 8
+[16:49:10] <elorie> k.a.
+[16:49:29] <rohieb> nom
+[16:49:31] <rohieb> schokolade
+[16:49:35] <rohieb> like a sir
+[16:51:24] <rohieb> ohhh die lebt gefährlich...
+[16:51:31] <rohieb> *after 8 wegstell*
+[16:57:23] <nubix> hobbits #nom
+[16:57:41] <rohieb> hm. nochmal einen anlauf für sushi wagen?
+[17:04:11] ! rohieb has quit. (Quit: ...yo ho ho, and a bottle of rum!)
+[17:05:37] ! elorie has quit. (Quit: Leaving.)
+[17:09:06] ! rohieb has joined.
+[17:16:06] ! Tigaa_laptop has joined.
+[17:22:36] ! der_eq has joined.
+[17:28:07] ! Tigaa_laptop has left the channel.
+[17:50:18] ! Phia has quit. (Quit: Leaving.)
+[18:00:22] ! PirateKing has quit. (Quit: Leaving.)
+[18:09:05] ! lurtz has quit. (Read error: Connection reset by peer)
+[18:09:18] ! lurtz has joined.
+[18:14:44] ! jh has joined.
+[18:15:19] ! PirateKing has joined.
+[18:16:45] <jh> rohieb: emmy macht n tanzkurs^^
+[18:17:00] <rohieb> jh: du anscheinend auch
+[18:17:05] <rohieb> von emmy wusste ich das ja
+[18:17:11] <jh> rohieb: nee, ich hab Wechner-ersatz gespielt
+[18:17:19] <jh> weil der krank ist
+[18:17:29] <rohieb> k
+[18:17:32] <jh> rohieb: ja, aber sie war nicht da... stand aber auf der anmeldeliste
+[18:19:34] <rohieb> meh
+[18:19:36] <rohieb> blöde inga
+[18:19:44] <jh> wer ist inga?
+[18:20:50] <rohieb> inexpensive node for general applications
+[18:20:54] <rohieb> sensorknoten
+[18:21:00] <rohieb> aber er macht nicht, was ich will
+[18:21:51] <rohieb> achso... kein wunder -.-
+[18:22:00] <rohieb> muss ihn auch erst in den programmer-modus setzen
+[18:22:02] <rohieb> M(
+[18:22:14] <jh> tust du unidinge?
+[18:22:16] <jh> oder privat?
+[18:26:39] ! elorie has joined.
+[18:27:58] <rohieb> unidinge
+[18:27:59] <rohieb> mit inga
+[18:28:07] <rohieb> aus dem wsn-prakrikum
+[18:28:54] <jh> ah, das was winnie da auch hatte
+[18:30:09] <rohieb> die
+[18:30:12] <rohieb> die ist doch weiblich
+[18:33:49] <jh> das item
+[18:37:02] ! HH93 has joined.
+[18:37:26] ! HH93 has left the channel.
+[18:39:42] <rohieb> die inga
+[18:39:56] <jh> der knoten
+[18:45:48] ! PirateKing has quit. (Quit: Leaving.)
+[18:47:40] ! PirateKing has joined.
+[19:41:05] <rohieb> µ
+[19:41:52] <nubix> Ω
+[19:46:37] <Silberwoelfin> α
+[19:50:05] <nubix> x ≈ ƒ(x(
+[19:50:09] <nubix> x ≈ ƒ(x)
+[19:50:10] <nubix> damn
+[19:52:03] <jh> seid ihr griechen?
+[19:52:15] <nubix> seit wir griechen sind
+[19:52:52] ! nubix has quit. (Quit: Leaving.)
+[19:56:54] ! elorie has quit. (Quit: Leaving.)
+[20:26:08] ! Peace-Maker has joined.
+[20:49:00] ! Phia has joined.
+[20:59:36] ! Phia has quit. (Ping timeout: 240 seconds)
+[21:15:31] ! Phia has joined.
+[21:30:56] ! lurtz has quit. (Quit: Leaving.)
+[21:39:51] ! Bowdzone has joined.
+[21:46:35] <Phia> hat jemand Lust auf running out of time - den besten nachtcache aller zeiten - am samstag abend?
+[21:47:05] <Phia> oder haben den hier alle schon?
+[21:47:20] <jh> äh
+[21:47:24] <jh> den hast du doch auch?
+[21:47:53] <Phia> jh: ja, aber renés schwesterlein nicht, und alleine machts ja keinen spaß
+[21:49:01] <jh> Phia: ist die premium?
+[21:49:43] <PirateKing> jh: nee
+[21:49:52] <jh> PirateKing: die startzeit ist jetzt 20:00
+[21:50:01] <PirateKing> aha
+[21:50:04] <jh> also 20:00 CEST
+[21:50:31] <Phia> jh: danke
+[21:50:46] <Phia> dann müssen wir jetzt nur noch jemanden finden, der mitmachen will
+[21:52:20] <jh> vielleicht nubix?
+[22:02:24] <jh> Phia, PirateKing: interesse an http://www.opencaching.de/viewcache.php?cacheid=157693 ?
+[22:02:25] <ZombiePoet> Title: OCD541 c:geo - Hannover Event! (treffe die Entwickler) - Geocaching in Deutschland, Österreich und der Schweiz (at www.opencaching.de)
+[22:06:07] <Phia> jh: gute idee und gute idee
+[22:06:23] <Phia> wir schubsen grad noch kalender durch die gegend
+[22:06:29] <Phia> aber könnte klappen
+[22:15:40] <PirateKing> jh: wir melden uns mal an
+[22:18:51] ! winnie has joined.
+[22:18:54] <jh> super
+[22:18:58] <winnie> hallo alle!
+[22:18:59] <Silberwoelfin> winnie: \o/
+[22:19:03] <winnie> Stiefelwœlfin: \o/
+[22:19:04] <jh> dann muss ich mal mein oc.de passwort wiederfinden
+[22:19:06] <jh> winnie \o/
+[22:19:11] <winnie> jh: /0\
+[22:23:37] <jh> PirateKing: dein schwesterchen ist da auch wieder da?^^
+[22:31:53] <PirateKing> jh: am 12. dann vermutlich ja
+[22:54:50] ! Bowdzone has quit. (Read error: Connection reset by peer)
+[23:01:06] <rohieb> oh, running out of time...?
+[23:01:52] <winnie> running out of the matrix!
+[23:15:19] ! rohieb_ has joined.
+[23:18:54] ! rohieb has quit. (Ping timeout: 260 seconds)
+[23:21:13] <winnie> rohieb_: /0\
+[23:23:13] <jh> vpnhieb
+[23:29:16] ! rohieb_ is now known as crisp
+[23:29:25] ! crisp is now known as crispthing
+[23:29:33] <jh> nomnom?
+[23:29:46] ! crispthing is now known as crunchcrunch
+[23:30:23] ! crunchcrunch is now known as hallo
+[23:31:15] ! hallo is now known as drunkenmaster
+[23:32:01] ! drunkenmaster is now known as NyckSerf
+[23:32:39] ! NyckSerf is now known as agfaegasdga
+[23:39:38] ! Cascharity has joined.
+[23:48:37] ! agfaegasdga is now known as rohieb
+[23:58:39] <jh> Cascharity!
+[23:59:00] <rohieb> jh!
+[23:59:11] <jh> rohieb!

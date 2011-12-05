@@ -1,0 +1,628 @@
+[00:00:26] ! nubix1 has joined.
+[00:00:26] ! nubix has quit. (Read error: Connection reset by peer)
+[00:00:29] ! nubix1 has quit. (Changing host)
+[00:00:29] ! nubix1 has joined.
+[00:01:32] ! conqueror121 has joined.
+[00:01:36] ! Cascharity has quit. (Quit: Verlassend)
+[00:03:31] ! conqueror12 has quit. (Ping timeout: 258 seconds)
+[00:17:03] ! lurtz has quit. (Ping timeout: 248 seconds)
+[00:19:43] ! jh has joined.
+[00:24:55] <jh> morgen
+[00:34:07] ! Bowdzone has quit. (Quit: Bowdzone)
+[00:41:51] <jh> gn8
+[00:42:01] ! jh has quit. (Quit: jh)
+[00:45:17] ! PirateKing has quit. (Quit: Leaving.)
+[00:47:21] ! Sonea has joined.
+[00:51:43] ! conqueror121 has quit. (Read error: Connection reset by peer)
+[00:55:39] ! Sonea has quit. (Read error: Connection reset by peer)
+[01:04:53] ! Peace-Maker has quit. (Quit: Bye.)
+[01:10:12] <Phia> joke`: verschreck mir nicht die master-erstis
+[01:10:29] <joke`> Phia: Huh? Ich dachte, die mail ist so ok?
+[01:10:54] <joke`> Phia: Ansonsten schreib doch noch was aufbauendes dazu :)
+[01:11:06] <Phia> joa, hab ich grad
+[01:11:21] <Phia> fh-leute kriegen im normalfall jetzt gar keine auflagen mehr
+[01:12:02] <Phia> weil die rechtsabteilung magnor inzwischen verklickert hat, dass ein bsc info ein bsc info ist, egal woher, und er die alle ohne auflagen nehmen muss
+[01:12:19] <Phia> nur wenn man nicht bsc info heißt, kriegt man probleme
+[01:14:37] <joke`> Aha, ok SEHR GUT
+[01:14:45] <joke`> Schade, dass das so lange gedauert hat
+[01:14:52] <joke`> aber trotzdem definitiv erfreulich
+[01:15:04] <Phia> ja, das finde ich auch
+[01:15:34] <joke`> weil bei nicht bsc info kann das ja imho sogar sinnvoll sein
+[01:15:49] <joke`> bei informatikern/mathematikern mit nf info hingegen ist es imho reine schikane
+[01:16:34] ! ES has quit. (Quit: The cake is a lie!)
+[01:16:55] <Phia> naja, finde ich nicht unbedingt - klar, meine Auflagen waren der absolute Blödsinn, aber wie gesagt, das ist diesmal viiieeel besser gewesen und ich konnte mit magnor auch gut darüber diskutieren
+[01:17:23] <joke`> Jo, so wie jetzt kann ich damit auch leben
+[01:17:37] <joke`> aber da waren das ja auch durch die bank weg leute ohne info bsc
+[01:17:46] <joke`> in der vergangenheit hingegen...
+[01:17:51] <Phia> mir hätten in göttingen noch die pflichtmodule computernetze, datenbanken und betriebssysteme gefehlt
+[01:18:10] <Phia> folglich, wenn man mir davon was als auflage gegeben hätte, wäre es sinnvoll gewesen
+[01:18:16] <joke`> klar
+[01:19:06] <joke`> oder dass man zu faul war ,den einzelfall anzugucken oder beides
+[01:19:28] <Phia> und da das mit den neuen formularen jetzt erstens einfacher zu sehen ist, wo da was fehlt, und zweitens sich magnor oder seine sekretärinnen diesmal offensichtlich viel mühe gegeben haben, finde ich die jetzige situation schon nen ganz guten kompromiss
+[01:20:01] <joke`> jo, wie gesagt so finde ich es auch ok
+[01:20:17] <Phia> naja, ich werde ja wohl wieder zulassungsausschuss machen
+[01:20:35] <Phia> also wird es zum sommer auch wieder vernünftig laufen
+[01:20:44] <joke`> gut
+[01:21:21] <Phia> ja, ich auch, aber das kriegen wir in absehbarer zeit nicht durch - also hock ich mich lieber einmal im semester ein stündchen mit den unterlagen hin und überprüfe das
+[01:21:29] <Phia> dann passt das schon
+[01:21:51] <joke`> Jep
+[01:21:51] <Phia> dass zumindest niemand auflagen kriegt, die unsinnig sind
+[01:21:57] <Phia> so, ich muss ins bett
+[01:21:58] <Phia> n8
+[01:22:02] <joke`> gute nacht
+[01:22:15] ! Phia has quit. (Quit: Leaving.)
+[01:23:06] ! joke` has quit. (Quit: Verlassend)
+[01:37:03] ! blaine has quit. (Ping timeout: 245 seconds)
+[01:37:09] ! blaine has joined.
+[02:15:16] ! elorie has quit. (Quit: Leaving.)
+[03:03:18] ! nubix1 has quit. (Read error: Connection reset by peer)
+[03:03:21] ! nubix has joined.
+[03:05:25] ! nubix1 has joined.
+[03:05:25] ! nubix has quit. (Read error: Connection reset by peer)
+[03:05:31] ! nubix1 has quit. (Changing host)
+[03:05:31] ! nubix1 has joined.
+[03:36:14] ! nubix1 has quit. (Quit: Leaving.)
+[06:45:02] ! conqueror12 has joined.
+[06:45:33] ! Cascharity has joined.
+[07:02:21] ! Cascharity has quit. (Read error: Connection reset by peer)
+[08:15:58] ! Ignifazius has joined.
+[08:19:21] ! Phia has joined.
+[08:23:38] ! lurtz has joined.
+[08:27:52] ! Mobiwoelfin has joined.
+[08:28:00] <Mobiwoelfin> moin
+[08:34:36] ! Mobiwoelfin has quit. (Ping timeout: 240 seconds)
+[08:40:56] ! jh has joined.
+[08:41:17] <jh> nabend
+[08:47:21] <lurtz> jh: gute nacht wäre auch ganz treffend
+[08:47:25] * lurtz ist müde
+[08:50:03] ! Mobiwoelfin has joined.
+[08:56:53] <jh> lurtz: spring in nen see
+[08:56:55] <jh> Mobiwoelfin!
+[08:57:13] <Mobiwoelfin> jh
+[08:57:20] <Mobiwoelfin> +!
+[08:57:46] * Mobiwoelfin ist auch noch müde
+[08:58:03] <Mobiwoelfin> und kalt
+[09:00:12] <Mobiwoelfin> zwei M19 und beide zum brechen voll :-/
+[09:03:02] <Mobiwoelfin> und alles studenten, nu ist der bus leer o.O
+[09:05:12] <jh> ^^
+[09:06:01] ! PirateKing has joined.
+[09:10:59] <lurtz> Mobiwoelfin: wenn die busse voll sind, kann dir ja nicht kalt sein
+[09:11:10] <jh> lurtz: sie ist ja nicht mehr im bus!
+[09:15:33] ! blaine has quit. (Quit: This computer has gone to sleep)
+[09:19:45] <lurtz> boah so früh aufstehen
+[09:19:53] <lurtz> und mathematiker machen das regelmäßig
+[09:20:02] <lurtz> was ist nur in die gefahren
+[09:23:51] <jh> lurtz: naja, mathematiker studieren ja auch mathe
+[09:23:57] <jh> da ist halt irgendwie was kaputt
+[09:30:17] <lurtz> hast du noch irgendeine mathevorlesung besucht?
+[09:30:39] <jh> wie noch eine?
+[09:31:07] <lurtz> wahlpflicht
+[09:31:18] <lurtz> ich hatte überlegt eine mathewahlpflicht vorlesung zu machen
+[09:31:21] <jh> würde ich nie tun!
+[09:31:40] <lurtz> ja die sind auch alle um 8
+[09:31:53] <lurtz> z.b. die von sonar am mittwoch war von 8:00 bis 8:45
+[09:32:00] ! Bowdzone has joined.
+[09:32:05] ! Mobiwoelfin has quit. (Ping timeout: 240 seconds)
+[09:33:32] <jh> lurtz: ich war nur in sonar-vorlesungen um 18.30 oder so :P
+[09:35:40] <lurtz> gibt es da noch was außer gdm?^^
+[09:37:09] <jh> von sonar? eher nicht^^
+[09:37:09] ! lurtz has quit. (Read error: Connection reset by peer)
+[09:38:02] ! lurtz has joined.
+[09:39:29] ! lurtz has quit. (Read error: Connection reset by peer)
+[09:42:54] ! Ignifazius has quit. (Quit: *Vanish*)
+[09:46:02] ! Ignifazius has joined.
+[09:49:45] ! bgalias has joined.
+[09:54:22] ! lurtz has joined.
+[09:56:38] ! Ignifazius has quit. (Ping timeout: 276 seconds)
+[09:56:53] ! lurtz has quit. (Read error: Connection reset by peer)
+[09:57:42] ! lurtz has joined.
+[09:58:45] ! ES has joined.
+[09:59:14] <ES> !mensa
+[09:59:14] <ZombiePoet> Mensa Katharinenstraße am Donnerstag:
+[09:59:15] <ZombiePoet> A: Terrine Mexikanische Feuersuppe mit Rauchfleisch 1,40€
+[09:59:16] <ZombiePoet> B: Kartoffelpuffer 1,50€
+[09:59:17] <ZombiePoet> C: Pfannengyros AT 1,90€
+[09:59:18] <ZombiePoet> V: Gemüsegratin “Italia” 1,90€
+[09:59:19] <ZombiePoet> W: Lachsfilet mit Spargelsauce, Dampfkartoffeln 3,10€
+[10:07:12] <jh> yay gyros
+[10:07:46] ! jh has quit. (Quit: jh)
+[10:09:25] <Phia> eher yay Kartoffelpuffer
+[10:11:55] ! Silberwoelfin has joined.
+[10:12:43] ! Silberwoelfin has quit. (Read error: Connection reset by peer)
+[10:13:12] ! Silberwoelfin has joined.
+[10:13:40] <Silberwoelfin> hi
+[10:14:13] ! Silberwoelfin has quit. (Read error: Connection reset by peer)
+[10:18:14] ! Silberwoelfin has joined.
+[10:18:43] ! Silberwoelfin has quit. (Read error: Connection reset by peer)
+[10:19:31] ! elorie has joined.
+[10:22:51] ! Silberwoelfin has joined.
+[10:23:14] ! Silberwoelfin has quit. (Read error: Connection reset by peer)
+[10:24:02] ! Silberwoelfin has joined.
+[10:24:26] ! nubix has joined.
+[10:24:44] ! Silberwoelfin has quit. (Read error: Connection reset by peer)
+[10:25:14] ! nubix has quit. (Client Quit)
+[10:25:42] ! Silberwoelfin has joined.
+[10:26:10] ! nubix has joined.
+[10:26:15] ! Silberwoelfin has quit. (Read error: Connection reset by peer)
+[10:27:13] ! Silberwoelfin has joined.
+[10:27:43] ! Silberwoelfin has quit. (Read error: Connection reset by peer)
+[10:27:53] ! nubix has quit. (Client Quit)
+[10:28:37] ! Silberwoelfin has joined.
+[10:29:43] ! Silberwoelfin has quit. (Read error: Connection reset by peer)
+[10:30:08] ! Silberwoelfin has joined.
+[10:31:15] ! Silberwoelfin has quit. (Read error: Connection reset by peer)
+[10:31:38] ! Silberwoelfin has joined.
+[10:32:43] ! Silberwoelfin has quit. (Read error: Connection reset by peer)
+[10:33:08] ! Silberwoelfin has joined.
+[10:41:38] ! Silberwoelfin has quit. (Ping timeout: 260 seconds)
+[10:41:39] ! bgalias has quit.
+[10:48:23] ! Tigaa_laptop has joined.
+[10:48:41] ! Tigaa_laptop has left the channel.
+[10:48:42] ! jh-mobil has joined.
+[10:49:36] <jh-mobil> PirateKing, Phia: habt ihr interesse an einem nachtcache freitag abend?
+[10:49:53] <jh-mobil> 6 ZS, T4, D3.5
+[10:49:58] <jh-mobil> Glaub ich
+[10:50:06] <jh-mobil> Ist premium
+[10:50:26] <Phia> jh-mobil: T4 ist ordentlich - also ich bin dabei, wenn PirateKing dabei ist
+[10:50:37] <Phia> jh-mobil: hast du interesse an mensa?
+[10:50:48] <Phia> gibt Kartoffelpuffer
+[10:50:49] <jh-mobil> Phia: ja
+[10:50:58] <Phia> jh-mobil: super, wann?
+[10:51:06] <Phia> ich hab schon wieder hunger
+[10:51:09] <jh-mobil> Nee, gyros!
+[10:51:16] <Phia> jh-mobil: das auch
+[10:51:28] <jh-mobil> Mh, wäre eher so für 12:30++
+[10:52:06] <Phia> jh-mobil: nur nicht zu spät, um 13 uhr wirds voll
+[10:52:11] <Phia> also 12:30
+[10:52:17] <jh-mobil> Jo, ok
+[10:53:14] <jh-mobil> Noch 7 nummern...
+[10:53:34] <jh-mobil> Dann darf ich verbrecherfotos abgeben^^
+[10:55:34] <elorie> jh-mobil: pass oder perso?
+[10:55:50] <jh-mobil> elorie: perso
+[10:55:53] ! Silberwoelfin has joined.
+[10:56:01] <elorie> :)
+[10:56:17] ! Silberwoelfin has quit. (Read error: Connection reset by peer)
+[10:56:39] <jh-mobil> Noch 2!
+[10:56:52] <jh-mobil> 1!
+[10:57:00] ! Silberwoelfin has joined.
+[11:02:10] <jh-mobil> Das ging schnell
+[11:02:46] <jh-mobil> Die frage nach der augenfarbe find ich ja immer süß...
+[11:03:58] ! elorie has quit. (Quit: Leaving.)
+[11:05:29] <Silberwoelfin> jh-mobil: kannst ja mal mit rot antworten^^
+[11:06:31] ! nubix has joined.
+[11:07:04] <jh-mobil> Silberwoelfin: ^^
+[11:07:14] <jh-mobil> nubix: 1230 mensa?
+[11:07:15] <Silberwoelfin> jh-mobil: wie kommts eig, dass du jetzt einen neuen perso brauchst? normal wäre doch um die geburtstag 16, 21, 26?
+[11:07:30] <nubix> jh-mobil:  ne hab den ganzen tag vorlesung
+[11:07:49] <jh-mobil> Silberwoelfin: du weißt wann ich geb hab...?
+[11:08:06] <Silberwoelfin> jh-mobil: zwei monate
+[11:08:16] <Wechner> jh-mobil: warum hast du den nicht im November, als es noch den alten, sicheren gab, "verloren"? :p
+[11:11:04] ! nubix has quit. (Client Quit)
+[11:11:15] <Silberwoelfin> jh-mobil: ist die wartezeit auf so nen perso jetzt schon so groß?
+[11:12:47] ! nubix has joined.
+[11:13:12] ! nubix has quit. (Client Quit)
+[11:14:41] ! nubix has joined.
+[11:14:41] ! nubix has quit. (Client Quit)
+[11:16:02] ! jh-mobil2 has joined.
+[11:16:35] <jh-mobil2> Wechner: vielleicht bin ich nicht paranoid genug ;)
+[11:17:21] <jh-mobil2> Silberwoelfin: mein aktueller ist bis zum 17.12. haltbar und die beantragung dauert 3-4 wochen
+[11:17:30] <Wechner> jh-mobil: aber du bist Informatiker! und dieser ganze ePerso Verschlüsselungskram muss jeden Informatiker gruseln
+[11:17:43] <jh-mobil2> Und das war beim letzten vermutlich ähnlich, Silberwoelfin
+[11:18:04] <jh-mobil2> Damit verschiebt sich das imo jedes mal nach vorne
+[11:18:05] ! jh-mobil has quit. (Ping timeout: 240 seconds)
+[11:18:20] <jh-mobil2> Wechner: Faulheit > Grusel
+[11:18:26] <jh-mobil2> :P
+[11:19:24] <jh-mobil2> So, ich tu jetzt mal so als würd ich arbeiten... cu@mensa@1230
+[11:19:26] ! jh-mobil2 has quit. (Client Quit)
+[11:21:57] <Silberwoelfin> die gebühr für den neuen perso ist eine zumutung...
+[11:25:56] ! soney has joined.
+[11:26:10] ! Silberwoelfin has quit. (Ping timeout: 244 seconds)
+[11:29:01] ! nubix has joined.
+[11:30:01] ! elorie has joined.
+[11:40:57] <nubix> !mensa
+[11:40:58] <ZombiePoet> Mensa Katharinenstraße am Donnerstag:
+[11:40:59] <ZombiePoet> A: Terrine Mexikanische Feuersuppe mit Rauchfleisch 1,40€
+[11:41:00] <ZombiePoet> B: Kartoffelpuffer 1,50€
+[11:41:01] <ZombiePoet> C: Pfannengyros AT 1,90€
+[11:41:02] <ZombiePoet> V: Gemüsegratin “Italia” 1,90€
+[11:41:03] <ZombiePoet> W: Lachsfilet mit Spargelsauce, Dampfkartoffeln 3,10€
+[11:41:16] ! lurtz has quit. (Quit: Leaving.)
+[11:42:13] ! Silberwoelfin has joined.
+[11:44:38] ! Bowdzone has quit. (Read error: Connection reset by peer)
+[11:53:34] ! Phia has quit. (Quit: Leaving.)
+[12:00:56] ! lurtz has joined.
+[12:04:53] ! nubix has quit. (Quit: Leaving.)
+[12:05:36] <elorie> !nom
+[12:05:36] <ZombiePoet> Mensa Katharinenstraße am Donnerstag:
+[12:05:37] <ZombiePoet> A: Terrine Mexikanische Feuersuppe mit Rauchfleisch 1,40€
+[12:05:38] <ZombiePoet> B: Kartoffelpuffer 1,50€
+[12:05:39] <ZombiePoet> C: Pfannengyros AT 1,90€
+[12:05:40] <ZombiePoet> V: Gemüsegratin “Italia” 1,90€
+[12:05:41] <ZombiePoet> W: Lachsfilet mit Spargelsauce, Dampfkartoffeln 3,10€
+[12:06:06] ! elorie has quit. (Quit: Leaving.)
+[12:09:53] <Nimos> !mensa
+[12:09:54] <ZombiePoet> Mensa Katharinenstraße am Donnerstag:
+[12:09:55] <ZombiePoet> A: Terrine Mexikanische Feuersuppe mit Rauchfleisch 1,40€
+[12:09:56] <ZombiePoet> B: Kartoffelpuffer 1,50€
+[12:09:57] <ZombiePoet> C: Pfannengyros AT 1,90€
+[12:09:58] <ZombiePoet> V: Gemüsegratin “Italia” 1,90€
+[12:10:00] <ZombiePoet> W: Lachsfilet mit Spargelsauce, Dampfkartoffeln 3,10€
+[12:10:03] <Nimos> oh, da stands ja schon :D
+[12:11:39] ! nubix has joined.
+[12:25:51] ! ES has quit. (Quit: The cake is a lie!)
+[12:29:12] ! soney has quit. (Ping timeout: 244 seconds)
+[12:29:41] ! lurtz has quit. (Quit: Leaving.)
+[12:31:16] ! Silberwoelfin has quit. (Ping timeout: 244 seconds)
+[12:32:16] ! Cascharity has joined.
+[12:34:59] ! elorie has joined.
+[12:36:08] ! elorie has quit. (Client Quit)
+[12:57:16] ! ES has joined.
+[13:03:09] ! Sonea has joined.
+[13:08:48] ! blaine has joined.
+[13:16:58] ! Phia has joined.
+[13:19:57] ! nubix has quit. (Quit: Leaving.)
+[13:20:10] <Phia> .
+[13:24:25] ! nubix has joined.
+[13:24:35] ! bgalias has joined.
+[13:27:42] ! nubix has quit. (Client Quit)
+[13:28:33] ! Cadvan has joined.
+[13:29:42] ! Wechner has quit. (Ping timeout: 256 seconds)
+[13:29:42] ! Cadvan is now known as Wechner
+[13:29:43] ! Wechner has quit. (Changing host)
+[13:29:43] ! Wechner has joined.
+[13:41:00] ! elorie has joined.
+[13:43:09] ! nubix has joined.
+[13:45:04] ! bgalias has left the channel.
+[13:51:35] ! Sonea has quit. (Quit: Leaving.)
+[13:55:55] ! pipboy20k has joined.
+[13:56:17] <pipboy20k> joho
+[13:56:43] <elorie> hallo pip
+[13:57:46] <ES> hat er sie ausbrechen lassen?^^
+[13:58:32] <elorie> oh ich hab von der oelsnitz aber vorhin auf dem campus gesehen o.O
+[13:59:22] <pipboy20k> der hat nen vortrag
+[13:59:38] <pipboy20k> ES, noe, hat sich 3 mal verhaspelt und jetzt erstmal keine lust mehr..
+[13:59:45] ! lurtz has joined.
+[13:59:53] ! soney has joined.
+[13:59:56] <ES> lol
+[14:02:12] <pipboy20k> schlage Altstadttreff vor
+[14:02:20] <serj> pipboy20k: yo
+[14:02:27] <pipboy20k> und non ToGo Cocktail vom sausa
+[14:02:28] <pipboy20k> aha?
+[14:02:33] <pipboy20k> haus raus
+[14:02:37] <serj> funzel, luke, altstadttreff, mi
+[14:02:43] <pipboy20k> fein
+[14:02:53] <serj> und wenn wir zeit haben sausa
+[14:02:53] <pipboy20k> luke war ich noch nicht
+[14:02:59] <serj> luke ist geil
+[14:03:15] <serj> alles klar
+[14:03:20] <serj> wenn du die nr hast
+[14:05:17] <pipboy20k> jo, habe ich^^
+[14:11:10] ! Ignifazius has joined.
+[14:15:15] ! joke` has joined.
+[14:25:24] ! pipboy20k has quit. (Ping timeout: 240 seconds)
+[14:27:04] <elorie> http://www.amazon.de/review/R1IKUVFJ3G0W0D/ref=cm_cr_rdp_perm
+[14:27:06] <ZombiePoet> Title: Amazon.de: Der Schnitter "achimlichtenhagen"ss Rezension von Battlefield 3 - Limited Edition (at www.amazon.de)
+[14:32:43] <joke`> elorie: HULD@Rezension
+[14:33:37] <joke`> ES: lustig ists so oder so ;)
+[14:34:11] <soney> DooMMasteR: https://www.youtube.com/watch?v=W1ZtBCpo0eU&feature=youtu.be
+[14:34:13] <ZombiePoet> Title: If Quake was done today - YouTube (at www.youtube.com)
+[14:34:39] ! Cascharity has quit. (Quit: Verlassend)
+[14:34:48] <joke`> Inwiefern?
+[14:35:01] <ES> weil das weltfremde panikmache ist
+[14:35:51] <joke`> Naja ich habs als satire gelesen
+[14:37:50] <joke`> Das kann man imho aber nicht den schreiber anlasten
+[14:38:47] <ES> und ich bezweifle sogar, dass es es satirisch meinte
+[14:40:14] <elorie> das ist satirisch gemeint
+[14:41:45] <elorie> schau dir einfach mal an wie viele 1*-bewertungen es gibt
+[14:41:56] <elorie> so eine bewertung bezieht sich ja ncht nur auf spielspaß
+[14:42:11] <ES> das sieht mir eher nach ernster kritik aus, die nochmal in etwas witz gepackt wurde, um ihren schachsinnsgehalt zu cachieren
+[14:44:54] ! Ignifazius has quit. (Quit: *Vanish*)
+[14:47:31] ! pipboy20k has joined.
+[14:47:59] ! nubix has quit. (Quit: Leaving.)
+[14:48:20] ! rohieb has joined.
+[14:49:51] ! rohieb has quit. (Remote host closed the connection)
+[14:50:17] ! rohieb has joined.
+[14:52:18] <Wechner> ES: Origin verstößt gegen deutsches Recht und ist unverzichtbarer Teil von Battlefield 3, ergo kann man auch BF3 dafür schlecht bewerten
+[14:52:50] ! lurtz has quit. (Remote host closed the connection)
+[14:52:58] ! lurtz has joined.
+[14:55:47] ! soney has quit. (Read error: Connection reset by peer)
+[14:55:55] <Wechner> die Tools verstoßen aber gegen rechtlich gültige Teile der EULA und damit würdest du dann gegen deutsches Recht verstoßen
+[14:56:00] ! soney has joined.
+[14:56:12] <Wechner> außerdem machen die meisten das Spiel nicht schlecht
+[14:56:27] <Wechner> sondern sagen "Top-Spiel, aber EA verkackts mit Origin, das muss aufhören"
+[14:56:55] ! elorie has quit. (Quit: Leaving.)
+[14:57:56] <ES> *ea
+[14:59:34] <Wechner> ist nur eine Frage der persönlichen Gewichtung
+[15:00:01] <ES> ober bei star craft 2
+[15:00:15] <Wechner> die Rezension oben hat sich auch über die Accountbindung beschwert, richtig
+[15:00:18] <ES> oder bei anderen spielen wo es solche spionagefunktionen gibt
+[15:00:22] <Wechner> das ist aber nicht der Kritikpunkt an BF3
+[15:00:32] <Wechner> damit haben sich die meisten bei den meisten anderen Spielen schon abgefunden
+[15:00:50] <Wechner> die die du genannt hast, Assassins Creed, Splinter Cell, ... alle mit Accountbindung
+[15:00:55] <Wechner> und dennoch gute Bewertungen
+[15:01:01] <Wechner> genau
+[15:01:05] <ES> sc 2, inhalt des RAMs an ea senden
+[15:01:19] <Wechner> ok, das wusste ich nich,t hab aber auch kein SC2 ;)
+[15:01:28] <ES> ich auch nicht, aber nur als bsp
+[15:01:45] <ES> es gibt genug spiele, die halt ne menge daten nach hause schicken
+[15:01:51] <Wechner> aber der Ubisoft-Launcher oder Steam senden halt "nur" deine Spielstände, und selbst das kann man einstellen
+[15:02:01] <Wechner> sonst prüfen sie nur die Lizenz dieses einen Spiels, und das war's
+[15:02:16] <Wechner> kein Rumschnüffeln auf der Festplatte, kein Nutzungsverhalten nach Hause schicken, nichts ...
+[15:02:41] <Wechner> das sagt EA, ja
+[15:02:53] <Wechner> aber so wie ich das sehe, macht Origin mehr
+[15:03:08] <Wechner> oder warum greift es auf die Daten der Festplatte zu, wie Dokumente, Steuerdaten, SMS?
+[15:03:21] <ES> ich hab mal nachgesehen, was es wirklich _sendet_, und das war mein key und meine settings
+[15:04:00] <Wechner> (noch) nicht?
+[15:04:23] <Wechner> vielleicht auch nur, weil du keine EA-Titel ohne Lizenz auf dem Rechner hast
+[15:04:52] <Wechner> oder wie leicht wäre es, Origin so zu cracken, dass es als Malware den ganzen Kram an Phisher schickt (siehe Staatstrojaner-Diskussion)?
+[15:05:02] <Wechner> und keiner würde es merken, weil Origin greift ja eh auf alles zu, das wird schon ok sein
+[15:05:28] <ES> die selben potentiale haben auch steam und konsorten
+[15:05:40] <Wechner> eher weniger
+[15:06:02] <Wechner> wenn Steam hohe I/O-Last erzeugt und in Daten rumschnüffelt, die nicht zu seinen Spielen gehören, wäre ich alarmiert
+[15:06:21] <ES> ein programm, das meinen RAM inhalt sendet ist doch besser als jeder keysniffer
+[15:06:28] <Wechner> ja, klar
+[15:06:41] ! nubix has joined.
+[15:06:47] <Wechner> wäre für mich auch ein Grund, SC2 nicht zu kaufen, und/oder das schlecht zu bewerten
+[15:09:08] <Wechner> geb ich dir schon Recht, ja
+[15:09:18] <Wechner> in vielen Fällen sind allein die Publisher die "Verbrecher"
+[15:09:26] <Wechner> und nicht die guten Spiele und ihre Entwickler
+[15:09:53] <Wechner> nur ich bin der Meinung, wenn es Teil des Spiels ist, egal ob wegen Entwickler oder Publisher, bewerte ich es als Teil des Spiels ...
+[15:10:01] <Wechner> und ich hoffe, die Publisher merken mal die Einschläge ...
+[15:10:31] <ES> ok, aber rechtfertig _ein schlechter teil eines ansonsten topspiels eine 1-stern rezension?
+[15:11:04] <Wechner> IMHO, ja
+[15:11:20] ! elorie has joined.
+[15:11:34] <Wechner> und für alles andere muss man von Amazon ein differenzierteres Bewertungssystem fordern ;)
+[15:12:15] <ES> das sowieso^^
+[15:14:05] <Wechner> aber ich komm auch wieder zurück auf mein Argument von oben: alles eine Frage der persönlichen Gewichtung, als Informatiker und Datenschutz-/Privacy-affiner Mensch ist mir das sehr wichtig ... und zwar unabhängig davon, ob der Publisher die Rechte nutzt oder nur theoretisch nutzen könnte, es ist widerrechtlich und dreist, so etwas bei Kunden zu installieren bzw. in die EULA zu schreiben ... ergo, schlechte Bewertung
+[15:14:36] <Wechner> und die guten Bewertungen für Technik, Grafik, etc. kann man fundiert und differenziert sowieso eher bei Gamestar & Co. einsammeln und nicht bei Kunden ;)
+[15:15:55] <elorie> bzw die stehen wenn eh im text und sind nicht durch sternchen auszudruecken
+[15:16:29] <Wechner> und gerade die Spanne/Differenz zwischen Top-Wertungen in vielen Zeitschriften und schlechten Kundenbewertungen gibt ja genau das Spannungsfeld zwischen überragender Technik aber scheiß Spyware wieder :)
+[15:17:22] <Wechner> ES: gute Frage, beim Ubisoft-Launcher und dem Online-Zwang (und der telefoniert ja nicht nach Hause) gab's ähnliche Proteste
+[15:17:36] <Wechner> nur hat es sich trotzdem wie warme Semmeln verkauft (wie BF3 und SC2 ja auch)
+[15:17:59] <Wechner> und die restlichen lauten Kritiker wurden beruhigt, als der Launcher nicht mehr permanenten Onlinezwang gefordert hat
+[15:18:30] <Wechner> und wie gesagt, SC2, keine Ahnung, vielleicht sind Blizzard-Fans einfach die Apple-Jünger der Computerspiele ;)
+[15:19:26] <Wechner> ja, aber größtenteils um die Teile, die keinen interessieren ;)
+[15:19:36] <Wechner> der Spyware-Schmarrn ist immer noch dirn
+[15:19:41] <Wechner> ...drin
+[15:19:58] <ES> finde ich doch relativ wichtig
+[15:20:24] <Wechner> klar, ja
+[15:20:29] <Wechner> der ganze Marketing-Kram ist raus
+[15:20:32] <Wechner> auch sehr wichtig
+[15:21:05] <Wechner> aber Scannen der Festplatte und Übermittlung der gefundenen (EA-)Dinge inkl. kompletter PC-Konfiguration, etc. ist immer noch drin
+[15:21:14] <Wechner> und mindestens genau so wichtig, wenn nicht gar wichtiger
+[15:21:36] <Wechner> weil die Daten sensibler und der Verwendungszweck unklarer sind
+[15:22:14] <ES> ja, und da warte ich nur noch auf ein gerichtsurteil, das das verbietet
+[15:22:23] <ES> staatsanwaltschaft ist ja schon dran
+[15:22:33] <Wechner> echt?
+[15:22:40] <ES> jupp
+[15:23:02] <Wechner> ich dachte, weil es nur gegen Datenschutz verstößt, sind maximal durch die Beauftragten verhängte Strafen möglich
+[15:23:27] <Wechner> hm, ich hab nur gehört, dass der Datenschutzbeauftragte von NRW dran ist
+[15:23:30] <Wechner> weil EA da seinen Sitz hat
+[15:24:32] <Wechner> ah, ich les gerade, ich muss einen Teil meiner Aussage bzgl. Sandbox revidieren:
+[15:24:35] <Wechner> "Mit dem Freeware-Programm Sandboxie können Sie EAs Schnüffelsoftware in eine virtuelle Festplatten-Partition verbannen, in der es sich selbst ausspionieren kann. Und das völlig legal und ohne, dass EA etwas dagegen unternehmen könnte."
+[15:25:33] <ES> ahh, ok, deswegen kam mir deine aussage auch so komisch vor, ich hatte nur keinen gegenteilbeweis
+[15:26:35] <Wechner> hm, hier steht unter möglichen Folgen (von einem Rechtsanwalt) nichts mit Klagen:
+[15:26:36] <Wechner> http://www.gamestar.de/spiele/battlefield-3/artikel/analyse_zur_eula_von_ea_origin,45612,2561554,4.html
+[15:26:38] <ZombiePoet> Title: Spiele-Special: Analyse zur EULA von EA Origin - Der Teufel im Vertragsdetail bei GameStar.de (at www.gamestar.de)
+[15:26:56] <Wechner> nur Recht der Verbraucher auf Umtausch und Auskunft über die gespeicherten Daten
+[15:27:04] <Wechner> Bußgeld durch Datenschutzbehörden
+[15:27:16] <Wechner> und Abmahnungen von Mitbewerbern oder Verbraucherschutzzentralen
+[15:27:40] <ES> ach ja eins noch, origin liest auch keine daten wo es nichts zu suchen hat
+[15:28:00] <ES> sondern nur die in der eula angegebenen
+[15:28:23] <Wechner> EA sagt, dass es nur die Installations und temporären Ordner anfasst, ja
+[15:28:30] <Wechner> um Berechtigungen zu ändern
+[15:28:37] <Wechner> klingt ok
+[15:29:01] <Wechner> dennoch gab's Videos, dass es in anderen Pfaden über SysCalls auf irgendwas zugegriffen hat, Echtheit natürlich nicht nachzuweisen
+[15:29:07] <Wechner> und selbst hab ich kein BF3
+[15:29:39] <Wechner> dennoch steht immer noch in der EULA, dass EA den Rechner nach anderen EA-Produkten durchsucht und ihre Lizenzen ohne extra Benachrichtigung prüfen kann
+[15:29:48] <Wechner> unabhängig ob Origin das macht, es steht da noch
+[15:30:19] <Wechner> spielt keine Rolle, selbst wenn es nur den Dateinamen kennt, kann das schon meine Privacy (unrechtmäßig) verletzen
+[15:30:34] <Wechner> es hat da komplett nichts zu suchen
+[15:31:36] <ES> tja, aber so was ist schon seit 10 jahren oder so standard, siehe starforce kopierschutz
+[15:33:38] <Wechner> ES: http://www.gamestar.de/spiele/battlefield-3/news/origin,45612,2561714.html Kommentar Nr. 4
+[15:33:39] <ZombiePoet> Title: Origin - Stellungnahme und neue Nutzungsbestimmungen - News bei GameStar.de (at www.gamestar.de)
+[15:33:45] <Wechner> gibt auch deutlich kritischere Stimmen
+[15:35:46] <Wechner> naja, letztlich bleibt nur zu sagen: wenn sie von Anfang an oder auch jetzt genau offen gelegt hätten, welche Daten wann wie gesammelt und wohin wie geschickt und weiterverarbeitet werden, wäre die ganze Diskussion hinfällig
+[15:35:56] <Wechner> womit wir wieder beim Transparenz-Stichwort wären ;)
+[15:36:23] ! Sonea has joined.
+[15:36:32] ! Tigaa_laptop has joined.
+[15:37:49] <ES> fakt ist nur, dass tausende menschen seit wochen irgendetwas zu finden, wo origin etwas illegales macht, und noch keinen beweis gefunden haben
+[15:38:14] <ES> imho
+[15:38:40] <Wechner> mhm ....
+[15:38:52] <Wechner> ich seh's gerade mit den Kritiker-kritischen Stimmen auch eher zwiespältig gerade ...
+[15:39:16] <Wechner> das Problem ist wirklich, dass es ja von keiner Seite absolut verlässliche Informationen zu geben scheint
+[15:39:25] <Wechner> wobei EA zuerst in der Bringpflicht wäre, IMHO
+[15:39:40] <ES> ja, die ungewissheit ist finde ich das eigentlich problem
+[15:39:47] <Wechner> und der Hype scheint sich ein bisschen verselbstständigt zu haben
+[15:40:05] <Wechner> jo
+[15:40:41] <Wechner> aber mal ganz ehrlich, heute, nach den ganzen Tagen, gibt EA eine Pressemitteilung raus, da sie nichts böses tun würden .... nichts weiter, keine Details, Infos oder gar Source-Code ...
+[15:40:46] <Wechner> und man soll das dann einfach glauben
+[15:40:58] <Wechner> und die lieben Websites machen nichts anderes, als diese Mitteilung abdrucken
+[15:41:02] <Wechner> keine Recherchen, nix
+[15:41:16] <Wechner> (zumindest sagen sie nicht, dass sie dran sind ... wenn sie es überhaupt sind ...)
+[15:41:23] <ES> wie gesagt, EA versaut es sich selbst riesig
+[15:42:43] <ES> *bate=beta
+[15:46:35] <Wechner> ES: http://www.youtube.com/watch?v=l0NSP5z7nBg in dem Video startet einer das Original Origin, zeigt sogar die Signierung von EA, und es scannt C:\Program Data inkl. Skype und einem Diabetes-Programm und seinen Daten, das dort liegt (wenn auch wieder nicht den Dateiinhalt anscheinend). Dennoch startet er normal Origin, keine Installation, nichts (wie er IMHO zurecht feststellt)
+[15:46:36] <ZombiePoet> Title: Origin Software in Aktion - HD Version - YouTube (at www.youtube.com)
+[15:46:40] <Wechner> und damit scheint EA wieder zu lügen
+[15:47:01] <Wechner> weil es eben nicht nur zur Installation mal eben die Infos des ganzen Programme-Ordners scannt
+[15:47:57] ! lurtz has quit. (Quit: Leaving.)
+[15:49:43] <ES> das origin den Program Data ordner scannt ist doch bekannt
+[15:50:07] <Wechner> aber EA behauptet, nur bei der Installation, um evtl. Berechtigungen anzupassen
+[15:50:35] <Wechner> und hier ist ein Scan dokumentiert, den sie zumindest öffentlich so noch nicht zugegeben/erklärt haben ...
+[15:50:53] <Wechner> und das wird nur weiter die Spekulationen nähren "ohoh, was Origin wohl noch alles macht?"
+[15:51:23] <Wechner> und es beweist, das EA zumindest nicht die ganze Wahrheit erzählt ...
+[15:53:10] <Wechner> ok
+[15:53:20] <Wechner> mit Starforce hab ich mich auch nie beschäftigt
+[15:53:47] ! Silberwoelfin has joined.
+[15:54:02] <ES> will sagen, program data zu scannen ist inzwischen einfach standard
+[15:54:05] <Wechner> aber egal, EA schafft es nicht, glaubhafter zu werden, die EULA verstößt immer noch gegen deutsches Recht, Origin evtl. auch, oder vielleicht auch nicht, keine Ahnung, aber kaufen werde ich es damit so oder so nicht :]
+[15:54:33] <Wechner> aber irgendwo schlecht bewerten auch nicht ;)
+[15:54:56] <ES> nun, das ea dubios ist mit seinen aussagen und machenschafte, das ist eigentlich schon lange bekannt, und leider lernen die auch nicht dazu
+[16:04:12] <Wechner> joke`: ob ich eine Mail an den Fachschaften-Verteiler schreibe und mich beschwere, dass sie unsere Mails immer noch nicht freigeschaltet haben? ;D
+[16:05:34] <Wechner> ES: ich warte noch ein bisschen ab, aber irgendwann bald(tm) möchte ich's auch gerne mal zocken
+[16:05:50] <Wechner> dazu ist es nämlich glaub ich einfach zu gut, dass man's komplett ignorieren kann (und sollte ;) )
+[16:07:20] ! nubix has quit. (Quit: Leaving.)
+[16:07:32] ! elorie has quit. (Quit: Leaving.)
+[16:07:56] <joke`> Musst du wissen
+[16:08:11] <joke`> Wechner: Tills mail habe ich ja gesehen, magst du mir deine mal schicken?
+[16:08:15] <Wechner> ich müsste mich erst einmal wieder einspielen, am besten wahrscheinlich im Single-Player
+[16:08:16] <joke`> Wechner: Bitte?
+[16:08:36] <Wechner> hab schon ewig keine Shooter in dem Sinne mehr gespielt und bin glaub ich ziemlich arg eingerostet
+[16:09:06] <Wechner> zumindest war ich letztens in Crysis 2 ziemlich grottig
+[16:10:27] <Wechner> joke`: ist raus :)
+[16:10:33] <Wechner> joke`: doppelt sich aber teils mit deiner Mail
+[16:10:48] <Wechner> ES: :D
+[16:11:18] <Wechner> der Multiplayer sah aber auch wirklich nach dem Spaß aus BF1942 aus
+[16:12:07] <ES> er ist auch ein riesenspass, vor allem da sie jetzt noch mehr das gewicht auf teamplay gelegt haben
+[16:12:50] <Wechner> sollte ich mal soweit sein, melde ich mich mal für eine Partie ;)
+[16:13:00] <ES> mach das
+[16:13:20] <ES> ansonsten bin ich im battlelog unter Th3_ES zu finden
+[16:13:27] <Wechner> ok
+[16:15:53] ! Debi has joined.
+[16:30:10] <rohieb> Debi: hausaufgabenabgabe für crypto ist immer in der übung am montag, oder?
+[16:31:37] <DooMMasteR> !mensa
+[16:31:38] <ZombiePoet> Abendmensa Katharinenstraße am Donnerstag:
+[16:31:39] <ZombiePoet> A: Terrine Mexikanische Feuersuppe mit Rauchfleisch 1,40€
+[16:31:40] <ZombiePoet> B: Kartoffeltaschen gefüllt mit Frischkäse 1,50€
+[16:31:41] <ZombiePoet> C: Schweinerückensteak mit Kirschpfeffersauce AT 1,90€
+[16:31:42] <ZombiePoet> W: 1/2 Brathähnchen 1,90€
+[16:32:31] <rohieb> Debi: er hat das doodle garnicht auf der homepage verlinkt... *url abtipp*
+[16:32:55] <Wechner> der Termin würde mich auch interessieren :]
+[16:33:38] <rohieb> also nein, es gibt noch keinen termin
+[16:33:50] <rohieb> außer  den alten montagstermin
+[16:34:13] ! Sonea has quit. (Quit: Leaving.)
+[16:36:09] <joke`> Mir hat ja auch eine der psychos geschrieben, dass er das ganze auch nicht soo tragisch fand (der war allerdings am abend auch nicht dabei)
+[16:37:44] <joke`> DooMMasteR: Wann wilst du zur mensa?
+[16:38:10] <Debi> rohieb: Ist ja eh freiwillig, da geht das nicht so genau
+[16:39:21] <DooMMasteR> joke`: DooMMasteR sitzt gerade an meinem laptop (lutz)
+[16:39:38] ! nubix has joined.
+[16:40:04] <joke`> DooMMasteR: Ja ist doch wayne hauptsache jemand hat nen mensavorschlag, dass man da nicht alleine hindackelt
+[16:40:27] <rohieb> hm. wenn mehr als ein dozent ein doodle aufmacht, gibt es ja dumme undefiniertheiten
+[16:43:36] <rohieb> O_o
+[16:44:08] <rohieb> Exgüsi, aber Doodle funktioniert nur mit Browsern, welche JavaScript unterstützen
+[16:44:16] <rohieb> Das Wort hab ich ja noch nie gehört
+[16:45:24] ! pipboy20k has quit. (Ping timeout: 240 seconds)
+[16:46:43] <rohieb> ja
+[17:05:51] ! lurtz has joined.
+[17:06:28] <nubix> AuD anmeldungen fuer die kleinen uebungen.... »Es liegen bisher 629 Anmeldungen vor«
+[17:06:41] <nubix> da hat doch das skript versagt...
+[17:06:44] <ES> autsch >.<
+[17:07:12] <nubix> ich kann's mir nicht anders vorstellen als, dass das skript gefailt hat
+[17:07:24] <ES> oder hoffst du das nur?
+[17:07:30] ! elorie has joined.
+[17:08:06] <nubix> ES: 629 Anmeldungen fuer AuD?! Eigentlich hoffe ich nur ^^
+[17:08:43] <nubix> wenn jede gruppe 25 leute nimmt gibts 400 plaetze
+[17:09:00] <elorie> nubix: naja da gabs ja den bug mit den leeren anmeldungen wenn das richtig gesehen wurde...
+[17:09:03] <ES> jaja, die hoffnung stirbt zuletzt^^
+[17:09:16] <nubix> elorie: jein
+[17:09:35] <nubix> elorie: wenn du falsche daten eingibts schon. das was nitsche hatte mit dem leeren formular macht nur einen einzigen datensatz aus
+[17:09:46] <nubix> es kommt natuerlich darauf an wie es umgesetzt wurde
+[17:09:47] <elorie> ah stimmt
+[17:09:50] <elorie> jop
+[17:09:50] <rohieb> wer weiß, vielleicht hören jetzt auch maschbauer aud? ;)
+[17:12:13] ! ES has quit. (Quit: The cake is a lie!)
+[17:18:17] ! joke` has quit. (Ping timeout: 252 seconds)
+[17:18:30] ! Tigaa_laptop has quit. (Quit: Leaving.)
+[17:20:04] <rohieb> hm, geh ich heute abend go spielen?
+[17:23:31] ! jh has joined.
+[17:24:48] ! lurtz has quit. (Quit: Leaving.)
+[17:26:08] <nubix> rohieb: heute ist kneipentour
+[17:26:21] <nubix> rohieb: ansonsten geh go spielen
+[17:30:30] ! PirateKing has quit. (Quit: Leaving.)
+[17:32:41] <jh> elorie: was ist eigentlich eine #whitehand?
+[17:33:12] <nubix> jh: kennste lord of the rings nicht? :)
+[17:33:31] <elorie> jh: sarumans wappen in lotr
+[17:33:31] <jh> öh, also ich hab die filme mal gesehen...
+[17:33:42] <jh> okay...
+[17:34:22] ! blaine has quit. (Quit: Leaving)
+[17:43:50] ! Phia has left the channel.
+[17:52:46] ! PirateKing has joined.
+[17:58:26] <jh> mit zwei großeltern gleichzeitig telefonieren ist... anstrengend :S
+[18:00:39] <jh> rohieb: machst du kneipentour mit?
+[18:00:49] <jh> bzw. wer macht kneipentour mit?^^
+[18:01:49] <elorie> jh: wenn du mich ueberredest...
+[18:01:54] <elorie> aber ncoh siehts bei mir eher nach neeeee aus
+[18:02:03] <elorie> und eigtl. muesste cih auch arbeiten
+[18:02:08] ! nubix has quit. (Quit: Leaving.)
+[18:02:46] <jh> elorie: hast du nicht n ersti den du da rumführen musst? :P
+[18:03:44] <elorie> noe
+[18:03:51] <jh> PirateKing: ich hatte phia vorhin schon mal gefragt... interesse an nachtcache morgen? -> http://dl.dropbox.com/u/1589203/gc/WaldHoppingderNachtcache.html
+[18:03:53] <ZombiePoet> Title: GC145A8 Wald Hopping - der Nachtcache (Multi-cache) in Niedersachsen, Germany created by Team Lollipopformel1 (at dl.dropbox.com)
+[18:04:19] <jh> elorie: aber dann lernt der doch keine kneipen kennen
+[18:05:17] <rohieb> jh: smae as elorie
+[18:05:33] <elorie> jh: der hat hier abi gemacht...
+[18:05:42] <elorie> bzw alle drei
+[18:05:50] <rohieb> alle drei abis?
+[18:06:06] <elorie> alle drei ersties die ich fiuehren koennte
+[18:06:19] <jh> ach, du hast gleich drei *g*
+[18:07:41] <PirateKing> jh: wir sind dabei
+[18:08:54] <jh> kk
+[18:09:01] <jh> Silberwoelfin: cachen!
+[18:09:59] <PirateKing> mh, der ist halt häufig weg und das final scheint auch nicht gut zu finden zu sein. aber wo bleibt denn auch sonst der spaß...
+[18:10:10] <PirateKing> weg=kaputt
+[18:10:40] <jh> jo, hat aber trotzdem 4 gcvote sterne
+[18:10:49] <jh> hast du einen anderen nacht-cachevorschlag?
+[18:10:55] <jh> (den ich noch nicht habe :P)
+[18:13:53] <elorie> jh: :p
+[18:19:07] <Silberwoelfin> drei seiten mit determinanten vollschreiben ist bäh :(
+[18:22:57] <jh> als HA?
+[18:23:28] <Silberwoelfin> ja
+[18:23:31] <Silberwoelfin> numerik
+[18:34:52] ! Cascharity has joined.
+[18:37:48] ! soney has quit. (Quit: Leaving.)
+[19:06:02] <rohieb> so, zwei hemden gebügelt. tagespensum geschafft.
+[19:06:21] <PirateKing> jh: nee, passt schon. aber wäre halt gut wenn wir nen tj parat hätten
+[19:16:31] <jh> jo, N52E10 seh ich da grad recht weit oben^^
+[19:16:37] <jh> PirateKing: wie lange arbeitest du?
+[19:17:55] <PirateKing> jetzt seit der zeitumstellung meistens bis nach sonnenuntergang, aber ich kann morgen auch einfach ne stunde früher schluss machen, so dass wir zur dämmerung da sein können
+[19:18:37] <PirateKing> sprich so ca. 16:30
+[19:20:07] <jh> ach, so früh... also mir würde auch ne stunde später oder so vollkommen reichen^^
+[19:20:15] <jh> Silberwoelfin: wie siehts bei dir uhrzeitmäßig aus?
+[19:21:29] ! soney has joined.
+[19:23:51] <Silberwoelfin> jh: ich hab morgen keine vorlesungen
+[19:25:02] <Silberwoelfin> also, meinetwegen können wir irgendwann los, ihr solltet mir nur vorher rechtzeitig bescheid sagen
+[19:25:06] <jh> Silberwoelfin, PirateKing: dann so 17:00 los?
+[19:25:17] <jh> PirateKing: kommt ihr zwei dann zu mir?
+[19:25:21] <jh> Silberwoelfin: und du auch :P
+[19:25:42] <jh> hm, oder direkt an der uni treffen
+[19:37:12] <PirateKing> jh: ihr habt dann nen auto da? oder fahrrad?
+[19:37:28] <jh> PirateKing: Silberwoelfin hat ein auto
+[19:37:34] <jh> ich hoffe sie bringt das mit =)
+[19:37:47] <PirateKing> kk
+[19:37:59] <jh> fahrrad wäre ja doch ne ganze ecke... 9km von hier
+[19:39:04] <PirateKing> also 17 uhr bei jh
+[19:39:16] <jh> jo
+[19:51:59] ! soney has quit. (Ping timeout: 244 seconds)
+[19:53:13] ! Phia has joined.
+[19:56:23] ! Cascharity has quit. (Quit: Verlassend)
+[20:01:13] <jh> Silberwoelfin, Phia, PirateKing: grad ne enabled-mail bekommen... http://www.geocaching.com/seek/cache_details.aspx?wp=GC1HZW0 könnte man morgen alternativ auch machen... der ist dann auf jeden fall intakt^^
+[20:01:15] <ZombiePoet> Title: GC1HZW0 Die Jagd nach dem roten Kristall NC (Multi-cache) in Niedersachsen, Germany created by Luzie01 (at www.geocaching.com)
+[20:22:59] ! Bowdzone has joined.
+[20:41:10] ! Bowdzone has quit. (Read error: Connection reset by peer)
+[20:51:05] <DrMcCoy> So ein Bullshit
+[20:51:14] <DrMcCoy> "Die Bearbeitung sollte in der ersten Phase vor Ort stattfinden"
+[20:51:21] <DrMcCoy> Schreibt aber nicht, wo genau "vor Ort" ist
+[20:52:00] <DrMcCoy> Und "JDBC, XML, HTML" sind also "aktuelle Technologien"
+[20:53:35] <jh> kontext?
+[20:54:52] <DrMcCoy> jh: cs-studs mail
+[20:55:15] <DrMcCoy> Und Lügen tut sein Mailclient auch noch
+[20:55:18] <DrMcCoy> Content-Type: text/plain; charset="UTF-8"
+[20:55:24] <DrMcCoy> Ist aber latin1
+[20:56:10] ! lurtz has joined.
+[20:57:26] <jh> DrMcCoy: der ist ja auch winfo
+[21:00:47] <DrMcCoy> Warum wundert mich das nicht :P
+[21:01:41] ! PirateKing has quit. (Quit: Leaving.)
+[21:08:15] ! PirateKing has joined.
+[21:11:39] <rohieb> jo
+[21:11:42] <rohieb> failmail
+[21:19:38] ! lurtz has quit. (Quit: Leaving.)
+[21:46:31] ! conqueror12 has quit. (Quit: Leaving.)
+[21:50:10] ! PirateKing has quit. (Quit: Leaving.)
+[21:50:55] ! PirateKing has joined.
+[21:51:17] ! Ignifazius has joined.
+[22:03:32] ! Silberwoelfin has quit. (Quit: Verlassend)
+[22:03:40] ! Silberwoelfin has joined.
+[22:11:16] ! Ignifazius has quit. (Quit: *Vanish*)
+[23:00:45] ! nubix has joined.
+[23:41:34] ! elorie has quit. (Quit: Leaving.)

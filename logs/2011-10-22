@@ -1,0 +1,324 @@
+[00:02:24] <Silberwoelfin> gute nacht
+[00:02:30] ! Silberwoelfin has quit. (Quit: Verlassend)
+[00:05:53] ! PirateKing has quit. (Quit: Leaving.)
+[00:07:54] ! csg has joined.
+[00:18:51] ! rohieb has quit. (Quit: ...yo ho ho, and a bottle of rum!)
+[00:28:34] ! csg has quit. (Ping timeout: 258 seconds)
+[00:38:44] ! nubix1 has joined.
+[00:41:12] ! nubix has quit. (Ping timeout: 240 seconds)
+[00:45:41] ! nubix1 has quit. (Quit: Leaving.)
+[00:55:02] ! csg has joined.
+[00:59:37] ! csg has quit. (Ping timeout: 258 seconds)
+[01:00:35] ! csg has joined.
+[01:07:17] ! csg has quit. (Ping timeout: 258 seconds)
+[01:17:43] ! csg has joined.
+[01:47:21] ! supo1 has joined.
+[01:47:26] ! supo1 has left the channel.
+[02:01:20] ! csg has quit. (Ping timeout: 258 seconds)
+[02:03:25] ! csg has joined.
+[02:57:41] ! ES has quit. (Quit: The cake is a lie!)
+[04:48:51] ! csg has quit. (Ping timeout: 258 seconds)
+[07:28:59] ! Peace-Maker has quit. (Quit: Bye.)
+[09:11:53] ! nubix has joined.
+[09:19:18] ! nubix has quit. (Quit: Leaving.)
+[09:39:52] ! nubix has joined.
+[09:48:48] ! Sonea has joined.
+[09:49:42] <Sonea> huhu
+[09:53:30] ! conqueror12 has joined.
+[10:17:23] ! jh has joined.
+[10:17:51] <jh> hi
+[10:20:04] ! Mobiwoelfin has joined.
+[10:20:15] <Mobiwoelfin> moin
+[10:21:23] ! ES has joined.
+[10:34:14] ! Bowdzone has joined.
+[10:39:52] ! Sonea has quit. (Quit: Leaving.)
+[10:43:36] ! nubix has quit. (Quit: Leaving.)
+[10:47:23] ! nubix has joined.
+[11:13:58] ! Sonea has joined.
+[11:14:21] <Sonea> jh: informaticup?
+[11:20:23] ! Phia has joined.
+[11:20:25] <jh> Sonea: die beleidigen gleich im ersten absatz erstmal... "Geistig herausfordernd ist diese Schatzsuche leider meist nicht" :P
+[11:20:35] <jh> Sonea: klingt ja ganz interessant... aber masterarbeit
+[11:20:49] <jh> Sonea: und letztes jahr haben wir ja auch ungefähr nichts dafür getan?
+[11:27:24] ! Phia1 has joined.
+[11:28:13] <Phia1> Sonea: du kriegst übrigens beide Salate geschenkt
+[11:29:23] ! Mobiwoelfin_ has joined.
+[11:29:52] ! Phia has quit. (Ping timeout: 248 seconds)
+[11:31:10] ! PirateKing has joined.
+[11:31:24] ! Mobiwoelfin has quit. (Ping timeout: 240 seconds)
+[11:31:41] ! Mobiwoelfin_ is now known as Mobiwoelfin
+[11:32:41] ! PirateKing has quit. (Client Quit)
+[11:45:52] ! Sonea has quit. (Quit: Leaving.)
+[11:56:32] ! Phia has joined.
+[11:58:00] ! Phia1 has quit. (Ping timeout: 240 seconds)
+[12:01:02] ! nubix has quit. (Quit: Leaving.)
+[12:01:36] <Phia> Hm, darf man beim informaticup cplex oder ähnliches verwenden? Dann wäre die erste Aufgabe trivial. Parser bauen, der ein IP erstellt, IP in den Löser schmeißen, Gui bauen, die das Ergebnis visualisiert. Eventuell noch die Gui so erweitern, dass man die Daten da drin auch ändern kann.
+[12:04:59] ! Silberwoelfin has joined.
+[12:05:12] <Silberwoelfin> hi
+[12:15:07] <Phia> Also, hätte jemand Lust auf die Einkaufs-Aufgabe des InformatiCup? Fehlt nur noch ein frei verfügbarer IP-Löser, aber für die angegebene Problemgröße gibts sicher einen - die ganzen Demo-Versionen der kommerziellen schaffen das ja auch.
+[12:18:18] ! Tigaa_laptop has joined.
+[12:23:01] ! Tigaa_laptop has left the channel.
+[12:29:01] ! Debi has joined.
+[12:43:39] ! elorie has joined.
+[12:43:56] <elorie> .
+[12:44:00] <Silberwoelfin> elorie \o/
+[12:44:05] <elorie> Silberwoelfin: :)
+[12:59:55] ! nubix has joined.
+[13:05:20] ! nubix has quit. (Quit: Leaving.)
+[13:06:21] ! nubix has joined.
+[13:07:55] ! nubix has quit. (Client Quit)
+[13:08:53] ! nubix has joined.
+[13:18:02] ! nubix has quit. (Quit: Leaving.)
+[13:22:30] ! nubix has joined.
+[13:23:02] ! nubix has quit. (Client Quit)
+[13:39:19] ! Mobiwoelfin has quit. (Quit: Bye)
+[13:49:01] ! Silberwoelfin_ has joined.
+[13:49:27] <Silberwoelfin_> da haben wir nun einen neuen router und der 24h-disconnect ist immer noch mittags -.-
+[13:51:21] <elorie> Silberwoelfin: router umkonfigurieren (lassen)
+[13:51:45] ! PirateKing has joined.
+[13:52:45] ! Silberwoelfin has quit. (Ping timeout: 260 seconds)
+[13:53:57] ! Silberwoelfin_ is now known as Silberwoelfin
+[13:54:27] <Silberwoelfin> elorie: wenn mein vater das absichtlich macht, dann wird er sich kaum umstimmen lassen... und er will mir das passwort zum router nicht verraten :-/
+[13:54:39] ! Phia1 has joined.
+[13:55:27] <elorie> Silberwoelfin: wtf?
+[13:55:36] ! Phia has quit. (Ping timeout: 240 seconds)
+[13:56:18] ! PirateKing has quit. (Ping timeout: 260 seconds)
+[13:56:27] <Silberwoelfin> er lässt mich nicht mit admin spielen
+[13:57:23] <elorie> :/
+[13:58:46] <jh> was war nochmal das argument für 24h disc am mittag?^^
+[14:02:01] <Silberwoelfin> keine ahnung
+[14:02:07] <Silberwoelfin> aber standard ist das ja wohl nicht
+[14:03:44] <jh> das hast du deinen vater noch nie gefragt?
+[14:08:34] ! elorie has quit. (Quit: Leaving.)
+[14:09:07] <Silberwoelfin> nö
+[14:10:41] ! csg has joined.
+[14:10:56] ! PirateKing has joined.
+[14:12:32] <Silberwoelfin> rina hat ein cache-trauma :-(
+[14:14:09] <jh> ?
+[14:18:30] <Silberwoelfin> sie mag nicht cachen, weil sie das in den usa jeden tag machen musste
+[14:18:44] <jh> aso
+[14:18:48] <Phia1> Droggl: habt ihr einen Dosenöffner?
+[14:20:41] <jh> salat in dosen?
+[14:21:33] <Phia1> jh: Früchtemischung in Dosen
+[14:21:50] <jh> das tut man erst live dazu?
+[14:22:25] <Phia1> jh:  wenn man nur eine wirklich gut schließende schüssel hat und zwei salate machen will, muss einer wohl oder übel vor ort gemacht werden
+[14:22:35] <jh> ok^^
+[14:25:09] <Silberwoelfin> brute-force bei fritzbox funktioniert nicht, die wartezeit steigt exponentiell :-/
+[14:25:12] ! Bowdzone has quit. (Read error: Connection reset by peer)
+[14:26:07] ! csg has quit. (Ping timeout: 244 seconds)
+[14:26:20] ! nubix has joined.
+[14:28:00] <jh> lol
+[14:28:56] ! nubix has quit. (Client Quit)
+[14:30:00] ! nubix has joined.
+[14:30:30] ! nubix has quit. (Client Quit)
+[14:31:06] ! csg has joined.
+[14:32:38] <Silberwoelfin> oh, aber länger als 128 sekunden scheint nicht zu gehen^^
+[14:35:33] ! Peace-Maker has joined.
+[14:35:49] <Phia1> jh: bist du zu hause und hast du einen dosenöffner?
+[14:36:13] <jh> Phia1: ja und ja
+[14:36:22] <jh> soll ich den mitbringen?
+[14:36:41] <Phia1> ich wollte dich gerade fragen, ob ich den salat bei dir zwischenlagern kann
+[14:36:42] <jh> <Silberwoelfin> oh, aber länger als 128 sekunden scheint nicht zu gehen^^ <- die loggt sowas übrigens :P
+[14:37:08] <jh> Phia1: öh, ja, meinetwegen auch das^^
+[14:37:17] <Phia1> jh: ich würd ja sonea oder Droggl fragen, aber die antworten nicht
+[14:37:29] ! csg has quit. (Ping timeout: 244 seconds)
+[14:37:30] <jh> die müssen bestimmt die wohnung putzen :D
+[14:37:35] <jh> oder einkaufen
+[14:38:39] <Phia1> jh: ok, dann komm ich so viertel nach 3 oder etwas später zu dir, mach den zweiten salat bei dir fertig und geh dann zum piratentreffen
+[14:38:59] <jh> kk
+[14:42:03] ! PirateKing has quit. (Quit: Leaving.)
+[14:45:39] ! nubix has joined.
+[14:46:41] ! elorie has joined.
+[14:48:29] ! Mobiwoelfin has joined.
+[14:50:03] <Mobiwoelfin> jh: und was passiert dann?
+[14:50:32] <jh> Mobiwoelfin: kA, dann kommt dein vater und verhaut dich?^^
+[14:50:48] <Mobiwoelfin> glaub ich nicht
+[14:50:52] ! nubix has quit. (Quit: Leaving.)
+[14:51:40] <jh> dann ist ja gut
+[14:52:24] <jh> Mobiwoelfin: wann willst du morgen nach hause fahren?
+[14:52:35] <jh> wegen evtl. mittagsesseneinkauf
+[14:52:58] <Mobiwoelfin> jh: nach dem mittagessen, hier gibts eklige lauchcremesuppe
+[14:53:26] <jh> Mobiwoelfin: und wenn ich morgen auch lauchcremesuppe machen will? :D
+[14:53:56] <Mobiwoelfin> dann such ich mir was anderes zu essen :P
+[14:54:02] <jh> ^^
+[14:54:04] <jh> Mobiwoelfin: wünsche?
+[14:56:11] <Mobiwoelfin> jh: zur Abwechslung mal was mit reis?
+[14:59:11] <jh> Mobiwoelfin: reistorte?^^
+[14:59:29] <Mobiwoelfin> nee
+[14:59:35] ! Phia1 has quit. (Quit: Leaving.)
+[14:59:46] <jh> Mobiwoelfin: reis-in-pfanne+x?
+[14:59:52] <Mobiwoelfin> ja
+[15:00:29] ! Phia has joined.
+[15:00:39] <elorie>  das hat sie gehoert ;)
+[15:00:50] * Phia needs größere Salatschüsseln
+[15:00:53] <jh> Mobiwoelfin: print(x) :P
+[15:01:03] <jh> schinken, paprika, ...?
+[15:01:13] <elorie> Phia: das problem kenne cih
+[15:01:14] <jh> Phia: mh, son glasding hätten wir hier
+[15:01:14] <Phia> jh: viertelnach wird nix, ich hab grad noch damit zu kämpfen, salat nr 1 in die schüssel zu kriegen
+[15:01:27] <elorie> jh: paprika ist doch boese ;)
+[15:02:02] <jh> elorie: das böse hat kekse, also ist das böse gut
+[15:02:17] <elorie> paprika hat kekse?
+[15:02:38] <jh> genau das wollte ich sagen
+[15:02:41] <Mobiwoelfin> lol
+[15:02:59] <Phia> jh: vielleicht komme ich drauf zurück, bis jetzt passt salat nr 2 in schüssel nr2 (die, die nicht ganz dicht ist) aber ob man das dann noch umrühren kann, wenn der rest dazu kommt, wage ich zu bezweifeln
+[15:03:16] <elorie> hmpf wo ist eitl. mein anhang
+[15:03:27] <jh> Phia: um genau zu sein haben wir sogar eine plasikschüssel, eine metallschüssel, und zwei glassschüsseln
+[15:03:30] <Mobiwoelfin> warum keine donuts?
+[15:03:34] <jh> aber mit unterschiedlichen volumen
+[15:03:46] <jh> Mobiwoelfin: donuts in die reispfanne?
+[15:04:03] <Mobiwoelfin> nein
+[15:04:25] <jh> erschien mir auch gewagt
+[15:05:14] <Mobiwoelfin> jh: mett und kidney-bohnen oder mais?
+[15:05:28] <Phia> jh: ihr glücklichen
+[15:06:20] <jh> Mobiwoelfin: ich kann sonst auch son hühnchen kaufen und das da rein tun
+[15:06:33] <jh> oder mett > hühnchen?^^
+[15:06:43] <Mobiwoelfin> jh: h7hnchen?
+[15:07:35] <jh> ja
+[15:07:37] <jh> ohne die 7
+[15:07:39] <jh> und mit ü
+[15:08:35] <Mobiwoelfin> was für hühnchen?
+[15:08:47] <jh> naja, so hühnchenbrust
+[15:09:16] <Mobiwoelfin> okay
+[15:10:36] <jh> k
+[15:13:32] <Phia> jh: so, hab jetzt zusammen gepackt und mache mich auf den weg zu dir
+[15:13:36] ! Phia has quit. (Read error: Connection reset by peer)
+[15:13:37] <jh> ok
+[15:16:25] ! Bowdzone has joined.
+[15:27:31] <Droggl> [14:18:47] <Phia1> Droggl: habt ihr einen Dosenöffner? // was ist denn das für ne frage?
+[15:27:50] <Droggl> nee wir machen unsere dosen immer mit den zähnen auf ;P
+[15:28:36] <Mobiwoelfin> Droggl: nicht mit den fingernägeln?^^
+[15:28:43] <Droggl> ^^
+[15:34:13] <jh> Droggl: ah, ihr lebt doch^^
+[15:34:21] <jh> ich krieg gleich euren salat
+[15:34:24] <jh> muhaha
+[15:34:28] <Droggl> ^^
+[15:34:45] <jh> nur weil ihr keinen dosenöffner habt :P
+[15:34:46] <Droggl> hmpf banshee unter windows ist ja stabilitätsmäßig mal ne mittlere katastrophe
+[15:36:03] <jh> Droggl: darf phia rüberkommen?
+[15:36:09] <jh> und da salat finalisieren?
+[15:36:32] <Droggl> yo
+[15:37:50] <jh> Droggl: warning, incoming phia, eta 10sec :P
+[15:41:12] <jh> dann geh ich mal essen für morgen jagen
+[15:42:36] ! nubix has joined.
+[15:42:49] <jh> okay, nachdem ich den tee ausgetrunken habe
+[15:42:50] <jh> re :P
+[15:46:54] ! Sonea has joined.
+[15:47:49] ! nubix has quit. (Quit: Leaving.)
+[15:48:16] ! Mobiwoelfin has quit. (Ping timeout: 244 seconds)
+[15:48:39] <jh> http://www.heise.de/newsticker/meldung/Rapper-MC-Hammer-will-Google-Konkurrenz-machen-1365280.html :D
+[15:48:40] <ZombiePoet> Title: heise online - Rapper MC Hammer will Google Konkurrenz machen (at www.heise.de)
+[15:48:59] ! nubix has joined.
+[15:51:56] ! nubix has quit. (Client Quit)
+[15:53:44] <Silberwoelfin> jh: komm ich dann erstmal zu dir und lade mich da ab?
+[15:53:55] <jh> ja
+[15:54:01] <jh> ist ja nicht soooo weit bis zu Sonea
+[15:57:13] ! nubix has joined.
+[15:58:24] ! nubix has quit. (Client Quit)
+[15:58:53] <Sonea> jh: ich würde schon ne halbe stunde fußweg einplanen :P
+[15:58:54] <Sonea> ah
+[15:59:03] <Sonea> warum ist das schon so spät?
+[15:59:15] <jh> Sonea: weil der pink panther an der uhr gedreht hat
+[15:59:25] <jh> Sonea: ja, halbe stunde fußweg ist ja aber nicht so weit
+[15:59:35] <jh> auf die 40.000km erdumfang betrachtet
+[16:05:36] ! nubix has joined.
+[16:06:33] ! rohieb has joined.
+[16:09:22] ! nubix has quit. (Client Quit)
+[16:09:54] ! nubix has joined.
+[16:10:37] <rohieb> moo
+[16:10:37] <ZombiePoet> rohieb: Sent 1 hour and 50 minutes ago: <jh> hast du ni?
+[16:10:38] <ZombiePoet> rohieb: Sent 1 hour and 49 minutes ago: <tommie-lie> er meint eigentlich einen Schrebergarten
+[16:14:53] ! nubix has quit. (Quit: Leaving.)
+[16:16:14] ! nubix has joined.
+[16:19:30] ! nubix has quit. (Client Quit)
+[16:25:38] ! Phia has joined.
+[16:27:33] ! nubix has joined.
+[16:29:22] ! Sonea has quit. (Quit: Leaving.)
+[16:30:00] ! Phia has quit. (Ping timeout: 240 seconds)
+[16:35:24] ! Sonea has joined.
+[16:44:56] ! Phia has joined.
+[16:47:47] ! nubix has quit. (Quit: Leaving.)
+[16:50:19] ! Mobiwoelfin has joined.
+[16:57:12] ! Phia has quit. (Ping timeout: 240 seconds)
+[16:58:30] ! Mobiwoelfin_ has joined.
+[17:00:53] ! Mobiwoelfin has quit. (Ping timeout: 276 seconds)
+[17:01:23] ! joke` has joined.
+[17:12:30] ! Phia has joined.
+[17:20:33] ! ES has quit. (Quit: The cake is a lie!)
+[17:21:07] ! Peace-Maker has quit. (Quit: Bye.)
+[17:21:12] ! Phia has quit. (Ping timeout: 240 seconds)
+[17:23:00] ! nubix has joined.
+[17:23:41] <rohieb> Sonea: ¸o/
+[17:28:14] ! nubix has quit. (Quit: Leaving.)
+[17:35:05] ! Phia has joined.
+[17:41:27] <Silberwoelfin> jh: fällt dir noch was ein, dass ich mitbringen soll?
+[17:41:52] <elorie> Silberwoelfin: dich ;)
+[17:41:52] <jh> Silberwoelfin: ein goldbarren bitte
+[17:42:12] <Silberwoelfin> was realistisches? -.-
+[17:42:16] <elorie> jh: willst du dann siedlerartig "oh-ooh" machen? :p
+[17:42:24] <jh> Silberwoelfin: du bist unrealistisch?^^
+[17:42:55] <jh> elorie: http://dl.dropbox.com/u/1589203/102.wav :P
+[17:43:49] <elorie> genau
+[17:44:53] <jh> Silberwoelfin: nee, was sinnvolles fällt mir nicht ein
+[17:44:56] <Silberwoelfin> jh: genau, du bildest mich dir nur ein
+[17:45:00] <jh> Silberwoelfin: hab jetzt zum essen hühnchen, reis, mais
+[17:45:03] <jh> zwiebel
+[17:45:05] <jh> paprika
+[17:46:24] <rohieb> elorie: was willst du mit Silberwoelfin?
+[17:46:39] <elorie> rohieb: nichts
+[17:46:40] <jh> rohieb: die saß sogar mit Silberwoelfin im kuschelsitz :[
+[17:46:56] <rohieb> awwwwwwww
+[17:47:11] <rohieb> aber Silberwoelfin und elorie sind ja beide vergeben, musst dir also keine sorgen machen, jh
+[17:47:50] <jh> ^^
+[17:51:34] <Phia> .
+[17:51:41] <jh> ..
+[17:51:47] <Silberwoelfin> ...
+[17:57:26] ! nubix has joined.
+[17:59:16] <jh> nubix: wenn du jetzt "...." heißen würdest, hätte es stil gehabt
+[17:59:40] <Valodim> glaub das is kein legaler nick
+[17:59:51] <nubix> oehm,
+[18:00:02] <nubix> tjoa
+[18:00:23] <jh> Valodim: spielverderber
+[18:02:00] ! nubix has quit. (Client Quit)
+[18:02:15] <Silberwoelfin> ich mach mich dann mal langsam auf den weg...
+[18:02:50] ! Silberwoelfin has quit. (Quit: Verlassend)
+[18:03:30] ! Sonea has quit. (Ping timeout: 258 seconds)
+[18:05:00] ! Mobiwoelfin has joined.
+[18:05:36] ! Phia has quit. (Ping timeout: 240 seconds)
+[18:05:53] ! Mobiwoelfin_ has quit. (Ping timeout: 276 seconds)
+[18:07:03] ! Sonea has joined.
+[18:07:08] <elorie> rohieb: wir waren im kuschelsitz aber on 2 seiten beaufsichtigt
+[18:07:30] <rohieb> elorie: soll das heißen, man sollte euch beide nicht alleine lassen?
+[18:08:02] <elorie> rohieb: ehm nein
+[18:08:14] <rohieb> klang aber so ^^
+[18:10:32] <DrMcCoy> Wechner: Organisier mal wieder Tiger :P
+[18:10:45] <jh> Wechner: Organisier mal wieder Tiger :P
+[18:18:22] ! Sonea has quit. (Quit: Leaving.)
+[18:21:12] ! Phia has joined.
+[18:22:58] ! nubix has joined.
+[18:35:26] ! nubix has quit. (Quit: Leaving.)
+[18:44:35] ! Phia has quit. (Quit: Leaving.)
+[18:49:26] <jh> Mobiwoelfin: bist du eigentlich ein auto oder ein bus?
+[18:54:05] ! elorie has quit. (Quit: Leaving.)
+[18:54:11] <jh> rohieb: Sandalwoelfin ist jetz Stiefelwoelfin
+[19:00:08] <jh> so, muss rüber :P
+[19:00:10] ! jh has quit. (Quit: jh)
+[19:11:35] ! Mobiwoelfin has quit. (Ping timeout: 260 seconds)
+[19:18:48] ! nubix has joined.
+[19:23:31] ! joke` has quit. (Remote host closed the connection)
+[19:33:20] ! Bowdzone has quit. (Quit: Bowdzone)
+[19:51:21] ! nubix has quit. (Quit: Leaving.)
+[20:38:11] ! nubix has joined.
+[20:44:00] ! serj has quit. (Remote host closed the connection)
+[20:44:01] ! tsuro has quit. (Remote host closed the connection)
+[20:45:39] ! tsuro has joined.
+[20:45:39] ! tsuro has quit. (Changing host)
+[20:45:39] ! tsuro has joined.
+[20:45:42] ! serj has joined.
+[21:00:23] ! Bowdzone has joined.
+[21:11:05] ! Debi has quit. (Quit: Verlassend)
+[22:51:57] ! elorie has joined.
+[22:54:26] <rohieb> elorie: :)
+[23:34:44] ! elorie has quit. (Quit: Leaving.)
+[23:38:27] ! Moenni_Mo has joined.
+[23:57:12] ! Moenni_Mo has quit. (Quit: Leaving.)

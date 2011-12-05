@@ -1,0 +1,524 @@
+[00:12:15] ! Bowdzone has joined.
+[00:12:33] ! conqueror121 has quit. (Quit: Leaving.)
+[00:24:48] ! nubix has joined.
+[00:24:52] ! nubix has quit. (Changing host)
+[00:24:52] ! nubix has joined.
+[00:28:25] ! nubix1 has joined.
+[00:29:19] ! nubix has quit. (Ping timeout: 252 seconds)
+[00:43:59] ! nubix1 has quit. (Quit: Leaving.)
+[01:00:15] ! elorie has joined.
+[01:08:00] <rohieb> elorie!
+[01:08:04] ! CalebRipley has quit. (Remote host closed the connection)
+[01:08:40] <elorie> rohieb: du boese
+[01:09:07] <rohieb> :(
+[01:09:08] * rohieb know
+[01:09:34] <elorie> s
+[01:09:51] * rohieb try to emulate lolcat grammar
+[01:10:10] <rohieb> aber ihr lebt ja noch
+[01:10:19] <rohieb> kann also nicht so schlimm gewesen sein, dass ich nicht da war
+[01:10:32] <rohieb> also... hm... du lebst noch, ich hoffe, jan und sandra auch :P
+[01:16:26] ! csg has quit. (Ping timeout: 258 seconds)
+[01:23:59] <rohieb> Bürozeiten Mo-Mi, Fr  10:00 – 12:00 Uhr <-- manchmal habe ich bei ämtern in der uni das gefühl, die wollen garnicht von studenten besucht werden ^^
+[01:31:06] ! Phia has joined.
+[01:38:14] <rohieb> elorie: aber sonst war toll?
+[01:38:19] <rohieb> Phia!
+[01:40:04] <elorie> rohieb: joar
+[01:40:23] <elorie> Phia: ich hoffe du bist nicht komplett aufgeweicht :/
+[01:42:43] ! Bowdzone has quit. (Quit: Bowdzone)
+[01:52:41] <Phia> elorie: geht so
+[01:54:17] <elorie> :/
+[01:56:39] ! nubix has joined.
+[02:45:03] ! ES has quit. (Ping timeout: 276 seconds)
+[02:49:16] ! Phia has quit. (Ping timeout: 264 seconds)
+[03:04:22] ! Phia has joined.
+[03:12:38] ! Phia has quit. (Quit: Leaving.)
+[03:46:09] ! rohieb has quit. (Quit: ...yo ho ho, and a bottle of rum!)
+[04:38:29] ! nubix has quit. (Ping timeout: 245 seconds)
+[04:40:48] ! elorie1 has joined.
+[04:42:50] ! elorie has quit. (Ping timeout: 260 seconds)
+[05:53:08] ! nubix has joined.
+[06:02:38] ! elorie1 has quit. (Quit: Leaving.)
+[06:26:27] ! nubix has quit. (Quit: Leaving.)
+[08:55:22] ! conqueror12 has joined.
+[08:59:08] ! jh has joined.
+[09:02:16] <jh> hi
+[09:06:50] <jh> !nom
+[09:06:50] <ZombiePoet> Mensa Katharinenstraße am Mittwoch:
+[09:06:51] <ZombiePoet> A: Aktion: frische Waldpilzcremesuppe mit Backerbsen 1,40€
+[09:06:52] <ZombiePoet> B: Chili con Carne AT 1,50€
+[09:06:53] <ZombiePoet> C: Putenroulade 1,90€
+[09:06:54] <ZombiePoet> V: Große Frühlingsrolle mit Reis 1,90€
+[09:06:55] <ZombiePoet> W: Rinderhüftsteak mit Kräuterbutter dazu Pommes frites 3,60€
+[09:38:57] ! Mobiwoelfin has joined.
+[09:39:27] <Mobiwoelfin> !tell *ohieb* ich glaube, wir leben noch ;-)
+[09:39:27] <ZombiePoet> Mobiwoelfin: Ok.
+[09:39:56] <Mobiwoelfin> jh!
+[09:43:19] <jh> Mobiwoelfin!
+[09:43:57] <Mobiwoelfin> Sonea is not here, yet...
+[09:44:18] <Mobiwoelfin> ah, there she is^^
+[09:44:27] <Mobiwoelfin> bye
+[09:44:30] ! Mobiwoelfin has quit. (Quit: Bye)
+[09:46:05] ! ES has joined.
+[09:46:20] <ES> !mensa
+[09:46:21] <ZombiePoet> Mensa Katharinenstraße am Mittwoch:
+[09:46:22] <ZombiePoet> A: Aktion: frische Waldpilzcremesuppe mit Backerbsen 1,40€
+[09:46:23] <ZombiePoet> B: Chili con Carne AT 1,50€
+[09:46:24] <ZombiePoet> C: Putenroulade 1,90€
+[09:46:25] <ZombiePoet> V: Große Frühlingsrolle mit Reis 1,90€
+[09:46:26] <ZombiePoet> W: Rinderhüftsteak mit Kräuterbutter dazu Pommes frites 3,60€
+[09:49:23] ! Phia has joined.
+[10:04:33] ! jh has quit. (Quit: Logik wird überschätzt.)
+[10:10:37] ! Peace_Maker has joined.
+[10:11:20] ! Phia has quit. (Quit: Leaving.)
+[10:12:13] ! Peace-Maker has quit. (Read error: Operation timed out)
+[10:12:54] ! Phia has joined.
+[10:37:23] ! jh has joined.
+[10:39:50] ! ES has quit. (Ping timeout: 260 seconds)
+[10:46:00] ! ES has joined.
+[11:05:49] ! ES has quit. (Quit: The cake is a lie!)
+[11:17:36] <jh> mensavorschlag 13 uhr
+[11:21:51] ! Bowdzone has joined.
+[11:27:59] ! jh has quit. (Disconnected by services)
+[11:27:59] ! jh_ has joined.
+[11:28:31] ! jh_ is now known as jh
+[11:47:14] ! Ignifazius has joined.
+[11:54:08] ! csg has joined.
+[12:21:02] <Phia> jh: 13:05 damit Silberwoelfin und Sonea auch ne Chance haben
+[12:22:03] <jh> ^^
+[12:22:23] <Phia> jh: bis nachher
+[12:22:28] ! Phia has quit. (Quit: Leaving.)
+[12:27:41] ! ES has joined.
+[12:27:42] ! Phia has joined.
+[12:28:41] <DrMcCoy> jh: Mensavorschlag: Gar nicht.
+[12:29:00] <jh> DrMcCoy: nubix zieht bei dir ein O_o
+[12:29:17] <DrMcCoy> jh: Das sagtest du bereits.
+[12:29:18] ! nubix has joined.
+[12:29:27] <DrMcCoy> nubix: Hallo neuer Mitbewohner
+[12:29:41] <jh> gutes timing^^
+[12:29:46] <jh> nubix: mensa 13 uhr?
+[12:30:03] <DrMcCoy> jh: Hast du etwa ein Problem damit? Neidisch? Wolltest du etwa bei mir einziehen? :P
+[12:30:15] <jh> DrMcCoy: ja
+[12:30:20] <nubix> moin DrMcCoy
+[12:30:24] <nubix> jh: jap
+[12:30:37] <nubix> jh: du ziehst doch bei ihm ein, mit mir und allen anderen jans zusammen
+[12:30:39] <DrMcCoy> jh: Das hättest du sagen sollen :(
+[12:31:06] <DrMcCoy> jh: Genau, du kriegst das Wohnzimmer. Darfst halt nur nichts dagegen haben, wenn ich da ständig durch muss :P
+[12:31:27] <DrMcCoy> jh: Oder wir müssen halt noch eine Gipswand ziehen
+[12:31:39] <nubix> Einfach die Schrankwand umstellen
+[12:31:53] <nubix> Die ist doch gross genug um damit ein "zimmer" abzutrennen
+[12:31:57] <ES> gipswand, pff, da lauf ich einmal gegen und es is ne t�r drinnen
+[12:32:07] <DrMcCoy> jh: So direkt schräg von Türrahmen zu Tührrahmen, mit Loch für noch ne Tür dazwischen
+[12:32:21] <DrMcCoy> nubix: Hmm...
+[12:32:31] <jh> ES: bist du labor?
+[12:32:43] <ES> jh: jo
+[12:32:50] <jh> ES: ist da motivation?
+[12:32:52] <jh> DrMcCoy: fix topic
+[12:33:08] <DrMcCoy> jh: Ja, Meister
+[12:33:09] ! DrMcCoy has changed the topic: Informatik, Informatik- und IST-Studium an der TU-BS, Braunschweig, ...
+[12:33:17] <ES> jh: 2. schrank von rechts, rechte t�r, unten
+[12:33:25] <jh> DrMcCoy: leck den boden sauber
+[12:33:30] <jh> ES: mh
+[12:33:42] <DrMcCoy> jh: Leck du mich
+[12:33:52] <jh> DrMcCoy: ja, meister :D
+[12:33:56] <ES> jh: da ist grillkohle und anz�nder, ich kann damit viele motivierende sachen machen
+[12:34:01] <DrMcCoy> :O
+[12:34:17] <jh> ES: im labor ist grillkohle?
+[12:34:20] <ES> jo
+[12:34:24] <ES> und anz�nder
+[12:34:28] <jh> warum?
+[12:34:30] <ES> jh: 2. schrank von rechts, rechte t�r, unten
+[12:34:36] <DrMcCoy> Ihr wollt euer Labor anzünden?
+[12:34:47] <jh> wo ist im labor rechts?
+[12:34:57] <ES> jh: warum nicht? fehlt nur noch das steaktier
+[12:35:23] * nubix hat definitiv im falschen semester angefangen.
+[12:35:46] <nubix> jetzt kommen sie alle und wollen die erstis umgarnen
+[12:35:46] <ES> nubix: wann denn? im ersten?
+[12:35:49] <jh> nubix: besser als ein halbes jar rumgammeln?^^
+[12:35:56] <jh> +h
+[12:36:00] <jh> ES: im sommersemester
+[12:36:01] <nubix> jh: ich hab doch jetzt auch gegammelt :p
+[12:36:09] <nubix> ES: siehe jh
+[12:36:13] <jh> nubix: aber du hast schon ne prüfung bestanden
+[12:36:18] <ES> noobs
+[12:36:30] <jh> und hast sogar ne wohnung
+[12:36:31] <jh> ^^
+[12:36:41] <jh> also "wohnung"
+[12:36:43] <jh> *duck*
+[12:36:47] <nubix> !slap jh
+[12:36:48] * ZombiePoet unsuccessfully socks jh 
+[12:36:52] <nubix> hmpf
+[12:36:54] <jh> sock?
+[12:37:02] <DrMcCoy> jh: :(
+[12:37:06] <ES> tippfehler bei "sucks"
+[12:37:19] <jh> O.o
+[12:37:23] <nubix> jh: du darfst erst schlecht machen wenn ich da auch wohnwe
+[12:37:28] <jh> nubix: kk
+[12:37:29] <jh> :P
+[12:37:31] * nubix hat gerade seine alte wohnung gekuendigt
+[12:37:46] <jh> du meinst dein hotelzimmer?
+[12:37:51] <DrMcCoy> jh: https://secure.wikimedia.org/wiktionary/en/wiki/sock#Verb
+[12:37:53] <ZombiePoet> Title: sock - Wiktionary (at secure.wikimedia.org)
+[12:38:04] <jh> DrMcCoy: hab lieber http://dict.leo.org/?lp=ende&from=fx3&search=sock genommen
+[12:38:06] <ZombiePoet> Title: dict.leo.org - Ergebnisse f�r "sock" (at dict.leo.org)
+[12:38:11] <DrMcCoy> jh: Bah.
+[12:38:14] <nubix> jh: ja
+[12:40:27] <nubix> lol... urban dict zu sock
+[12:40:29] <nubix> A disposable ejaculatory device used by lonely, socially inept young men who do not like to masturbate in the shower or ejaculate all over furniture.
+[12:40:42] <nubix> "John, where have all your socks gone? I could've sworn that I bought you a pack just last week."
+[12:41:28] <ES> wwwwwwaaaaaaaaaaaaahhhhhhhhhhhhh!!!!!!!!!!!!!!11
+[12:42:20] <jh> äh
+[12:42:24] <jh> ok
+[12:43:52] <ES> jh: arbeite!
+[12:44:02] <jh> ES: ist markus da?
+[12:44:14] <ES> jh: im labor sehe ich ihn nihct
+[12:44:43] <nubix> Wieso steht im Topic zwei mal Informatik?!
+[12:45:04] <DrMcCoy> FailNubix
+[12:45:05] <jh> steht da nicht
+[12:45:08] <ES> nubix: weil es um informatik und um das informatikstudium ghet
+[12:45:19] <ES> da isn bindestrich
+[12:45:22] <DrMcCoy> FailNubix.
+[12:45:28] <ES> weil wir auch nioch ISTler reinlassen
+[12:45:38] <ES> Failnubix
+[12:45:41] <jh> manchmal sogar mewis
+[12:45:52] <jh> die fallen wohl unter "..."
+[12:46:01] <DrMcCoy> Jo
+[12:46:06] <nubix> Hm, ups...
+[12:46:28] <nubix> Sieht aber nicht schoen aus
+[12:46:32] <jh> mh, mal ne hose suchen
+[12:46:45] <ES> tmi
+[12:47:25] <DrMcCoy> jh: Ich könnte dir eine von mir leihen
+[12:47:28] <DrMcCoy> Sieht sicher lustig aus :P
+[12:47:54] <ES> DrMcCoy: und was soll er dann mir dem anderen bein machen?
+[12:48:30] <DrMcCoy> ES: Da kann er seine Sachen reintun oder so, braucht er keinen Rucksack
+[12:48:43] <ES> praktisch
+[12:48:48] <DrMcCoy> Jo
+[12:49:37] <jh> mh, bisschen eng
+[12:50:14] <jh> -> mensa
+[12:50:15] ! jh has quit. (Quit: jh)
+[12:52:21] ! Phia has quit. (Quit: Leaving.)
+[12:57:08] ! nubix has quit. (Quit: Leaving.)
+[13:05:27] ! csg has quit. (Ping timeout: 246 seconds)
+[13:07:39] ! Tigaa_laptop has joined.
+[13:19:08] ! blaine has joined.
+[13:19:25] ! CalebRipley has joined.
+[13:21:09] <blaine> hallo alle, die mich daran erinnern, wie Jacolyte.
+[13:22:04] <DrMcCoy> blaine!
+[13:22:26] <blaine> Ich habe ein paar Neuigkeiten. Ich habe Hirnschäden für den letzten 7 Jahren hatte.
+[13:22:35] <DrMcCoy> o_O
+[13:24:02] <blaine> my glasses were depressing a spot on my nose
+[13:24:10] <blaine> either a nerve or an artery or a blood vessel
+[13:24:38] <blaine> plus lack of oxygen, sleep, water, sunlight, for long periods of time
+[13:24:42] <DrMcCoy> :(
+[13:24:58] <blaine> when I took the glasses off, my face re-arranged in the mirror
+[13:25:23] <blaine> and as blood returned, feeling returned to my face
+[13:25:38] <blaine> and my eyesight is actually improving
+[13:26:01] <DrMcCoy> o_O
+[13:28:03] <blaine> my teeth are straighter, gums are pinker, appetite has returned, feeling of being tired, had to remember how to blink, had to remember how to breathe normally, had to remember how to think normally, had to remember to breathe, and often times breathe and blink manually
+[13:28:36] <blaine> and memories were very hazy
+[13:29:10] <blaine> I remember walking down the street, feeling as though I was an oompa loompa, and that half my brain was shut off, and that I could have possibly had a stroke right then
+[13:29:26] <blaine> I even had to struggle to walk
+[13:29:41] <blaine> my knees were giving out, and I had graying hair at aged 18
+[13:30:18] <blaine> I am a vastly different person today
+[13:31:41] <blaine> I'm glad to report, I am alive, healthy, and happy
+[13:31:47] <DrMcCoy> All from the glasses pressing on your nose? That sounds vastly unlikely...
+[13:31:58] <blaine> that was a big factor
+[13:32:06] <blaine> but there was also staying inside because I work from home
+[13:32:10] <blaine> and never going out
+[13:32:20] <blaine> and living in a dark musty apartment
+[13:32:23] <blaine> with little air circulation
+[13:32:26] <blaine> and little sunlight
+[13:32:45] <blaine> lack of exercise, and poor diet
+[13:34:00] <DrMcCoy> ...At least you're still alive and happy now, I guess
+[13:34:11] <blaine> you guess?!
+[13:34:13] <blaine> lol
+[13:34:25] <DrMcCoy> :P
+[13:35:46] <DrMcCoy> But if you're gonna tell me how you made those great changes by entering Scientology or some equally stupid shit, I'm gonna have to ban you :P
+[13:35:58] <blaine> hahahaha
+[13:36:08] <blaine> no way
+[13:36:14] <blaine> it was all research based
+[13:36:21] <blaine> firmly rooted in science
+[13:36:45] <blaine> I learned a lot about biology and applied it to fixing my health
+[13:39:18] ! elorie has joined.
+[13:39:22] <DrMcCoy> elorie!
+[13:39:31] <elorie> DrMcCoy: !
+[13:39:44] <DrMcCoy> elorie: Was macht die Hand?
+[13:40:24] <elorie> au und ich hab im schlaf irgendwie den verband agbemacht o.O
+[13:40:39] <DrMcCoy> O_o
+[14:01:41] ! Bowdzone has quit. (Quit: Bowdzone)
+[14:05:32] ! rohieb has joined.
+[14:09:02] <rohieb> gute nacht
+[14:09:05] <ZombiePoet> rohieb: Sent 4 hours and 29 minutes ago: <Mobiwoelfin> ich glaube, wir leben noch ;-)
+[14:18:28] ! Ignifazius has quit. (Quit: *Vanish*)
+[14:21:57] ! nubix has joined.
+[14:21:57] ! nubix has quit. (Changing host)
+[14:21:57] ! nubix has joined.
+[14:27:03] ! lurtz has joined.
+[14:33:47] ! Silberwoelfin has joined.
+[14:34:04] <Silberwoelfin> hi
+[14:37:14] ! rohieb has quit. (Ping timeout: 240 seconds)
+[14:37:44] <nubix> hi Silberwoelfin
+[14:38:57] ! Phia has joined.
+[14:47:22] ! blaine has quit. (Quit: Leaving.)
+[14:58:03] ! rohieb has joined.
+[15:03:30] ! Sonea has joined.
+[15:12:46] <ES> lol, wahl macht gerede fotos mit fakeinteressierten studenten^^
+[15:21:47] ! ES has quit. (Quit: The cake is a lie!)
+[15:26:15] ! Tigaa_laptop has quit. (Ping timeout: 260 seconds)
+[15:26:34] <hashier> !es bist du ein fakeinteressierter student?
+[15:31:29] ! Silberwoelfin has quit. (Quit: Verlassend)
+[15:37:00] ! jh_ has joined.
+[15:40:00] ! Tigaa_laptop has joined.
+[15:47:07] ! csg has joined.
+[15:56:42] <Sonea> hashier: kann man jetzt so tellen??
+[15:56:59] <Sonea> hashier: bist du grad gar nicht in schweden?
+[16:00:16] <hashier> Sonea: nein kann man nicht, ich hab es schon immer falsch gemacht (:
+[16:00:22] <hashier> Sonea: doch bin in schweden, wieso?
+[16:00:55] <jh_> doofes schild
+[16:01:09] ! jh_ is now known as jh
+[16:02:01] <Sonea> hashier: nur so, weil lydia erwähnt hatte dass du am 18.09. zurück nach schweden wolltest
+[16:02:18] <Sonea> als ich erwähnte dass der bahnhof da gesperrt sein soll
+[16:02:27] <Sonea> wie gefällts dir denn? hashier :)
+[16:03:32] <rohieb> jh: schild?
+[16:03:45] <rohieb> hm, bug im kernel gefunden
+[16:03:48] <jh> rohieb: das laufschriftschild das dominik mitgebracht hat
+[16:03:55] <jh> rohieb: das will nicht mit meinem rechner reden
+[16:04:02] <rohieb> aha
+[16:04:15] <jh> rohieb: u asked O_o
+[16:05:28] <jh> rohieb: btw, sandra meinte was von party bei dir?
+[16:05:45] <rohieb> ja
+[16:05:47] <rohieb> fr
+[16:07:10] <DrMcCoy> rohieb: Und ich bin nicht eingeladen? :(
+[16:07:24] <jh> rohieb: und warum erzählst du mir nix davon? :P
+[16:08:20] <rohieb> DrMcCoy: sry
+[16:08:30] <rohieb> jh: weil vergesslich und viel dazwischengekommen und so
+[16:08:36] <jh> rohieb: kk
+[16:08:57] <DrMcCoy> rohieb: Okay, dann eben nicht
+[16:09:06] <Sonea> huch party? und ich bin nicht eingeladen :(
+[16:09:11] <DrMcCoy> Wollte sowieso nicht auf plöde Leute treffen
+[16:11:15] <rohieb> DrMcCoy: wenn ich jeden einlade, ist meine küche voll und ich pleite
+[16:11:44] <Sonea> armer DrMcCoy :/
+[16:11:55] <DrMcCoy> rohieb hat mich nicht lieb :(
+[16:11:55] <Sonea> DrMcCoy: aber du hast doch bald einen neuen netten mitbewohner :)
+[16:12:04] <jh> Sonea: ich dachte nubix O_o
+[16:12:10] <DrMcCoy> lol :D
+[16:12:19] <Sonea> DrMcCoy: da triffst du doch auf leute ;)
+[16:12:23] <Sonea> jh: du bist fies
+[16:12:28] * DrMcCoy knuddelt jh :D
+[16:12:29] <Sonea> kleiner aufmüpfiger jh!
+[16:12:36] <nubix> !slap jh
+[16:12:36] * ZombiePoet angrily drops an anvil on jh
+[16:12:42] <jh> Sonea: der hat mir finger gezeigt
+[16:12:45] <jh> warum auch immer
+[16:14:05] <Sonea> ihhhhhh
+[16:14:06] <Sonea> finger
+[16:14:16] <nubix> Sonea: du weisst doch gar nicht welchen :)
+[16:14:22] <jh> glaub der daumen wars
+[16:14:22] <nubix> welche
+[16:14:25] <DrMcCoy> Dann mach ich jetzt meine eigene Party
+[16:14:35] <DrMcCoy> With blackjack. And hookers.
+[16:14:39] <Sonea> DrMcCoy: seit wann feierst du partys?
+[16:14:41] <jh> nubix: einweihungsparty bei DrMcCoy?
+[16:14:43] <rohieb> !blackjack
+[16:14:45] <rohieb> mh
+[16:14:47] <jh> !nutten
+[16:15:12] <DrMcCoy> Sonea: Seit ich etwas brauche, um rohieb auszuschließen
+[16:15:21] <jh> :D
+[16:15:26] <jh> ausschließpartys
+[16:15:32] <nubix> jh: weiss ich nichts von :P
+[16:15:35] <jh> ich mach auch eine und lade *keinen* ein
+[16:15:36] <jh> ha!
+[16:16:19] <rohieb> nichtmal dich selbst?
+[16:16:55] <jh> genau
+[16:17:44] <Sonea> :D
+[16:17:54] <Sonea> jh wird nciht mal zu seinen eigenen partys eingeladen :D
+[16:17:57] <Sonea> hahaha
+[16:17:58] <DrMcCoy> Stell dir vor es ist Party bei jh und keiner geht hin?
+[16:18:05] <Sonea> genau
+[16:18:24] <nubix> bei jh is party?
+[16:18:25] ! Silberwoelfin has joined.
+[16:18:40] <Silberwoelfin> re
+[16:19:08] <DrMcCoy> Silberwoelfin: Bei jh ist Party, aber du bist nicht eingeladen!
+[16:19:42] <Silberwoelfin> jh: :(
+[16:20:03] <elorie> o.O
+[16:20:27] <DrMcCoy> elorie: Ich lade dich aber zu meiner Party ein :)
+[16:20:34] <elorie> :)
+[16:20:35] <DrMcCoy> Nur rohieb nicht!
+[16:20:36] <DrMcCoy> Haha!
+[16:20:43] <DrMcCoy> Mwahaha!
+[16:21:42] <DrMcCoy> Und es gibt ganz tolle Partyspiele, wie "Pinn das Messer an den rohieb"
+[16:22:16] <rohieb>  /ignore DrMcCoy!*@*.* ALL
+[16:22:18] <DrMcCoy> Und...äh...rohiebdrehen?
+[16:22:25] <DrMcCoy> rohieb: :(
+[16:23:15] ! DrMcCoy is now known as DocMcCoy
+[16:23:22] <DocMcCoy> rohieb: Mwahaha!
+[16:23:27] ! DocMcCoy is now known as DrMcCoy
+[16:24:00] <Silberwoelfin> DrMcCoy: so ohne kontext hat das meine stimmung grade ungemein verbessert. nicht.
+[16:24:14] <DrMcCoy> Silberwoelfin: :(
+[16:24:46] * DrMcCoy gibt Silberwoelfin einen grünen Luftballon
+[16:25:26] ! ES has joined.
+[16:29:15] <Silberwoelfin> ein gr�ner luftballon \o/
+[16:35:03] <nubix> !mensa abend
+[16:35:03] <ZombiePoet> Abendmensa Katharinenstraße am Mittwoch:
+[16:35:04] <ZombiePoet> A: Aktion: frische Waldpilzcremesuppe mit Backerbsen 1,40€
+[16:35:05] <ZombiePoet> B: Spaghetti Bolognese AT 1,70€
+[16:35:06] <ZombiePoet> C: Peppers Red & Hot chilli 1,90€
+[16:35:07] <ZombiePoet> W: 1/2 Brathähnchen 1,90€
+[16:45:25] <jh> ich bin ein großer braver jan und locke mein notebook immer wenn ich nicht da bin
+[16:45:48] <DrMcCoy> o_O
+[16:45:51] <jh> laptop einmal nicht sperren = verloren
+[16:45:57] <ES> jh: gro�? o_O
+[16:46:21] <DrMcCoy> Kleines jhchen
+[16:46:23] <jh> Silberwoelfin: *knuddel*
+[16:46:29] <jh> Silberwoelfin: schild will nicht
+[16:47:21] <Silberwoelfin> jh: dann kannst du jetzt ja masterarbeiten
+[16:52:41] <jh> Silberwoelfin: :(
+[16:54:52] <Silberwoelfin> jh: sonst schaffst du das nachher nicht....
+[16:55:23] <jh> wer "schreibt" denn solche cachelistings? http://www.geocaching.com/seek/cache_details.aspx?wp=GC33FJH und wer schaltet die auch noch frei?!
+[16:55:25] <ZombiePoet> Title: GC33FJH Welise1 (Traditional Cache) in Niedersachsen, Germany created by THORgeoBEN (at www.geocaching.com)
+[17:17:35] ! jh has quit. (Quit: Logik wird überschätzt.)
+[17:21:19] ! rohieb_ has joined.
+[17:21:40] ! rohieb has quit. (Quit: Shut up and let me go, hey!)
+[17:22:37] ! rohieb_ is now known as rohieb
+[17:28:04] <rohieb> !tell jh* dachte so an ein sixpack haſſeröder
+[17:28:04] <ZombiePoet> rohieb: Ok.
+[17:30:24] ! csg has quit. (Ping timeout: 258 seconds)
+[17:36:55] ! nubix has quit. (Quit: Leaving.)
+[17:39:38] ! nubix has joined.
+[17:39:38] ! nubix has quit. (Changing host)
+[17:39:38] ! nubix has joined.
+[17:43:34] ! nubix has quit. (Client Quit)
+[17:57:01] ! lurtz has quit. (Remote host closed the connection)
+[18:11:55] ! moohieb has joined.
+[18:12:03] <moohieb> meh
+[18:12:12] <moohieb> mcces voll
+[18:12:20] <moohieb> alle hamse gutscheine
+[18:12:58] <DrMcCoy> moohieb: Bringst du mir nen Cheeseburger mit? :P
+[18:13:40] <DrMcCoy> Oder auch 2
+[18:15:25] <moohieb> DrMcCoy: komm halt her
+[18:15:30] <DrMcCoy> moohieb: Neeeee
+[18:15:34] <DrMcCoy> moohieb: Zu faul
+[18:16:05] <DrMcCoy> Ich hab heute nen fauligen Tag :P
+[18:17:53] <moohieb> DrMcCoy: ich auchm darum schaff ichs nicht zu dir
+[18:17:58] <DrMcCoy> :P
+[18:18:09] <DrMcCoy> moohieb: Kriegst auch Tee :P
+[18:32:48] <Phia> geht jemand in die Abendmensa?
+[18:38:14] ! nubix has joined.
+[18:38:14] ! nubix has quit. (Changing host)
+[18:38:14] ! nubix has joined.
+[18:41:18] <nubix> .
+[18:41:52] <Phia> nubix: Abendmensa?
+[18:42:09] <nubix> Phia: ne, ich bin gerade zuhause angekommen
+[18:46:52] ! der_eq has joined.
+[19:09:00] <DrMcCoy> Viel Wind + plötzlich Regen + offenes Fenster = doof
+[19:12:40] <tsuro> kenn ich, mir hats letztens in meine mehrfachsteckdose geregnet
+[19:13:38] ! Bowdzone has joined.
+[19:13:47] ! Peace_Maker has quit. (Read error: Connection reset by peer)
+[19:14:50] ! Peace-Maker has joined.
+[19:15:09] <moohieb> tsuro: und, special effects?
+[19:15:46] <tsuro> sicherung ist rausgeflogen
+[19:16:19] <tsuro> und sowas passiert mitten in der Nacht
+[19:22:54] ! jh-mobil has joined.
+[19:23:09] <jh-mobil> Hallo Internet!
+[19:23:10] <ZombiePoet> jh-mobil: Sent 1 hour and 55 minutes ago: <rohieb> dachte so an ein sixpack haſſeröder
+[19:23:29] ! lurtz has joined.
+[19:23:39] <jh-mobil> lurtz!
+[19:23:46] <lurtz> jh-mobil!
+[19:46:00] <DrMcCoy> jh-mobil!
+[19:46:07] <DrMcCoy> lurtz!
+[19:46:16] <lurtz> DrMcCoy!
+[19:47:29] ! joke` has joined.
+[19:47:47] <DrMcCoy> joke`!
+[19:47:57] <joke`> DrMcCoy !
+[19:49:38] <Sonea> *!
+[19:50:16] <DrMcCoy> Sonea! :)
+[19:50:51] <Sonea> DrMcCoy: :)
+[19:51:09] <Sonea> ich hab einen smiley gekriegt und ihr nicht! :P
+[19:51:59] <DrMcCoy> lol
+[19:53:54] ! moohieb has quit. (Remote host closed the connection)
+[19:56:59] ! csg has joined.
+[20:13:04] ! Phia has quit. (Ping timeout: 245 seconds)
+[20:15:59] ! csg has quit. (Ping timeout: 245 seconds)
+[20:27:54] ! Phia has joined.
+[20:30:16] ! nubix has quit. (Quit: Leaving.)
+[20:38:16] <jh-mobil> DrMcCoy!
+[21:00:15] ! lurtz1 has joined.
+[21:00:15] ! lurtz has quit. (Read error: Operation timed out)
+[21:05:17] <DooMMasteR> hmm finish=369.5min
+[21:05:19] <DooMMasteR> das dauert lange -.-
+[21:27:28] <jh-mobil> Nix los hier?
+[21:28:12] <rohieb> nö
+[21:29:15] <Silberwoelfin> jh-mobil!
+[21:29:18] <Silberwoelfin> rohieb: \o/
+[21:29:39] <rohieb> jiji
+[21:29:40] <rohieb> huhu
+[21:30:25] ! Phia has quit. (Quit: Leaving.)
+[21:32:16] <jh-mobil> Silberwoelfin \o/
+[21:34:34] <jh-mobil> Dunkel und kein licht :(
+[21:34:55] <Silberwoelfin> jh-mobil: mach welches an
+[21:35:24] <Silberwoelfin> jh-mobil: oder komm her, hier ist auch welches ;)
+[21:36:25] <jh-mobil> Silberwoelfin: ich meine fahrradlicht
+[21:36:52] <Silberwoelfin> jh-mobil: ich hab hier auch irgendwo fahrradlicht, vorzugsweise am fahrrad ;)
+[21:40:12] <jh-mobil> Aber nicht hier
+[21:41:46] <Sonea> hmmm mal nach hause eiern
+[21:42:25] ! rohieb has quit. (Quit: ...yo ho ho, and a bottle of rum!)
+[21:42:53] ! jh-mobil2 has joined.
+[21:46:24] ! jh-mobil has quit. (Ping timeout: 245 seconds)
+[21:47:45] ! jh-mobil2 has quit. (Ping timeout: 276 seconds)
+[21:48:00] <Silberwoelfin> da hat einer ne kiste auf den feldweg gestellt... warum?
+[21:51:42] ! sonnenschein has joined.
+[22:03:27] ! Bowdzone has quit. (Quit: Bowdzone)
+[22:12:19] ! jh has joined.
+[22:12:31] <jh> Hi!
+[22:14:13] <jh> wtf? http://www.geocaching.com/seek/cache_details.aspx?wp=GC33PYC
+[22:14:15] <ZombiePoet> Title: GC33PYC Welise Waldblick (Traditional Cache) in Niedersachsen, Germany created by Feuerstein99 (at www.geocaching.com)
+[22:14:25] <jh> http://www.geocaching.com/seek/cache_details.aspx?wp=GC33PTT
+[22:14:26] <ZombiePoet> Title: GC33PTT Welise Feld (Traditional Cache) in Niedersachsen, Germany created by THORgeoBEN (at www.geocaching.com)
+[22:14:34] <jh> http://www.geocaching.com/seek/cache_details.aspx?wp=GC33RAA
+[22:14:35] <ZombiePoet> Title: GC33RAA Welise3 (Traditional Cache) in Niedersachsen, Germany created by THORgeoBEN (at www.geocaching.com)
+[22:14:39] * jh slaps dumme around a bit with a large trout
+[22:16:32] ! rohieb has joined.
+[22:17:52] <jh> rohieb: http://www.geocaching.com/seek/cache_details.aspx?wp=GC33PYC :[
+[22:17:53] <ZombiePoet> Title: GC33PYC Welise Waldblick (Traditional Cache) in Niedersachsen, Germany created by Feuerstein99 (at www.geocaching.com)
+[22:18:30] <Silberwoelfin> jh: der reviewer, der die gepublished hat, hat noch keinen einzigen cache gefunden... und ist auch erst seit diesem jahr mitglied...
+[22:18:44] <jh> Silberwoelfin: die haben extra-accounts
+[22:18:52] <jh> also die reviewer-accounts haben immer 0-1 founds
+[22:18:55] <Silberwoelfin> achso
+[22:19:27] <rohieb> jh: die heißen alle welise?
+[22:19:45] <jh> rohieb: ja
+[22:19:50] <rohieb> Silberwoelfin: jh: jo, und die meisten founds von denen sind auch reviewer-events ^^
+[22:19:57] <jh> rohieb: und keine beschreibung, und sinnloser hint
+[22:20:02] <jh> und vermutlich auch dummer cache
+[22:21:12] <rohieb> jo
+[22:21:19] <jh> wen flame ich jetzt?
+[22:21:36] <rohieb> beide :>
+[22:23:03] <jh> verdammt, ein sinnvoller beschreibungstext ist echt nicht in den richtlinien
+[22:23:07] <jh> http://www.gc-reviewer.de/hilfe-tipps-und-tricks/checkliste-fur-cachelisting-und-das-schnelle-review/
+[22:23:09] <ZombiePoet> Title: Checkliste für Cachelisting und das schnelle Review | Informationen der deutschen Geocaching.com-Reviewer (at www.gc-reviewer.de)
+[22:24:06] <rohieb> lol ^^
+[22:29:38] ! Ignifazius has joined.
+[22:43:09] <Silberwoelfin> gute nacht
+[22:43:46] <jh> gn8 Silberwoelfin :*
+[22:44:01] ! Silberwoelfin has quit. (Quit: Verlassend)
+[22:53:29] ! Phia has joined.
+[23:00:37] ! lurtz1 has quit. (Remote host closed the connection)
+[23:00:48] ! lurtz has joined.
+[23:07:46] ! sonnenschein has quit. (Quit: Ex-Chat)
+[23:08:01] ! der_eq has quit. (Remote host closed the connection)
+[23:10:56] ! nubix has joined.
+[23:10:56] ! nubix has quit. (Changing host)
+[23:10:56] ! nubix has joined.
+[23:11:18] <nubix> .
+[23:18:08] <jh> gn8
+[23:18:18] <jh> !tell *woelfin* guten morgen!
+[23:18:19] <ZombiePoet> jh: Ok.
+[23:18:21] ! jh has quit. (Quit: jh)
+[23:20:12] <rohieb> !tell *woelfin* guten übermorgen!
+[23:20:12] <ZombiePoet> rohieb: Ok.
+[23:20:42] ! Bowdzone has joined.
+[23:33:23] ! nubix has quit. (Quit: Leaving.)
+[23:35:20] ! Bowdzone has quit. (Quit: Bowdzone)
+[23:43:51] ! nubix has joined.
+[23:43:51] ! nubix has quit. (Changing host)
+[23:43:51] ! nubix has joined.
+[23:46:05] ! joke` has quit. (Remote host closed the connection)
+[23:53:42] ! Ignifazius has quit. (Quit: *Vanish*)

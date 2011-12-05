@@ -1,0 +1,285 @@
+[00:04:51] <jh> gn8
+[00:05:01] <rohieb> n8 jh
+[00:05:43] ! jh has quit. (Quit: jh)
+[00:12:37] ! PirateKing has joined.
+[00:14:32] ! Sonea has quit. (Quit: Leaving.)
+[00:18:17] ! PirateKing has quit. (Quit: Leaving.)
+[00:23:06] ! Cascharity has quit. (Ping timeout: 252 seconds)
+[00:38:03] ! Phia has quit. (Quit: Leaving.)
+[00:38:22] ! Phia has joined.
+[00:38:35] ! Phia has quit. (Client Quit)
+[01:11:16] ! ES has quit. (Quit: The cake is a lie!)
+[01:12:47] ! Sonea has joined.
+[01:13:20] ! Sonea has quit. (Client Quit)
+[01:20:41] ! Debi has quit. (Quit: Verlassend)
+[01:30:55] ! lurtz has quit. (Quit: Leaving.)
+[01:40:16] ! elorie has joined.
+[01:41:08] ! elorie has quit. (Quit: Leaving.)
+[02:02:40] <rohieb> .   .   .
+[02:02:50] <rohieb> not sure if trolling or realsatire... http://2.asset.soup.io/asset/2288/0018_0358_480.jpeg
+[02:54:14] ! rohieb has quit. (Quit: ...yo ho ho, and a bottle of rum!)
+[07:06:53] ! Peace-Maker has quit. (Quit: Bye.)
+[07:09:33] ! Cascharity has joined.
+[07:24:41] ! Cascharity has quit. (Read error: Connection reset by peer)
+[07:44:41] ! Phia has joined.
+[07:51:06] ! elorie has joined.
+[08:25:07] ! elorie has quit. (Quit: Leaving.)
+[08:35:50] ! ES has joined.
+[08:36:15] ! nubix has joined.
+[08:37:45] <nubix> guten morgen
+[08:37:47] ! nubix has quit. (Client Quit)
+[08:42:47] ! jh has joined.
+[08:44:04] ! elorie has joined.
+[08:49:54] ! nubix has joined.
+[08:50:03] ! nubix has quit. (Client Quit)
+[09:00:56] <jh> hi
+[09:21:27] <elorie> hallo
+[09:23:48] ! ES has quit. (Ping timeout: 244 seconds)
+[09:23:55] ! ES has joined.
+[09:43:05] ! Silberwoelfin has joined.
+[09:44:00] <Silberwoelfin> moin
+[09:46:22] <jh> hi Silberwoelfin
+[09:48:25] ! nubix has joined.
+[09:57:03] ! jh has quit. (Quit: jh)
+[10:11:28] ! ES has quit. (Ping timeout: 240 seconds)
+[10:15:38] ! ES has joined.
+[10:24:35] ! conqueror12 has joined.
+[10:24:46] ! lurtz has joined.
+[10:50:47] <nubix> judden abend liebe liebenden
+[10:55:57] <elorie> o.O
+[11:01:10] <Silberwoelfin> nubix: und alle, die die grad nicht in einer beziehung sind, grüßt du nicht?
+[11:01:14] <Silberwoelfin> das ist aber unfreundlich
+[11:01:48] <nubix> Silberwoelfin: ich habe selber gar keine beziehung als mach mir doch keinen vorwurf daraus
+[11:08:40] <Silberwoelfin> hm, warum committed git nicht?
+[11:09:11] <Silberwoelfin> ich sag immer "git commit" und er lässt mich nen comment eintragen und so, aber tatsächlich committen tuts nicht :-(
+[11:09:20] ! Silberwoelfin has quit. (Quit: Verlassend)
+[11:14:43] ! ES has quit. (Quit: The cake is a lie!)
+[11:17:16] ! Sonea has joined.
+[11:24:33] ! Silberwoelfin has joined.
+[11:41:31] ! PirateKing has joined.
+[11:41:37] ! Bowdzone has joined.
+[11:44:11] ! jh-uni has joined.
+[11:44:41] <jh-uni> jemand mensa 13:30 od. :45?
+[11:46:18] <Sonea> jh-uni: vllt, hab noch nen termin, weiß nicht wie lange der dauert, aber essen wollte ich, werde dann einfach ausschau nach euch halten
+[11:51:48] ! lurtz has quit. (Ping timeout: 240 seconds)
+[11:56:26] <jh-uni> wird eher :15
+[11:57:15] <Silberwoelfin> mag mir jemand erklären, wieso git meinen kram nicht committet?
+[12:05:48] <Silberwoelfin> wieso muss ich den kram denn committen _und_ pushen? geht das nicht auch in eins?
+[12:05:49] ! ES has joined.
+[12:16:15] ! lurtz has joined.
+[12:18:27] <jh-uni> Silberwoelfin: commit committet es in dein lokales repo, wenn es auch in ein $anderes repo (zB auf nem server) soll, dann musst du es von deinem lokalen repo da hin pushen
+[12:19:12] <Silberwoelfin> jh-uni: aber in meinem lokalen repo sind die dateien doch eh schon gespeichert?
+[12:19:22] <Silberwoelfin> das ist doch ein ordner und da liegen die dateien drin
+[12:20:32] <Silberwoelfin> wozu dann noch erstmal add und dann commit? warum kann ich nicht einfach nur push sagen, und der kopiert den kram auf den server?
+[12:25:11] ! igel has joined.
+[12:26:33] ! igel has quit. (Client Quit)
+[12:30:44] <jh-uni> Silberwoelfin: in deinem lokalen repo sind sie erst nach dem commit
+[12:31:14] <Silberwoelfin> nö
+[12:31:24] <Silberwoelfin> das ist doch bloß ein ordner
+[12:31:40] <jh-uni> nein
+[12:31:40] <Silberwoelfin> da hab ich den kram doch schon reinkopiert
+[12:31:45] <jh-uni> da ist noch ein magischer .git ordner
+[12:35:40] <Silberwoelfin> jh-uni: und wozu braucht der zwei befehle? add und commit
+[12:36:18] <Silberwoelfin> kann der nicht einfach den ganzen Ordner überwachen und den kram automatisch adden, wenn ich committe?
+[12:39:14] <Sonea> hihihi das hatte ich auch, weil ich svn gewohnt war
+[12:39:19] <Sonea> aber ich finde das schon sinnvoll
+[12:39:49] <Sonea> du kannst das aber auch über parameter machen, dann brauchst du nicht jedes mal add und  commit machen
+[12:40:19] <Sonea> also es ist zumindest dann gut, wenn mehrere leute an z.b. der gleichen softwareschreiben
+[12:40:34] <Sonea> dann möchtest du ja bei dir vllt schon verschiedene versionen verwalten
+[12:40:46] <Sonea> aber eben nur eine compilierbare committen
+[12:40:50] <Sonea> dann ist das ganz cool
+[12:41:31] <Silberwoelfin> da weiß ich aber auch nicht, wie das geht^^
+[12:42:58] <jh-uni> Silberwoelfin: google mal nach git tutorial ;)
+[12:43:06] <jh-uni> oder frag die ganzen fans, Valodim, lurtz oder so
+[12:44:08] <Silberwoelfin> lieber nicht, dann erzählen die mir bestimmt dinge, die ich nicht verstehe
+[12:45:13] <Silberwoelfin> eine schutzeinstellung vor der realisierung, wie dumm ich eigentlich bin
+[12:46:17] ! elorie has quit. (Ping timeout: 245 seconds)
+[12:50:53] ! Cascharity has joined.
+[12:50:55] <jh-uni> Silberwoelfin: kopf in den sand?
+[12:51:09] <jh-uni> ES: kannst du dem typ mal den windows-startsound ausschalten? -_-
+[12:51:36] <lurtz> ihr könntet windows gleich ganz abschalten
+[12:51:57] <jh-uni> lurtz: ich kann auch dich abschalten!
+[12:52:01] <lurtz> achne ihr seid ja auch von dieser fraktion
+[12:52:22] <jh-uni> lurtz, ES: 13:15 mensa?
+[12:52:49] <lurtz> nope vorlesung
+[12:54:38] ! Ignifazius has joined.
+[12:54:51] <lurtz> sprachkommunikation^^
+[13:03:55] ! Silberwoelfin has quit. (Quit: Verlassend)
+[13:04:35] ! Sonea has quit. (Quit: Leaving.)
+[13:05:35] ! nubix has quit. (Quit: Leaving.)
+[13:08:52] ! Ignifazius has quit. (Quit: *Vanish*)
+[13:10:50] ! lurtz has quit. (Quit: Leaving.)
+[13:13:45] ! MrFlix has joined.
+[13:14:39] ! nubix has joined.
+[13:15:20] <MrFlix> hi
+[13:19:10] <MrFlix> hallo
+[13:19:13] <Nimos> ...
+[13:19:35] ! MrFlix has quit. (Quit: Verlassend)
+[13:20:36] <ES> !mensa abend
+[13:20:37] <ZombiePoet> Abendmensa Katharinenstraße am Montag:
+[13:20:38] <ZombiePoet> A: Terrine Käsesuppe mit Mettbällchen 1,40€
+[13:20:39] <ZombiePoet> B: Frischer Blumenkohl mit Holländischer Sauce 1,80€
+[13:20:40] <ZombiePoet> C: Putenbruststeak mit Curryfruchtsauce 1,90€
+[13:20:41] <ZombiePoet> W: 1/2 Brathähnchen 1,90€
+[13:22:25] ! elorie has joined.
+[13:23:33] ! MrFlix has joined.
+[13:30:50] <elorie> !nom
+[13:30:50] <ZombiePoet> Mensa Katharinenstraße am Montag:
+[13:30:51] <ZombiePoet> A: Terrine Käsesuppe mit Mettbällchen 1,40€
+[13:30:52] <ZombiePoet> B: Heringshappen mit Apfel und Gurke 1,50€
+[13:30:53] <ZombiePoet> C: Mailänder Kotelett mit Tomatensauce 1,90€
+[13:30:54] <ZombiePoet> V: Gemüse-Käseschnitte 1,50€
+[13:30:55] <ZombiePoet> W: Hühnerbrustfilet auf Sauce mit Austernpilzen dazu Kräuterreis 3,10€
+[13:36:14] <nubix> nichts leckeres in  der mensa heute
+[13:37:32] ! nubix has quit. (Quit: Leaving.)
+[13:37:58] ! nubix has joined.
+[13:56:19] ! ES has quit. (Quit: The cake is a lie!)
+[14:00:14] <MrFlix> Die Abendmensa klingt ganz gut, mal wieder Huhn^^
+[14:01:55] ! soney has joined.
+[14:06:24] ! Ignifazius has joined.
+[14:06:53] ! Cascharity has quit. (Quit: Verlassend)
+[14:07:33] ! soney has quit. (Ping timeout: 244 seconds)
+[14:07:35] ! Mobiwoelfin has joined.
+[14:07:57] <Mobiwoelfin> hi
+[14:08:16] <Mobiwoelfin> !tell Sonea ihr auch OV Sneak?
+[14:08:16] <ZombiePoet> Mobiwoelfin: Ok.
+[14:22:23] ! Mobiwoelfin has quit. (Ping timeout: 248 seconds)
+[14:30:14] ! Ignifazius has quit. (Quit: *Vanish*)
+[14:31:21] ! ES has joined.
+[14:31:42] ! nubix has quit. (Quit: Leaving.)
+[14:33:23] ! Mobiwoelfin has joined.
+[14:39:53] ! MrFlix has quit. (Ping timeout: 276 seconds)
+[14:47:19] ! Mobiwoelfin has quit. (Ping timeout: 252 seconds)
+[14:49:23] ! elorie has quit. (Quit: Leaving.)
+[14:50:23] ! lurtz has joined.
+[14:54:41] ! nubix has joined.
+[14:59:35] ! elorie has joined.
+[15:03:52] ! lurtz has quit. (Read error: Connection reset by peer)
+[15:04:18] ! soney has joined.
+[15:04:35] ! ES has quit. (Ping timeout: 276 seconds)
+[15:06:05] ! lurtz has joined.
+[15:07:51] ! ES has joined.
+[15:10:35] ! lurtz has quit. (Client Quit)
+[15:12:16] <jh-uni> Y U LAG VS???
+[15:26:50] <DrMcCoy> jh-uni!
+[15:29:22] ! Silberwoelfin has joined.
+[15:31:56] ! nubix has quit. (Quit: Leaving.)
+[15:34:19] ! igel has joined.
+[15:34:52] ! soney has quit. (Ping timeout: 244 seconds)
+[15:36:00] ! Tigaa_laptop has joined.
+[15:44:11] <jh-uni> Y U NO ANWESEND, betreuer?
+[15:48:28] <elorie> bin cih blind oder sind die neuen Formulare zwar per mail angekündigt aber ncoh nciht online auffindbar?
+[15:48:47] <elorie> ok feler found/... website war englisch -.-
+[15:49:29] ! igel has quit. (Quit: your ad here)
+[15:51:05] ! nubix has joined.
+[15:51:18] ! elorie has quit. (Quit: Leaving.)
+[15:53:04] ! ES has quit. (Ping timeout: 240 seconds)
+[15:58:06] ! ES has joined.
+[15:58:53] ! nubix has quit. (Quit: Leaving.)
+[16:04:47] ! Ignifazius has joined.
+[16:23:44] ! Silberwoelfin has quit. (Quit: Verlassend)
+[16:36:16] ! rohieb has joined.
+[16:37:35] <jh-uni> rohieb: du OV?
+[16:38:36] ! ES has quit. (Quit: The cake is a lie!)
+[16:39:55] ! nubix has joined.
+[16:43:00] <jh-uni> lol @ wolfram alpha-werbung: http://www.wolframcdn.com/sponsor-ads/certain-death.png :D
+[16:52:17] <rohieb> jh-uni: ne, go
+[16:52:35] <rohieb> jh-uni: na wenigstens den witz kennst du
+[16:53:06] <jh-uni> diese ganzen go-spalter neuerdings O_o
+[16:54:42] <nubix> jh-uni: go-spalter?
+[16:57:48] ! Debi has joined.
+[16:57:53] <jh-uni> nubix: rohieb, sonea und Droggl
+[16:58:23] <nubix> jh-uni: ich gehöre auch in die liste der go-spieler... aber das wort spalter kommt mir eigenartig vor
+[16:58:48] <jh-uni> nubix: die drei gehen heute nicht ins ov-kino, sondern zu go -> spalter
+[16:58:58] <nubix> ah
+[16:59:19] <nubix> verständlich, wenn ich daran gedacht haette wäre ich wohl auch beim go
+[16:59:40] <nubix> vorallem weil bis jetzt immer nur dann filme kamen die mich interessiert haben wenn ich nicht da war
+[17:02:05] <jh-uni> dann hoffe ich mal dass wir beide einen unterschiedlichen filmgeschmack haben^^
+[17:03:21] <nubix> jh-uni: ist mir egal, hauptsache mir gefaellt er :D
+[17:07:34] <tsuro> jh-uni: nubix: mit welchem zug fahrt ihr denn zum kino?
+[17:07:55] <nubix> tsuro: jh-uni laesst sich mitnehmen, ich nehme wohl den um 1855 oder so
+[17:08:08] <tsuro> nubix: ok, bin ich dabei
+[17:09:12] <nubix> tsuro: 1850 von gleis 1
+[17:09:35] <nubix> tsuro: 1855 von gleis 1 natürlich
+[17:10:15] <nubix> tsuro: ach vergiss besser was ich gesagt habe und guck selbst nach, bin gerade mit bahn.de überfordert ^^
+[17:10:28] ! PirateKing has quit. (Quit: Leaving.)
+[17:11:33] <tsuro> nubix: 18:57, gleis 3?^^
+[17:11:49] <nubix> tsuro: ja so etwas war das ^^
+[17:25:57] ! Silberwoelfin has joined.
+[17:35:13] <Valodim> !nom
+[17:35:13] <ZombiePoet> Abendmensa Katharinenstraße am Montag:
+[17:35:14] <ZombiePoet> A: Terrine Käsesuppe mit Mettbällchen 1,40€
+[17:35:15] <ZombiePoet> B: Frischer Blumenkohl mit Holländischer Sauce 1,80€
+[17:35:16] <ZombiePoet> C: Putenbruststeak mit Curryfruchtsauce 1,90€
+[17:35:17] <ZombiePoet> W: 1/2 Brathähnchen 1,90€
+[17:47:10] ! PirateKing has joined.
+[17:47:50] ! lurtz has joined.
+[17:48:40] <jh-uni> PirateKing: heute ist wieder der andere astro-bio-vortrag auf den das letzte mal im hdw hingewiesen wurde... ich bin aber nich da... bin ov-sneaken
+[17:48:55] <jh-uni> -wieder
+[17:49:17] <jh-uni> Silberwoelfin: bist du fg-raum?
+[17:49:44] <Silberwoelfin> jh-uni: nee, zwei räume vorher, 146
+[17:52:58] <jh-uni> ibr-lab?
+[17:54:37] <rohieb> ja
+[17:55:38] <jh-uni> was macht ihr denn da?^^
+[17:57:02] <PirateKing> jh-uni: ich werde wohl auch zum TT gehen
+[17:58:39] <Silberwoelfin> jh-uni: ja
+[17:58:44] <Silberwoelfin> jh-uni: teamprojekten
+[17:59:13] <jh-uni> aso
+[17:59:24] ! joke` has joined.
+[17:59:29] <jh-uni> ich geh dann mal fgraum od. plaza wenn der fgraum zu ist
+[17:59:37] <jh-uni> kannst mich dann einsammeln^^
+[17:59:38] ! jh-uni has quit. (Quit: Informatik finde ich super!)
+[18:00:36] <joke`> !mensa
+[18:00:37] <ZombiePoet> Abendmensa Katharinenstraße am Montag:
+[18:00:38] <ZombiePoet> A: Terrine Käsesuppe mit Mettbällchen 1,40€
+[18:00:39] <ZombiePoet> B: Frischer Blumenkohl mit Holländischer Sauce 1,80€
+[18:00:40] <ZombiePoet> C: Putenbruststeak mit Curryfruchtsauce 1,90€
+[18:00:41] <ZombiePoet> W: 1/2 Brathähnchen 1,90€
+[18:00:45] <joke`> Irgendwer noch hunger?
+[18:00:48] ! bgalias has joined.
+[18:04:18] ! jh has joined.
+[18:08:23] ! joke` has quit. (Quit: Verlassend)
+[18:17:28] <Silberwoelfin> jh \o/
+[18:17:59] <jh> Silberwoelfin \o/
+[18:18:10] <Silberwoelfin> jh: ich komm dich gleich mal einsammeln.
+[18:18:12] <Silberwoelfin> -.
+[18:18:27] <jh> *versteck*
+[18:18:34] <Silberwoelfin> :(
+[18:18:49] ! Silberwoelfin has quit. (Quit: Verlassend)
+[18:20:33] ! lurtz has quit. (Quit: Leaving.)
+[18:22:16] ! jh has quit. (Quit: Logik wird überschätzt.)
+[18:36:11] ! nubix has quit. (Quit: Leaving.)
+[18:47:29] ! PirateKing1 has joined.
+[18:49:28] ! PirateKing has quit. (Ping timeout: 240 seconds)
+[18:49:36] ! Phia has quit. (Ping timeout: 248 seconds)
+[18:52:21] ! Tigaa_laptop has left the channel.
+[18:53:41] <rohieb> !any sone
+[18:53:41] <ZombiePoet> rohieb: I have not seen sone.
+[18:53:43] <rohieb> !any sone*
+[18:53:44] <ZombiePoet> rohieb: sone* could be soney (3 hours, 18 minutes, and 51 seconds ago), Sonea (5 hours, 49 minutes, and 8 seconds ago), Soneobil (2 days, 4 hours, 42 minutes, and 39 seconds ago), soney1 (4 weeks, 4 days, 6 hours, 2 minutes, and 52 seconds ago), Sonea1 (4 weeks, 4 days, 16 hours, 25 minutes, and 40 seconds ago), Sonea2 (1 year, 6 weeks, 3 days, 0 hours, 37 minutes, and 32 seconds ago), Sonea|IZ (1 (2 more messages)
+[18:56:22] ! PirateKing1 has quit. (Quit: Leaving.)
+[19:05:18] ! Phia has joined.
+[19:07:12] ! Ignifazius has quit. (Quit: *Vanish*)
+[19:08:21] ! elorie has joined.
+[20:04:57] ! ES has joined.
+[20:39:03] ! soney has joined.
+[20:43:26] ! joke` has joined.
+[20:48:13] ! soney1 has joined.
+[21:00:59] ! soney has quit. (Quit: Leaving.)
+[21:39:15] ! PirateKing has joined.
+[21:44:07] ! elorie has quit. (Quit: Leaving.)
+[22:28:02] ! Debi has quit. (Quit: Verlassend)
+[22:39:44] ! bgalias has quit.
+[23:37:11] ! conqueror121 has joined.
+[23:38:21] ! conqueror12 has quit. (Ping timeout: 258 seconds)
+[23:57:58] ! nubix has joined.
+[23:58:56] ! ES_ has joined.
+[23:59:13] <ES_> !mensa
+[23:59:13] <ZombiePoet> Mensa Katharinenstraße am Dienstag:
+[23:59:14] <ZombiePoet> A: Terrine Kartoffelsuppe mit Rippenspeck AT 1,40€
+[23:59:15] <ZombiePoet> B: Eierpfannkuchen mit Blaubeeren 1,90€
+[23:59:16] <ZombiePoet> C: Geflügelbrustnuggets mit Ketchup 1,90€
+[23:59:17] <ZombiePoet> V: Bandnudeln, Pesto mit Oliven und geriebenem Hartkäse 1,90€
+[23:59:18] <ZombiePoet> W: Rinderhüftsteak mit Pfefferrahmsauce und Kartoffelbällchen 3,60€
+[23:59:25] ! ES has quit. (Ping timeout: 240 seconds)
+[23:59:35] ! ES_ is now known as ES

@@ -1,0 +1,389 @@
+[00:07:00] ! PirateKing has quit. (Quit: Leaving.)
+[00:10:16] ! Sonea has joined.
+[00:12:39] <jh> Sonea!
+[00:14:06] ! Phia has quit. (Quit: Leaving.)
+[00:14:11] <jh> Sonea: lust auf nachtcache morgen am frühen abend? http://dl.dropbox.com/u/1589203/gc/WaldHoppingderNachtcache.html ein platz wär noch im auto
+[00:14:12] <ZombiePoet> Title: GC145A8 Wald Hopping - der Nachtcache (Multi-cache) in Niedersachsen, Germany created by Team Lollipopformel1 (at dl.dropbox.com)
+[00:15:13] <jh> also morgen = Fr
+[00:16:17] ! Debi has quit. (Quit: Verlassend)
+[00:17:42] <rohieb> Sonea: doodlelink gesehen?
+[00:18:15] <jh> Sonea: willste noch mehr highlights? :P
+[00:18:22] <Sonea> jh!
+[00:18:40] <Sonea> uiuiui
+[00:18:56] <Sonea> jh: hmmm klingt erstmal nicht schlecht und morgen abend hab ich auch noch nicht vor
+[00:19:03] <Sonea> was heißt denn früher abend für dich?
+[00:19:11] <jh> Sonea: 17 uhr hier los
+[00:19:15] <Sonea> muss ich noch kurz mit henning drüber sprechen
+[00:19:20] <Sonea> hier = wendenring?
+[00:19:24] <jh> ja
+[00:32:59] <Sonea> wann musst du das wissen?
+[00:35:01] <jh> Sonea: morgen 17 uhr
+[00:35:02] <jh> gn8
+[00:35:03] <Silberwoelfin> Sonea: spätestens dann, wenn wir losfahren
+[00:35:43] ! jh has quit. (Quit: jh)
+[00:39:21] <Sonea> kk
+[00:39:24] <Sonea> gn8
+[00:42:27] <Silberwoelfin> gute nacht
+[00:42:33] ! Silberwoelfin has quit. (Quit: Verlassend)
+[00:43:20] ! Sonea has quit. (Quit: Leaving.)
+[01:20:24] ! Erstsemester has joined.
+[01:20:24] ! Users in channel: @DrMcCoy @Wechner DooMMasteR Droggl Erstsemester Nimos Scumpeter ShadniX Valodim ZombiePoet _Rick_ hashier maku nubix pani rohieb serj tsuro zerobot
+[01:26:04] ! nubix has quit. (Quit: Leaving.)
+[01:50:20] ! rohieb has quit. (Quit: ...yo ho ho, and a bottle of rum!)
+[01:52:28] ! rohieb has joined.
+[01:53:11] ! rohieb has quit. (Client Quit)
+[04:16:26] ! serj has quit. (Ping timeout: 276 seconds)
+[04:16:57] ! serj has joined.
+[07:34:52] ! elorie has joined.
+[08:17:42] ! elorie has quit. (Quit: Leaving.)
+[08:20:10] ! Phia has joined.
+[08:32:35] ! elorie has joined.
+[08:45:21] ! conqueror12 has joined.
+[08:56:46] ! PirateKing has joined.
+[09:17:53] ! jh has joined.
+[09:19:10] <jh> nabend
+[09:19:46] <jh> !nom
+[09:19:47] <ZombiePoet> Mensa Katharinenstraße am Freitag:
+[09:19:48] <ZombiePoet> A: Milchreis mit Sauerkirschen oder brauner Butter und Zimt und Zucker 1,40€
+[09:19:49] <ZombiePoet> B: Cevapcici 1,50€
+[09:19:50] <ZombiePoet> C: Fisch-Nuggets mit Remoulade 1,90€
+[09:19:51] <ZombiePoet> V: Backkartoffel mit Kräuterfrischkäse 1,90€
+[09:19:52] <ZombiePoet> W: Schweinefilet mit Pfifferlingen und Kroketten 3,10€
+[09:56:58] ! Phia has quit. (Quit: Leaving.)
+[10:09:10] ! Bowdzone has joined.
+[10:14:08] ! nubix has joined.
+[10:27:29] ! nubix has quit. (Quit: Leaving.)
+[10:40:10] ! lurtz has joined.
+[10:51:09] ! Bowdzone has quit. (Read error: Connection reset by peer)
+[10:52:47] ! Phia has joined.
+[10:53:49] ! Silberwoelfin has joined.
+[10:55:43] ! nubix has joined.
+[10:58:09] <jh> Silberwoelfin!
+[10:59:06] <Silberwoelfin> moin
+[10:59:28] <nubix> guten morgen
+[11:00:04] ! Phia has quit. (Quit: Leaving.)
+[11:02:15] ! elorie has quit. (Quit: Leaving.)
+[11:19:39] ! nubix has quit. (Quit: Leaving.)
+[11:27:21] ! maximilian has joined.
+[11:28:27] ! nubix has joined.
+[11:32:08] ! elorie has joined.
+[11:33:24] ! Peace-Maker has joined.
+[11:34:24] ! elorie has quit. (Read error: Connection reset by peer)
+[11:37:04] <Nimos> lalala...
+[11:38:40] <Nimos> in sn19.1 komm ich iwie nie ins wlan :/
+[11:38:41] <Nimos> sonst gehts überall
+[11:38:41] <Nimos> lösungsansätze? :D
+[11:39:59] <jh> nicht in sn19.1 sein :P
+[11:40:16] <serj> Nimos: umts
+[11:40:26] <nubix> also ich hab hier wlan ^^
+[11:40:39] <nubix> ich finde er sollte mal »rm -rf /« vorstlelen ^^
+[11:40:41] <serj> die letzten tage spinnen die dhcp server von eduroam rum
+[11:40:53] ! elorie has joined.
+[11:41:08] <jh> dann klau nubix' ip^^
+[11:41:11] <nubix> ich will jetzt »rm -rf /«
+[11:41:23] <jh> nubix: sudo!
+[11:41:47] <nubix> jh so reicht's auch, dann ist immerhin das home weg
+[11:42:09] * elorie haz eduroams
+[11:42:18] <jh> dauert aber bestimmt ne weile bis es bei home ankommt, oder?
+[11:42:26] <jh> läuft das alphabetisch?
+[11:43:49] <nubix> jh
+[11:43:57] <nubix> jh: mir doch egal, weg ist weg
+[11:44:17] <jh> nubix: naja, aber vorher kommen 5 mio permissions denied... da kann man dann ja einfach strg+c'en
+[11:46:16] <maximilian> schon probiert?
+[11:46:36] <elorie> oh ein neuling :)
+[11:47:08] <maximilian> wo sitzt du denn elorie?
+[11:47:52] <elorie> ich sitze gerade in proggen 1
+[11:48:14] <maximilian> dito
+[11:48:41] <maximilian> deshalb frage ich ja
+[11:48:45] <jh> alle in sn19.1 und hier heben jetzt mal die hand :P
+[11:48:52] <elorie> jh: cheater
+[11:49:25] <maximilian> keiner hebt die hand
+[11:49:27] <Nimos> also maximilian sitzt vor mir, wenn ich das xchat eben richtig gesehn hab =)
+[11:49:36] <jh> lol
+[11:49:52] <Peace-Maker> deb
+[11:49:54] <elorie> hilfe menschen
+[11:52:42] <elorie> viel zu viele menschen
+[11:53:08] <maximilian> vor dir oder hinter dir?
+[11:54:40] ! maximilian has quit. (Read error: Connection reset by peer)
+[11:55:19] <elorie> hinter mir
+[11:55:23] ! maximilian has joined.
+[11:55:28] <elorie> maximilian: hinter mir
+[11:55:54] ! maximilian is now known as maximilian_
+[11:55:54] ! maximilian_ has quit. (Read error: Connection reset by peer)
+[11:56:20] ! maximilian__ has joined.
+[11:56:50] <maximilian__> du sitzt also vorne?
+[11:57:39] <nubix> ah, bitte, wieso unterhalten sich die maedels hintermir ueber schminke?!
+[11:57:45] <nubix> annoying
+[11:58:25] <maximilian__> hypertext makeup language?
+[11:58:26] <elorie> nubix: schau sie dir an, dann weißt du warum...
+[11:58:40] <serj> nubix: brauchen neue spachtelmasse
+[11:59:01] <elorie> serj: so schlimm ist es zum glueck noch nciht, die sehen auch ungepsachte;t ganz passabel bis gut aus
+[11:59:02] <nubix> elorie: ich hab nen spiegeldisplay, mir bleibt nicht viel anderes uebrig
+[11:59:09] <elorie> nubix: ^^
+[11:59:20] <Nimos> :D
+[11:59:23] <nubix> aber die sind so doof!
+[11:59:42] ! Ari_ has joined.
+[12:00:00] <jh> nubix: mach mal pics mit deiner webcam :D
+[12:00:03] <nubix> maximilian__: nope, glaube ich nicht
+[12:00:05] <jh> oder stream
+[12:00:12] <elorie> maximilian__: die sind zu beschaeftigt mit mitschreiben und sich gegenseitig anschauen
+[12:00:12] <nubix> jh: wtf?
+[12:00:30] <nubix> maximilian__: die schrift ist viel zu klein und das display zu dunkel
+[12:00:57] <maximilian__> bist du ganz sicher=
+[12:00:58] <maximilian__> ?
+[12:01:16] <Nimos> irc als grau auf grau darstellen? :D
+[12:01:36] <nubix> maximilian__: ja bin ich, es sei denn sie haben super augen
+[12:01:44] <elorie> ich frag mcih eher wie alt die 3 sind, schon 18 oder gerade erst ;)
+[12:01:45] <nubix> maximilian__: selbst ich hab hier ja shco minimale probleme mit dem lesen
+[12:02:01] <nubix> elorie: ich denke schon 18 ^^
+[12:02:10] ! Chaossoul has joined.
+[12:02:13] <elorie> nubix: aber noch nicht lange
+[12:02:19] <maximilian__> Hallo Chaossoul
+[12:02:24] <nubix> elorie:  jop
+[12:02:29] <Chaossoul> Hallo Maximilian__
+[12:02:39] <elorie> noch mehr neulinge
+[12:02:46] <jh> *versteck*
+[12:03:01] <elorie> jh: nichts da hiergeblieben
+[12:03:03] * Silberwoelfin sucht jh
+[12:03:12] * elorie zieht jh unterm sofa hervor
+[12:03:21] <Nimos> tztz
+[12:03:26] ! Peace-Maker has quit. (Quit: get satisfied!  :: core-networks.de ««« (Gamers.IRC) »»» gamersirc.net ::)
+[12:03:32] * Silberwoelfin knuddelt jh
+[12:04:08] <Silberwoelfin> maximilian__: informatiker ;-)
+[12:05:10] <Valodim> /innen
+[12:05:30] <elorie> o.O
+[12:05:40] <Chaossoul> wo?
+[12:05:45] <Ari_> *gaehn*
+[12:05:54] <elorie> anwesend sind hier schonmal 2
+[12:06:07] <Silberwoelfin> *meld*
+[12:06:19] ! Sonea has joined.
+[12:06:25] <Silberwoelfin> jetzt sinds drei^^
+[12:06:34] <elorie> Sonea: \o.
+[12:06:38] <elorie> \o/
+[12:06:40] <Silberwoelfin> Sonea!
+[12:06:58] <Sonea> huhu
+[12:07:05] <Sonea> Silberwoelfin: wie 3?
+[12:07:12] <Sonea> elorie: Silberwoelfin: \o/
+[12:07:20] <elorie> Sonea: 3 informatikerinnen
+[12:07:28] <Silberwoelfin> Sonea: weibliche individuen
+[12:07:32] <Sonea> ah
+[12:07:34] <jh> und wieviele informatikeraußen?
+[12:07:34] <Sonea> ok
+[12:08:03] <Sonea> jh muhahaha haste heute wieder witzigkeitsmüsli gefrühstückt?
+[12:08:06] <serj> wieder ein typischer jh
+[12:08:22] <jh> -_-
+[12:08:31] <Sonea> phia hat zumindest den stuhl neben mir mit ihren klamotten besetzt
+[12:08:31] <nubix> irgendetwas riecht hier echt boese nach schweiß :(
+[12:08:37] <Sonea> kommt also bestimmt auch gleich wieder
+[12:08:45] <jh> nubix: vielleicht mal wieder duschen?
+[12:08:54] <Sonea> nubix: wo bist du denn?
+[12:09:01] <Sonea> nubix: war in der vl vorhin auch so
+[12:09:04] <elorie> nubix: das duerften schonmal nicht die weiblichen wesen hinter dir sien ;)
+[12:09:06] <nubix> jh: war klar, dass das kommt. ne hab heute schon geduscht
+[12:09:09] <Sonea> der prof hat auch gleich erstmal das fenster aufgemacht
+[12:09:18] <nubix> Sn19.1
+[12:09:20] <Nimos> lolcode ist cool
+[12:09:23] <nubix> elorie: ne denke ich auch nicht
+[12:09:46] ! maximilian____ has joined.
+[12:10:31] <Silberwoelfin> elorie: je nachdem, wie viel parfüm die drauf haben, könnten die aber auch ganz schön riechen...
+[12:10:34] <Ari_> Besser als wurstbrotgeruch.
+[12:10:42] <elorie> nubix: *motivierend zuwink* ;)
+[12:11:03] <jh> es gibt schweißparfüm?
+[12:11:21] <nubix> elorie: na, ob das hilft ^^ ich lenke mich mit theoinf ab
+[12:11:25] <Valodim> lol serj. einfach mal kurz jh bashen, und dann wieder zwei monate idlen. wie ein chef :D
+[12:11:43] ! maximilian__ has quit. (Ping timeout: 248 seconds)
+[12:11:59] <serj> so gehts halt :D
+[12:12:01] <jh> Valodim: jaja, immer auf die kleinen .[
+[12:12:07] <jh> ... mit einem auge
+[12:12:47] <Silberwoelfin> jh: du hast ja wohl zwei augen...
+[12:12:59] <jh> Silberwoelfin: wenn ich Shift verfehle nicht
+[12:13:13] <maximilian____> bin wieder da
+[12:13:16] <elorie> nubix: urgh boeses stichwort
+[12:13:20] <Nimos> hmm
+[12:13:22] <Nimos> !mensa
+[12:13:22] <ZombiePoet> Mensa Katharinenstraße am Freitag:
+[12:13:23] <ZombiePoet> A: Milchreis mit Sauerkirschen oder brauner Butter und Zimt und Zucker 1,40€
+[12:13:24] <ZombiePoet> B: Cevapcici 1,50€
+[12:13:25] <ZombiePoet> C: Fisch-Nuggets mit Remoulade 1,90€
+[12:13:26] <ZombiePoet> V: Backkartoffel mit Kräuterfrischkäse 1,90€
+[12:13:27] <ZombiePoet> W: Schweinefilet mit Pfifferlingen und Kroketten 3,10€
+[12:13:33] <elorie> hmm essen
+[12:13:35] <elorie> narf
+[12:13:37] <elorie> keine zeit
+[12:13:56] <Chaossoul> was ist denn b?
+[12:14:11] <Ari_> ich bin verwirrt :)
+[12:14:54] <elorie> wieso?
+[12:15:27] <maximilian____> welche befehle kennt ZombiePoet denn noch so?
+[12:15:33] <Nimos> milchreis klingt gut :D
+[12:16:05] <nubix> Nimos: Beim Milchreis waere ich vorsichtig
+[12:16:07] <Ari_> Nagut - bin erstmal raus - Übung geb ih mir nicht weiter
+[12:16:10] ! Ari_ has quit. (Quit: Leaving)
+[12:16:17] <Nimos> ja? :/
+[12:17:40] <nubix> oh gott zusammen auf toilette
+[12:17:44] <nubix> ahhh
+[12:18:04] <nubix> »Ich geh jetzt« — »soll ich mitkommen?«
+[12:18:06] <serj> Nimos: manchmal ist milchreis ok in der mensa
+[12:18:09] <nubix> maedels....
+[12:18:12] <serj> aber oft richtig abartig
+[12:18:25] ! Phia has joined.
+[12:19:18] <elorie> yay 4
+[12:19:20] ! lurtz has quit. (Ping timeout: 244 seconds)
+[12:19:21] <elorie> :)
+[12:21:35] ! maximilian___ has joined.
+[12:21:39] ! maximilian____ has quit. (Ping timeout: 252 seconds)
+[12:21:56] <nubix> erstis, die trauen sich gerae anscheinend nicht aufs klo zu gehen... irgendwie lustig ^^
+[12:21:56] <maximilian___> ist jetzt jemand aufgestanden?
+[12:22:12] <Chaossoul> .
+[12:22:19] <Nimos> mein sitznachbar verlässt genervt die veranstaltung
+[12:22:42] <Sonea> Chaossoul: das sind so fleichröllchen
+[12:22:49] <Sonea> Chaossoul: gibts meist mit reis
+[12:22:53] <Nimos> nachdem er eben demonstrativ github und reddit/programmers bebrowst hat
+[12:22:54] <Chaossoul> ah,ok,danke ;)
+[12:23:45] <Sonea> Chaossoul: ist glaub ich jugoslawisch oder so
+[12:24:12] ! Chaossoul has quit. (Remote host closed the connection)
+[12:24:23] ! Sonea has left the channel.
+[12:24:31] ! Sonea has joined.
+[12:24:37] <Sonea> fail
+[12:24:47] <Nimos> wer war denn gestern bei der kneipentour? :D
+[12:25:45] <serj> ich
+[12:26:09] <maximilian___> ich nicht
+[12:26:29] ! Chaossoul has joined.
+[12:31:05] ! maximilian___ has quit. (Ping timeout: 276 seconds)
+[12:34:03] ! lurtz has joined.
+[12:35:41] ! pipboy20k has joined.
+[12:38:05] ! Laeuft has joined.
+[12:38:49] <Laeuft> Huhu
+[12:39:00] <nubix> so, hausaufgaben fertig
+[12:39:01] ! nubix has quit. (Quit: Leaving.)
+[12:39:03] ! lurtz has quit. (Read error: Connection reset by peer)
+[12:40:11] ! lurtz has joined.
+[12:40:55] <Nimos> so
+[12:40:55] ! lurtz has quit. (Read error: Connection reset by peer)
+[12:40:57] <Nimos> essen gehn
+[12:42:35] <Nimos> wie sind eig die mensa öffnungszeiten?
+[12:42:42] <Nimos> nvm, seh ich ja gleich
+[12:43:09] ! lurtz has joined.
+[12:43:11] <jh> mh, jemand mensa nach dem hauptansturm?^^
+[12:43:12] ! lurtz has quit. (Client Quit)
+[12:43:15] ! m_ has joined.
+[12:43:16] <jh> so 13:30++
+[12:43:28] <Chaossoul> Hallo m_
+[12:44:03] ! m_ has quit. (Remote host closed the connection)
+[12:44:53] ! m_ has joined.
+[12:45:02] <m_> !mensa
+[12:45:02] <ZombiePoet> Mensa Katharinenstraße am Freitag:
+[12:45:03] <ZombiePoet> A: Milchreis mit Sauerkirschen oder brauner Butter und Zimt und Zucker 1,40€
+[12:45:04] <ZombiePoet> B: Cevapcici 1,50€
+[12:45:05] <ZombiePoet> C: Fisch-Nuggets mit Remoulade 1,90€
+[12:45:06] <ZombiePoet> V: Backkartoffel mit Kräuterfrischkäse 1,90€
+[12:45:07] <ZombiePoet> W: Schweinefilet mit Pfifferlingen und Kroketten 3,10€
+[12:45:38] ! Chaossoul has quit. (Remote host closed the connection)
+[12:46:20] ! nubix has joined.
+[12:47:17] ! lurtz has joined.
+[12:47:27] ! m_ has quit. (Client Quit)
+[12:47:49] ! m_ has joined.
+[12:48:57] ! m_ has quit. (Client Quit)
+[12:55:23] ! elorie has quit. (Quit: Leaving.)
+[13:00:53] ! Phia has quit. (Quit: Leaving.)
+[13:05:52] ! Debi has joined.
+[13:15:47] ! Laeuft has quit. (Quit: Verlassend)
+[13:21:47] ! nubix has quit. (Quit: Leaving.)
+[13:23:54] <Sonea> Nimos: nubix auch, sonst hab ich keinen von den channelleuten dort gesehen
+[13:26:15] ! Bowdzone has joined.
+[13:27:22] <Nimos> hm...selbst wenn viele dagewesen wärn, hätt ich keine erkannt... ich weiss ja garnich wie ihr alle ausseht :D
+[13:37:08] ! nubix has joined.
+[13:39:09] ! maximilian___ has joined.
+[13:39:28] ! Ignifazius has joined.
+[13:42:47] ! Phia has joined.
+[13:44:54] ! Silberwoelfin_ has joined.
+[13:46:45] ! maximilian___ has quit. (Ping timeout: 258 seconds)
+[13:47:46] <nubix> !mensa
+[13:47:46] <ZombiePoet> Mensa Katharinenstraße am Freitag:
+[13:47:47] <ZombiePoet> A: Milchreis mit Sauerkirschen oder brauner Butter und Zimt und Zucker 1,40€
+[13:47:48] <ZombiePoet> B: Cevapcici 1,50€
+[13:47:49] <ZombiePoet> C: Fisch-Nuggets mit Remoulade 1,90€
+[13:47:50] <ZombiePoet> V: Backkartoffel mit Kräuterfrischkäse 1,90€
+[13:47:51] <ZombiePoet> W: Schweinefilet mit Pfifferlingen und Kroketten 3,10€
+[13:48:12] ! Silberwoelfin has quit. (Ping timeout: 244 seconds)
+[13:48:24] <Nimos> cevapcici schmecken wie kötbullar bei ikea
+[13:48:30] <Nimos> so als tipp :D
+[13:48:49] <Nimos> weil iwer vorhin gefragt hatte
+[13:48:53] <nubix> Nimos: esse kein fleisch ;)
+[13:49:12] <nubix> und die meisten werde nun eh schon in der mensa gewesen sen
+[13:49:17] <Nimos> dann...is das ja n ziemlich alternativloser speiseplan ;)
+[13:49:52] <nubix> naja, ich haette die auswahl zwischen salat, milchreis und kartoffeln
+[13:50:16] <nubix> ich finde drei optionen sind nicht als alternativlos anzusehen ^^
+[13:50:30] <Nimos> hm, salat hab ich nich bedacht
+[13:51:04] <Nimos> und man sagte mir, dass milchreis, wenn man pech hat, schlecht ist :D
+[13:53:04] <nubix> Nimos: da hast du durchaus recht. Das ist ein Gluecksspiel
+[13:53:15] * nubix geht auch heute nicht mehr in die Mensa
+[13:56:46] ! rohieb has joined.
+[14:02:28] <jh>  extra-käse auf TK-pizza! <3
+[14:05:10] ! elorie has joined.
+[14:05:46] ! ZombiePoet has quit. (Ping timeout: 244 seconds)
+[14:06:00] ! ZombiePoet has joined.
+[14:08:04] ! Silberwoelfin_ is now known as Silberwoelfin
+[14:08:31] <Silberwoelfin> jh: du kannst doch jetzt keine tk-pizza essen, was soll ich denn dann zum abendbrot essen?
+[14:09:21] ! chaossoul has joined.
+[14:09:22] <rohieb> einen jh
+[14:09:28] <jh> Silberwoelfin: du wolltest du abendbrot meine tk-pizza essen?
+[14:09:43] <jh> wollte ja keiner mit mir in die mensa^^
+[14:09:56] <rohieb> !mensa
+[14:09:58] <ZombiePoet> Mensa Katharinenstraße am Freitag:
+[14:09:59] <ZombiePoet> A: Milchreis mit Sauerkirschen oder brauner Butter und Zimt und Zucker 1,40€
+[14:10:00] <ZombiePoet> B: Cevapcici 1,50€
+[14:10:01] <ZombiePoet> C: Fisch-Nuggets mit Remoulade 1,90€
+[14:10:02] <ZombiePoet> V: Backkartoffel mit Kräuterfrischkäse 1,90€
+[14:10:02] <jh> und da war noch käserest vom auflauf
+[14:10:04] <ZombiePoet> W: Schweinefilet mit Pfifferlingen und Kroketten 3,10€
+[14:10:06] <Silberwoelfin> jh: vllt nicht deine, aber eine
+[14:10:13] <rohieb> oh milchreis
+[14:10:19] <jh> Silberwoelfin: rewe hatte noch mehrere^^
+[14:10:20] <rohieb> hm, warscheinlich wieder übersüß
+[14:10:30] <rohieb> und backkartoffel
+[14:10:37] <rohieb> manno, heut ist doch freitag, da gibts doch sonst nix
+[14:10:42] <rohieb> wär ich mal in die mensa gegangen
+[14:11:32] <Silberwoelfin> rohieb: hast ja noch ein paar minuten
+[14:11:44] ! rohieb has quit. (Remote host closed the connection)
+[14:11:44] ! chaossoul has quit. (Client Quit)
+[14:13:21] ! rohieb has joined.
+[14:14:25] ! lurtz has quit. (Quit: Leaving.)
+[14:15:50] ! maximilian___ has joined.
+[14:16:43] ! lurtz has joined.
+[14:23:35] ! Peace-Maker has joined.
+[14:34:40] ! maximilian___ has quit. (Ping timeout: 258 seconds)
+[14:40:33] ! Phia has quit. (Quit: Leaving.)
+[14:46:48] ! Ignifazius has quit. (Quit: *Vanish*)
+[14:59:08] ! bgalias has joined.
+[15:02:57] ! Phia has joined.
+[15:12:34] ! maximilian___ has joined.
+[15:13:14] ! galoscho_ has joined.
+[15:13:54] ! Silberwoelfin has quit. (Quit: Verlassend)
+[15:14:20] ! galoscho_ is now known as galoscho
+[15:30:54] ! soney has joined.
+[15:41:02] ! galoscho has quit. (Quit: Leaving)
+[15:51:47] ! nubix has quit. (Read error: Connection reset by peer)
+[15:51:51] ! nubix1 has joined.
+[15:53:45] ! soney has quit. (Ping timeout: 244 seconds)
+[15:57:27] ! nubix1 has quit. (Read error: Connection reset by peer)
+[15:57:28] ! nubix has joined.
+[15:59:26] ! lurtz has quit. (Ping timeout: 244 seconds)
+[16:01:38] ! lurtz has joined.
+[16:08:51] ! soney has joined.
+[16:19:04] ! soney has quit. (Ping timeout: 244 seconds)
+[16:22:02] ! elorie has quit. (Quit: Leaving.)
+[16:27:56] ! Sonea has left the channel.
+[16:32:39] <Phia> nubix: lurtz: hättet ihr nächsten freitag lust auf running out of time, den coolsten nachtcache ever?
+[16:33:04] <nubix> Phia: jop, klingt gut
+[16:33:12] <lurtz> hat da nicht till geburtstag?
+[16:36:46] ! joke` has joined.
+[16:38:14] ! PirateKing has quit. (Quit: Leaving.)
+[16:42:41] <Phia> lurtz: ähm, kann sein
+[16:43:36] <rohieb> till hatte doch vorgestern geburtstag
+[16:43:42] <Phia> nubix: super, ich meld mich nochmal deswegen. muss los
+[16:43:44] <rohieb> zumindest hat er vorgestern muffins verteilt ^^
+[16:43:52] <Phia> rohieb: aber er wollte demnächst irgendwann feiern
+[16:44:08] <rohieb> achso
+[16:44:12] <Phia> rohieb: das datum dafür hatte ich allerdings auch nicht mehr präsent
+[16:44:31] <Phia> noch jemand lust auf den nachtcache?
+[16:44:35] ! Phia has left the channel.

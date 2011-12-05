@@ -1,0 +1,395 @@
+[00:00:27] <jh> wochenende!
+[00:02:05] <nubix> jh: hm, doof
+[00:02:12] <jh> ?
+[00:02:27] <nubix> da kann man nicht so gut konsumieren gehen
+[00:02:40] <jh> samstag eigentlich schon
+[00:03:41] <nubix> jh, naja
+[00:08:39] <jh> genau
+[00:10:57] <rohieb> hallo samstag
+[00:11:17] <rohieb> <nubix> !tell Son* eine schoene nacht sonea <-- toll, jetzt kriegt sonnenschein das? :P
+[00:12:14] <nubix> rohieb: Ich denke, dass Sonea hier vorher auftauchen wird. Ansonsten auch nicht so tragisch.
+[00:12:22] <nubix> Die Nachricht ist praktisch unwichtig.
+[00:12:34] <rohieb> DrMcCoy: lol
+[00:13:31] <Silberwoelfin> gute nacht
+[00:14:18] ! Silberwoelfin has quit. (Quit: Verlassend)
+[00:14:36] <jh> !seen sonnenschein
+[00:14:37] <ZombiePoet> jh: sonnenschein was last seen in ##cs-studs 6 weeks, 1 day, 23 hours, 27 minutes, and 5 seconds ago: <sonnenschein> :D
+[00:15:07] <jh> rohieb: was von winnie gehört?
+[00:15:27] <rohieb> nö
+[00:15:33] <nubix> !seen nubix1
+[00:15:34] <ZombiePoet> nubix: nubix1 was last seen in ##cs-studs 1 week, 1 day, 23 hours, 37 minutes, and 5 seconds ago: <nubix1> damn, wieso funktioniert das chanserv op-out in diesem channel nicht? :/
+[00:15:48] <jh> was ist chanserv op-out?
+[00:15:51] <nubix> !seen nubix
+[00:15:52] <ZombiePoet> nubix: nubix was last seen in ##cs-studs 17 seconds ago: <nubix> !seen nubix1
+[00:15:59] <nubix> !seen nubix
+[00:16:00] <ZombiePoet> nubix: nubix was last seen in ##cs-studs 8 seconds ago: <nubix> !seen nubix
+[00:16:04] <nubix> hrhrhr
+[00:16:27] <nubix> Yo dawg, i heard you like !seen so i put a !seen in your !seen.
+[00:16:32] <nubix> #oldmemes
+[00:23:46] ! lurtz has joined.
+[00:24:08] ! Peace-Maker has quit. (Quit: Bye.)
+[00:26:51] <jh> tss
+[00:27:24] <elorie> tss?
+[00:27:41] <jh> ja, fühle mich ignoriert
+[00:28:02] <DrMcCoy> /ignore jh
+[00:28:15] <jh> pöh
+[00:28:20] <jh> geh ich halt ins bett!
+[00:28:32] ! jh has quit. (Quit: jh)
+[00:35:42] <nubix> hm
+[00:46:26] ! nubix has quit. (Quit: Leaving.)
+[00:51:50] ! nubix has joined.
+[00:51:50] ! nubix has quit. (Changing host)
+[00:51:50] ! nubix has joined.
+[01:44:12] <Valodim> nubix: lol, yo dawg. nice :)
+[01:44:40] ! rohieb has quit. (Quit: ...yo ho ho, and a bottle of rum!)
+[02:03:23] ! ES has quit. (Quit: The cake is a lie!)
+[02:39:51] ! nubix has quit. (Quit: Leaving.)
+[03:08:29] ! lurtz has quit. (Quit: Leaving.)
+[03:08:38] ! lurtz has joined.
+[03:38:02] ! lurtz has quit. (Quit: Leaving.)
+[04:42:45] ! Peace-Maker has joined.
+[04:58:30] ! elorie1 has joined.
+[05:00:30] ! elorie has quit. (Ping timeout: 260 seconds)
+[05:29:44] ! Peace-Maker has quit. (Quit: Bye.)
+[05:38:13] ! elorie1 has quit. (Quit: Leaving.)
+[05:46:53] ! elorie has joined.
+[06:15:17] ! elorie has quit. (Quit: Leaving.)
+[07:52:09] ! moenni has joined.
+[08:32:28] ! ES has joined.
+[09:13:51] ! ES has quit. (Ping timeout: 258 seconds)
+[09:17:35] ! ES has joined.
+[09:20:41] ! Tigaa_laptop has joined.
+[09:33:01] ! jh has joined.
+[09:33:32] <jh> hi
+[09:56:56] ! ES has quit. (Ping timeout: 259 seconds)
+[10:00:36] ! ES has joined.
+[10:05:10] <jh> ES!
+[10:22:13] ! PirateKing has joined.
+[10:53:13] <Tigaa_laptop> huhu
+[10:53:32] <Tigaa_laptop> hat shconmal einer von euch etwas programmiert in c das jede sekunde eine Ausgabe produziert?
+[10:54:41] ! moenni has quit. (Read error: Connection reset by peer)
+[10:57:57] ! rohieb has joined.
+[11:05:12] ! nubix has joined.
+[11:05:12] ! nubix has quit. (Changing host)
+[11:05:12] ! nubix has joined.
+[11:07:07] <jh> Tigaa_laptop: so auf die konsole? joa...
+[11:07:09] <jh> auch öfter ;)
+[11:07:46] <Tigaa_laptop> also ich habe ein programm und das soll daten von einem Socket lesen und "dabei" jede sekunde ausgeben, wieviel es gelesen hat
+[11:08:15] <Tigaa_laptop> ich glaube aber, dass ich gerade eine lösung ersonnen habe..
+[11:09:03] <ES> !slap jh
+[11:09:04] * ZombiePoet throws a rock at jh
+[11:09:48] <rohieb> multithreading?
+[11:10:12] <Tigaa_laptop> hm ungerne
+[11:10:13] <rohieb> hm, bot ist ja schon wieder kaputt
+[11:10:18] <Tigaa_laptop> ich schreibe in C
+[11:11:03] <rohieb> multithreading geht auch in c
+[11:11:12] <Tigaa_laptop> :(
+[11:12:01] <Tigaa_laptop> ich dachte gerade an sowas wie einen Timer starten und dann intertrupten, wenn eine sekunde abgelaufen ist under interrupt händler gibt dann was aus..
+[11:13:03] ! Bowdzone has joined.
+[11:13:40] <Tigaa_laptop> hmmich glaube es geht noch einfacher..
+[11:14:06] <Tigaa_laptop> ich bin gar nicht drauf angewiesen, das es genau jede Sekunde gemacht wird glaube ich..
+[11:14:47] <rohieb> aber wenn du gleichzeitig von netzwerk lesen willst, kannst du ja dein programm nicht zwischendurch interrupten
+[11:17:05] <rohieb> cool, anscheinend ist abseilen auch so ein fremdwort, das es ins englische geschafft hat ^^
+[11:17:09] <rohieb> grad bei doctor who gehört
+[11:17:17] <rohieb> 	 to abseil   chiefly  (Brit.)		 sich (Akk.) abseilen | seilte ab, abgeseilt |
+[11:18:15] <Tigaa_laptop> na ja ich kann mit select arbeiten und nicht mit receiv from select kann einen Timeout habe z.B. jede sekunde. dann kann ich wenn es Timeouted eine ausgabe machen, oder prüfen, wenn ich gerade gelese habe ob die sekunde um ist oder nicht
+[11:19:05] <Tigaa_laptop> im nächsten durchlauf bei select ist der socket dann schon ready for reading und ich kann weiter lesen
+[11:19:07] <Tigaa_laptop> oder?
+[11:22:18] <rohieb> hm ok...
+[11:22:24] <rohieb> ja, könnte klappen
+[11:26:13] <Tigaa_laptop> ja ich versuchs mal
+[11:26:42] <Tigaa_laptop> ich sollte erstemal auf was relativ konstantes kommen..
+[11:28:28] <Tigaa_laptop> hmm da ist noch ein fehler in der Logik :(
+[11:37:03] <Tigaa_laptop> hmm jetzt habe ich zu große werte und sie werden immer größer
+[11:37:25] <Tigaa_laptop> wobei ich das gerade auf dem loopback machen, da weiß ich nicht, ob die Bandbreite konstant ist..
+[11:38:47] <Tigaa_laptop> die sekundenausgabe scheint aber schonmal zu passen :)
+[11:40:08] ! Tigaa_laptop has left the channel.
+[11:40:16] ! Tigaa_laptop has joined.
+[11:40:20] <Tigaa_laptop> wups
+[11:46:54] ! nubix has quit. (Quit: Leaving.)
+[11:48:25] <Tigaa_laptop> ui cool über ethernet bekomme ich einen konstant wert, nicht den, den ich haben will aber na ja immerhin constant
+[11:51:31] <rohieb> kleiner oder größer als erwartet? ^^
+[11:56:50] <Tigaa_laptop> kleiner
+[11:56:57] <Tigaa_laptop> wie runde ich in c eine wert auf
+[11:56:59] <Tigaa_laptop> ceil?
+[11:57:32] <Tigaa_laptop> liegt an der zeit ich teile durch sowas wie 99999 usec
+[11:58:07] <Tigaa_laptop> das ist ungünstig wenn ich aber * 1000000 rechne um auf sec zu kommen, dann ist das 0
+[11:58:15] <Tigaa_laptop> und durch 0 darf man ja nicht teilen :)
+[12:10:41] <jh> bye
+[12:10:43] ! jh has quit. (Quit: jh)
+[12:37:28] ! Phia has joined.
+[12:47:21] ! elorie has joined.
+[12:55:35] ! nubix has joined.
+[12:55:35] ! nubix has quit. (Changing host)
+[12:55:35] ! nubix has joined.
+[13:00:28] ! lurtz has joined.
+[13:03:03] ! PirateKing has quit. (Quit: Leaving.)
+[13:16:13] <rohieb> mh
+[13:16:16] <rohieb> ist ja erst 13.00
+[13:16:58] <nubix> rohieb: zeit fuer mensa
+[13:16:59] <nubix> :p
+[13:17:04] <elorie> rohieb: eher schon… *verschlafen
+[13:17:05] <rohieb> !mensa
+[13:17:06] <ZombiePoet> Mensa Katharinenstraße am Samstag:
+[13:17:06] <ZombiePoet> B: Curryfleischwurst AT mit Ketchup (s/r) 1,80€
+[13:17:08] <ZombiePoet> B: Geflügelsalat mit Spargel, Champignons u. Ananas 1,30€
+[13:17:17] <rohieb> achso, ist ja samstag
+[13:17:28] <rohieb> elorie: wow, ich bin mal früher wach als du? :)
+[13:17:35] <rohieb> elorie: hast du denn wenigstens schön geschlafen?
+[13:17:46] <elorie> rohieb: du warst vermutlich ach vor 6 im bett -.-
+[13:17:55] <rohieb> ja
+[13:18:24] ! nubix has quit. (Quit: Leaving.)
+[13:19:10] <rohieb> hm
+[13:20:31] <rohieb> warum sieht das kyrillische t in kursiv wie das lateinische m aus...
+[13:23:45] ! nubix has joined.
+[13:23:46] ! nubix has quit. (Changing host)
+[13:23:46] ! nubix has joined.
+[13:32:54] <nubix> elorie: du koenntest auch einfach mal an einem gesunden schlafrythmus arbeit :)
+[13:33:40] <elorie> nubix: hmmm noes
+[13:33:42] <elorie> :p
+[13:38:19] <nubix> 1338 - Always one step ahead.
+[13:40:05] <rohieb> elorie: ich habs versucht, klappt gut
+[14:00:11] ! moenni has joined.
+[14:13:22] <elorie> rohieb: hmmm neeee
+[14:28:08] ! elorie1 has joined.
+[14:29:03] ! elorie has quit. (Ping timeout: 248 seconds)
+[14:29:34] ! Phia has quit. (Quit: Leaving.)
+[14:34:46] ! lurtz has quit. (Quit: Leaving.)
+[15:10:23] ! elorie1 is now known as elorie
+[15:26:09] ! igel has joined.
+[15:28:59] ! elorie has quit. (Quit: Leaving.)
+[15:44:38] ! Silberwoelfin has joined.
+[15:45:04] <Silberwoelfin> hi
+[15:53:52] <nubix> huhu Silberwoelfin
+[15:57:37] <rohieb> Silberwoelfin: !
+[15:57:43] <rohieb> nubixchen!
+[15:57:46] <Silberwoelfin> rohieb! nubix!
+[15:57:55] <nubix> rohiebchen
+[15:58:26] <Silberwoelfin> wie soll ich denn so meinen bachelor in regelstudienzeit schaffen? :(
+[16:00:00] ! nubix has quit. (Quit: Leaving.)
+[16:03:45] <rohieb> Silberwoelfin: relax
+[16:03:49] <rohieb> ich habs auch nicht geschafft :P
+[16:06:14] <rohieb> was überschneidet sich denn da?
+[16:06:16] ! nubix has joined.
+[16:06:16] ! nubix has quit. (Changing host)
+[16:06:16] ! nubix has joined.
+[16:08:52] <Silberwoelfin> rohieb: psychologie-vorlesung mit psychologie-vorlesung mit info-wahlpflicht mit mathe-wahlpflicht
+[16:08:59] <rohieb> jetzt regnets schon wieder :(
+[16:09:10] <rohieb> Silberwoelfin: montags, 11.15?
+[16:09:15] <Silberwoelfin> ja
+[16:09:36] <rohieb> das war irgendwie schon immer so
+[16:09:41] <rohieb> zumindest mit techinf und numerik
+[16:09:57] ! nubix has quit. (Client Quit)
+[16:10:04] <rohieb> hm
+[16:10:17] <rohieb> ob das wetter sich nach meiner laune richtet? habe grad sehr das gefühl
+[16:10:30] <rohieb> Silberwoelfin: aber numerik kann man auch ganz gut ausm skript lernen
+[16:11:12] <rohieb> bzw kurz vorher reinschneien und die hausaufgaben abgeben
+[16:11:17] <rohieb> mh
+[16:11:20] <rohieb> fenster zumachen ftw
+[16:15:10] <Silberwoelfin> mein fenster ist zu und mir ist trotzdem kalt :/
+[16:15:24] <Silberwoelfin> aber ich bin auch vorhin im t-shirt draussen rumgelaufen...
+[16:16:09] <rohieb> ich sitz hier im tshirt und mir ist angenehm
+[16:16:31] <rohieb> hm... von m³ zu l ist * 100 , oder?
+[16:17:04] <rohieb> oh nein, * 1000
+[16:17:07] <rohieb> macht auch mehr sinn
+[16:19:46] ! igel has quit. (Quit: your ad here)
+[16:25:50] ! moenni has quit. (Read error: Connection reset by peer)
+[16:51:36] ! jh has joined.
+[16:52:44] ! Bowdzone has quit. (Read error: Connection reset by peer)
+[17:00:55] ! jh has quit. (Quit: jh)
+[17:25:19] ! elorie has joined.
+[17:45:16] ! nubix has joined.
+[17:45:16] ! nubix has quit. (Changing host)
+[17:45:16] ! nubix has joined.
+[18:02:53] ! nubix has quit. (Quit: Leaving.)
+[18:04:03] ! Guest82418 has joined.
+[18:06:14] ! Guest82418 has quit. (Client Quit)
+[18:08:35] ! Tigaa_laptop has quit. (Ping timeout: 260 seconds)
+[18:10:53] ! PirateKing has joined.
+[18:15:33] ! Tigaa_laptop has joined.
+[18:19:36] ! Tigaa_laptop has quit. (Client Quit)
+[18:20:28] ! Tigaa_laptop has joined.
+[18:27:58] ! moenni has joined.
+[18:32:54] ! PirateKing has quit. (Quit: Leaving.)
+[18:50:40] <rohieb> omnomnom
+[18:52:06] <rohieb> hm, zuwenig salz
+[18:52:23] ! x41414141 has joined.
+[18:52:24] ! x41414141 has quit. (Changing host)
+[18:52:24] ! x41414141 has joined.
+[18:52:31] <elorie> hallo nubix ^^
+[18:52:43] <x41414141> huhu elorie
+[18:52:45] <rohieb> hallo elorie
+[18:52:56] * elorie haz pflanzen
+[18:53:14] <x41414141> elorie: warum machst du denn so etwas merkwuerdiges?
+[18:53:58] <x41414141> elorie: die ueberleben bei dir doch eh nicht so lange ^^
+[18:53:59] <rohieb> x41414141: warum heißt du denn so merkwürdig
+[18:54:05] <elorie> x41414141: weil cih bei ikea war… an einem samstag
+[18:54:11] <rohieb> x41414141: na du bist ja optimistisch...
+[18:54:13] <elorie> x41414141: und doch die werden ueberleben
+[18:54:24] <elorie> x41414141: btw sei mal wieder ins bs… *will qaf schauen*
+[18:54:27] <x41414141> rohieb: weil ich gerade den nickname nubix irgendwie nicht annehmen kann
+[18:54:43] <rohieb>  /nickserv release nubix
+[18:54:57] <x41414141> elorie: na, ich denke am montag bin ich wieder in bs
+[18:55:03] <elorie> x41414141: :)
+[18:55:05] ! x41414141 is now known as Entro-P
+[18:55:30] <elorie> Entro-P: bring waerme mit
+[18:56:48] <Entro-P> elorie: na wird schwierig. friere gerade
+[18:57:36] <elorie> hmpf ich auch
+[18:57:48] <elorie> aber ich muss erst wasser in meienr heizung einfuellen ehe ich sie anmachen kann
+[18:58:30] <rohieb> warum ist da wasser raus o_O
+[18:58:33] <rohieb> und wie kriegt man das wieder rein
+[18:59:11] <Entro-P> elorie: schlauch ran und los
+[19:00:05] ! jh-mobil has joined.
+[19:00:07] <elorie> Entro-P: jap muss nur den schlauch erst von meienr mutterholen
+[19:00:32] <jh-mobil> Auf kabel1 kommt Abenteuer Turing!
+[19:00:53] <Entro-P> elorie: willst du etwa sagen du bist faul
+[19:01:02] <rohieb> jh
+[19:01:03] <rohieb> [18:52:55] <rohieb> auf kabel 1 kommt "Abenteuer Tuning"
+[19:01:03] <rohieb> [18:53:03] <rohieb> was lese ich? "Abenteuer Turing" und freue mich
+[19:01:08] <elorie> Entro-P: neee nur das ich da erst um 8 bin
+[19:01:13] <elorie> also kuemmer ich mich da morgen drum
+[19:01:14] <rohieb> oh, ich meinte natürlich jh-mobil ^^
+[19:01:22] <jh-mobil> Entropee?
+[19:01:25] <elorie> und kuschel so lange mit teetassen
+[19:01:32] <rohieb> elorie: kuschel lieber mit mir :(
+[19:01:44] <rohieb> jh-mobil: wo bist du denn?
+[19:01:45] <elorie> Entro-P: außerdem war ich an einem samstag bei ikea...
+[19:01:49] <jh-mobil> *rohieb kuschel*
+[19:01:51] <rohieb> \o/
+[19:02:03] <jh-mobil> rohieb: hier!
+[19:02:09] <rohieb> *jh-mobil kuschel*
+[19:02:10] <rohieb> oh
+[19:02:18] <rohieb> *silberwoelfin kuschel*
+[19:02:25] <jh-mobil> *Silberwoelfin mehr kuschel*
+[19:02:41] <jh-mobil> rohieb: transitives kuscheln?
+[19:02:46] <elorie> *tee bekuschel*
+[19:03:09] <jh-mobil> Das wird aber feucht, elorie
+[19:03:26] <rohieb> elorie: dein dummer tee hat das bestimmt nicht so nötig wie wir hier
+[19:03:43] <elorie> elorie: der is aber hier
+[19:03:47] <elorie> jh-mobil: :p
+[19:04:20] <Entro-P> elorie: wieso warst du ueberhaupt bei ikea und kaufst so merkwuerdig gruenes zeug?
+[19:04:44] <rohieb> elorie: soll ich zu dir kommen?
+[19:04:50] <rohieb> Silberwoelfin: denkst du!
+[19:04:54] <elorie> weil meine ikeliste lang war
+[19:05:05] <elorie> und da unter anderem blumen draufstanden
+[19:05:17] <elorie> rohieb: und gleich gehts familie bespaßen und auto tauschen
+[19:05:18] <Entro-P> elorie: hm, baue mir auch gerade ein kurze auf. haettest du nicht ein bischen warten koennen und mich mitnehmen? ^^
+[19:05:31] <rohieb> elorie: uh... klingt lustig... #not
+[19:05:32] <jh-mobil> Ikea! Hotdogs!
+[19:05:45] <rohieb> jh-mobil: gibts doch grad nicht
+[19:05:52] <rohieb> Silberwoelfin: was sind ikea-anschläge?
+[19:06:04] <elorie> Entro-P: ich muss eh ncohmal hin fuer große pflanze wenn meine mutter im urlaub ist (ab 16.)
+[19:06:09] <elorie> Silberwoelfin: noe
+[19:06:17] <jh-mobil> rohieb: immer noch nich?
+[19:06:32] <rohieb> jh-mobil: mein letzter stand war, dass es sie nicht gibt ^^
+[19:06:36] <elorie> Silberwoelfin: hatte ja nen freund als schutz mit ;)
+[19:06:39] <rohieb> jh-mobil: kann natürlich sein, dass inzwischen wieder geht
+[19:06:51] <rohieb> elorie: hast du nach hotdogs ausschau gehalten, obs die wieder gibt?
+[19:07:03] <jh-mobil> rohieb: stand ist von wann?
+[19:07:09] <rohieb> jh-mobil: von unserer cachetour ^^
+[19:07:20] <elorie> jo gibts waren ueberfuellt
+[19:07:26] <jh-mobil> Äh... x monate her?
+[19:07:26] <rohieb> jh-mobil: stimmt, wir waren schon lange nicht mehr cachen (wie du letztens festgestellt hattest)
+[19:07:44] <rohieb> elorie: ah, mussten warscheinlich das hotdog-vakuum der letzten monate abarbeiten ^^
+[19:08:16] <jh-mobil> Bye
+[19:08:17] ! jh-mobil has quit. (Quit: Bye)
+[19:14:52] ! Entro-P is now known as nubix
+[19:15:56] ! nubix has quit. (Quit: Leaving.)
+[19:16:18] ! nubix has joined.
+[19:16:18] ! nubix has quit. (Changing host)
+[19:16:18] ! nubix has joined.
+[19:18:45] ! nubix has left the channel.
+[19:19:16] ! nubix has joined.
+[19:19:55] <rohieb> ich bin ja dafür, dass nubix mal seinen client fixt
+[19:20:37] <nubix> rohieb: mein client ist super, nur die tatsache, dass ich andauernd das gereat zu klappen erzeugt deine veraergerung
+[19:20:46] <nubix> die mir ehrlich gesagt herzlich egal ist ^^
+[19:21:14] <rohieb> nubix: da gibts doch bestimmt irgendein plugin, das du entladen kannst, das dann kein quit mehr verursacht
+[19:21:27] <nubix> rohieb: ist die ein timeout etwa lieber
+[19:21:28] <nubix> ?
+[19:21:40] <rohieb> achso, du machs suspend?
+[19:21:43] <rohieb> t
+[19:21:43] ! Tigaa_laptop has quit. (Quit: Leaving.)
+[19:21:46] <nubix> joa
+[19:21:54] <nubix> ansonsten wuerde er ha nicht quitten
+[19:22:00] <rohieb> ...
+[19:22:18] <rohieb> warum klappst du auch so oft deinen laptop zu und auf
+[19:22:18] <nubix> rohieb: da ich gerade bei meiner großmutter bin, muss das geraet halt manchmal geschlssen werden, oder wird von anderen geschlossen
+[19:22:28] <rohieb> mhkay...
+[19:22:31] <rohieb> trotzdem nervig -.-
+[19:22:47] <rohieb> nubix: meh, jetzt hast du mir ja mein einziges arugument genommen :P
+[19:22:52] <nubix> rohieb: mich nervt's nicht :p sollte dich das zu sehr nerven /ignore nubix
+[19:22:57] <nubix> :
+[19:22:59] <nubix> :)
+[19:23:23] <rohieb> hm... wäre eine überlegung wert
+[19:23:25] <rohieb> :P
+[19:24:32] <nubix> na dann los
+[19:31:31] ! moenni has quit. (Read error: Connection reset by peer)
+[19:36:53] ! PirateKing has joined.
+[19:37:11] <elorie> sooo familie bespaßen
+[19:37:25] <nubix> elorie: viel spaß
+[19:39:32] ! elorie has quit. (Quit: Leaving.)
+[19:50:03] ! nubix has quit. (Quit: Leaving.)
+[19:53:30] <rohieb> * nubix has quit (Quit: Leaving.) <-- mh mist... da hilft ignore wohl auch nicht :P
+[20:10:47] ! nubix has joined.
+[20:10:47] ! nubix has quit. (Changing host)
+[20:10:47] ! nubix has joined.
+[20:18:35] ! csg has joined.
+[20:33:59] ! nubix has quit. (Quit: Leaving.)
+[20:38:01] ! nubix has joined.
+[20:38:01] ! nubix has quit. (Changing host)
+[20:38:01] ! nubix has joined.
+[20:38:07] <rohieb> nubix: ignore hilft nicht :P
+[20:38:48] ! nubix has quit. (Client Quit)
+[20:39:06] <rohieb> ...
+[20:40:01] <DrMcCoy> rohieb: Hol dir nen ordentlichen Client
+[20:40:15] <DrMcCoy> irssi kann das
+[20:40:17] <DrMcCoy> 20:39:43     /IGNORE * JOINS                         - ignore joins in all channels
+[20:40:20] <DrMcCoy> 20:39:43     /IGNORE #channel ALL -PUBLIC -ACTIONS   - ignore all but public/actions
+[20:40:22] <rohieb> ne, ich löse das problem jetzt auf layer 8
+[20:40:23] <DrMcCoy> 20:39:43     /IGNORE #channel -JOINS                 - don't ignore joins anymore
+[20:40:26] <DrMcCoy> 20:39:43     /IGNORE -replies *!user@*.host.org ALL  - ignore user and all replies
+[20:40:52] <rohieb> DrMcCoy: ich will ja nicht alle joins ignorieren, nur nubixchens
+[20:40:58] <DrMcCoy> . . .
+[20:41:03] <rohieb> DrMcCoy: 1
+[20:41:07] <DrMcCoy> rohieb: Lies das, und kombiniere, du Vollpfosten
+[20:41:28] <rohieb> wasweißich wie deine ignore-syntax ist :P
+[20:41:35] <DrMcCoy> 20:39:43 IGNORE [-regexp | -full] [-pattern <pattern>] [-except] [-replies] [-network <network>] [-channels <channel>]  [-time <secs>] <mask> [<levels>]
+[20:41:36] <rohieb> das geht doch aus deinem beispiel nicht hervor
+[20:41:38] <DrMcCoy> 20:39:43 IGNORE [-regexp | -full] [-pattern <pattern>] [-except] [-replies] [-network <network>] [-time <secs>] <channels>  [<levels>]
+[20:41:39] <rohieb> ok
+[21:32:09] ! csg has quit. (Ping timeout: 258 seconds)
+[21:35:19] ! nubix has joined.
+[21:35:19] ! nubix has quit. (Changing host)
+[21:35:19] ! nubix has joined.
+[21:38:09] <nubix> rohieb: tja
+[21:39:38] ! nubix has quit. (Client Quit)
+[21:39:52] ! nubix has joined.
+[21:40:04] ! nubix has quit. (Client Quit)
+[21:40:19] ! nubix has joined.
+[21:40:37] <rohieb> ohhhhhh (2011-10-08 21:12:00) chaosupdates: Chaos Computer Club analyzes government malware, analysis revealed serious security holes http://t.co/KmoW5s8d #ccc
+[21:40:39] <ZombiePoet> Title: CCC | Chaos Computer Club analyzes government malware (at t.co)
+[21:40:44] <rohieb> ein auseinandergenommener bundestrojaner
+[21:40:55] ! nubix has quit. (Client Quit)
+[21:41:07] ! nubix has joined.
+[21:42:30] ! nubix has left the channel.
+[21:42:49] ! csg has joined.
+[21:43:23] ! jh has joined.
+[21:45:11] ! nubix has joined.
+[21:45:26] <jh> n00biks!
+[21:45:32] <nubix> jh?
+[21:45:48] <jh> korrekt
+[21:45:56] <nubix> hm
+[21:45:59] <nubix> whatever
+[21:53:43] ! jh has quit. (Quit: Logik wird überschätzt.)
+[22:48:39] ! CalebRipley has joined.
+[22:59:51] ! conqueror12 has joined.
+[23:12:15] ! conqueror121 has joined.
+[23:14:53] ! conqueror12 has quit. (Ping timeout: 258 seconds)
+[23:19:43] ! ES has quit. (Quit: The cake is a lie!)
+[23:31:28] ! conqueror121 has quit. (Quit: Leaving.)
+[23:42:11] ! nubix has quit. (Quit: Leaving.)
+[23:45:08] ! nubix has joined.
+[23:45:08] ! nubix has quit. (Changing host)
+[23:45:08] ! nubix has joined.
+[23:50:29] ! elorie has joined.
+[23:57:08] <elorie> .
