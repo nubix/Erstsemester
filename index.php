@@ -72,7 +72,7 @@ function getLog($name) {
 function return_formated($string) {
 	
 	$find = array('/(\[??:??:??\] &lt;)(\w+)([^&gt;]*&gt;)/e',
-		      "/(\[??:??:??\] ! )(\w+)([^\n]+\n)/e",
+		      "/(\[??:??:??\] ! )(\w+)([^\n]*\n)/e",
 		      '`((?:https?|ftp)://\S+[[:alnum:]]([^&gt;\)])/?)`si',
 	              '`((?<!//)(www\.\S+[[:alnum:]]([^&gt;\)])/?))`si');
 	$replace = array("'] <span class=\"user\">&lt;\\2&gt;</span>'",
