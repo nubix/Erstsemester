@@ -76,12 +76,12 @@ function return_formated($string) {
 		      '`((?:https?|ftp)://\S+[[:alnum:]]([^&gt;\)])/?)`si',
 	              '`((?<!//)(www\.\S+[[:alnum:]]([^&gt;\)])/?))`si');
 	$replace = array("'] <span class=\"user\">&lt;\\2&gt;</span>'",
-			 "'] <span class=\"other\"> ! \\2 \\3</span>'",
+			 "'] <span class=\"other\"> ! \\2\\3</span>'",
 		         '<a href="$1" rel="nofollow">$1</a>',
 		         '<a href="http://$1" rel="nofollow">$1</a>');
 
 	$uml_orig = array("\n", "ä", "Ä", "ö", "Ö", "ü", "Ü", "ß"); 
-	$uml_repl = array("<br />" ,"&auml;", "&Auml;", "&ouml;", "&Ouml;", "&uuml;", "&Uuml;", "&szlig;");
+	$uml_repl = array("<br />\n" ,"&auml;", "&Auml;", "&ouml;", "&Ouml;", "&uuml;", "&Uuml;", "&szlig;");
 	$string = htmlspecialchars($string);
 	$string = preg_replace($find, $replace, $string);
 	$string = str_replace($uml_orig, $uml_repl, $string);
@@ -91,7 +91,7 @@ function return_formated($string) {
 	foreach($string as &$str) {
 		$str = "<a name=".md5($str)." href=#".md5($str).">".$str."</a>";
 	}
-	$string = implode( $string);
+	$string = implode($string);
 */
 	return '<tt>'.$string.'</tt>';
 }
