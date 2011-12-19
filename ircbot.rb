@@ -7,8 +7,9 @@ ADMPASS = 'passwort@'
 HOST = 'irc.freenode.net'
 PORT = 6666
 
-FGINFO_IP='134.169.35.234'
-FGINFO_PORT=1337
+
+FGRAUM_IP='134.169.35.234'
+FGRAUM_PORT=1337
 
 LOG = true
 VERBOSE = false
@@ -20,18 +21,14 @@ require 'time'
 require 'kconv'
 
 def fgraum nick, msg
-	p msg
-	p nick
-	p msg.length
-	return unless msg.start_with?('!fgraum')
-	msg.delete!("!fgraum")
+	return unless msg.start_with?('!fgraum') or (nick.length + msg.sub("!fgraum ", "").length) > 120
 
 	begin
-	p "socket auf"
 		fgsocket = TCPSocket.open(FGRAUM_IP, FGRAUM_PORT)
-		fgsocket.puts msg
+		p "fgraum socket auf" if DEBUG
+		fgsocket.puts ("<" + nick + "> " + msg.sub("!fgraum ",""))
 	ensure
-		fgsocket.close
+		fgsocket.close unless fgsocket.nil?
 	end
 end
 
@@ -88,7 +85,7 @@ def parseMessage input
 			if payload.start_with?(["\x01"][0]+'ACTION') then
 				msg += '* ' + nickname + payload.delete(["\x01"][0]).delete(["\x01"][0]+'ACTION')
 			else
-#				fgraum nickname, payload
+				fgraum nickname, payload
 				msg += '<'+nickname+'> ' + payload
 			end
 		elsif input.split[2] == NICK then
