@@ -1,0 +1,369 @@
+[00:02:42] ! joke` has joined.
+[00:12:57] ! PirateKing has quit. (Quit: Leaving.)
+[00:14:55] ! elorie has joined.
+[00:31:24] ! pani_ has joined.
+[00:31:32] <rohieb> elorie: wer macht eigetnlich deine übung?
+[00:31:37] <rohieb> diskrete mathe
+[00:31:53] <elorie> rohieb: gute frage wie der mensch heißt
+[00:31:59] <rohieb> ^^
+[00:32:00] <rohieb> wann denn?
+[00:32:06] <elorie> rohieb: blond, 180 groß, geschaetzt drittsemester
+[00:32:12] <rohieb> achos, marcel?
+[00:32:19] <elorie> mittwoch 15 uhr
+[00:32:22] ! pani has quit. (Ping timeout: 268 seconds)
+[00:32:27] <rohieb> ja, marcel
+[00:41:27] <lurtz> 180 ist nicht groß
+[00:42:03] <elorie> lurtz: aus meiner perspektive schon ;)
+[00:44:48] <rohieb> :D
+[00:45:40] <rohieb> hihi
+[00:45:44] * rohieb hat decke \o/
+[00:46:27] ! huete_ has joined.
+[00:46:53] ! huete_ has quit. (Client Quit)
+[00:47:06] ! huete_ has joined.
+[00:47:06] ! huete_ has left the channel.
+[00:50:52] ! Phia has quit. (Quit: Leaving.)
+[00:55:31] ! elorie has quit. (Quit: Leaving.)
+[00:56:11] ! ES has quit. (Ping timeout: 252 seconds)
+[00:58:03] <rohieb> kann mir eigentlich mal jemand sagen, warum man toilettenpapierrollen auf die hutablage vom auto stellt?
+[01:03:56] ! ES has joined.
+[01:10:39] ! joke` has quit. (Quit: Verlassend)
+[01:32:27] <nubix> rohieb: damit jemand der einen haufen auf die hutablage macht sich auch den hintern abwischen kann
+[01:32:38] <nubix> captian obvious :p
+[02:16:02] ! rohieb has quit. (Quit: ...yo ho ho, and a bottle of rum!)
+[02:17:14] ! nubix has quit. (Quit: Leaving.)
+[02:28:03] ! lurtz has quit. (Quit: Leaving.)
+[03:18:19] ! conqueror121 has quit. (Read error: Connection reset by peer)
+[03:20:15] ! Cascharity has quit. (Read error: Connection reset by peer)
+[03:23:29] ! Cascharity has joined.
+[03:34:49] ! ES has quit. (Quit: The cake is a lie!)
+[05:15:39] ! Cascharity_ has joined.
+[05:19:33] ! Cascharity has quit. (Ping timeout: 255 seconds)
+[05:34:33] ! conqueror12 has joined.
+[06:18:03] ! Cascharity_ has quit. (Quit: Verlassend)
+[07:44:30] ! elorie has joined.
+[08:57:29] ! PirateKing has joined.
+[09:02:57] ! PirateKing has quit. (Quit: Leaving.)
+[09:05:53] ! PirateKing has joined.
+[09:25:00] <norman> moin
+[09:32:58] ! Phia has joined.
+[09:54:08] ! nubix has joined.
+[10:26:04] ! nubix has quit. (Quit: Leaving.)
+[10:38:07] ! lurtz has joined.
+[10:55:19] ! nubix has joined.
+[11:15:56] ! CalebRipley has quit. (Remote host closed the connection)
+[11:23:38] ! Ignifazius has joined.
+[12:06:00] ! Nimos has quit. (Quit: ZNC - http://znc.sourceforge.net)
+[12:14:09] ! Nimos has joined.
+[12:22:41] <Wechner> nubix: bist du noch im FG-Raum?
+[12:22:47] <nubix> jep
+[12:23:01] <Wechner> nubix: liegt da zufällig ein herrenloses Thinkpad-Netzteil rum?
+[12:23:06] <nubix> jop
+[12:23:18] <Wechner> echt?
+[12:23:21] <Wechner> *puh*
+[12:23:29] <Wechner> dann hab ich das gestern vergessen -.-
+[12:24:39] <nubix> wo	
+[12:24:42] <nubix> Wechner: jop
+[12:24:50] <nubix> Wechner: bin mittag essen
+[12:25:22] ! Peace-Maker has joined.
+[12:27:22] <Wechner> nubix: was meitest du mit "wo"?
+[12:27:27] <Wechner> ...meintest...
+[12:27:42] <nubix> Wechner: war ein Tab-completion-fail
+[12:27:56] <Wechner> ah, ok
+[12:29:57] <Peace-Maker> jemand mit php erfahrung hier?
+[12:30:24] <Peace-Maker> hab hier nen lfs exploit und brauch ne 2. meinung, ob der fix so reicht
+[12:33:24] ! Mobiwoelfin has joined.
+[12:34:28] ! Mobiwoelfin has quit. (Client Quit)
+[12:38:41] <Valodim> Peace-Maker: hier
+[12:40:14] <Peace-Maker> Valodim: http://dl.dropbox.com/u/38578492/sb-callback.php.patch
+[12:41:00] ! Nimos has quit. (Quit: ZNC - http://znc.sourceforge.net)
+[12:43:36] ! Nimos has joined.
+[12:43:51] <Valodim> Peace-Maker: warum ersetzt du ../ durch ..\ ?
+[12:44:53] <Valodim> ich glaub fuer sowas wuerd ich inklusiv auf ^[a-zA-Z0-9]+$ checken, statt exklusiv
+[12:45:18] <Wechner> damit bekommst du ja aber auch nicht alle gültigen Namen für ein Erzeichnis erfasst
+[12:45:37] <Valodim> ja. will man das?
+[12:45:42] <Wechner> entweder sowas wie ^[^/]+$ IMHO
+[12:45:45] <Wechner> oder einfach
+[12:45:54] <Wechner> $theme = basename( $theme );
+[12:46:13] <Wechner> if( is_dir( SB_THEMES . $theme ) ) // ...
+[12:47:14] <Peace-Maker> Valodim: ich ersetz nicht ../ durch ..\ - ich ersetze alle 3 mit nichts ''
+[12:47:26] <Valodim> Peace-Maker: ups. klammerung falsch gesehen :)
+[12:47:55] <Peace-Maker> Wechner: das hört sich besser an
+[12:48:14] ! ES has joined.
+[12:49:36] <Valodim> mh. ich wuerd glaub ich nich einfach beliebige verzeichnisnamen erlauben fuer theme dirs. allein schon mit .verzeichnis kann dir einer nen hidden theme unterjubeln und dann dadurch ausfuehren, und da geht mit sicherheit auch einiges mit unicode magic
+[12:50:07] <Valodim> aber zumindest um breakouts zu verhindern klappt das mit basename
+[12:51:16] <Peace-Maker> dazu muss er erstmal das theme hochladen können. es geht ja mehr um breakouts
+[12:51:50] <Valodim> eine weitere alternative waere ($theme[0] != '.' && in_array($theme, scandir(SB_THEMES)) && is_dir(SB_THEMES . $theme))
+[12:52:19] <Valodim> damit muss $theme exakt einem verzeichnisnamen, der in SB_THEMES vorkommt, entsprechen, und nichts anderes
+[12:55:37] <Peace-Maker> danke
+[13:09:10] ! Mobiwoelfin has joined.
+[13:09:18] <Mobiwoelfin> hi
+[13:09:57] ! nubix has quit. (Quit: Leaving.)
+[13:32:11] ! Mobiwoelfin_ has joined.
+[13:32:14] ! Mobiwoelfin has quit. (Read error: Connection reset by peer)
+[13:37:12] <norman> wofür steht lfs?
+[13:37:49] ! Sonea has joined.
+[13:40:26] <norman> Sonea:  :-)
+[13:41:06] ! Mobiwoelfin_ has quit. (Ping timeout: 240 seconds)
+[13:45:21] <Sonea> norman: :)
+[13:45:21] <ZombiePoet> Sonea: Sent 17 hours and 23 minutes ago: <DrMcCoy> Jo, hab ich dann auch gemacht
+[13:45:46] ! PirateKing has quit. (Quit: Leaving.)
+[13:52:36] <DrMcCoy> Christopher Hitchens ist tot :/
+[13:58:44] ! PirateKing has joined.
+[14:01:47] <norman> DrMcCoy: wer?
+[14:01:52] * DrMcCoy slaps norman 
+[14:01:58] <DrMcCoy> The Hitch.
+[14:02:23] <DrMcCoy> norman: https://en.wikipedia.org/wiki/Christopher_Hitchens
+[14:02:24] <ZombiePoet> Title: Christopher Hitchens - Wikipedia, the free encyclopedia (at en.wikipedia.org)
+[14:04:01] <norman> DrMcCoy: the what?
+[14:04:10] <DrMcCoy> . . .
+[14:04:15] <DrMcCoy> norman: jfgi
+[14:06:49] <norman> les grad bisschen wikipedia
+[14:07:00] <norman> den teil zu religionen, scheint er ja nicht so zu mögen
+[14:08:24] <DrMcCoy> <Loriot>Ach?</Loriot>
+[14:09:33] <norman> "Hitchens was accused by William A. Donohue of the Catholic League for Religious and Civil Liberties of being particularly anti-Catholic."
+[14:09:43] <norman> haha, die katholiken ... spielen sich auf und denken, sie sind was besonderes, dabei hasst er doch ALLE religionen :-D
+[14:11:00] <DrMcCoy> Donohue ist sowieso ein Vollidiot
+[14:19:24] ! nubix has joined.
+[14:19:35] ! nubix has quit. (Client Quit)
+[14:22:32] ! ES has quit. (Quit: The cake is a lie!)
+[14:29:19] ! zerobot has quit. (Quit: I'll die alone ... and disconnected.)
+[14:35:24] ! Sonea has left the channel.
+[14:36:55] ! Peace-Maker has quit. (Quit: Bye.)
+[14:39:33] <norman> http://d24w6bsrhbeh9d.cloudfront.net/photo/1068305_700b.jpg
+[14:44:02] ! Cascharity has joined.
+[14:45:29] ! zerobot has joined.
+[14:50:28] ! zerobot has quit. (Ping timeout: 276 seconds)
+[14:57:28] ! Nimos has quit. (Quit: ZNC - http://znc.sourceforge.net)
+[15:00:21] ! Sonea has joined.
+[15:00:48] <Sonea> hmm iwie doof der tag.... scheiß wetter, bauch aua, nichts geschafft bisher
+[15:01:00] <Sonea> und bei euch so?
+[15:02:37] ! Nimos has joined.
+[15:04:35] <norman> Sonea: Paper fertig gelesen. Neues gerade gedruckt
+[15:04:46] <norman> Und ich hab jetzt ne I-Bescheinigung auf der "Promotion" steht
+[15:04:51] <Sonea> norman: das klingt doch gut :)
+[15:05:03] <Sonea> norman: hehe also bist du immer noch student
+[15:05:07] <norman> Ja :-)
+[15:05:35] <norman> Und demnächst will ich mir mal überlegen, wozu ich denn bloggen könnte
+[15:09:12] ! ES has joined.
+[15:19:49] ! nubix has joined.
+[15:24:35] ! Debi has joined.
+[15:27:10] ! Ignifazius has quit. (Ping timeout: 252 seconds)
+[15:32:25] ! PirateKing has quit. (Quit: Leaving.)
+[15:33:14] ! Bowdzone has joined.
+[15:34:36] <Phia> Droggl: hast du das mit dem hotel eigentlich inzwischen ausgekaspert?
+[15:38:09] ! PirateKing has joined.
+[15:38:53] <norman> Bowdzone: arbeitest du immer nur bis nachmittags? :-) ach und wann bist du in BS?
+[15:41:13] <Bowdzone> norman: 7:45 - 15:00 bei 15min Pause = 7h^^
+[15:41:30] <Bowdzone> Werde denke 20:30 da sein
+[15:43:38] ! Cascharity has quit. (Quit: Verlassend)
+[15:50:04] <Droggl> Phia: yo, ich leit dir die mail mal weiter
+[15:51:07] <Phia> Droggl: danke
+[15:51:14] <Sonea> achja :) so lässt es sich gleich besser leben: in ne decke gekuschelt mit selbstgemachtem glühapfel vor dem pc
+[15:52:00] <Phia> Sonea: klingt gut
+[15:53:26] <Sonea> Phia: aso hatte ich dir eigentlisch auf die mail bzgl. informaticup geantwortet?
+[15:53:29] <Sonea> Phia: klang gutz
+[15:53:35] <Sonea> 09:00 uhr bei mir?
+[15:53:39] <Phia> jo
+[15:53:59] <Phia> also nein, hattest du nicht, aber ja machen wir
+[15:54:29] <Sonea> alles klar :)
+[16:02:31] <norman> hier liegen überall so talKIT flyer rum
+[16:18:06] ! jh has joined.
+[16:19:52] <jh> hi
+[16:19:53] <ZombiePoet> jh: Sent 1 day and 4 hours ago: <Sonea> wir bekommen übrigens als nächstes: Forrester - Gefunden! und die Legende von beowulf
+[16:20:09] <jh> Sonea: ok
+[16:21:09] ! PirateKing has quit. (Quit: Leaving.)
+[16:27:58] ! Phia has quit. (Ping timeout: 276 seconds)
+[16:45:15] ! CalebRipley has joined.
+[16:51:48] ! Phia has joined.
+[16:56:03] ! Bowdzone has quit. (Read error: Connection reset by peer)
+[16:58:04] ! Nimos has quit. (Read error: Connection reset by peer)
+[16:58:36] ! Nimos has joined.
+[16:58:56] ! Phia has quit. (Quit: Leaving.)
+[17:02:03] ! PirateKing has joined.
+[17:02:47] ! Nimos has quit. (Ping timeout: 240 seconds)
+[17:06:37] ! Nimos has joined.
+[17:10:02] ! elorie has quit. (Quit: Leaving.)
+[17:29:09] ! Ignifazius has joined.
+[17:36:27] ! Nimos has quit. (Ping timeout: 240 seconds)
+[17:46:53] ! lurtz has quit. (Quit: Leaving.)
+[17:47:57] ! Moenni_Mo has joined.
+[17:50:06] ! Nimos has joined.
+[18:29:45] ! rohieb has joined.
+[18:30:00] ! Moenni_Mo has quit. (Quit: Leaving.)
+[18:42:33] ! Silberwoelfin has joined.
+[18:42:39] <Silberwoelfin> hi
+[18:44:23] ! elorie has joined.
+[18:46:13] <norman> ho
+[18:46:58] ! Cascharity has joined.
+[18:59:26] ! csg has joined.
+[19:00:34] <DrMcCoy> See ich das richtig?
+[19:00:35] <DrMcCoy> Schnee?
+[19:00:43] <DrMcCoy> Seh*
+[19:00:59] <DrMcCoy> :)
+[19:01:27] <norman> Ja
+[19:01:30] <norman> schon den ganzen Tag
+[19:01:32] <norman> guten Morgen, DrMcCoy
+[19:01:57] <DrMcCoy> norman: Ich hab nur Regen gesehen/gehört
+[19:05:46] <norman> Ja, der Regen war aber teilweise noch Schnee
+[19:05:57] <norman> hat man aber nur gesehen, wenn man tatsächlich draußen war :-)
+[19:05:57] <DrMcCoy> Genau das hab ich nicht mitgekriegt
+[19:06:02] <DrMcCoy> Jo, war ich nicht
+[19:06:03] <DrMcCoy> :P
+[19:06:45] ! elorie has quit. (Quit: Leaving.)
+[19:11:29] <jh> "schnee" ist aber etwas übertrieben
+[19:12:29] <DrMcCoy> jh: Miesmacher
+[19:12:51] ! elorie has joined.
+[19:13:32] <norman> jh: nene, schon schnee. bleibt sogar liegen hier
+[19:13:41] <norman> nachbarn haben schon weisse Dächer
+[19:14:06] <rohieb> jh! Silberwoelfin! wo wart ihr denn?
+[19:14:30] <jh> rohieb: bei meinen großeltern, diamantene hochzeit
+[19:14:35] <rohieb> im hotel?
+[19:14:37] <DrMcCoy> Jo, auf den Dächern und den Schrägfenstern hier bleibt es liegen
+[19:14:40] <DrMcCoy> Auf der Straße nicht
+[19:14:44] <jh> rohieb: bring deinem twitterclient mal geotags bei :P
+[19:14:46] <jh> rohieb: ja
+[19:15:03] <rohieb> jh: mein twitterclient ist pidgin
+[19:15:06] <Silberwoelfin> rohieb: \o/
+[19:15:10] <rohieb> da machen sich geotags etwas schlecht
+[19:15:24] <jh> rohieb: ok, bring deinem schlechten twitterclient mal geotags bei :P
+[19:15:31] <rohieb> ...
+[19:15:35] * rohieb haz chili con carne
+[19:17:54] <DrMcCoy> Hmm, ich könnte mir gleich die Dose Bihunsuppe warm machen...
+[19:19:08] * jh hat gerade gelernt das "Bihun" nichts mit Huhn zu tun hat^^
+[19:20:20] ! elorie has quit. (Quit: Leaving.)
+[19:20:27] <DrMcCoy> Jo, das sind die Glasnudeln
+[19:21:05] <DrMcCoy> jh: https://id.wikipedia.org/wiki/Bihun
+[19:21:06] <ZombiePoet> Title: Bihun - Wikipedia bahasa Indonesia, ensiklopedia bebas (at id.wikipedia.org)
+[19:21:20] <jh> ich hab de. genommen
+[19:24:53] <rohieb> jh: den unterschied zwischen das und dass hast du anscheinend noch nicht gelernt
+[19:25:50] <jh> rohieb: doch
+[19:26:11] ! Moenni_Mo has joined.
+[19:30:21] ! Cascharity has quit. (Quit: Verlassend)
+[19:43:19] <DrMcCoy> http://www.huffingtonpost.com/2011/12/13/two-snouted-cyclops-pig-china_n_1146448.html?ref=mostpopular
+[19:43:20] <ZombiePoet> Title: Two-Snouted Cyclops Pig Born In China (PHOTO) (at www.huffingtonpost.com)
+[19:43:33] ! der_eq has joined.
+[20:04:08] ! Sonea has quit. (Quit: Leaving.)
+[20:24:21] ! nubix has quit. (Read error: Connection reset by peer)
+[20:24:24] ! nubix1 has joined.
+[20:30:40] ! PirateKing1 has joined.
+[20:32:47] ! PirateKing has quit. (Ping timeout: 240 seconds)
+[20:32:49] ! lurtz has joined.
+[21:10:41] ! PirateKing has joined.
+[21:11:27] ! PirateKing1 has quit. (Ping timeout: 240 seconds)
+[21:27:56] ! nubix1 has quit. (Read error: Connection reset by peer)
+[21:27:59] ! nubix has joined.
+[21:56:52] <DrMcCoy> In dem Kinder-Pingui-Ding ist ne CD drin o_O
+[21:57:08] <DrMcCoy> "Alltagsgeheimnisse entdecken"
+[21:57:23] <DrMcCoy> "Wissens- und Spielspaß mit Galileo"
+[21:57:37] <jh> wie kann in einem kinder-pingui eine CD sein?
+[21:57:42] <DrMcCoy> Systemanforderung: Windoze
+[21:57:42] <jh> die ist doch größer
+[21:58:02] <DrMcCoy> jh: In der Pappschachtel mit 6 Kinder Pingui
+[21:58:09] <jh> ah^^
+[21:58:32] <DrMcCoy> Das ist ne exe und 4 wmv
+[21:59:18] <DrMcCoy> Aha, 4 Videos, die Sachen erklären. Und anscheinend EXE, die die Videos abspielen soll. Und das Wissen dann mit einem Quiz abfragt, der CD-Hülle nach
+[21:59:49] <rohieb> DrMcCoy: galileo? schmeiß die bloß gleich weg
+[21:59:52] <DrMcCoy> Joa
+[22:01:01] <DrMcCoy> Naja, das Video, das erklärt, dass die Erde keine Scheibe ist, ist sogar nicht total falsch
+[22:01:23] <jh> ist sie nicht? o.O
+[22:01:31] <rohieb> naja klar, wenn es sagen würde, dass 1+1=2 ist, wäre es ja auch nicht total falsch
+[22:01:31] <jh> aber google maps ist doch flach
+[22:02:39] <Silberwoelfin> jh: wenn du einen runden monitor hättest, dann wäre google maps nicht mehr flach :P
+[22:03:04] <DrMcCoy> o_O
+[22:03:09] <rohieb> :D
+[22:03:30] <jh> Silberwoelfin: ein kreis ist doch auch flach
+[22:03:44] <Silberwoelfin> jh: kugeliger monitor
+[22:04:03] <jh> mh
+[22:04:06] <jh> das wär aber komisch
+[22:04:26] <rohieb> kuhgelig?
+[22:04:57] <jh> svenig?
+[22:05:04] <DrMcCoy> ...
+[22:06:21] <DrMcCoy> Das Echo-Video ist am Ende dann aber wieder total falsch
+[22:07:25] ! Sonea has joined.
+[22:07:45] <rohieb> Sonea!
+[22:07:56] <Sonea> rohieb!
+[22:08:05] <Sonea> rohieb: du hast deine zettel in 311 liegen lassen
+[22:08:11] <Sonea> also go und den alg. 4 aus gd
+[22:08:18] <rohieb> oh
+[22:08:19] <rohieb> hmm
+[22:08:21] <rohieb> ok ^^
+[22:08:26] <rohieb> 311?
+[22:08:48] <rohieb> achso, alg-arbeitsraum
+[22:08:51] <rohieb> das ist 311?
+[22:08:51] <Sonea> iz311
+[22:08:52] <DrMcCoy> Dass das mit dem "Wie heißt der Bürgermeister von Wesel?" - "Esel" klappt, hat doch nichts damit zu tun, dass sich "Schallwellen mit der gleichen Wellenlänge auslöschen"
+[22:08:55] <Sonea> ja
+[22:09:16] <rohieb> DrMcCoy: sondern?
+[22:09:36] <jh> Sonea!
+[22:09:45] <norman> jh!
+[22:09:53] <DrMcCoy> rohieb: Allein, dass das am Ende steht und der Rest schon vorher raus ist, während man noch spricht
+[22:09:56] <jh> norman!
+[22:10:00] <jh> norman: hast du n hl auf Sonea?
+[22:10:05] <norman> nein
+[22:10:10] <norman> spielst mit openttd? ._)
+[22:11:18] <jh> nein
+[22:14:47] <Sonea> jh!
+[22:15:01] <Silberwoelfin> Sonea: \o/
+[22:15:03] <Sonea> hmm iwie bin ich müde, aber jetzt schon ins bett?
+[22:15:11] <Sonea> Silberwoelfin: \o/
+[22:15:54] <jh> Sonea!
+[22:25:29] ! Debi has quit. (Quit: Verlassend)
+[22:32:51] <Sonea> jh: du wiederholst dich :P
+[22:32:57] <Sonea> so ich geh ins bett ^^
+[22:33:01] ! Sonea has quit. (Quit: Leaving.)
+[22:33:01] <jh> Sonea: du laggst halt so
+[22:33:07] <jh> und quittest
+[22:34:16] <norman> oO
+[22:36:55] ! joke` has joined.
+[22:49:34] ! PirateKing has quit. (Read error: Connection reset by peer)
+[23:05:05] ! conqueror121 has joined.
+[23:05:12] ! lurtz has quit. (Quit: Leaving.)
+[23:06:18] ! conqueror12 has quit. (Ping timeout: 245 seconds)
+[23:11:57] ! Ignifazius has quit. (Quit: *Vanish*)
+[23:15:58] <norman> http://www.immobilienscout24.de/expose/59557674;jsessionid=1FE52AB0BB5F2091134C44976A3BF0A7.worker1# oh schöne Wohnung
+[23:15:59] <ZombiePoet> Title: 3 Zimmer Mietwohnung in Braunschweig mit 83,7 qm (ScoutId 59557674) (at www.immobilienscout24.de)
+[23:19:38] <DrMcCoy> http://wherethefuckshouldigofordrinks.com/
+[23:19:39] <ZombiePoet> Title: WHERE THE FUCK SHOULD I GO FOR DRINKS? (at wherethefuckshouldigofordrinks.com)
+[23:20:16] <DrMcCoy> norman: Hmm, viel Miete
+[23:21:07] <norman> Ja
+[23:21:09] <rohieb> hm, volkmarode...
+[23:21:10] <norman> Aber irgendwie schön
+[23:21:13] <rohieb> ist so weit weg
+[23:21:19] <rohieb> nubix kann das bestimmt bestätigen ^^
+[23:21:19] <norman> 6km bis zur Uni
+[23:21:21] <jh> willst nicht mehr im sielcamp wohnen?
+[23:21:24] <norman> da fährt ne Bahn hin
+[23:21:35] <rohieb> ja, inzwischen wieder ^^
+[23:21:35] <norman> und man kann das bequem in nen paar Minuten radeln
+[23:21:36] <norman> so 15-20 denke ich
+[23:21:39] <rohieb> $paar
+[23:22:12] <nubix> volkmarode? da will man ohne auto einfach nicht wohnen
+[23:22:21] <nubix> selbst mit auto ist's doof
+[23:24:20] <norman> 6km zur uni ist nicht wirklich viel
+[23:25:44] <norman> doppelt soviel wie vom sielkamp aus
+[23:26:18] <norman> vom Sielkamp in den Ziegelkamp. Haha
+[23:26:43] <DrMcCoy> Also Sielkamp->Uni sind niemals > 6km
+[23:26:56] <DrMcCoy> Das dürften 2 oder so sein
+[23:30:08] <norman> 3
+[23:30:32] <norman> und dann 6 von volkmarode aus. 2*3 = 6 = doppelt soviel wie vom sielkamp aus
+[23:35:58] <norman> dagegen steht dann 3,70€ pro m² im Magniviertel von einer lustigen Immobilienfirma http://www.immobilienscout24.de/expose/63062197
+[23:35:59] <ZombiePoet> Title: 3 Zimmer Mietwohnung in Braunschweig mit 135 qm (ScoutId 63062197) (at www.immobilienscout24.de)
+[23:36:52] <DrMcCoy> 200€ Nebenkosten?
+[23:37:12] <norman> Ja, dafür nichtmal 4€ pro Quadratmeter in der Innenstadt (!)
+[23:37:27] <norman> Hmpf, das Ding in Volkmarode schaut nicht schlecht aus
+[23:37:41] <DrMcCoy> "WG geeignet" bei ner 3-Zimmer-Wohnung?
+[23:37:49] <DrMcCoy> "Ideal für Studenten" bei 700€ Miete?!?
+[23:38:05] <DrMcCoy> norman: Bei dem Ding in Volkmarode hast du aber
+[23:38:10] <DrMcCoy> 2km bis zu real
+[23:40:09] <DrMcCoy> Der Grundriss von der im Magniviertel ist ja komplett kaputt
+[23:41:19] <norman> Und auch sonst keine weiteren Bilder ;-)
+[23:41:42] <DrMcCoy> Ja
+[23:42:33] ! lurtz has joined.
+[23:43:25] <DrMcCoy> http://geektyrant.com/news/2011/12/16/game-of-thrones-christmas-is-coming-poster-art.html :D
+[23:43:26] <ZombiePoet> Title: Game of Thrones - Christmas Is Coming Poster Art - News - GeekTyrant (at geektyrant.com)
+[23:46:09] <norman> aber aber der ist doch tot
+[23:47:29] <norman> gnarf, wie diese uralt bauten ca. 50% der Miete als Nebenkosten haben
+[23:54:57] <jh> gn8
+[23:58:12] ! jh has quit. (Quit: jh)
+[23:58:30] ! nubix has quit. (Read error: Connection reset by peer)
+[23:58:31] ! nubix1 has joined.

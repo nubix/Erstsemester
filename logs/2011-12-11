@@ -1,0 +1,454 @@
+[00:00:16] <elorie> jh: weil er nachbarn aergert?
+[00:00:24] <jh> elorie: ah, ok
+[00:34:07] <Sonea> so gn8!
+[00:34:14] ! Sonea has quit. (Quit: Leaving.)
+[00:41:15] <jh> ist die gejoint, hat x stunden nix gesagt und dann gn8 gesagt?^^
+[00:42:20] <DrMcCoy> jh: Ja
+[00:42:25] <jh> k
+[00:42:44] <DrMcCoy> Und x = 2.5
+[00:42:58] <DrMcCoy> 22:03:22 -!- Sonea [~Hella@brsg-4dbbd1b1.pool.mediaWays.net] has joined ##cs-studs
+[00:43:02] <DrMcCoy> 00:34:07 < Sonea> so gn8!
+[00:43:04] <DrMcCoy> 00:34:14 -!- Sonea [~Hella@brsg-4dbbd1b1.pool.mediaWays.net] has quit [Quit: Leaving.]
+[00:46:17] ! jh has quit. (Disconnected by services)
+[00:46:25] ! jh_ has joined.
+[00:53:58] ! Phia has quit. (Quit: Leaving.)
+[00:54:49] <rohieb> jhunterstrich!
+[00:57:04] <jh_> rohiebohneunterstrich!
+[00:57:06] ! jh_ is now known as jh
+[00:58:16] <jh> gn8
+[01:02:11] ! jh has quit. (Quit: jh)
+[01:09:11] <Silberwoelfin> gute nacht
+[01:09:13] ! Silberwoelfin has quit. (Quit: Verlassend)
+[01:23:30] ! PirateKing has quit. (Quit: Leaving.)
+[01:31:59] ! ES has quit. (Quit: The cake is a lie!)
+[01:51:13] ! Moenni_Mo has joined.
+[02:11:44] ! lurtz has quit. (Quit: Leaving.)
+[02:19:02] ! Moenni_Mo has quit. (Quit: Leaving.)
+[02:20:14] ! der_eq has quit. (Remote host closed the connection)
+[02:47:19] <norman> DooMMasteR: du hast vergessen zu erwähnen, dass ultramon mal eben $40 kostet
+[03:01:45] ! rohieb has quit. (Quit: ...yo ho ho, and a bottle of rum!)
+[03:06:39] <DrMcCoy> norman: Schon wieder neue Pokemon?
+[03:07:04] <norman> Nein, das ist ein Programm um mehrere Monitore unter Windows zu verwalten.
+[03:07:14] <norman> Also das, was man unter Linux nicht machen kann :-)
+[03:07:43] <Valodim> xrandr?
+[03:08:12] <DrMcCoy> Kann ich dir nichts ziu sagen, ich hab nur einen Kopf
+[03:08:22] <DrMcCoy> Mehrere
+[03:08:28] <DrMcCoy> Monitore
+[03:08:32] <DrMcCoy> pah
+[03:09:32] <DrMcCoy> Zur Organisation reichen normale virtuelle Desktops
+[03:11:09] <DrMcCoy> Mehrere Monitore passen auch gar nicht auf meinen Schreibtisch, ich brauch doch Abstellplatz fuer Tasse und Notizen
+[03:11:28] <norman> Versuch es mal mit einem Flatscreen, DrMcCoy :-)
+[03:11:50] <DrMcCoy> Hab ich
+[03:12:02] <norman> oO du hast die Röhre (endlich) entsorgt?
+[03:12:29] <DrMcCoy> Mein CRT hat sich zerlegt :(
+[03:12:37] <norman> Ach, wie ärgerlich.
+[03:12:44] <norman> Aber nen LCD ist besser für deine Augen!
+[03:12:50] <DrMcCoy> neeeeeee
+[03:13:15] <DrMcCoy> viel zu hartes bild
+[03:13:26] <DrMcCoy> tut in den augen weh
+[03:13:48] <norman> wow, mir fällt grad auf, ultramon hat eine "tile windows horizontally / vertically" ... sowas geht standardmäßig nicht.
+[03:13:59] <norman> echt nervig, wenn man pdf reader + irgendwas für notizen nebeneinander legen will
+[03:14:04] <norman> oder was auch immer nebeneinander legen will
+[03:14:20] <DrMcCoy> ratpoison?
+[03:15:47] <norman> Ja, ich mein jetzt Windooze
+[03:16:10] <DrMcCoy> Mein Beileid
+[03:16:15] <norman> In manchen Belangen ist es echt limitiert. Full  custom themes z.B.
+[03:16:43] <norman> Andererseits denke ich, dass es mit den 2 Grafikkarten und 4 Monitoren beim T420s Probleme unter Linux geben könnte
+[03:17:31] <DrMcCoy> #firstworldproblem
+[03:17:37] <norman> Aye
+[03:43:43] ! Debi has quit. (Quit: Verlassend)
+[04:48:59] ! elorie1 has joined.
+[04:51:46] ! elorie has quit. (Ping timeout: 252 seconds)
+[04:59:35] ! nubix has quit. (Quit: Leaving.)
+[06:45:09] ! elorie1 has quit. (Quit: Leaving.)
+[07:11:04] <DooMMasteR> o.O
+[07:51:25] ! CalebRipley has quit. (Remote host closed the connection)
+[07:53:20] ! CalebRipley has joined.
+[08:17:52] ! CalebRipley has quit. (Remote host closed the connection)
+[09:33:25] ! ES has joined.
+[09:56:07] ! jh has joined.
+[09:58:08] <jh> hi
+[10:09:59] ! Moenni_Mo has joined.
+[10:26:56] ! ES has quit. (Quit: The cake is a lie!)
+[10:51:05] <jh> warum läuten eigentlich kirchenglocken um 10:51? O.o
+[10:57:25] ! PirateKing has joined.
+[11:14:08] ! lurtz has joined.
+[11:25:54] <hashier> DrMcCoy: dein land... living room 15 grad, kitchen 16 grad, beide raeume heizung auf 6
+[11:30:43] ! Phia has joined.
+[11:40:01] <jh> !weather uppsala
+[11:40:46] <lurtz> !weather reykjavik
+[11:40:57] <jh> "APRSWXNET" ok
+[11:41:22] <lurtz> komisch dirk, sagte da wäre alles vereist
+[11:41:31] <lurtz> bis auf die beheizten gehwege
+[11:41:35] <jh> lurtz: vielleicht meinte er "alle sind verreist"?
+[11:41:46] <lurtz> in den warmen süden^^
+[11:41:58] <lurtz> also nach england z.b.^^
+[11:42:05] <jh> antarktis?
+[11:53:27] ! lurtz has quit. (Quit: Leaving.)
+[12:13:24] ! Phia has quit. (Quit: Leaving.)
+[12:36:01] ! lurtz has joined.
+[12:48:19] ! elorie has joined.
+[12:48:47] ! der_eq has joined.
+[12:50:39] ! PirateKing1 has joined.
+[12:51:27] ! PirateKing has quit. (Ping timeout: 240 seconds)
+[13:03:42] ! ES has joined.
+[13:04:28] <DrMcCoy> hashier: :)
+[13:43:03] ! arneb has joined.
+[13:53:47] ! Silberwoelfin has joined.
+[13:54:06] <Silberwoelfin> hi
+[14:09:08] <norman> moin
+[14:09:25] <norman> lurtz: hast du mal die Akkulaufzeit deines X220 zwischen Windows und Linux verglichen?
+[14:16:14] ! arneb has quit. (Quit: Lost terminal)
+[14:17:44] <lurtz> norman: nope
+[14:17:57] <lurtz> windows habe ich nur zum zocken an
+[14:18:18] <lurtz> oder wenn ich musik auf dieses handy kopieren will
+[14:19:39] <norman> Mit der Grafikkarte kann man irgendwas "zocken"? :-)
+[14:20:04] <norman> Ich habe nämlich in foren gelesen, dass die Akkulaufzeit unter Linux einiges an Feintuning benötigt
+[14:21:20] <lurtz> ich habe mit powertop geguckt was geht
+[14:21:47] <lurtz> im moment muss ich noch explizit aspm aktivieren und einen stromsparmodus beim grafikchip
+[14:22:14] <lurtz> jetzt müsste der aber so 6 stunden machen
+[14:22:37] <lurtz> zumindest waren bei einem flug nach island nach 3 stunden 50% weg^^
+[14:23:00] <lurtz> aber zum zocken ist das der falsche laptop
+[14:23:12] <lurtz> da sind glaube ich im moment welche mit amd besser
+[14:23:25] <norman> 6 stunden mit dem 6-zellen akku?
+[14:23:28] <lurtz> matthias hat sich auch einen mit amd fusion oder lliano gekauft
+[14:24:19] <lurtz> jo müsste der 6 zellen akku sein
+[14:24:49] ! rohieb has joined.
+[14:35:53] ! Debi has joined.
+[14:41:53] ! PirateKing has joined.
+[14:42:36] ! PirateKing1 has quit. (Ping timeout: 240 seconds)
+[14:54:53] ! joke` has joined.
+[15:17:16] ! elorie1 has joined.
+[15:18:34] ! Sonea has joined.
+[15:19:15] ! elorie1 has quit. (Client Quit)
+[15:19:20] <Sonea> huhu
+[15:19:41] <DrMcCoy> uhuh
+[15:19:58] ! elorie has quit. (Ping timeout: 252 seconds)
+[15:24:48] <jh> Sonea!
+[15:25:02] <Sonea> jh!
+[15:26:43] <norman> Sonea!
+[15:26:48] ! Tigaa_laptop has joined.
+[15:27:19] <Tigaa_laptop> hallo
+[15:27:26] <Sonea> norman!
+[15:27:31] <Sonea> huhu Tigaa_laptop
+[15:27:36] <Tigaa_laptop> huhu
+[15:27:54] <Tigaa_laptop> *kekse mampf*
+[15:28:05] <jh> *kekse klau*
+[15:28:14] <Tigaa_laptop> *rüberreich*
+[15:28:31] <Tigaa_laptop> ich habe gerade andere Probleme als meine Kekse zu bewachen :)
+[15:28:32] <Sonea> hmm hab noch kuchenzutaten hier
+[15:28:37] <Sonea> soll ich backen?
+[15:28:48] <Sonea> habe aber mein rührgerät noch im fg raum
+[15:29:01] <Tigaa_laptop> hmm von Hand mixen :)
+[15:29:09] <Sonea> und eier steif schlagen nur mit so nem schneebesen ist echt anstrengend
+[15:29:18] <Tigaa_laptop> hmm das stimmt
+[15:29:19] <jh> im rührerhauptquartier?
+[15:29:20] <Sonea> Tigaa_laptop: ja aber käsekuchen -> ei-schnee
+[15:29:28] <Sonea> jh: genau ;)
+[15:29:28] <Tigaa_laptop> was schreibe ich denn in meinen Abschlussvortrag
+[15:29:35] <Sonea> einer muss ja den waffelteig machen
+[15:29:40] <jh> Tigaa_laptop: was schreibe ich denn in meine abschlußarbeit?
+[15:29:47] <Sonea> Tigaa_laptop: wie du schreibst vorträge? oO
+[15:29:58] <Tigaa_laptop> ach ich würde da reinschreiben, was du so gemacht hast
+[15:30:13] <Tigaa_laptop> ein kapitel mit Grundlagen dazu, damit auch dummys das verstehen
+[15:30:24] <Tigaa_laptop> und schwubdiwubs hast du eine Abschlussarbeit
+[15:30:45] <Tigaa_laptop> Anforderungsansalysen sind ganz groß im Kommen
+[15:31:04] <Tigaa_laptop> aber ich habe so viele Ergebnisse ich weiß gar nicht welche ich nehmen soll
+[15:31:40] <jh> Tigaa_laptop: die buntesten
+[15:31:43] ! ES has quit. (Quit: The cake is a lie!)
+[15:31:56] <Tigaa_laptop> hm die haben alle so 15 Farben
+[15:32:34] <Tigaa_laptop> für die Güteklassen analyse nehme ich die Abbildung, wo aus jedem Szenario Messergebnisse zu sehen sind.
+[15:32:45] <Tigaa_laptop> hmm aber sonst
+[15:33:24] <Tigaa_laptop> ach ist das schwer
+[15:35:30] ! rohieb has left the channel. ("Leaving")
+[15:37:51] ! bgalias has joined.
+[15:44:27] <Sonea> jh: du hast ja komisch phantasien! :P
+[15:45:12] ! bgalias has quit. (Quit: Verlassend)
+[15:47:34] <norman> Abschlussvortrag bietet für gewöhnlich nicht den Platz um die ganze Arbeit zu beleuchten
+[15:47:54] <norman> Man sollte eine kurze Einführung geben und sich danach einen speziellen Punkt aus der Arbeit suchen, den man näher beleuchtet
+[15:49:44] <norman> DooMMasteR: die quiet comfort fallen übrigens raus, da kein Funk.
+[15:55:22] ! CalebRipley has joined.
+[15:57:39] <Sonea> so bin mal kochen
+[16:04:12] ! nubix has joined.
+[16:12:10] <Tigaa_laptop> norman: ach nee
+[16:12:26] <norman> Tigaa_laptop: sskm
+[16:12:28] <Tigaa_laptop> aber das ist alles so spannend gewesen ich kann mich einfach nicht entscheiden
+[16:12:46] <norman> dann würfel es dir aus oder frag einen dritten
+[16:24:22] ! PirateKing1 has joined.
+[16:26:07] ! PirateKing has quit. (Ping timeout: 240 seconds)
+[16:27:51] ! Sonea has quit. (Quit: Leaving.)
+[16:29:29] ! nubix has quit. (Quit: Leaving.)
+[16:31:07] ! Sonea has joined.
+[16:44:23] ! max_hd has joined.
+[16:45:54] ! lurtz has quit. (Quit: Leaving.)
+[16:50:30] <max_hd> Morgen!
+[16:51:04] <jh> studenten O.o
+[16:53:21] <max_hd> :D
+[16:55:06] <max_hd> wie übergebe ich denn ein mehrdimensionales array an eine funktion per zeiger bei mir kommt immer cannot convet char(*)[7] to char**
+[16:58:02] <Silberwoelfin> jh: was hast du gegen studenten?
+[17:00:27] <jh> Silberwoelfin: ja!
+[17:01:05] <Silberwoelfin> jh: das ist keine antwort
+[17:01:15] <Silberwoelfin> jh: außerdem bist du selbst noch student :P
+[17:01:19] ! nubix has joined.
+[17:01:29] <jh> ich kann ja auch was gegen mich selbst haben
+[17:04:41] <norman> Studenten ...
+[17:05:04] <norman> max_hd: Wär es nicht gut, erstmal die Sprache zu erwähnen?
+[17:05:35] <max_hd> achso :D c++
+[17:05:37] <max_hd> sorry
+[17:05:38] <nubix> norman: wieviele sprachen mit pointern und C Syntax kennst du
+[17:05:39] <max_hd> http://nopaste.info/b1bb09aefb.html
+[17:05:41] <ZombiePoet> Title: nopaste.info - free nopaste script and service (at nopaste.info)
+[17:05:46] <norman> Dazu kommt, das ein Array bereits ein Zeiger ist
+[17:06:41] <norman> der Fehler kommt bei Zeile 51, richtig?
+[17:07:17] <norman> Btw, das erinnert mich an ein Spiel, das ich  mal programmiert habe :-)
+[17:08:25] <max_hd> jap
+[17:08:34] <max_hd> ja da is der fehler wa smuss ich jetzt machen
+[17:08:52] <norman> Ich denke das hier: char** pSpielfeld = new char[7][7];
+[17:09:32] <max_hd> ok das versuch ich ma
+[17:09:57] <max_hd> nope
+[17:10:03] <max_hd> gleiches prob
+[17:10:13] <max_hd> jetzt auch in 53 und 54
+[17:10:24] <norman> Ja, weil die nen anderen typen erwarten
+[17:10:35] <max_hd> und bei 13:15 invalid types 'char[int]' for array subscript
+[17:11:14] <max_hd> bei 51: cannot convert 'char(*)[7]' to 'char**'
+[17:11:30] <max_hd> 53 und 53: cannot convert 'char**' to 'char*'
+[17:11:51] ! Sonea has quit. (Quit: Leaving.)
+[17:12:32] <max_hd> ja char ** oder nich
+[17:12:35] <max_hd> das hab ich geändert
+[17:12:38] <max_hd> in den argumenten
+[17:13:04] <max_hd> aber trotzallem bei 51 cannot convert 'char(*)[7]' to 'char**'
+[17:13:05] ! Silberwoelfin has quit. (Ping timeout: 240 seconds)
+[17:13:35] ! nubix has quit. (Read error: Connection reset by peer)
+[17:14:12] <max_hd> brauch ich evetl nen typecast?
+[17:14:31] <jh> mehr sterne!
+[17:14:38] <jh> nimm std::vector :P
+[17:14:54] <max_hd> bei 51 da ich ja nen zeiger auf nen zeiger hab (char**) und nur einen zeiger (char* == array) übergebe?
+[17:15:10] <max_hd> also char** pSpielfeld = (char**) new char[7][7];
+[17:15:25] <max_hd> vector hatten wir noch nicht keien ahnung wie ich sowas verwende
+[17:16:31] <norman> :|
+[17:16:34] <norman> wozu überhaupt das new?
+[17:16:44] <max_hd> weil ich sonst n segmentation faut bekomme
+[17:16:45] <norman> mach doch einfach char pSpielfeld[7][7];
+[17:16:56] <max_hd> ich denk das liegt am stack overflow oder nich
+[17:18:22] <max_hd> mit pSpielfeld[7][7] muss ich aber kein char** übergeben, oder?
+[17:21:09] <max_hd> ok er segemntation faultet bei zeile 18
+[17:21:12] <max_hd> ich hab mal couts reingehauen
+[17:22:22] <norman> ich würd char pSpielfeld[7][7] machen und als Parameter bei den Funktionen ein char**
+[17:23:24] ! Silberwoelfin has joined.
+[17:23:33] <max_hd> ja das hab ich ejtzt mal versucht
+[17:24:05] <max_hd> muss ich dann levelaufbau(pSpielfeld); oder levelaufbau(pSpielaufbau[7][7]);
+[17:24:10] <max_hd> übergeben?
+[17:24:15] <norman> ersteres
+[17:24:37] <max_hd> same procedure aseverytime
+[17:24:40] <max_hd> as every time
+[17:24:47] <norman> as every year
+[17:24:54] <max_hd> cannot convert char(*)[7] to char**
+[17:24:59] <max_hd> schon klar
+[17:25:06] <max_hd> aber....ich kompilier das ned jährlich :D
+[17:25:24] <max_hd> http://nopaste.info/5d761c4b43.html
+[17:25:25] <ZombiePoet> Title: nopaste.info - free nopaste script and service (at nopaste.info)
+[17:25:29] <max_hd> hier is maln update
+[17:25:40] <norman> wir googlen einfach mal
+[17:26:36] <max_hd> http://nopaste.info/5d761c4b43.html hey why do i get an error saying cannot convert char(*)[7] to char**
+[17:26:37] <ZombiePoet> Title: nopaste.info - free nopaste script and service (at nopaste.info)
+[17:26:43] <max_hd> wc
+[17:26:44] <max_hd> :D
+[17:26:47] <norman> http://www.peacesoftware.de/ckurs8.html
+[17:26:48] <ZombiePoet> Title: C - Kurs Arrays (at www.peacesoftware.de)
+[17:26:51] <norman> google hilft
+[17:27:18] <norman> "Hier muß man zumindestens die Größe der 2. bis ntnen Dimension angeben, sonst weiß der Compiler nicht, wie er den Speicher organisieren soll."
+[17:28:12] <norman> damit du es später einfach hast, mach dir am besten einen eigenen typen für das spielfeld. dann musst du später nicht an allen stellen rumeditieren, sondern nur an einer
+[17:28:37] ! lurtz has joined.
+[17:29:28] <norman> typedef char pSpielfeld[7][7];
+[17:29:37] <norman> eeh
+[17:29:41] <norman> ohne das p
+[17:29:54] <norman> denn das willst du ja als variablennamen benutzen
+[17:30:24] <max_hd> und dann spielfeld spielfeld;
+[17:30:50] <norman> spielfeld pSpielfeld;
+[17:31:33] <norman> wenn du nen bisschen auf Namenskonventionen wert legst, könntest du noch spielfeld_t daraus machen :-)
+[17:31:55] <max_hd> warum _t
+[17:31:57] <max_hd> typecast
+[17:31:58] <max_hd> ^^
+[17:32:45] <norman> nein, weil man Typen typischerweise mit nem _t hinten versieht. wenn man mehr so der Camelcase Typ ist geht bestimmt auch vorne ein t, also tSpielfeld.
+[17:33:10] ! Debi_ has joined.
+[17:34:00] <max_hd> ah es scheint besser zu werden =)
+[17:34:07] <norman> sollte es, ja. :-)
+[17:35:13] <max_hd> gibts sowas wie setW auch für die Hoehe =)
+[17:35:37] <max_hd> ah ich mach einfach noch ne endl
+[17:35:42] <max_hd> bei Z.46
+[17:36:06] <max_hd> wuhu es klappt x)
+[17:36:08] <max_hd> danke
+[17:36:48] ! Debi has quit. (Ping timeout: 244 seconds)
+[17:37:36] <norman> Haha, ich hab grad alten Code von mir gefunden. in Python, mit deutschen udn englischen Kommentaren oO
+[17:38:00] <max_hd> das doch cool
+[17:38:01] <max_hd> :D
+[17:39:27] ! lurtz has quit. (Quit: Leaving.)
+[17:42:33] <norman> Naja, das ist etwas unsauber. :-)
+[17:42:42] <max_hd> :D ja ich weiß
+[17:45:35] <max_hd> ein komplettes array durchzugehen geht nur mit 2 verschachtelten fors oder?
+[17:46:16] <norman> ein 2 dimensionales array, ja.
+[17:46:22] ! Moenni_Mo has quit. (Quit: Leaving.)
+[17:46:22] <max_hd> ja mein ich^^
+[17:46:30] <norman> für ein n-dimensionales array brauchst du n verschachtelte for-Schleifen.
+[17:47:11] <max_hd> hm ok eine frage noch und zwar hab ich jetzt eine spielfigur erstellt die in array[1][1] liegt und mit char 'o' gekennzeichnet wird
+[17:47:31] <Tigaa_laptop> na ja ich schreite zur Nahrungsaufnahme. Morgen früh muss ich nach WOB.. VW will mich mal wieder sehen..
+[17:47:33] <max_hd> kann ich ir irgendwie merken, dass diese figur in dem array liegt ich will nicht immer das ganze array durchgehen und sozusagen mnach dem spieler suchen
+[17:47:47] <Tigaa_laptop> vil spaß bei den schleifen und so weiter
+[17:47:57] <max_hd> danke Tigaa_laptop
+[17:48:01] ! Tigaa_laptop has left the channel.
+[17:50:49] <max_hd> ?
+[17:51:45] <norman> max_hd: ja, du kannst dir die spielerposition merken.
+[17:51:51] ! CalebRipley has quit. (Read error: Connection timed out)
+[17:51:56] <norman> das wäre sogar clever :-)
+[17:52:15] <max_hd> wie mach ich das
+[17:52:17] ! CalebRipley has joined.
+[17:52:20] <max_hd> per pointer?
+[17:52:22] <norman> mit 2 variablen
+[17:52:33] <norman> mh ja oder mit nem pointer
+[17:52:44] <norman> kommt drauf an, was du mit der information vor hast
+[17:52:48] <max_hd> hm ich hab die zuweisung ja in levelauzfbau
+[17:53:03] <max_hd> wie mach ich darauf denn jetzt n pointer der auch ausserhalb der funktion gültig ist
+[17:53:09] <norman> also wenn du wissen willst, wo er steht, wäre x-position und y-position nicht verkehrt.
+[17:53:09] <max_hd> mach ich nen pointer der anfangs ins leere zeigt
+[17:53:21] <max_hd> mit in die funktion geht und dann einfach auf die stelle gewiesen wird?
+[17:54:00] <norman> wenn du nen pointer auf das element im array machst, kannst du da zwar direkt hin, aber ich glaube für deine spielelogik wäre eine x,y koordinate hilfreicher
+[17:54:06] <max_hd> ah ok
+[17:54:09] <max_hd> ich weiß glaub ich evrsuch ma
+[17:56:35] ! elorie has joined.
+[17:57:41] <max_hd> schau ma hab das jetzt so:
+[17:57:59] <max_hd> http://nopaste.info/067b1b32a8.html
+[17:58:00] <ZombiePoet> Title: nopaste.info - free nopaste script and service (at nopaste.info)
+[17:58:13] <max_hd> int spielerX und int spielerY werden übergeben
+[17:58:23] <max_hd> und sind standardmäßig auf 1
+[17:58:24] <norman> Was soll das tun?
+[17:58:25] <max_hd> beider
+[17:58:28] <max_hd> nach oben laufen
+[17:58:52] <max_hd> http://nopaste.info/feaf5a0769.html
+[17:58:52] <norman> logik nicht mit darstellung mischen
+[17:58:53] <ZombiePoet> Title: nopaste.info - free nopaste script and service (at nopaste.info)
+[17:59:05] <norman> du solltest in einer funktion die bewegung machen, sprich spielerX und spielerY aktualisieren
+[17:59:31] <norman> mh, ne, vergiss was ich sagte
+[17:59:41] <max_hd> ?
+[17:59:41] <max_hd> ^^
+[17:59:54] <max_hd> ich hab jetzt noch vor alles geschrieben spielerY -= 1;
+[18:00:03] <max_hd> und dann nur spielerY ins array gesetzt
+[18:01:27] <max_hd> das einzige problem das er mir nach links laeuft nich nach oben
+[18:03:53] <max_hd> achso ja klar n array is ja so definiert das das vordere[] die Y werte und das hintere die X werte sind
+[18:03:54] <max_hd> klar
+[18:20:47] ! soney has joined.
+[18:20:57] ! nubix has joined.
+[18:21:29] <max_hd> juhu es klapt =)
+[18:21:40] <max_hd> wie mach ich es, dass der compiler nicht auf ein enter wartet
+[18:21:49] <max_hd> sondern bspw wenn ich w drück das gleich ausführt
+[18:25:51] <elorie> blubb
+[18:26:42] <Valodim> max_hd: http://docs.oracle.com/javase/7/docs/api/java/io/InputStream.html
+[18:26:43] <ZombiePoet> Title: InputStream (Java Platform SE 7 ) (at docs.oracle.com)
+[18:26:51] <Valodim> System.in ist ein InputStream
+[18:29:51] <jh> Valodim: verlinkst du grad java-doku für seine c-frage?
+[18:30:06] <Valodim> oh. war c. nich drauf geachtet ^
+[18:30:06] <jh> bzw. c++
+[18:33:11] <nubix> .
+[18:33:23] * jh klaut nubix' Punkt
+[18:35:29] ! elorie has quit. (Quit: Leaving.)
+[18:36:34] ! Sonea has joined.
+[18:36:47] <max_hd> ^^
+[18:40:53] ! Silberwoelfin has quit. (Quit: Verlassend)
+[18:44:53] ! phw has joined.
+[18:46:39] <norman> max_hd: nur 1 zeichen lesen :-)
+[18:50:19] <norman> lol
+[18:50:25] <norman> der forenbeitrag dazu: http://ubuntuforums.org/showthread.php?t=225713
+[18:50:26] <ZombiePoet> Title: C/C++: Read one character at a time w/o Enter key. - Ubuntu Forums (at ubuntuforums.org)
+[18:50:35] <norman> die wollen alle auf Spatzen mit Kanonen schießen
+[18:51:00] <norman> da packt einer gleich curses aus, um mal ein Zeichen einzulesen
+[18:53:13] * jh curses norman
+[18:54:29] <norman> Mh ja
+[18:54:32] <norman> Ich mach mir mal Milchreis.
+[18:54:38] <jh> urks
+[18:55:01] <norman> !lastfm
+[18:55:05] <ZombiePoet> norman: Now playing Mask Of Sanity by Children of Bodom from the album Follow The Reaper - http://www.last.fm/music/Children+of+Bodom/_/Mask+Of+Sanity
+[18:55:10] <norman> Oh, geht sogar noch :-)
+[19:12:03] ! elorie has joined.
+[19:28:44] ! lurtz has joined.
+[19:29:00] ! max_hd has quit. (Quit: IRC webchat at http://irc2go.com/)
+[19:40:03] ! lurtz has quit. (Quit: Leaving.)
+[19:54:03] ! Peace-Maker has joined.
+[19:55:19] ! nubix has quit. (Read error: Connection reset by peer)
+[19:55:23] ! nubix1 has joined.
+[19:58:19] ! nubix1 has quit. (Read error: Connection reset by peer)
+[19:58:23] ! nubix has joined.
+[20:01:20] ! nubix has quit. (Read error: Connection reset by peer)
+[20:01:24] ! nubix1 has joined.
+[20:28:29] ! csg has joined.
+[20:52:47] <norman> Wer auch immer neulich gefragt hat, ob man früher in Vorlesungsräumen geraucht hat: in der Vorleser rauchen sie im Vorlesungsraum
+[20:55:43] ! csg has quit. (Ping timeout: 244 seconds)
+[21:02:51] ! Sonea has quit. (Quit: Leaving.)
+[21:09:38] ! Sonea has joined.
+[21:13:15] ! nubix1 has quit. (Read error: Connection reset by peer)
+[21:13:19] ! nubix has joined.
+[21:26:10] ! rohieb has joined.
+[21:28:30] ! Phia has joined.
+[21:38:11] ! PirateKing has joined.
+[21:38:31] ! Phia1 has joined.
+[21:40:07] ! PirateKing1 has quit. (Ping timeout: 240 seconds)
+[21:40:27] ! Phia has quit. (Ping timeout: 240 seconds)
+[21:47:08] ! Ignifazius has joined.
+[21:50:36] ! Sonea has quit. (Quit: Leaving.)
+[21:51:57] ! Peace-Maker has quit. (Quit: Bye.)
+[22:04:24] ! ES has joined.
+[22:06:09] ! phw has quit. (Quit: Bye!)
+[22:27:01] ! Ignifazius has quit. (Quit: *Vanish*)
+[22:33:07] ! PirateKing1 has joined.
+[22:33:08] ! Phia has joined.
+[22:34:07] ! Phia1 has quit. (Ping timeout: 240 seconds)
+[22:34:27] ! PirateKing has quit. (Ping timeout: 240 seconds)
+[22:35:45] ! Ignifazius has joined.
+[22:35:53] ! Phia1 has joined.
+[22:36:53] ! PirateKing has joined.
+[22:37:16] ! PirateKing1 has quit. (Ping timeout: 240 seconds)
+[22:37:27] ! Phia has quit. (Ping timeout: 240 seconds)
+[22:41:16] <joke`> norman: Warum machen die das? Tut cin nicht mehr?
+[22:41:52] <norman> Es ging darum von stdin lesen zu können, ohne ein Return/Enter vom Nutzer zu haben
+[22:42:51] <joke`> ok
+[22:43:02] <joke`> aber das ist doch bestimmt auch in der standard libary mit drinne?
+[22:45:01] <joke`> so wieder weg
+[22:45:04] <joke`> wir grillen hier
+[22:45:07] <norman> joke`: wahrscheinlich ist es das. darum ging es auch nicht. es ging darum das die in dem Forum ziemlich bescheuerte Vorschläge lieferten
+[22:49:54] ! Moenni_Mo has joined.
+[22:51:13] ! Ignifazius has quit. (Quit: *Vanish*)
+[23:03:50] ! lurtz has joined.
+[23:04:21] <joke`> vor
+[23:04:57] <joke`> Cool fand ich ja die antwort mit python code
+[23:05:43] <joke`> und den mit den verweis auf die m$ knowledge base
+[23:09:26] <norman> keine ahnung. mir egal. wenn ich meinen alten code wiederfinde, kann ich dir aber sagen, wie ich es damals gelöst habe.
+[23:18:30] ! Erstsemester has joined.
+[23:18:30] ! Users in channel: Erstsemester Phia1 PirateKing jh serj tsuro zerobot
+[23:18:34] ! Nimos has joined.
+[23:18:41] ! Cadvan has joined.
+[23:18:53] ! _Rick_ has joined.
+[23:18:53] ! Moenni_Mo has joined.
+[23:18:53] ! ES has joined.
+[23:18:53] ! nubix has joined.
+[23:18:53] ! elorie has joined.
+[23:18:53] ! CalebRipley has joined.
+[23:18:53] ! joke` has joined.
+[23:18:53] ! der_eq has joined.
+[23:18:53] ! hashier has joined.
+[23:18:56] ! Cadvan is now known as Wechner
+[23:19:22] ! ZombiePoet has joined.
+[23:19:48] ! ShadniX has joined.
+[23:19:53] ! soney has joined.
+[23:19:53] ! Debi_ has joined.
+[23:19:53] ! Valodim has joined.
+[23:19:53] ! pani has joined.
+[23:19:53] ! Scumpeter has joined.
+[23:20:01] ! DrMcCoy has joined.
+[23:20:01] ! Droggl_ has joined.
+[23:20:01] ! maku has joined.
+[23:20:09] ! Wechner has quit. (Changing host)
+[23:20:09] ! Wechner has joined.
+[23:20:43] ! rohieb has joined.
+[23:20:43] ! norman has joined.
+[23:20:43] ! DooMMasteR has joined.
+[23:21:46] ! rohieb is now known as Guest80864
+[23:26:00] ! lurtz has joined.
+[23:29:54] ! conqueror12 has joined.

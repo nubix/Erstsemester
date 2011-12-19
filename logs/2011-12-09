@@ -1,0 +1,358 @@
+[00:02:52] ! lurtz has joined.
+[00:33:29] ! Sonea has quit. (Quit: Leaving.)
+[00:55:06] <DrMcCoy> !tell jh hat er garnicht
+[00:55:08] <ZombiePoet> DrMcCoy: Ok.
+[00:55:28] <DrMcCoy> !tell /ḿe is still without any money whatsoever
+[00:55:29] <ZombiePoet> DrMcCoy: Ok.
+[00:56:44] <Nimos> https://www.tu-braunschweig.de/Medien-DB/it/drucker-tabelle.pdf <- ist das hier aktuell?
+[00:56:54] <Nimos> weil er bei mir keinen dieser drucker findet :O
+[00:58:05] <Nimos> oder geht das nur aus dem lan?
+[01:07:02] <Nimos> ah, ja, im vpn gehts
+[01:22:10] <DrMcCoy> Someone awake?
+[01:22:26] <DrMcCoy> Or is everyone already asleep?
+[01:29:58] <Nimos> ich bin noch da
+[01:31:11] <DrMcCoy> Du warst wer?
+[01:31:32] <Nimos> der, der auch kein doppelkopf konnte!
+[01:31:54] <DrMcCoy> ah
+[01:32:33] <DrMcCoy> kA
+[01:33:16] <Nimos> pff, ich muss bis 12 uhr morgen nen lebenslauf auf papier haben :D
+[01:47:15] <rohieb> Nimos: scp file.pdf yxxxxxx@rzstudio.rz.tu-bs.de, dann dadrauf sshen und lpr -P<printer> file.pdf
+[01:47:46] <rohieb> hm... kann auch sein, dass du dafür ssh -X nehmen musst
+[01:57:52] <Nimos> lpr: Drucker oder Klasse wurde nicht gefunden.
+[01:58:35] ! lurtz has quit. (Quit: Leaving.)
+[02:06:33] <rohieb> Nimos: also ich meinte sowas wie lpr -Ppzent004s file.pdf
+[02:06:49] <rohieb> lpstat -p listet dir die verfügbaren drucker auf
+[02:07:06] <rohieb> oder halt die PDF
+[02:07:10] <rohieb> die du da verlinkt hattest ^^
+[02:07:47] <Nimos> joa, ich hab zuerst die url versucht
+[02:07:55] <Nimos> mit allein dem namen gibt er mir keinen fehler
+[02:08:22] <rohieb> ja, weil du ihm keine datei zum drucken gibst ^^
+[02:08:32] <rohieb> geht halt nur mit lokalen dateien
+[02:08:41] <Nimos> doch, ich geb ihm schon ne datei :D
+[02:08:47] <rohieb> und nur von pdf, ps und txt kann ich sagen, dass es funktioniert
+[02:08:51] <rohieb> achso
+[02:08:53] <rohieb> hmm
+[02:08:55] <Nimos> und es ist auch ne pdf
+[02:09:13] <rohieb> kann sein, dass da dann dieses popup vom rechenzentrum kommen sollte, wo er dich nach benutzername und passwort fragt
+[02:09:31] <rohieb> hast du ssh -X genommen?
+[02:10:13] <Nimos> bin auf windows :/
+[02:10:16] <Nimos> naja
+[02:10:24] <Nimos> ich versuchs mal morgen einfach von nem rechner pool
+[02:10:36] <Nimos> dann sollte es ja keine probleme geben
+[02:11:25] <rohieb> achso
+[02:11:26] <rohieb> windows
+[02:11:27] <rohieb> dann
+[02:11:33] <rohieb> hab ich keine ahnung :D
+[02:11:43] <rohieb> hm, du könntest noch VNC versuchen ^^
+[02:12:29] <rohieb> mit vncserver kannst du auf dem rzstudio einen server starten, unter umständen meckert er, dass du erst mit vncpasswd ein passwort festlegen sollst
+[02:12:49] <rohieb> dann sagt er dir sowas wie New 'rzlogin03.rz.tu-bs.de:1 (y0033607)' desktop is rzlogin03.rz.tu-bs.de:1
+[02:13:09] <rohieb> die zahl hinter dem : addierst du dann zu 5900, das ist der port, zu dem do connecten musst ^^
+[02:13:14] <rohieb> aber gut
+[02:13:16] <rohieb> ich muss mal schlafen
+[02:13:17] <rohieb> n8
+[02:13:22] <Nimos> joa wie gesagt
+[02:13:29] <Nimos> ich machs morgen lokal
+[02:13:30] <Nimos> n8
+[02:13:42] <Nimos> ist vll besser wenn ich sowas nicht iwann um 02:00 ausprobiere
+[02:13:51] <rohieb> hihi
+[02:13:53] <rohieb> ok
+[02:13:53] ! rohieb has quit. (Quit: ...yo ho ho, and a bottle of rum!)
+[02:19:10] ! lurtz has joined.
+[03:05:33] ! Debi has quit. (Quit: Verlassend)
+[03:07:32] ! lurtz has quit. (Quit: Leaving.)
+[03:12:27] ! nubix has quit. (Read error: Connection reset by peer)
+[03:12:31] ! nubix1 has joined.
+[03:28:58] ! nubix1 has quit. (Quit: Leaving.)
+[05:19:32] <ShadniX> Nimos: Die Windowslösung zu "scp" nennt sich WinSCP
+[05:20:01] <ShadniX> Nimos: danach mit putty via ssh auf dem rzstudio einloggen und dann wie von rohieb geschrieben mit lpr den druck lostreten
+[05:23:04] <ShadniX> !tell rohieb Um deine Ahnung zu erweitern: Die Windowslösung für scp ist WinSCP *klugscheiß* ;)
+[05:23:05] <ZombiePoet> ShadniX: Ok.
+[06:53:28] ! jh has joined.
+[06:54:58] ! jh has quit. (Client Quit)
+[08:33:13] ! ES has joined.
+[08:33:38] <ES> !mensa
+[08:33:39] <ZombiePoet> Mensa Katharinenstraße am Freitag:
+[08:33:39] <ZombiePoet> A: Terrine Waldpilzsuppe 1,40€
+[08:33:41] <ZombiePoet> B: Dampfnudeln mit heißem Beerenobst 1,80€
+[08:33:41] <ZombiePoet> C: Seelachsnuggets 1,80€
+[08:33:43] <ZombiePoet> V: Spätzlepfanne mit Lauch und Rahmpilzen 1,90€
+[08:33:43] <ZombiePoet> W: Lammrücken mit Bäckerinkartoffeln 3,60€
+[08:46:40] ! elorie has joined.
+[08:53:18] ! Phia has joined.
+[09:03:47] ! PirateKing1 has joined.
+[09:04:06] ! PirateKing1 is now known as PirateKing
+[10:05:45] ! ES has quit. (Quit: The cake is a lie!)
+[10:12:36] ! CalebRipley has quit. (Remote host closed the connection)
+[10:24:35] ! ES has joined.
+[10:27:53] ! jh has joined.
+[10:29:14] <jh> re
+[10:29:15] <ZombiePoet> jh: Sent 12 hours and 15 minutes ago: <rohieb> viel glück!
+[10:29:16] <ZombiePoet> jh: Sent 9 hours and 34 minutes ago: <DrMcCoy> hat er garnicht
+[10:29:26] <jh> !tell *ohieb* thx
+[10:29:27] <ZombiePoet> jh: Ok.
+[10:29:34] <jh> DrMcCoy: wer hat was nicht?
+[10:32:11] <elorie> blubb
+[10:33:32] <jh> ic
+[11:04:19] <jh> elorie: http://8.asset.soup.io/asset/2603/2824_518b.jpeg !
+[11:09:27] <elorie> jh: i like
+[11:09:36] ! elorie has quit. (Quit: Leaving.)
+[11:10:07] <jh> i quit
+[11:10:08] ! jh has quit. (Quit: Logik wird überschätzt.)
+[11:12:38] ! lurtz has joined.
+[11:13:02] <Phia> !nomnom
+[11:13:03] <ZombiePoet> Mensa Beethovenstraße am Freitag:
+[11:13:03] <ZombiePoet> A: Hühnersuppentopf mit Nudeln 1,40€
+[11:13:04] <ZombiePoet> C: Tilapiafilet mit Senfsauce 2,00€
+[11:13:05] <ZombiePoet> V: Maultauschen im Gemüsesud 1,50€
+[11:13:06] <ZombiePoet> W: Aktion: Wirsingroulade mit Kümmelsauce 1,50€
+[11:13:12] <Phia> !nom
+[11:13:13] <ZombiePoet> Mensa Katharinenstraße am Freitag:
+[11:13:14] <ZombiePoet> A: Terrine Waldpilzsuppe 1,40€
+[11:13:15] <ZombiePoet> B: Dampfnudeln mit heißem Beerenobst 1,80€
+[11:13:16] <ZombiePoet> C: Seelachsnuggets 1,80€
+[11:13:17] <ZombiePoet> V: Spätzlepfanne mit Lauch und Rahmpilzen 1,90€
+[11:13:18] <ZombiePoet> W: Lammrücken mit Bäckerinkartoffeln 3,60€
+[11:13:27] <Phia> ok definitiv mensa 1
+[11:23:35] ! nubix has joined.
+[11:25:58] <norman> Oh, das sind interessante neue Botfunktionskürzel
+[11:30:01] ! elorie has joined.
+[11:30:08] ! lurtz has quit. (Quit: Leaving.)
+[11:30:16] <Phia> DrMcCoy: PirateKing: Droggl: Wechner: Hab grad mal expedia angeschmissen und bin auf dieses hotel gekommen: http://www.holidayinn.com/hotels/us/en/brussels/brubr/hoteldetail
+[11:30:18] <ZombiePoet> Title: BRUSSELS Hotels - Holiday Inn Hotels & Resorts BRUSSELS - SCHUMAN Hotel in BRUSSELS | Best Price Guarantee or First Night Free (at www.holidayinn.com)
+[11:30:43] <Phia> das ist von den günstigen das einzige, dass hauptsächlich gute und sehr gute bewertungen hatte
+[11:30:55] <Phia> die anderen in der preisklasse waren alle schlecht oder sehr schlecht
+[11:32:19] <Phia> so nen viererzimmer kostet uns dann für das ganze wochenende 150€/4=38€ pro nase, was allerdings ohne frühstück ist, aber auf der konferenz gibts ja angeblich günstig frühstück
+[11:33:24] <Phia> liegt im europaviertel, ca 5km von der konferenz weg, aber näher dran gibts praktisch gar nix und das schafft man mit dem auto ja locker in 10 min oder so - tramstation ist auch nah dran
+[11:44:15] ! nubix has quit. (Quit: Leaving.)
+[11:50:56] ! Wechner has changed the topic: Informatik, Informatik- und IST-Studium an der TU-BS, Braunschweig, ...
+[11:55:29] ! elorie1 has joined.
+[11:59:13] ! elorie has quit. (Ping timeout: 252 seconds)
+[12:07:38] ! nubix has joined.
+[12:11:16] ! bgalias has joined.
+[12:12:55] ! bgalias has quit. (Client Quit)
+[12:22:21] <Droggl> das sieht für die preisklasse ziemlich gut aus
+[12:22:51] <elorie1> !nom
+[12:22:51] <ZombiePoet> Mensa Katharinenstraße am Freitag:
+[12:22:53] <ZombiePoet> A: Terrine Waldpilzsuppe 1,40€
+[12:22:53] <ZombiePoet> B: Dampfnudeln mit heißem Beerenobst 1,80€
+[12:22:54] <ZombiePoet> C: Seelachsnuggets 1,80€
+[12:22:55] <ZombiePoet> V: Spätzlepfanne mit Lauch und Rahmpilzen 1,90€
+[12:22:56] <ZombiePoet> W: Lammrücken mit Bäckerinkartoffeln 3,60€
+[12:23:05] ! elorie1 has quit. (Quit: Leaving.)
+[12:23:39] ! nubix has quit. (Quit: Leaving.)
+[12:24:10] <Droggl> ich glaub da bin ich sogar schonmal dran vorbeigelaufen ^^
+[12:30:28] ! Cascharity has joined.
+[12:53:31] ! soney has joined.
+[13:04:50] ! Tigaa_laptop has joined.
+[13:08:07] ! nubix has joined.
+[13:08:20] ! ES has quit. (Quit: The cake is a lie!)
+[13:10:34] ! nubix has quit. (Client Quit)
+[13:26:46] ! ES has joined.
+[13:28:50] ! Tigaa_laptop has left the channel.
+[13:35:38] ! elorie has joined.
+[13:36:20] ! elorie has quit. (Client Quit)
+[13:44:43] ! zerobot has quit. (Remote host closed the connection)
+[13:44:43] ! elorie has joined.
+[13:45:18] ! zerobot has joined.
+[13:49:20] ! nubix has joined.
+[13:54:10] ! nubix has quit. (Client Quit)
+[14:01:34] ! Valodim has quit. (Read error: Connection reset by peer)
+[14:04:48] ! Tigaa_laptop has joined.
+[14:14:23] ! Valodim has joined.
+[14:15:15] ! jh has joined.
+[14:33:01] ! Tigaa_laptop has quit. (Ping timeout: 255 seconds)
+[14:41:59] ! jh has quit. (Disconnected by services)
+[14:42:00] ! jh_ has joined.
+[14:48:39] ! Tigaa_laptop has joined.
+[14:51:54] ! Tigaa_laptop has quit. (Client Quit)
+[14:52:21] <jh_> re
+[14:52:23] ! jh_ is now known as jh
+[14:53:37] <elorie> wb
+[14:54:19] <jh> ty
+[15:06:38] <norman> ärgerlich. für ne .an domain muss man vor Ort ansässig sein. Ich weiß nichtmal, wo die niederländischen Antillen sind
+[15:13:37] <Nimos> meld dir doch nen zweitwohnsitz an ;)
+[15:19:11] <norman> "Bis zu ihrer Auflösung am 10. Oktober 2010 bildeten sie ein Land innerhalb des Königreiches der Niederlande," verdammt :-/
+[15:20:07] <norman> Mh, was wohl jetzt mit der TLD passiert
+[15:21:05] ! nubix has joined.
+[15:31:55] ! arneb has joined.
+[15:45:27] ! CalebRipley has joined.
+[16:01:36] ! Debi has joined.
+[16:10:57] ! max_k has joined.
+[16:11:17] <max_k> Tach ##cs-studs
+[16:18:17] <nubix> huch, ein max
+[16:24:47] ! Phia has quit. (Read error: Connection reset by peer)
+[16:24:47] <max_k> huch, ein nubix
+[16:25:16] <max_k> so nett bin ich ja schon lange nich mehr gegrüßt worden x)
+[16:39:34] ! PirateKing has quit. (Quit: Leaving.)
+[16:41:46] ! der_eq has joined.
+[16:49:17] <Nimos> hmmm
+[16:55:40] ! Sonea has joined.
+[16:55:54] <Sonea> wtf? ein norman???
+[16:56:05] ! PirateKing has joined.
+[16:56:23] <Sonea> norman: seit wann bist du denn wieder erlaubt?
+[17:00:10] ! max_k has quit. (Quit: IRC webchat at http://irc2go.com/)
+[17:03:37] ! elorie has quit. (Quit: Leaving.)
+[17:10:14] ! Cascharity has quit. (Quit: Verlassend)
+[17:38:25] ! rohieb has joined.
+[17:41:23] ! Peace-Maker has joined.
+[17:46:20] <jh> Sonea: DrMcCoy hat amnesie gewährt
+[17:46:25] <jh> oder so ähnlich!
+[17:46:52] <ES> Sonea: DrMcCoy hatte nen anflug von nettigkeit
+[17:46:59] <Sonea> oh
+[17:47:10] <Sonea> DrMcCoy: wasn los? gute laune? :)
+[17:47:11] <ES> jupp
+[17:47:28] <DrMcCoy> Sonea: Ne, das war gestern
+[17:47:30] <jh> der war ja sogar gestern abend da
+[17:47:34] <Sonea> DrMcCoy: und wie fandest du doppelkopf?
+[17:47:45] <Sonea> jh: ja was ich auch sher cool fand!
+[17:47:48] <DrMcCoy> Heute bin ich wieder mufflig
+[17:47:56] <DrMcCoy> Sonea: joa
+[17:47:57] <Sonea> DrMcCoy: oh nein, warum denn? :(
+[17:48:18] <Sonea> Droggl: was für ansprüche hast du eigentlich an die stelle, die du grad suchst?
+[17:48:28] <DrMcCoy> Sonea: Müssten wir öfters spielen, sonst vergess ich die Regeln doch wieder
+[17:50:01] <Droggl> Sonea: wie meinen?
+[17:50:15] <Droggl> ich suche grad nichts
+[17:50:17] ! arneb has quit. (Quit: Lost terminal)
+[17:50:48] <Droggl> meinst du nach uni?
+[17:51:59] <Droggl> ah oder meintest du vllt den DrMcCoy?
+[17:52:23] <DrMcCoy> FailSonea
+[17:56:56] <Sonea> oh sorry
+[18:01:56] <norman> Stelle?
+[18:02:04] <norman> Brauchen die bei Lena nicht noch Entwickler?
+[18:02:59] <DrMcCoy> ios ist nicht so gerade mein Gebiet :P
+[18:07:59] <Sonea> pizza!!!!!!!
+[18:11:10] <norman> Mh, ja, Hunger
+[18:11:16] <norman> http://www.youtube.com/watch?v=FbXXLm6HQGA :-)
+[18:11:17] <ZombiePoet> Title: Landwirt sucht Liebe - Die typische Liebes-Soap - YouTube (at www.youtube.com)
+[18:32:53] ! lurtz has joined.
+[18:42:22] <rohieb> jh: wie war dein vortrag?
+[18:42:33] <jh> rohieb: jo, war ok
+[18:42:38] <rohieb> cool
+[18:45:21] <jh> "Erotic-Navi @EroticNavi is now following you (@jhisch).
+[18:45:21] <jh> " O.o
+[18:47:10] ! Sonea has quit. (Quit: Leaving.)
+[18:51:40] <rohieb> o_O
+[18:51:48] <rohieb> das lenkt doch bestimmt ab beim autofahren
+[18:52:03] <rohieb> Nimos:
+[18:52:24] <jh> rohieb: nee, das navigiert dich zu den willigen frauen in deiner umgebung
+[18:52:28] <rohieb> <ZombiePoet> rohieb: Sent 13 hours and 18 minutes ago: <ShadniX> Um deine Ahnung zu erweitern: Die Windowslösung für scp ist WinSCP *klugscheiß* ;)
+[18:52:28] <rohieb> <rohieb> ShadniX: wear mir bewusst, nur gibts da halt ssh -X nicht so einfach
+[18:52:28] <rohieb> <rohieb> -e
+[18:52:28] <rohieb> <m00lean> rohieb: xming installieren, putty sagen, wo die exe liegt, ..., profit
+[18:52:31] <rohieb> ;)
+[18:53:02] <rohieb> jh: wenn ich das einsetze, dann stürzt es bestimmt während der berechnung des ziels ab
+[19:01:18] <jh> test it!
+[19:08:53] <rohieb> gib mir eins
+[19:09:44] <jh> eins was?
+[19:10:02] ! Peace-Maker has quit. (Quit: Bye.)
+[19:11:12] <rohieb> ein navi
+[19:11:36] <jh> rohieb: http://www.erotik-navi.de/
+[19:11:37] <ZombiePoet> Title: Erotic Navi (at www.erotik-navi.de)
+[19:11:40] <jh> mh, achso, nur android
+[19:14:00] <rohieb> k
+[19:14:08] <rohieb> ja
+[19:14:42] ! CalebRipley has quit. (Remote host closed the connection)
+[19:55:38] ! Silberwoelfin has joined.
+[19:56:03] <Silberwoelfin> hi
+[20:01:38] ! lurtz has quit. (Quit: Leaving.)
+[20:10:40] <jh> hihi, google maps in hildesheim ist auch aktualisiert... und bei meinen eltern in der straße ist ein fehler gefixt und ein neuer dazugekommen^^
+[20:13:13] <jh> sogar mit richtig kleinen feldwegen
+[20:15:06] <jh> hm, in schleswig-holstein bei meinen großeltern auch
+[20:15:11] <jh> haben die ganz DE aktualisiert?
+[20:16:11] <Silberwoelfin> die wollten doch auch indoor-karten machen
+[20:17:05] <jh> naja, das war aber ein projekt zum testen ;)
+[20:17:41] <jh> http://news.softpedia.com/news/Google-Updates-Maps-for-the-UK-Germany-Sweden-and-Finland-239571.shtml
+[20:17:42] <ZombiePoet> Title: Google Updates Maps for the UK, Germany, Sweden and Finland - Softpedia (at news.softpedia.com)
+[20:17:46] <jh> endlich mal ne news dazu gefunden^^
+[20:19:27] <Wechner> die Satellitenbilder sind aber immer noch alt :\
+[20:21:26] <jh> Wechner: jo, aber die maps sind teilweise ganz schön cool
+[20:21:32] <jh> Wechner: inkl. okeroutline^^
+[20:21:57] <jh> bewässerungskanäle zwischen feldern^^
+[20:22:36] <jh> http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=&aq=&sll=52.390255,9.649472&sspn=0.012087,0.02444&vpsrc=6&dirflg=w&doflg=ptk&ie=UTF8&hq=&hnear=Schleswig-Holstein,+Germany&ll=54.397275,9.092817&spn=0.02306,0.048881&t=m&z=15
+[20:22:37] <jh> ^^
+[20:22:37] <ZombiePoet> Title: Google Maps (at maps.google.com)
+[20:23:23] <Wechner> das ist krass, ja
+[20:27:57] <jh> http://www.golem.de/1112/88325.html ah, da stands auch
+[20:28:18] <jh> "vor allem was Gewässer und lokale Parkanlagen betrifft."^^
+[20:36:07] <nubix> jh: es ist immer wichtig zu wissen auf welchem kanal man sich gerade befindet
+[20:36:48] <DrMcCoy> Oder in welchem Kanal...
+[20:37:02] <DrMcCoy> im welchen
+[20:38:55] <nubix> DrMcCoy: wenn dann »in«
+[20:39:10] <nubix> :p
+[20:39:24] * DrMcCoy ist verwirrt
+[20:39:30] <DrMcCoy> Nicht mein Tag heute
+[20:41:43] <jh> DrMcCoy: zuviel glühwein gestern?
+[20:41:51] <DrMcCoy> meh
+[20:42:30] <nubix> definitiv zuviel glühwein :p
+[20:45:15] <jh> schade dass ich das nicht miterlebt hab :P
+[20:45:18] <jh> gibts wenigstens videos?
+[20:45:26] <nubix> jh: klar gibts videos :p
+[20:45:41] <nubix> zumindest von DrMcCoy zu Hause
+[20:45:43] <jh> nubix: lad mal hoch!
+[20:45:44] <DrMcCoy> Hrmpf
+[20:46:08] <nubix> ne glücklicherweise nicht :P
+[20:46:18] <nubix> niemand sollte sich betrunken auf video sehen müssen
+[20:46:24] <nubix> das ist immer peinlich
+[20:54:06] <nubix> hm, obwohl... eigentlich genau deshalb sollte man sich betrunken sehen...
+[20:54:48] <DrMcCoy> :/
+[21:23:50] ! joke` has joined.
+[21:41:34] ! nubix has quit. (Quit: Leaving.)
+[21:54:28] ! Phia has joined.
+[21:54:49] <Phia> .
+[21:54:58] <Phia> !notes
+[21:54:58] <ZombiePoet> Phia: I currently have notes waiting for /ḿe, amiga4000, Br4inFlam0r, BrainFlaim0r*, conqueror, dann, Freak*, igel*, joke, and pipboy2000*.
+[21:55:16] ! Phia is now known as dann
+[21:55:18] <dann> .
+[21:55:21] <ZombiePoet> dann: Sent 4 days, 3 hours, and 33 minutes ago: <Sonea> kann man zumindest auch raumanträge und sowas stellen
+[21:55:28] <dann> !notes
+[21:55:29] <ZombiePoet> dann: I currently have notes waiting for /ḿe, amiga4000, Br4inFlam0r, BrainFlaim0r*, conqueror, Freak*, igel*, joke, and pipboy2000*.
+[21:57:36] <jh> !tell Phia u can haz tells!
+[21:57:37] <ZombiePoet> jh: Ok.
+[21:58:09] <dann> jh, danke
+[21:58:24] ! dann is now known as Phia
+[21:58:28] <Phia> .
+[21:58:28] <ZombiePoet> Phia: Sent just now: <jh> u can haz tells!
+[21:58:30] <jh> bitte :P
+[21:58:32] <Phia> ;)
+[22:20:13] ! Sonea has joined.
+[22:37:07] <ES> http://wins.failblog.org/2011/12/05/epic-win-photos-roomba-long-exposure-lights-win/  IBR ftw
+[22:37:10] <ZombiePoet> Title: Roomba Long-Exposure Lights WIN - Win! (at wins.failblog.org)
+[22:38:12] <jh> cool, das ibr ist im internet
+[22:38:16] <jh> rohieb: [22:37:09] <ES> http://wins.failblog.org/2011/12/05/epic-win-photos-roomba-long-exposure-lights-win/  IBR ftw
+[22:38:17] <ZombiePoet> Title: Roomba Long-Exposure Lights WIN - Win! (at wins.failblog.org)
+[22:38:18] <jh> ^^
+[22:44:55] ! Peace-Maker has joined.
+[22:49:24] <Droggl> \o/ Sonea
+[22:51:02] ! moohieb has joined.
+[22:52:05] <moohieb> !tell casch* hier ist eine, die sieht aus wie du
+[22:52:05] <ZombiePoet> moohieb: Ok.
+[22:52:15] <joke`> Peace-Maker: Komm runter du nase, weihnachtskneipe
+[22:52:23] <Peace-Maker> huch
+[22:52:30] <Peace-Maker> :) glühwein?
+[22:52:33] <joke`> Auch
+[22:52:38] <joke`> den haben wir aber ja sowieso hier im advent
+[22:52:44] <joke`> nur heute abend: kartoffelsuppe und kakao
+[22:55:40] <Peace-Maker> kk, komm gleich runter
+[22:55:42] <Peace-Maker> erstmal auffuttern
+[22:58:19] ! elorie has joined.
+[23:09:48] <moohieb> elorie!
+[23:09:58] * moohieb knuddelt elorie
+[23:12:59] <elorie> hallo moohieb
+[23:13:54] ! joke` has quit. (Remote host closed the connection)
+[23:14:40] ! conqueror12 has joined.
+[23:16:43] ! joke` has joined.
+[23:16:52] ! conqueror121 has quit. (Ping timeout: 244 seconds)
+[23:22:09] <moohieb> huhu elorie
+[23:22:12] ! moohieb has quit. (Remote host closed the connection)
+[23:22:20] <rohieb> moohieb \o/
+[23:22:42] <ES> shizohieb \o/
+[23:25:37] <rohieb> ich bin doch kein küken o_O
+[23:31:12] <rohieb> <joke`> nur heute abend: kartoffelsuppe und kakao <-- o_O das schmeckt doch nicht O_o
+[23:36:59] ! joke` has quit. (Ping timeout: 252 seconds)
+[23:41:56] ! nubix has joined.
+[23:46:32] ! joke` has joined.
+[23:46:44] <joke`> rohieb: nicht beides zusammen du spassvogel :)
+[23:46:52] <rohieb> kann ich doch nicht riechen :P
+[23:56:49] ! PirateKing has quit. (Quit: Leaving.)
+[23:57:53] ! Sonea has quit. (Quit: Leaving.)
+[23:59:32] ! Phia has quit. (Quit: Leaving.)

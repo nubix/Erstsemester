@@ -1,0 +1,52 @@
+2011-12-19 18:37:15 +0100
+#<NoMethodError: undefined method `chop' for nil:NilClass>
+["ircbot.rb:142:in `<main>'"]
+ircbot.rb:138: warning: already initialized constant SOCK
+2011-12-19 18:37:52 +0100
+#<NoMethodError: undefined method `chop' for nil:NilClass>
+["ircbot.rb:142:in `<main>'"]
+ircbot.rb:138: warning: already initialized constant SOCK
+2011-12-19 18:38:49 +0100
+#<NoMethodError: undefined method `chop' for nil:NilClass>
+["ircbot.rb:142:in `<main>'"]
+ircbot.rb:138: warning: already initialized constant SOCK
+2011-12-19 18:39:12 +0100
+#<SignalException: SIGTERM>
+["ircbot.rb:142:in `gets'", "ircbot.rb:142:in `<main>'"]
+ircbot.rb:138: warning: already initialized constant SOCK
+2011-12-19 18:39:12 +0100
+#<Errno::ECONNRESET: Connection reset by peer>
+["ircbot.rb:142:in `gets'", "ircbot.rb:142:in `<main>'"]
+2011-12-19 18:39:19 +0100
+#<ArgumentError: invalid mbstring sequence>
+["ircbot.rb:79:in `split'", "ircbot.rb:79:in `parseMessage'", "ircbot.rb:146:in `<main>'"]
+2011-12-19 18:39:19 +0100
+#<ArgumentError: invalid mbstring sequence>
+["ircbot.rb:79:in `split'", "ircbot.rb:79:in `parseMessage'", "ircbot.rb:146:in `<main>'"]
+2011-12-19 18:40:42 +0100
+#<SignalException: SIGTERM>
+["ircbot.rb:142:in `gets'", "ircbot.rb:142:in `<main>'"]
+ircbot.rb:138: warning: already initialized constant SOCK
+2011-12-19 18:40:43 +0100
+#<SignalException: SIGTERM>
+["ircbot.rb:142:in `gets'", "ircbot.rb:142:in `<main>'"]
+ircbot.rb:138: warning: already initialized constant SOCK
+2011-12-19 18:40:44 +0100
+#<SignalException: SIGTERM>
+["ircbot.rb:142:in `gets'", "ircbot.rb:142:in `<main>'"]
+ircbot.rb:138: warning: already initialized constant SOCK
+2011-12-19 18:40:44 +0100
+#<SignalException: SIGTERM>
+["ircbot.rb:142:in `gets'", "ircbot.rb:142:in `<main>'"]
+ircbot.rb:138: warning: already initialized constant SOCK
+2011-12-19 18:40:45 +0100
+#<SignalException: SIGTERM>
+["ircbot.rb:142:in `gets'", "ircbot.rb:142:in `<main>'"]
+ircbot.rb:138: warning: already initialized constant SOCK
+2011-12-19 18:40:45 +0100
+#<NoMethodError: undefined method `chop' for nil:NilClass>
+["ircbot.rb:142:in `<main>'"]
+ircbot.rb:138: warning: already initialized constant SOCK
+2011-12-19 18:40:45 +0100
+#<Errno::ECONNRESET: Connection reset by peer>
+["ircbot.rb:142:in `gets'", "ircbot.rb:142:in `<main>'"]

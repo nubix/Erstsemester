@@ -1,0 +1,546 @@
+[00:00:10] <rohieb> nachher springen die vor wut an die decke, wenn du da mit wissenschaftlichen methoden ankommst
+[00:00:12] <conqueror121> rohieb:  da könnte man es wirklich mal probieren
+[00:00:27] <rohieb> joke`: was ist ktw?
+[00:00:41] <joke`> rohieb: geschichte & kultur der technischen welt
+[00:00:43] <rohieb> conqueror121: wo?
+[00:00:50] <rohieb> joke`: oh, klingt auch interessant
+[00:00:55] <conqueror121> ienen A-Kurs einzubringen
+[00:01:04] <rohieb> ah
+[00:02:29] <joke`> aber gibts halt noch nicht, also neues fach beantragen, also dort zur studiengangskoordinatorin rennen
+[00:02:32] <conqueror121> ich geh mal schlfen
+[00:02:34] <conqueror121> gute nacht
+[00:02:37] <joke`> vorm meinen ersten master semester tue ich mir das nicht an
+[00:02:40] <rohieb> conqueror121: ich habs dann doch nicht versucht. war ein intensivkurs mit vorkenntnissen, die ich nicht hatte...
+[00:02:51] <rohieb> n8 conqueror121
+[00:02:56] ! conqueror121 has quit. (Quit: Leaving.)
+[00:03:29] <rohieb> joke`: afair muss man da ja auch ein konzept vorlegen, was für vl man da einbringen will, oder?
+[00:05:11] ! lurtz has quit. (Quit: Leaving.)
+[00:05:32] <rohieb> ah, i c
+[00:19:40] ! rohieb has quit. (Remote host closed the connection)
+[00:20:32] ! Ignifazius has quit. (Quit: *Vanish*)
+[00:22:44] ! rohieb has joined.
+[00:27:26] ! nubix has quit. (Quit: Leaving.)
+[00:28:57] ! Peace-Maker has quit. (Quit: Bye.)
+[00:43:17] ! PirateKing1 has quit. (Quit: Leaving.)
+[01:05:03] ! Phia has quit. (Quit: Leaving.)
+[01:35:21] ! Debi has quit. (Quit: Verlassend)
+[02:03:18] ! ES has quit. (Quit: The cake is a lie!)
+[02:26:38] ! rohieb has quit. (Ping timeout: 252 seconds)
+[03:36:42] ! CalebRipley has quit. (Remote host closed the connection)
+[04:19:16] ! joke` has quit. (Quit: Verlassend)
+[04:46:03] ! Cascharity has joined.
+[05:16:40] ! Cascharity_ has joined.
+[05:20:04] ! Cascharity has quit. (Ping timeout: 240 seconds)
+[06:37:44] ! Cascharity_ has quit. (Quit: Verlassend)
+[07:38:27] ! serj has quit. (Ping timeout: 240 seconds)
+[07:45:55] ! serj has joined.
+[08:47:45] ! conqueror12 has joined.
+[09:07:02] ! PirateKing1 has joined.
+[09:07:23] ! PirateKing1 is now known as PirateKing
+[09:21:48] ! lurtz has joined.
+[09:30:43] ! ES has joined.
+[09:30:56] <ES> !mensa
+[09:30:57] <ZombiePoet> Mensa Katharinenstraße am Donnerstag:
+[09:30:58] <ZombiePoet> A: Terrine Möhrensuppe mit Mettbällchen 1,40€
+[09:30:59] <ZombiePoet> B: Geflügel-Cevapcici 1,50€
+[09:31:00] <ZombiePoet> C: Gyros mit Zwiebeln AT 1,90€
+[09:31:01] <ZombiePoet> V: Lauch-Kartoffel-Gratin mit Sahne und Käse 1,90€
+[09:31:02] <ZombiePoet> W: Entenbrust mit Orangensauce dazu Wildreis 3,10€
+[09:38:43] ! Phia has joined.
+[09:42:45] ! csg has joined.
+[09:45:29] ! lurtz has quit. (Ping timeout: 248 seconds)
+[10:02:10] <norman> moin
+[10:04:08] ! nubix has joined.
+[10:11:14] ! soney has joined.
+[10:36:43] <norman> Wieviele Leistungspunkte bringt das SEP derzeit für einen Bachelor?
+[10:36:43] <norman> 6 oder 8=
+[10:37:30] <nubix> 8
+[10:40:32] <norman> Danke
+[10:40:50] <norman> hat sich aber gut hochgearbeitet ;-)
+[10:43:48] ! nubix has quit. (Quit: Leaving.)
+[10:44:46] ! ES has quit. (Quit: The cake is a lie!)
+[10:45:54] <norman> Haha mit "Dokumente TU Braunschweig" kommt man bei Google direkt zur Informatik
+[10:48:20] <norman> Mh
+[10:48:43] <norman> Warum ist bei der Uniwebseite da unten neuerdings ein "Ihr Besuch wird gespeichert"?
+[10:55:53] ! jh-mobil has joined.
+[10:56:21] ! jh-mobil has quit. (Client Quit)
+[10:56:38] ! jh-mobil has joined.
+[10:56:47] <jh-mobil> Huhu
+[10:56:54] <norman> huhu jh-mobil
+[10:58:36] <jh-mobil> Huhu norman
+[11:05:49] ! rohieb has joined.
+[11:07:00] ! jh-mobil has quit. (Read error: Connection reset by peer)
+[11:19:01] <rohieb> !mensa
+[11:19:01] <ZombiePoet> Mensa Katharinenstraße am Donnerstag:
+[11:19:02] <ZombiePoet> A: Terrine Möhrensuppe mit Mettbällchen 1,40€
+[11:19:03] <ZombiePoet> B: Geflügel-Cevapcici 1,50€
+[11:19:04] <ZombiePoet> C: Gyros mit Zwiebeln AT 1,90€
+[11:19:05] <ZombiePoet> V: Lauch-Kartoffel-Gratin mit Sahne und Käse 1,90€
+[11:19:06] <ZombiePoet> W: Entenbrust mit Orangensauce dazu Wildreis 3,10€
+[11:21:56] ! Phia has quit. (Ping timeout: 240 seconds)
+[11:37:12] ! nubix has joined.
+[11:57:28] ! lurtz has joined.
+[11:57:48] ! lurtz1 has joined.
+[11:58:15] ! nubix has quit. (Quit: Leaving.)
+[12:01:56] ! lurtz has quit. (Ping timeout: 252 seconds)
+[12:03:24] ! nubix has joined.
+[12:18:30] ! Sonea has joined.
+[12:19:37] <Sonea> rohieb: wir bekommen übrigens als nächstes: "Forrester - Gefunden!" und die Legende von beowulf
+[12:19:48] <Sonea> !tell jh wir bekommen übrigens als nächstes: "Forrester - Gefunden!" und die Legende von beowulf
+[12:19:49] <ZombiePoet> Sonea: Ok.
+[12:20:01] <Sonea> !tell *woelfin wir bekommen übrigens als nächstes: "Forrester - Gefunden!" und die Legende von beowulf
+[12:20:01] <ZombiePoet> Sonea: Ok.
+[12:20:30] <Sonea> jemand mensa? (irgendwann demnächst)
+[12:21:12] <rohieb> Sonea: ich
+[12:21:43] <Sonea> rohieb: ^^ ich weiß
+[12:38:36] ! rohieb has quit. (Quit: ...yo ho ho, and a bottle of rum!)
+[12:42:27] ! Tigaa_laptop has joined.
+[12:46:50] ! lurtz1 has quit. (Quit: Leaving.)
+[12:52:20] ! ES has joined.
+[13:02:35] <DooMMasteR> jemand im FG-Raum?
+[13:08:01] * DrMcCoy nicht
+[13:10:59] <nubix> j
+[13:11:00] <nubix> A
+[13:11:02] <nubix> a
+[13:14:41] <DooMMasteR> lol der FGbewohner ist da ;)
+[13:14:47] <DooMMasteR> na dann bis gleich
+[13:14:55] <DooMMasteR> nubix: willste was zu essen haben?
+[13:15:01] <nubix> Dom	
+[13:15:09] <nubix> woran denkst du denn gerade so?
+[13:15:25] <DooMMasteR> Burger, Asia, Döner whatever :P
+[13:15:39] <DooMMasteR> ich hab hunger ;)
+[13:15:40] <nubix> DooMMasteR: wenn du wieder beim döner bist könntest du mir nen falaffel mitbringen :)
+[13:15:52] <DooMMasteR> wasn nen Falaffel?
+[13:16:04] <DooMMasteR> ich glaube ich hol mir nen burger :P
+[13:16:16] <DooMMasteR> da muss ich keine falaffel holen -.-
+[13:16:27] <nubix> DooMMasteR: :p
+[13:16:35] <nubix> DooMMasteR: guten hunger
+[13:16:37] <DooMMasteR> bin ma afk ;)
+[13:16:47] <DooMMasteR> bis gleich raus holen rein
+[13:16:58] <DooMMasteR> geht ja flink :P
+[13:25:06] ! Ignifazius has joined.
+[13:44:47] <DooMMasteR> nubix: ich bin enttäuscht
+[13:44:49] <DooMMasteR> -.-
+[13:44:52] <DooMMasteR> FGraum ist zu -.-
+[13:46:01] <Wechner> hm, eigentlich war da gerade noch jemand, der da bleiben wollte...
+[13:46:38] <Sonea> DooMMasteR: wenn du willst, kannst du in 311 nen schlüssel kriegen
+[13:46:43] <Sonea> musste aber wieder her bringen
+[13:46:51] <Wechner> Sonea: \o/ :)
+[13:46:56] <DooMMasteR> hmm ich warte mal nen momet
+[13:46:57] <Sonea> Wechner: :)
+[13:47:06] <DooMMasteR> n
+[13:47:16] <DooMMasteR> vllt ist er ja gleich wieder da oder so
+[13:47:22] <DooMMasteR> sitze aufm Plaza
+[13:47:24] <Wechner> Sonea: hast du eine Meinung zu den Bücher-Anträgen in der StuKo? :]
+[13:47:28] <DooMMasteR> und mein akku reicht noch >2h
+[13:47:40] <Wechner> DooMMasteR: ich glaub der ist vor ca. 20 Min Richtung Mensa mit $anderen
+[13:47:48] <DooMMasteR> gut gut
+[13:50:28] <Sonea> Wechner: ah, bin da auf deiner seite. hab nichts gegen die anschaffung von präsenzexemplaren aus studiengeb. wenn da ganze klassensätze angeschafft werden ist das was anderes.
+[13:51:04] <Wechner> Sonea: ok
+[13:51:18] <Sonea> Wechner: also könnte ad auch nur deine argumentation wiederholen ;)
+[13:51:29] <Wechner> Sonea: wollte mir einfach nur ein Meinungsbild noch mal holen, weil auf der ML ja leider nicht soo viel bis jetzt gekommen ist ... bzw. von nicht so vielen ...
+[13:51:56] <Sonea> Wechner: hab mir das ehrlichgesagt auch nciht so detailiert angeschaut... was sollen das denn für lizenzen sein?
+[13:52:02] <Wechner> DooMMasteR: VL ist früher vorbei, ich komme zum FG-Raum
+[13:52:13] <DooMMasteR> Wechner: nice
+[13:52:13] <Sonea> Wechner: jo. aber ich bin auch nciht offiziell gewählt ;)
+[13:52:21] <DooMMasteR> bin auhc gleich da
+[13:57:09] <Wechner> Sonea: das macht ja nichts ;)
+[14:04:57] <norman> :-)
+[14:12:48] ! moohieb has joined.
+[14:12:57] <moohieb> moomoo
+[14:14:12] <norman> moomoo ro
+[14:14:14] ! Ignifazius has quit. (Quit: *Vanish*)
+[14:30:03] <Wechner> so
+[14:30:24] <Wechner> Sonea: die Lizenzen sind für so eine Modellierungssoftware die da irgendwie in einer Chirurgie(?)-Vorlesung eingesetzt wird
+[14:30:38] <Wechner> die Lizenz war bis jetzt für Uni kostenlos, jetzt will die Firma Geld dafür haben ...
+[14:32:35] <Sonea> Wechner: achso, na super.. dachte schon, das wäre wieder matlab für die ingenieure gewesen ;)
+[14:32:57] <Sonea> Wechner: und das mit den evaluationen find ich mittlerweile auch echt dreist
+[14:33:10] <Sonea> Wechner: aber so richtig viel können wir da auch nciht machen oder?
+[14:33:43] <Wechner> naja, schon
+[14:34:06] <Wechner> eigentlich werden maßnahmen nicht von der StuKo weiter bewilligt, wenn die Evaluation nicht passt
+[14:34:23] <Sonea> ja, aber sind die nciht fast alle schon rum?
+[14:34:24] <Wechner> wobei es für irgendwie keine der Evaluationen einen Folgeantrag gibt, wenn ich das richtig gesehen hab ...
+[14:34:35] <Wechner> irgendwie passt das noch nicht ...
+[14:34:42] <Wechner> ich hoffe, dass das in der StuKo klarer wird ...
+[14:34:53] <Sonea> kk
+[14:34:55] <Wechner> aber dennoch würde ich auch kaum eine der Maßnahmen nicht verlängern wollen
+[14:34:58] <Sonea> wann ist die?
+[14:35:01] <Sonea> wieder 15 uhr?
+[14:35:01] <Wechner> sprich, eigentlich sind sie ja sinnvoll
+[14:35:05] <Wechner> gleich um 15h
+[14:35:05] <Wechner> ja
+[14:35:09] <Sonea> hab eigentlich viel zu viel anderen kram zu tun....
+[14:35:10] <Sonea> hmm
+[14:35:18] <Sonea> ja, das ist iwie doof
+[14:35:25] <Sonea> wir wollen die ja auch weiter haben
+[14:35:29] <Sonea> zumidnest die meisten
+[14:36:03] <Sonea> aso und wegen vorkurs: da war der satz mit dem wintersemester 11/12 bestimmt nur drin, weil der kopiert wurde aus dem anderen vorkursantrag
+[14:36:14] <Sonea> aber mir war auch aufgefallen, dass da was mit den hiwistunden nicht stimmte
+[14:37:27] ! pczora has joined.
+[14:37:45] <pczora> So.
+[14:38:54] <norman> pilip.
+[14:39:01] <norman> spambot du.
+[14:39:34] <Wechner> Sonea: ja, war bestimmt nur kopiert
+[14:39:51] <Wechner> Sonea: und die Folgeanträge werden im Wintersemester kommen, haben wir hier gerade überlegt
+[14:40:00] <Wechner> das sind alles Anträge zu Maßnahmen die im WiSe stattfinden
+[14:40:10] <Wechner> glaube ich ...
+[14:40:15] <Wechner> zumindest Lego Labor ...
+[14:41:03] <pczora> norman: ?
+[14:43:30] <pczora> Droggl: das SVN-PW ist das von meinem IBR-Account, richtig?
+[14:46:03] ! nubix has quit. (Quit: Leaving.)
+[14:47:11] <moohieb> Sonea: ich komma wieder zu dir
+[14:47:30] <norman> pczora: du bist doch auf twitte
+[14:47:36] <moohieb> pczora: ja, sollte so sein
+[14:47:38] <norman> und hei0t da filzo.
+[14:49:15] <moohieb> Sonea: willst du nen mensamuffin?
+[14:50:12] <moohieb> pczora: aber wiselib ist doch jetzt github?
+[14:50:12] ! nubix has joined.
+[14:50:32] ! lurtz has joined.
+[14:51:11] ! Debi has joined.
+[14:51:37] <moohieb> Sonea: timeout
+[14:52:07] ! Ignifazius has joined.
+[14:53:26] <Sonea> moohieb: oh noooo
+[14:53:44] <Sonea> moohieb: hätte glaub ich gewollt, aber gehe auch noch zu beansworld nachher und hmm
+[14:53:59] <Sonea> moohieb: k, will nicht, also war ein gutes timeout ;)
+[14:55:29] <moohieb> lol ok
+[14:59:44] <pczora> norman: ja, das bin ich
+[14:59:58] ! Ignifazius has quit. (Quit: *Vanish*)
+[15:00:57] <pczora> oh. wenn man versucht ein svn-repo mit git zu clonen kann das vermutlich auch nicht klappen
+[15:04:23] <Wechner> pczora: git svn clone ...oder so? ;)
+[15:04:26] ! moohieb has quit. (Read error: Connection reset by peer)
+[15:04:53] <Sonea> Wechner: bist du gar nciht in der stuko?
+[15:04:59] <Wechner> doch
+[15:05:10] <Wechner> sitzen wir gerade
+[15:05:20] <Sonea> aso :D
+[15:05:59] <Sonea> !g menger schwamm
+[15:06:01] <ZombiePoet> Sonea: Menger-Schwamm – Wikipedia: <http://de.wikipedia.org/wiki/Menger-Schwamm>; Datei:Menger-Schwamm-einfarbig.jpg – Wikipedia: <http://de.wikipedia.org/wiki/Datei:Menger-Schwamm-einfarbig.jpg>; Sierpinski Pyramide und Menger Schwamm: <http://www.3d-meier.de/tut10/Seite0.html>; Menger-Schwamm S3D - YouTube: <http://www.youtube.com/watch?v=SFcH6YcSp6c>; Menger sponge 4. Iteration - YouTube: (1 more message)
+[15:08:33] <pczora> Wechner: ne, git clone [SVN-URL]
+[15:08:35] <pczora> :)
+[15:12:10] ! pczora has quit. (Remote host closed the connection)
+[15:20:57] ! elorie has joined.
+[15:28:25] ! csg has quit. (Ping timeout: 276 seconds)
+[15:33:20] ! Mobiwoelfin has joined.
+[15:33:40] <Mobiwoelfin> hi
+[15:33:40] <ZombiePoet> Mobiwoelfin: Sent 3 hours and 13 minutes ago: <Sonea> wir bekommen übrigens als nächstes: Forrester - Gefunden! und die Legende von beowulf
+[15:34:57] <Mobiwoelfin> !tell sonea sagen mir beide nichts
+[15:34:57] <ZombiePoet> Mobiwoelfin: Ok.
+[15:40:43] ! elorie has quit. (Quit: Leaving.)
+[15:42:51] <Sonea> Mobiwoelfin: echt nicht?
+[15:42:51] <ZombiePoet> Sonea: Sent 7 minutes ago: <Mobiwoelfin> sagen mir beide nichts
+[15:43:12] <Sonea> Mobiwoelfin: also der erste ok, den hab ich mir auch nur aus empfehlungen rausgesucht
+[15:44:15] <Sonea> Mobiwoelfin: aber beowulf wurde relativ groß angekündigt
+[15:44:28] <Sonea> !tell rohieb nein!
+[15:44:28] <ZombiePoet> Sonea: Ok.
+[15:44:31] ! rohieb has joined.
+[15:46:03] <norman> forrester ist wirklich ein guter Film
+[15:46:03] <norman> mit Sean Connery
+[15:50:00] ! soney has quit. (Ping timeout: 252 seconds)
+[15:53:33] <rohieb> wer warn der andere? war das nicht matt damon?
+[15:53:44] <rohieb> oder verwechsle ich das grad mit good will hunting?
+[15:55:26] <Sonea> norman: genau :)
+[15:55:34] <rohieb> mh, good will hunting war mit robin williams
+[15:55:46] <Sonea> in good will hunting hat doch nicht sean connery mitgespielt
+[15:55:54] <Sonea> aber den mag ich auch den film
+[15:55:58] <Sonea> weil mathematiker und so :D
+[15:56:07] <Sonea> nee, fand ich ne coole geschickt, gut gemacht
+[16:04:14] <Tigaa_laptop> hehe dann magst du a beautiful mind bestimmt auch nicht
+[16:06:04] ! soney has joined.
+[16:10:11] * norman streicht das nicht
+[16:10:40] <Sonea> jaaa :)
+[16:16:43] ! soney has quit. (Ping timeout: 245 seconds)
+[16:29:08] <Mobiwoelfin> Sonea: bekomme wohl als nächstes The Day After Tomorrow und Riddick - Chroniken eines Kriegers
+[16:29:50] ! elorie has joined.
+[16:30:04] <rohieb> beide nett
+[16:30:07] <Mobiwoelfin> aber iwie scheinen die meinen gutschein noch nicht richtig angenommen zu haben :-/
+[16:32:48] ! nubix has quit. (Quit: Leaving.)
+[16:34:30] <Sonea> Mobiwoelfin: the day after tomorrow kenn ich schon, riddick noch nciht
+[16:34:39] <Sonea> Mobiwoelfin: hmm nicht? das ist ja doof
+[16:34:45] <Sonea> Mobiwoelfin: du meinst den von amazon?
+[16:34:51] ! soney has joined.
+[16:36:59] <norman> DooMMasteR: hast du bezüglich apt-x ne Ahnung, ob das im Bluetooth Sender sein muss oder ob das ne Software Sache ist?
+[16:38:27] <DooMMasteR> das geht sowohl als auch
+[16:38:35] <DooMMasteR> aber in HW ist bisher das einzig bekannte
+[16:38:48] <DooMMasteR> außerdem ist der vorteil gegenüber AAC marginal
+[16:38:55] <DooMMasteR> außer etwas kürzeren latenzen
+[16:39:47] ! nubix has joined.
+[16:41:42] <Sonea> norman: und schon die schoko-kirsch-muffins von beans world getestet? das sind amarena kirschen, oder?
+[16:42:05] <Sonea> schmeckt mir iwie zu weihnachtlich bzw. so nach marzipan noch iwie....
+[16:42:06] <norman> Sonea: Ja, schon mehrfach getestet. :-)
+[16:42:06] <norman> Ich vermute ja.
+[16:42:12] <norman> das ist amaretto
+[16:42:16] <Sonea> ah
+[16:42:18] <Sonea> hmm darum
+[16:42:27] <norman> also wäre amaretto, denn der schmeckt nach marzipan
+[16:42:56] <norman> Also der halbflüssige Kirschwasuachimmer Kern ist sehr lecker
+[16:43:04] <Sonea> amaretto schmeckt mir nur in glühwein oder in tiramisu hab ich den auch schon gegessen
+[16:43:04] <norman> dazu wenige Kirschen und ein paar Schokostückchen
+[16:43:15] <norman> für meinen Geschmack zu wenig Kirschen :-)
+[16:43:33] <Sonea> ah das schmeck ich vllt auch raus, wusste gar nciht, dass die nen kern haben
+[16:43:33] <norman> Ich werde mich nach Weihnachten im Muffinsbacken üben
+[16:43:40] <Sonea> liegt hier grad erst angebissen rum
+[16:43:48] <Sonea> norman: wieso nach weihnachten?
+[16:43:58] <Sonea> man kann auch für weihnachten muffins backen :D
+[16:43:58] <norman> weil ich da besuch bekomme
+[16:44:01] <Sonea> ah
+[16:44:08] <norman> und besuch mit Muffins empfangen ist eine gute Idee :-)
+[16:44:23] <norman> man kann Weihnachten auch komplett ignorieren :-)
+[16:44:23] <Sonea> hmm da fällt mir ein: ich muss ja noch für die weihnachtsfeier backen
+[16:44:28] <Sonea> stimmt
+[16:44:48] <norman> Und ich muss noch denen Kindle klauen
+[16:44:54] <norman> oder zumindest mal für ne Stunde borgen :-)
+[16:45:19] <Mobiwoelfin> Sonea: jupp, den von amazon
+[16:45:51] <Sonea> mhh der kern ist echt lecker, aber schmeckt nicht nach alkohol
+[16:45:52] <Mobiwoelfin> Sonea: is halt doof, übermorgen buchen die mir sonst wieder geld ab...
+[16:46:11] <Sonea> Mobiwoelfin: musste dann mal von berichten, weil wir das danach dann ja auch ncoh machen
+[16:46:29] <Sonea> norman: ah ich hab kirschwasser gelesen :D
+[16:46:31] <Mobiwoelfin> jo, mach ich
+[16:46:44] <Sonea> norman: ja kannste leihen, aber ich hab keine hülle dafür
+[16:46:51] <Sonea> noch nciht, krieg ich hoffentlich zu weihnachten
+[16:46:51] <norman> Sonea: Wann kann ich dich mal besucen? :-)
+[16:46:59] <Sonea> norman: so ist transport halt doof
+[16:47:04] <Sonea> norman: von mir aus am we
+[16:47:04] <norman> Ja ne, ich wollte ihn nicht unbedingt aus deiner Wohnung entführen
+[16:47:21] <Sonea> norman: aso ich dachte, ich sollte den mal mit in die uni bringen oder so ;)
+[16:47:26] <norman> Wie, Transport doof? Ist das Gehäuse so empfindlich?
+[16:47:32] <norman> oder so
+[16:47:41] <Sonea> norman: naja ich stopf halt alles in die tasche
+[16:47:41] <norman> get das nich im Rucksack / Handtasche?
+[16:47:52] <Sonea> hmm weiß nciht, is mir iwie zu unsicher
+[16:48:01] <Sonea> kratzer im display wären doof
+[16:48:06] <Sonea> kannste ja nciht zusammen klappen oder so
+[16:48:29] <norman> Mh, ja, das wäre ärgerlich
+[16:48:35] ! csg has joined.
+[16:48:58] ! Cascharity has joined.
+[16:50:42] ! Bowdzone has joined.
+[16:52:19] <norman> Bowdzone o/
+[16:52:58] <Bowdzone> norman: !
+[16:54:23] <norman> Sonntag Nachmittag, wenn ich ausgeschlafen habe
+[16:54:27] <norman> Samstag bin ich nicht da
+[16:54:50] <Bowdzone> Achso, ich denke zurzeit Freitag -> Samstag eher..
+[16:54:57] <norman> ja, bin ich da
+[16:55:12] <norman> Freitag ist auch eine Bar
+[16:56:39] <Sonea> rohieb bastelt witzige 3D sterne aus papierstreifen
+[16:56:41] <Sonea> sehr cool
+[16:56:56] <Sonea> norman: man kann den muffin iwie nicht elegant essen
+[16:57:16] <Sonea> norman: ich zumindest nicht, ist bei mir total zerbröselt und das matscht dann mit der füllung
+[16:57:20] <Sonea> norman: ihc hatte nur eine kirsche
+[16:57:21] <Bowdzone> Sonea: Will auch Muffins! norman: Machste mir auch welche?^^
+[16:57:45] <Sonea> Bowdzone: norman hat die nciht gemacht, musste kaufen gehen :P
+[16:57:53] <Sonea> Bowdzone: beans world
+[16:58:03] <Sonea> Bowdzone: aber hast recht, ich müsste mal wieder muffins backen
+[16:58:34] <Bowdzone> damn
+[16:59:09] <norman> Sonea: lass ihn in der Verpackung, das hilft
+[16:59:21] <norman> Bowdzone: Ne, ich mach erst so ca am 29 oder 30.12 welche
+[16:59:44] <Sonea> norman: hmm ja nächstes mal bin ich auch schlauer
+[17:00:09] <norman> Mh, ich brauch mal nen ISTler und nen E-Techniker, damit die mir über ihre Studentischen Arbeiten schreiben
+[17:00:14] <norman> Ich habe für die Informatik da mal etwas zusammengekritzelt
+[17:00:22] <norman> Bowdzone: Ich bin Silvester da, aber sonst wohl eher niemand
+[17:00:36] <Bowdzone> norman: Meine Band wollte vll was machen, kA
+[17:01:05] <Sonea> norman: hä? was brauchst du von istlern und e--technikern?
+[17:01:14] <norman> Ich brauch irgendein Programm mit dem man leicht Dateien sharen kann.
+[17:01:46] <norman> Sonea: Na was man da außer Bachelor- und Masterarbeit noch für Studenten hat. Also sowas wie Seminar, SEP und Teamprojekt und Projektarbeit bei uns
+[17:02:10] <norman> ne, sowas wo ich flink nen link kriege
+[17:02:29] <Sonea> norman: hä? du möchtest dass die die bei dir schreiben doer wie?
+[17:02:45] <norman> also ich hab datei X in Programm Y offen, drücke dann Tastenkombination XYZ und habe direkt nen Link zur Datei im Clipboard
+[17:02:45] <norman> Sonea: Ich will erstmal eine Liste machen, was es alles gibt
+[17:02:49] <Sonea> ah aso
+[17:02:57] <Sonea> norman: frag doch mal Tigaa_laptop
+[17:02:57] <norman> ich zeig dir mal was ich bisher habe
+[17:03:58] <norman> http://dl.dropbox.com/u/13820382/Studentische%20Arbeiten.pdf
+[17:04:14] <Sonea> norman: ja hab schon verstanden.... es gibt auch übrigens immer noch diplomanden die sowohl diplom- als auch studienarbeit schreiben ;)
+[17:04:27] <norman> Mh, ich sehe da ein Muster. Das könnte helfen. Nur muss man dann immer alles dahinkopieren
+[17:04:57] <norman> Sonea: Die sind mir doch a) egal und b) kenne da meine Kollegen die Formalien, da sie alle nen Diplom haben
+[17:04:57] <norman> und c) MInderheiten
+[17:06:08] <elorie> norman: istler haben afaik auf jeden fall sep und auch die chance auf seminararbeiten
+[17:07:01] <Sonea> norman: also bachelorarbeit haben die auch
+[17:07:22] <norman> Mein Plan war es, dass für mein Institut zusammenzustellen, damit die Mitarbeiter Bescheid wissen, welche Möglichkeiten sie haben und das nicht aus Prüfungsordnungen zusammensuchen müssen, weil ist irgendwie dum.
+[17:07:25] <Sonea> norman: aber dann haben die doch auch dieses hwsw praktikum oder wie das heißt, aber das hat vorgefertigte aufgaben oder?
+[17:07:32] <Sonea> also das ist nicht so studentenarbeit in dem sinne
+[17:07:46] <norman> Ja, das ist vorgegeben was sie dort machen
+[17:07:50] <Sonea> k
+[17:08:04] <Sonea> norman: es gibt auch nebenfächler ;)
+[17:08:11] <Sonea> norman: die müssen zum teil auch das sep machen
+[17:08:27] <norman> Ja, fällt alles unter $SEP
+[17:09:02] <norman> Bowdzone: ich hab jetzt nen original office :-)
+[17:09:03] <Sonea> ihr könnt außerdem selbst praktika entwerfen
+[17:09:18] <Sonea> also oft werden praktika im master auch als tp im bachelor angeboten
+[17:09:26] <Sonea> sowas wie compilerbaupraktikum
+[17:09:38] <Bowdzone> norman: 2010 mit OneNote und allem?^^
+[17:09:38] <norman> Ja, das habe ich selbst erlebt, bei eeh, achso genau, das im Harz
+[17:09:54] <norman> Bowdzone: Ja. .-) Professional Plus
+[17:10:06] <Sonea> norman: ja aber das war ja nochmal so anders/besonders
+[17:10:20] <norman> mit access, sharepoint workspace, infopath und ganz vielen DIngen, von denen ich noch nie gehört habe
+[17:10:20] <Sonea> weil workshop am stück woanders und so
+[17:10:37] <Sonea> aber da kommne halt auch nciht leute auf euch zu und sagen: ich will ein praktikum
+[17:10:37] <norman> Sonea: Eigene Praktika wird es sicher geben, wenn etwas gibt, auf dem man praktizieren kann
+[17:11:01] <Sonea> norman: naja code schreiben geht immer ;) aber habt ihr noch keine hardware oder wie?
+[17:11:36] <norman> Einfach noch kein Praktikum. Dafür braucht man ja erstma leine Idee, was man den Studenten vermitteln möchte
+[17:12:16] <Sonea> norman: stimmt
+[17:12:37] <norman> Bowdzone: und verdammt, deine Textzeile ist zu lang.
+[17:12:49] <Bowdzone> norman: tl;dr?^^
+[17:13:28] <norman> Bowdzone: Nein, nach "und verdamm" war schluss. IRC Server hat eine Begrenzung für maximale Zeilenlänge und Miranda ignoriert sie getrost
+[17:13:37] <Bowdzone> oh
+[17:13:59] <Bowdzone> "und verdammt wenig code"
+[17:15:01] <norman> Microsoft Programme integrieren sich gut - aber halt nur mit anderen Microsoftprogrammene :-)
+[17:15:19] <norman> Mal schauen ob man den Admin überreden kann, hier einen Sharepoint Server aufzusetzen *hust*
+[17:15:57] <norman> Aber erstmal brauche ich hier sowas wie einen Arbeitsrechner.
+[17:17:01] <norman> Ja, das was in der Uni noch fehlt ;-)
+[17:17:46] <norman> Hach, Macbook Pro 15" mit nem Quadcore oder ein Thinkpad X220 mit Dualcore
+[17:18:04] <Bowdzone> -.-
+[17:18:26] <norman> wobei das thinkpad natürlich nen 1000er billiger ist
+[17:19:37] <norman> rechnen. aber da wurde ich schon korrigiert. zum rechnen gibts den server mit 24 kernen oder so
+[17:19:44] <norman> ic brauche da mal einen login
+[17:19:51] <Bowdzone> na dann ists doch eindeutig
+[17:23:02] <norman> Ach und hab ich schon erwähnt, wie praktisch so eine Dockingstation ist.
+[17:23:17] <Bowdzone> Definitiv, bin ich auch sehr Fan von
+[17:26:05] <norman> Du hast doch noch nie in deinem Leben einen Laptop benutzt :-)
+[17:26:57] <Bowdzone> eben an Docking Station
+[17:27:12] <norman> Wow, spricht für diese Firma.
+[17:27:20] <norman> Ich tippe mal auf Dell.
+[17:27:33] <nubix> nein ich habe noch 8 vor mir
+[17:27:41] <Bowdzone> Gibt verschiedene, ich bin einen von hp
+[17:28:13] <norman> Knapp daneben. Aber gibt wohl auch nur Lenovo, Dell und HP mit Business Serien und Dockingstationen.
+[17:28:36] <Sonea> nubix: wovon hast du ncoh 8 vor dir?
+[17:28:44] <nubix> von falschen tabs
+[17:28:48] <Sonea> Droggl: wir müssen mal go mit in die uni nehmen
+[17:28:53] <Sonea> nubix: ah :d
+[17:29:05] <nubix> Sonea: sitze gerade in meiner kleinen prog1 übung, wenn das so weiter geht komme ich nicht zum fgtreffen
+[17:29:11] <nubix> Sonea: oder einfach nur verspätet
+[17:29:15] <Sonea> Droggl: dann kann ich mal mit dir oder nubix oder so ne runde spieln
+[17:29:24] <Sonea> nubix: ich bin auch nciht da
+[17:29:53] <nubix> Sonea: gute idee
+[17:30:09] <Droggl> klar kannste machen
+[17:30:21] <Droggl> ich werd aber vorm 25.1. nich go spielen in der uni
+[17:30:41] <Sonea> warum nciht?
+[17:31:03] ! Tigaa_laptop has left the channel.
+[17:35:13] <norman> Bowdzone: Das ist gut. Wenn es sowas auch für Einzelplatzrechner gäbe wär cool bei ner Neuinstallation von Windooze.
+[17:35:59] <Bowdzone> norman: Jein, privat konfigurier ich meine Software doch lieber komplett selbst
+[17:39:37] <norman> d.h. du benutzt da jetzt Word und Excel und Outlook undso? Haben die auch OneNote? Das kannst du gerne mal anschauen
+[17:42:55] ! soney has quit. (Quit: Leaving.)
+[17:42:58] <Bowdzone> Ich bastel da eigentlich grad nur in Access rum und n klein wenig mit Excel hier und da
+[17:43:24] <norman> Ich dachte du baust da Maschinen? Und nicht Office ... tztz :-)
+[17:45:44] ! nubix has quit. (Quit: Leaving.)
+[17:45:55] <norman> oO Das klingt eher wie ein Job für nen (Fach)Informatiker
+[17:46:31] <norman> Awesome :-)
+[17:46:55] <norman> Das kommt davon, wenn man in seiner Freizeit anfängt PHP zu programmieren
+[17:47:15] <norman> Aye, das ist definitiv eine gute Ausgangslage.
+[17:48:40] ! nubix has joined.
+[17:48:57] <norman> Mh, für den PDF Export bietet es sich irgendwie an, wenn ich OneNote auf A4 stelle :-)
+[17:49:15] <Droggl> 17:30 <Sonea> warum nciht? // weil ich bis dahin noch 2 paper deadlines hab
+[17:51:43] ! nubix has quit. (Client Quit)
+[18:02:00] <Sonea> :D sehr geil: grad in so nen store finder plz von bs eingegeben und bin in memphis TS, USA stadtteil germantown gelandet
+[18:02:27] <Sonea> Droggl: und dann darfst du nicht mal 5 min. go spielen :(
+[18:02:39] <Droggl> naja wenns nur 5min wären
+[18:02:56] <Sonea> !mensa
+[18:02:56] <ZombiePoet> Abendmensa Katharinenstraße am Donnerstag:
+[18:02:57] <ZombiePoet> A: Terrine Möhrensuppe mit Mettbällchen 1,40€
+[18:02:58] <ZombiePoet> B: Schinkennudeln mit Tomatensauce 1,70€
+[18:03:00] <ZombiePoet> C: Fischfilet gebacken 2,00€
+[18:03:00] <ZombiePoet> W: 1/2 Brathähnchen 1,90€
+[18:03:03] <Droggl> klar bin ja jetzt auch kein workaholic, aber wenn ich halt auf der arbeit mit sowas anfange, dann schaff ich echt zu wenig
+[18:03:11] <Sonea> hmm ihh nee keine abendmensa Droggl
+[18:03:13] <Droggl> zuhause kein problem,
+[18:03:19] <Droggl> keine schinkennudeln?
+[18:03:25] <Sonea> aso
+[18:03:40] <Sonea> hmm iwie hab ich die grad so halb ignoriert ^^
+[18:03:51] <Droggl> ^^
+[18:03:59] <Sonea> Droggl: ähm haben doch noch brot
+[18:04:08] <Droggl> hm stimmt
+[18:04:19] <Droggl> aber dann muss der arme max ja alleine inne mensa
+[18:07:54] ! ES has quit. (Quit: The cake is a lie!)
+[18:16:01] ! csg2 has joined.
+[18:19:16] ! csg has quit. (Ping timeout: 240 seconds)
+[18:21:55] ! elorie has quit. (Quit: Leaving.)
+[18:22:26] ! nubix has joined.
+[18:24:56] ! PirateKing1 has joined.
+[18:26:04] ! PirateKing has quit. (Ping timeout: 240 seconds)
+[18:26:53] ! rohieb has quit. (Ping timeout: 240 seconds)
+[18:37:07] ! rohieb has joined.
+[18:40:10] ! PirateKing has joined.
+[18:44:14] ! PirateKing1 has quit. (Quit: Leaving.)
+[18:47:23] ! PirateKing1 has joined.
+[18:49:06] ! CalebRipley has joined.
+[18:49:20] ! csg2 has quit. (Ping timeout: 252 seconds)
+[18:52:58] ! PirateKing has quit. (Ping timeout: 252 seconds)
+[18:53:09] ! PirateKing1 is now known as PirateKing
+[18:57:17] ! nubix has quit. (Quit: Leaving.)
+[18:58:15] ! der_eq has joined.
+[19:00:47] ! Bowdzone has quit. (Ping timeout: 240 seconds)
+[19:17:46] <rohieb> Sonea: http://spongebob.wikia.com/wiki/List_of_time_cards
+[19:17:47] <ZombiePoet> Title: List of time cards - SpongeBob SquarePants Wiki (at spongebob.wikia.com)
+[19:24:04] <Sonea> muhaha
+[19:24:10] <Sonea> "mr. popo" :d
+[19:24:22] <norman> oO
+[19:24:27] <norman> Wwas geht heute Abend?
+[19:25:12] <Sonea> kein wunder, dass der char als rassistisch aufgefasst wird
+[19:25:31] <Sonea> norman: war das auf meinen kommentar bezogen oder ne generelle frage, was wer heute abend macht? :D
+[19:25:31] <norman> Irgendwas im MI oder irgendwo Film schauen?
+[19:25:37] <Sonea> hmm stimmt ja
+[19:25:38] <norman> Zweiteres
+[19:25:43] <Sonea> es ist ja donnerstag
+[19:25:45] <Sonea> hmm mi?
+[19:25:50] <Sonea> da hätte ich mal wieder bock drauf
+[19:27:47] <Sonea> hmm, seht ihr da den unterschied: http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_controversy#Jynx
+[19:27:48] <ZombiePoet> Title: Pokémon controversy - Bulbapedia, the community-driven Pokémon encyclopedia (at bulbapedia.bulbagarden.net)
+[19:28:07] <Sonea> warum ist das erste iwie nicht anständig und das zweite schon
+[19:28:25] <Sonea> bei den bildern weiter oben (nazi kram) versteh ich das ja...
+[19:29:26] <norman> wo sind da hakenkreuze?
+[19:29:32] <norman> -hakenkreuze +nazikram
+[19:29:39] ! lurtz has quit. (Quit: Leaving.)
+[19:37:07] <norman> Sonea: hatte eigentlich gehofft irgendwer will einen 7+ Film von imdb schauen
+[19:37:15] <Sonea> norman: naja hitlergruß oben
+[19:37:38] <Sonea> norman: film wäre ich vllt auch dabei... aber jetzt hab ich grad iwie bock auf mi bekommen...
+[19:37:45] <Sonea> aber is ja iwie keiner mehr da in letzter ezit
+[19:37:49] <Sonea> jh is in hi
+[19:38:08] <norman> bei dehände hoch ist hitlergruß?
+[19:38:55] <norman> ach, dachte du meinst jynx. du meinst team rocket da oben
+[19:40:19] <Sonea> ja
+[19:40:41] <Sonea> naja ist ja auch wurscht, bin auch nur durch zufall auf die seite gekommen
+[19:40:55] <Sonea> hab eigentlich was fpr roland zu spongebob gegoogelt
+[19:55:36] ! bgalias has joined.
+[19:56:51] ! bgalias has quit. (Client Quit)
+[20:04:08] ! rohieb has quit. (Ping timeout: 252 seconds)
+[20:04:47] <DrMcCoy> Plödes Kinder Pingui
+[20:05:06] <DrMcCoy> Der Aufreißer will nicht; ich krieg das Ding nicht auf :(
+[20:20:55] <Sonea> DrMcCoy: schere?
+[20:20:57] ! Sonea has left the channel.
+[20:21:21] <DrMcCoy> !tell Sonea Jo, hab ich dann auch gemacht
+[20:21:21] <ZombiePoet> DrMcCoy: Ok.
+[20:21:35] ! PirateKing has quit. (Quit: Leaving.)
+[20:22:51] ! rohieb has joined.
+[20:29:26] ! PirateKing has joined.
+[21:23:41] ! Phia has joined.
+[21:40:47] ! rohieb has quit. (Remote host closed the connection)
+[21:43:17] ! Bowdzone has joined.
+[21:45:41] ! rohieb has joined.
+[21:45:52] ! Debi has quit. (Quit: Verlassend)
+[22:01:38] ! der_eq has quit. (Remote host closed the connection)
+[22:02:43] ! nubix has joined.
+[22:08:46] <rohieb> !seen jh
+[22:08:46] <ZombiePoet> rohieb: jh was last seen in ##cs-studs 1 day, 12 hours, 32 minutes, and 4 seconds ago: <jh> hi
+[22:08:49] <rohieb> hm.
+[22:10:34] <nubix> Wechner: hat heute beim fgtreffen gar niemand protokoll geschrieben?
+[22:18:35] ! lurtz has joined.
+[22:19:32] <Wechner> nubix: doch eigentlich schon, aber durch einen Browser-Button-Fail (zurück und wieder vorwärts) war das meiste weg ...
+[22:22:55] <rohieb> sowas ist mies
+[22:23:03] <rohieb> darum nehm ich für protokolle meist nen offline-editor
+[22:30:11] <DrMcCoy> Für alles nimmt man deshalb nen Offline-Editor.
+[22:30:23] <DrMcCoy> Blog post => vim
+[22:30:24] <Wechner> ich hab denen erst einmal Lazarus Form Recovery empfohlen ;)
+[22:30:30] <DrMcCoy> Längerer Blogkommentar => vim
+[22:30:32] <Wechner> wurde begeistert aufgenommen ;)
+[22:30:46] <DrMcCoy> Alles andere => vim
+[22:30:56] <Wechner> DrMcCoy: ja, ich nehm auch Pentadactyl und Ctrl-I, aber eben nicht jeder
+[22:30:56] <rohieb> DrMcCoy: nicht emacs? das hätte bestimmt auch gleich ne anbindung zum posten in den blog ^^
+[22:31:10] <DrMcCoy> rohieb: Foo :P
+[22:31:57] <rohieb> hrhr
+[22:32:39] <rohieb> auf der workshop-liste von stratum0 steht immer noch ein vorschlag "editor-Flamewar: vim gegen emacs", nur hat sich bisher für emacs kein kundiger benutzer gefunden, der da flamen würde ^^
+[22:33:21] ! ES has joined.
+[23:04:54] ! Mobiwoelfin has quit. (Quit: Bye)
+[23:05:02] ! conqueror121 has joined.
+[23:06:32] ! Bowdzone has quit. (Quit: Bowdzone)
+[23:07:08] ! conqueror12 has quit. (Ping timeout: 245 seconds)
+[23:27:41] ! joke` has joined.
+[23:28:35] ! lurtz has quit. (Quit: Leaving.)
+[23:30:16] ! lurtz has joined.
+[23:40:50] ! joke` has quit. (Ping timeout: 252 seconds)

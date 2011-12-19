@@ -1,0 +1,320 @@
+[00:10:37] ! Moenni_Mo has quit. (Quit: Leaving.)
+[00:11:13] ! Guest80864 is now known as rohieb
+[00:11:28] ! rohieb has quit. (Quit: ...yo ho ho, and a bottle of rum!)
+[00:11:51] ! rohieb has joined.
+[00:29:04] ! PirateKing has quit. (Quit: Leaving.)
+[00:29:33] <jh> gn8
+[00:30:19] ! jh has quit. (Quit: jh)
+[00:31:57] ! Sonea has joined.
+[00:35:16] ! Phia1 has quit. (Quit: Leaving.)
+[00:36:21] ! nubix has quit. (Quit: Leaving.)
+[00:37:59] <Sonea> gn8!
+[00:48:17] ! elorie1 has joined.
+[00:50:45] ! elorie has quit. (Ping timeout: 248 seconds)
+[00:51:05] ! Sonea has quit. (Quit: Leaving.)
+[01:00:06] ! rohieb has quit. (Quit: ...yo ho ho, and a bottle of rum!)
+[01:02:12] ! lurtz has quit. (Quit: Leaving.)
+[01:08:26] ! soney has quit. (Quit: Leaving.)
+[01:10:58] ! ES has quit. (Quit: The cake is a lie!)
+[01:15:59] ! Debi_ has quit. (Quit: Verlassend)
+[01:24:40] ! der_eq has quit. (Remote host closed the connection)
+[01:52:55] ! nubix has joined.
+[02:31:02] ! joke` has quit. (Quit: Verlassend)
+[02:34:28] ! nubix has quit. (Quit: Leaving.)
+[02:41:15] ! CalebRipley has quit. (Remote host closed the connection)
+[04:01:02] ! elorie1 has quit. (Quit: Leaving.)
+[04:01:28] ! elorie has joined.
+[04:03:32] ! elorie has quit. (Client Quit)
+[05:53:57] ! Moenni_Mo has joined.
+[06:49:32] ! Moenni_Mo has quit. (Quit: Leaving.)
+[07:21:10] <norman> guten morgen
+[09:01:26] ! PirateKing has joined.
+[09:23:17] ! jh has joined.
+[09:30:02] ! nubix has joined.
+[09:33:07] <jh> morgen
+[09:50:15] <nubix> guten morgen jan
+[09:53:09] ! nubix has quit. (Quit: Leaving.)
+[10:00:59] ! Cascharity has joined.
+[10:05:01] ! Silberwoelfin has joined.
+[10:12:45] <Silberwoelfin> moin
+[10:19:14] ! ES has joined.
+[10:21:27] ! Phia has joined.
+[10:21:37] ! nubix has joined.
+[10:27:35] <ES> !mensa
+[10:27:35] <ZombiePoet> Mensa Katharinenstraße am Montag:
+[10:27:36] <ZombiePoet> A: Terrine Grüne Bohnensuppe mit Fleischeinlage AT 1,40€
+[10:27:37] <ZombiePoet> B: Geflügelfrikadelle 1,50€
+[10:27:38] <ZombiePoet> C: Schweinefleischnuggets mit Tomatensauce 1,70€
+[10:27:39] <ZombiePoet> V: Gefüllte Kartoffeltaschen dazu Quarkdipp 1,90€
+[10:27:40] <ZombiePoet> W: Schweinerückensteak mit Zwiebeln und Käse überbacken dazu Pommes 3,10€
+[10:39:49] ! elorie has joined.
+[10:40:23] ! lurtz has joined.
+[10:56:39] <norman> :-)
+[11:13:57] ! Silberwoelfin has quit. (Quit: Verlassend)
+[11:20:37] <elorie> jh: ihr habt aber auch wasserpech
+[11:20:48] <jh> jo
+[11:21:11] <jh> altbau halt
+[11:23:19] <norman> omnomnom, lecker steak
+[11:26:39] ! ES has quit. (Quit: The cake is a lie!)
+[11:27:29] ! csg has joined.
+[11:34:08] ! csg has quit. (Ping timeout: 240 seconds)
+[11:38:22] <norman> jh: demnächst essen gehen?
+[11:38:38] <jh> norman: bisschen früh O.o
+[11:42:59] ! Filzo has joined.
+[11:43:19] ! Filzo has quit. (Remote host closed the connection)
+[11:43:47] ! Moenni_Mo has joined.
+[11:44:12] <jh> ich fahr dann mal in die uni aufs klo^^
+[11:44:15] ! jh has quit. (Quit: jh)
+[11:47:50] <norman> oO
+[11:59:33] ! jh has joined.
+[12:19:50] <norman> jh: also wenn du jetzt in der uni bist, dann können wir auch zur mensa gehen :-)
+[12:22:10] <jh> aha
+[12:22:12] <jh> !mensa
+[12:22:13] <ZombiePoet> Mensa Katharinenstraße am Montag:
+[12:22:14] <ZombiePoet> A: Terrine Grüne Bohnensuppe mit Fleischeinlage AT 1,40€
+[12:22:15] <ZombiePoet> B: Geflügelfrikadelle 1,50€
+[12:22:16] <ZombiePoet> C: Schweinefleischnuggets mit Tomatensauce 1,70€
+[12:22:17] <ZombiePoet> V: Gefüllte Kartoffeltaschen dazu Quarkdipp 1,90€
+[12:22:18] <ZombiePoet> W: Schweinerückensteak mit Zwiebeln und Käse überbacken dazu Pommes 3,10€
+[12:23:04] <jh> mh
+[12:23:08] <jh> aber nix tolles
+[12:25:18] <norman> nagut, dann gehe ich jetz alleine :-(
+[12:26:57] ! bgalias has joined.
+[12:31:01] ! lurtz has quit. (Quit: Leaving.)
+[12:32:57] ! bgalias has quit. (Quit: Verlassend)
+[12:41:14] ! ES has joined.
+[12:54:45] <jh> Phia: du weißt doch bestimmt ob "Successive Quadratic Programming" das gleiche ist wie "Sequential Quadratic Programming" ist, oder?
+[12:54:57] <jh> Phia: zumindest kürzt man das offenbar beides mit SQP ab
+[12:55:29] <Phia> jh: nö, ich kann mit dem Begriff quadratic programming grad gar nix anfangen
+[12:55:36] <jh> ok
+[12:56:16] <jh> http://opim.wharton.upenn.edu/~guignard/914_2011/MEPELMAN/511notes07-12.pdf kapitelüberschrift "Successive quadratic programming (SQP)" erster satz "In this section we will describe some basic ideas of the Sequential Quadratic Programming (SQP)
+[12:56:16] <jh> method"
+[12:56:23] <jh> sind die doof? :(
+[12:56:46] <Phia> jh: successive und sequential sind ja ziemlich ähnlich von der bedeutung her
+[12:56:59] <Phia> vllt meinen die echt das gleiche
+[12:57:09] <jh> ja, offenbar
+[12:57:14] <jh> trotzdem blöd das so zu schreiben
+[12:57:15] <jh> imo
+[12:57:20] <Phia> jap
+[13:03:58] ! soney has joined.
+[13:04:07] ! nubix has quit. (Quit: Leaving.)
+[13:06:30] ! csg has joined.
+[13:10:39] ! nubix has joined.
+[13:11:44] <DrMcCoy> elorie: http://www.youtube.com/watch?v=sBrsM_WlfV8 :)
+[13:11:45] <ZombiePoet> Title: Game Of Thrones: Season 2 "Cold Winds" Tease - YouTube (at www.youtube.com)
+[13:12:26] ! bgalias has joined.
+[13:21:03] <jh> essen suchen...
+[13:21:06] ! jh has quit. (Quit: Logik wird überschätzt.)
+[13:23:30] ! bgalias has quit. (Remote host closed the connection)
+[13:31:16] ! Phia has quit. (Quit: Leaving.)
+[13:32:01] ! elorie has quit. (Ping timeout: 252 seconds)
+[13:34:22] ! moohieb has joined.
+[13:34:34] <moohieb> !mensa
+[13:34:34] <ZombiePoet> Mensa Katharinenstraße am Montag:
+[13:34:35] <ZombiePoet> A: Terrine Grüne Bohnensuppe mit Fleischeinlage AT 1,40€
+[13:34:36] <ZombiePoet> B: Geflügelfrikadelle 1,50€
+[13:34:37] <ZombiePoet> C: Schweinefleischnuggets mit Tomatensauce 1,70€
+[13:34:38] <ZombiePoet> V: Gefüllte Kartoffeltaschen dazu Quarkdipp 1,90€
+[13:34:39] <ZombiePoet> W: Schweinerückensteak mit Zwiebeln und Käse überbacken dazu Pommes 3,10€
+[13:40:53] ! csg has quit. (Ping timeout: 248 seconds)
+[13:43:36] ! ES has quit. (Quit: The cake is a lie!)
+[13:49:31] ! jh has joined.
+[13:53:12] ! csg has joined.
+[14:02:46] ! ES has joined.
+[14:11:16] ! elorie has joined.
+[14:12:30] ! soney has quit. (Quit: Leaving.)
+[14:13:38] ! soney has joined.
+[14:18:58] <DooMMasteR> ohh man
+[14:19:15] <DooMMasteR> diese Umfrage kann doch nur damit enden, dass wir mehr sicherheit an der Uni brauchen
+[14:19:18] <DooMMasteR> überall kameras
+[14:19:22] <DooMMasteR> zäune usw.
+[14:20:06] <DooMMasteR> ich habe schon alles so positiv bewertet wie es geht -.- aber den schnitt kann man wohl kaum raus reißen, obwohl man sich auf dem Campus ja echt nicht unsicher fühlen muss
+[14:20:24] <DooMMasteR> 5. Bei körperlichen (sexuellen) Angriffen weiß ich, an wen ich mich an der TU wenden soll.
+[14:20:28] <DooMMasteR> wasn das für eine frage
+[14:20:33] <DooMMasteR> POLIZEI
+[14:23:17] <norman> oO
+[14:23:25] <norman> der DooMMasteR haut mich ständig
+[14:23:52] <DooMMasteR> :P
+[14:24:17] <soney> ARG!!!! Ich hasse kaputte Links in Umfragen!
+[14:25:12] <soney> Auf Webseiten, die sich lange nicht verändern, eine Sache, aber auf aktuellen Umfragen sollten alle Links gehen..... einmal mit Profis arbeiten
+[14:25:18] <elorie> DooMMasteR: die umfrage liest sich fast so als ob jede Nacht 1 frau vergewaltigt und ein erstsemester zusammengschalgen weren
+[14:25:41] <DooMMasteR> sag ich ja
+[14:26:00] <DooMMasteR> es werden ischer millionen für mehr sicherheit ausgegeben
+[14:26:14] <DooMMasteR> ich fühle mich sogar in der Weststadt nich unsicher
+[14:26:24] <DooMMasteR> klar da laufen komische gestalten rum
+[14:26:42] <DooMMasteR> aber die machen einem keine Angst
+[14:27:21] <soney> DooMMasteR: Du passt aber auch nicht gerade in das "kleine hilflose niedliche Studentin" Schema
+[14:27:48] <DooMMasteR> soney: und wer würde da reinpassen?
+[14:27:58] <elorie> DooMMasteR: ich wuerde michnach einem verlorenen eintrachtsspiel zum bsp. nicht in der west- oder ordstadt sicher fuehlen...
+[14:28:25] <DooMMasteR> hmm naja ok besoffene bilden da immer ne ausnahme
+[14:28:34] <DooMMasteR> aber das ist kein regelfall
+[14:28:42] <elorie> das stimmt schon
+[14:28:56] <elorie> andererseits gibts wirklich genuegend aengstliche frauen...
+[14:28:57] <soney> DooMMasteR: Und Sicherheit ist ein rein subjektives Empfinden
+[14:29:27] <DooMMasteR> jein
+[14:29:38] <DooMMasteR> objektivität kann manchmal falsch liegen
+[14:29:47] <DooMMasteR> aber man kann sicherheit auch ganz objektiv bewerten
+[14:33:19] <soney> DooMMasteR: Ok, das persönliche Sicherheitsempfinden ist subjektiv, objektiv kann man Sicherheit als Wahrscheinlichkeit eines Auftretens eines Vorfalles betrachten. (Aber mittels Kameras kann man meines Erachtens nach nur das subjektive Empfinden verändern)
+[14:34:11] <DooMMasteR> Kameras machen das subjektive empfinden nicht besser
+[14:34:16] <DooMMasteR> nur das objektive :P
+[14:34:34] <DooMMasteR> durch Kameras fühlen menschen sich unsicher ;)
+[14:35:00] <soney> DooMMasteR: nein, nicht alle, einige fühlen sich dadurch sicherer
+[14:35:32] <soney> DooMMasteR: objektiv ist das natürlich schwachsinn, aber subjektiv hilft es einigen
+[14:36:00] <DooMMasteR> die Briten sollten das wisse, bei dennen fühlen sich >90% durch kameras an öffentlichen orten verunsichert
+[14:36:15] <DooMMasteR> sie vermuten dort brennpunkte vonkriminalität und meiden sie daher
+[14:36:34] <DooMMasteR> objektiv machen Kameras einen ort schon sicherer
+[14:36:49] <DooMMasteR> aber sie verlagern das problem an orte wo keine Kameras sind
+[14:37:36] <DooMMasteR> in London wurden Kameras an orten die sowieso als sicher gelten deshalb auch wieder entfernt
+[14:38:00] <DooMMasteR> das gleiche gilt übrigends auch für die vermehrte anzahl von sicherheitspersonal
+[14:38:20] <DooMMasteR> das merkt man selbst auch, wer mal in den USA war, weiß das
+[14:41:17] ! nubix has quit. (Quit: Leaving.)
+[14:42:10] ! elorie has quit. (Quit: Leaving.)
+[14:43:51] <Valodim> vorhin stand vor Beyrich nen typ in uniform, mit funkgeraet und noch so equipment, und nem zettel "Stasi" um den Arm
+[14:44:12] <Valodim> frag mich ob das ne art protestaktion war
+[14:44:56] ! csg has quit. (Ping timeout: 268 seconds)
+[14:46:28] <soney> Valodim: wäre ne coole Idee
+[14:47:26] ! nubix has joined.
+[14:49:13] <DooMMasteR> lol
+[14:50:07] <DooMMasteR> aber so wie die umfrage aufgebaut ist, hängt es einzig von der schlussbewertung ab, wie das ergebniss aussehen wird -.-
+[14:53:46] <DooMMasteR> 351145 habe ich :P
+[14:53:52] <DooMMasteR> das macht $350
+[14:53:56] <DooMMasteR> pure money :P
+[14:55:20] ! Tigaa_laptop has joined.
+[15:01:16] ! bgalias has joined.
+[15:03:18] ! bgalias has quit. (Remote host closed the connection)
+[15:10:22] <norman> DooMMasteR: 351145 von was?
+[15:12:08] ! jh has quit. (Quit: jh)
+[15:13:46] <DooMMasteR> punkte
+[15:13:49] ! Silberwoelfin has joined.
+[15:14:06] <DooMMasteR> bei Navizon http://my.navizon.com/Webapps/UserAdmin/register.aspx?referral_code=5E5E5D5B5C5A59
+[15:14:08] <ZombiePoet> Title: registerNavizon (at my.navizon.com)
+[15:14:14] <DooMMasteR> Wardriving
+[15:14:37] <DooMMasteR> wenn du bock hast, dann registrier dich :P aber dein handy ist vermutlich zu käsig :P
+[15:15:32] <norman> mein handy geht mal wieder niht
+[15:15:40] <norman> du weißt schon ... endlosschleife beim booten
+[15:15:47] <norman> trotz neuem akku :-(
+[15:16:18] ! Peace-Maker has joined.
+[15:21:20] <DooMMasteR> hmm
+[15:21:21] <DooMMasteR> tjaja
+[15:24:43] ! moohieb has quit. (Remote host closed the connection)
+[15:30:04] ! csg has joined.
+[15:33:17] <norman> ui, die uni hat mir die studiengebühren zurückgegeben :-)
+[15:49:34] ! soney has quit. (Ping timeout: 252 seconds)
+[15:56:50] ! winnie has joined.
+[15:57:03] <winnie> hallo alle!
+[15:58:00] ! winnie has quit. (Client Quit)
+[16:20:35] <Silberwoelfin> !tell winnie hallo winnie!
+[16:20:35] <ZombiePoet> Silberwoelfin: Ok.
+[16:24:25] ! nubix has left the channel.
+[16:37:27] ! ES has quit. (Quit: The cake is a lie!)
+[17:00:27] ! csg has quit. (Ping timeout: 240 seconds)
+[17:08:32] ! Bowdzone has joined.
+[17:21:57] ! rohieb has joined.
+[17:23:48] ! PirateKing has quit. (Quit: Leaving.)
+[17:26:23] ! nubix has joined.
+[17:38:29] ! Sonea has joined.
+[17:38:42] <Sonea> oh ich war ja gar nicht im channel....
+[17:39:19] <rohieb> Sonea: tragödie!
+[17:40:14] <nubix> rohieb: du machst dm gruppe 3
+[17:40:21] <nubix> rohieb: oder?
+[17:40:24] <rohieb> nubix: ist das eine feststellung, oder eine frage?
+[17:40:26] <rohieb> ja
+[17:40:29] <nubix> thx
+[17:40:30] <Sonea> rohieb: jo :P
+[17:41:39] <Sonea> rohieb: es gibt übrigens zimtsternausstecher gratis in der mensa
+[17:43:04] <rohieb> ich weiß, hab heute einen mitgenommen ^^
+[17:53:15] ! Tigaa_laptop has quit. (Quit: Leaving.)
+[17:53:29] ! elorie has joined.
+[17:54:39] <rohieb> nubix: warum?
+[17:59:45] ! elorie has quit. (Quit: Leaving.)
+[18:00:48] ! elorie has joined.
+[18:01:15] <Sonea> !tell Phia hmm fail, wollten wir nicht auslage in der mensa machen? wegen gi gründungstreffen?
+[18:01:15] <ZombiePoet> Sonea: Ok.
+[18:05:01] ! Silberwoelfin has quit. (Quit: Verlassend)
+[18:09:41] ! Phia has joined.
+[18:09:50] <elorie> ^^
+[18:12:48] <Sonea> ah Phia
+[18:13:09] <Sonea> Phia: lies mal tell, muss kurz zu ali bin gleich wieder da
+[18:13:35] ! soney has joined.
+[18:25:34] ! joke` has joined.
+[18:28:31] ! elorie has quit. (Quit: Leaving.)
+[18:41:24] ! Phia has quit. (Quit: Leaving.)
+[18:42:57] <Sonea> ^^
+[19:00:47] ! Bowdzone has quit. (Ping timeout: 240 seconds)
+[19:17:56] <DrMcCoy> Sonea: http://www.youtube.com/watch?v=sBrsM_WlfV8 :)
+[19:17:57] <ZombiePoet> Title: Game Of Thrones: Season 2 "Cold Winds" Tease - YouTube (at www.youtube.com)
+[19:21:51] ! soney1 has joined.
+[19:22:49] <Sonea> DrMcCoy: thx
+[19:23:02] <Sonea> haben die gestern schon angekündigt, wollte ich dir auch schon schicken ;)
+[19:24:17] <DrMcCoy> :)
+[19:31:27] <norman> Valodim: BGE!
+[19:31:49] <Valodim> norman: BGE!
+[19:31:57] <norman> /discuss
+[19:33:40] <Valodim> keine zeit :)
+[19:34:25] ! Silberwoelfin has joined.
+[19:34:43] <DrMcCoy> Blender Game Engine?
+[19:42:34] <Silberwoelfin> re
+[19:43:21] <Silberwoelfin> DrMcCoy: BürgerGrundEinkommen
+[19:43:26] <Silberwoelfin> oder so ähnlich
+[19:43:57] <Valodim> bedingungsloses
+[19:44:16] <Sonea> oO
+[19:49:02] ! CalebRipley has joined.
+[19:55:14] ! Sonea has left the channel.
+[19:55:21] ! der_eq has joined.
+[19:55:33] ! Sonea has joined.
+[19:55:59] <Sonea> öh ciao! go -> off
+[19:56:01] ! Sonea has left the channel.
+[19:56:25] ! jh has joined.
+[19:56:30] <Silberwoelfin> jh \o/
+[19:56:46] <jh> Silberwoelfin \o/
+[19:57:08] ! ES has joined.
+[19:58:40] <jh> ES: na, running out of time?^^
+[19:59:02] <jh> hast du schon n vortragstermin?
+[19:59:06] <ES> hab ja noch so ca. 72 stunden
+[19:59:59] ! joke` has quit. (Quit: Verlassend)
+[20:00:18] ! nubix has quit. (Quit: Leaving.)
+[20:01:12] <jh> kk
+[20:01:21] <jh> dann gl noch die letzten 72h^^
+[20:03:33] <norman> Ja, ich finde das ist ein interessantes Thema
+[20:06:27] <ES> thx^^
+[20:07:39] <jh> Silberwoelfin: mh, eine salami für $großes brötchen^^
+[20:07:54] ! Debi has joined.
+[20:08:29] <Silberwoelfin> jh: du hättest sie gestern essen können...
+[20:10:08] <jh> Silberwoelfin: dann hätte ich ja jetzt 0^^
+[20:10:39] <Silberwoelfin> jh: dann hättest du neue kaufen können :P
+[20:10:47] <jh> hm
+[20:14:16] ! soney1 has quit. (Ping timeout: 252 seconds)
+[20:24:08] <norman> Yeah, Office installieren :|
+[20:29:14] <jh> \o/
+[20:31:25] ! soney1 has joined.
+[20:38:30] <rohieb> waaaaaaaaaaaaaaah synchronisierte serien
+[20:38:42] <norman> ekelhaft.
+[22:11:45] ! lurtz has joined.
+[22:22:20] ! der_eq has quit. (Remote host closed the connection)
+[22:29:53] ! Phia has joined.
+[22:33:56] ! elorie has joined.
+[22:34:36] ! PirateKing has joined.
+[22:36:56] ! Phia has quit. (Ping timeout: 240 seconds)
+[22:42:39] ! conqueror12 has quit. (Read error: Connection reset by peer)
+[22:45:59] ! joke` has joined.
+[22:51:09] ! Phia has joined.
+[22:57:59] ! csg has joined.
+[23:02:08] ! csg has quit. (Ping timeout: 245 seconds)
+[23:13:00] ! nubix has joined.
+[23:14:59] ! nubix has quit. (Read error: Connection reset by peer)
+[23:15:02] ! nubix1 has joined.
+[23:21:35] ! nubix1 has quit. (Read error: Connection reset by peer)
+[23:21:38] ! nubix has joined.
+[23:23:28] ! nubix has quit. (Read error: Connection reset by peer)
+[23:23:31] ! nubix1 has joined.
+[23:26:55] ! nubix1 has quit. (Read error: Connection reset by peer)
+[23:27:00] ! nubix has joined.
+[23:29:36] ! soney has quit. (Quit: Leaving.)
+[23:32:08] ! soney1 has quit. (Ping timeout: 245 seconds)
+[23:33:12] ! PirateKing has quit. (Read error: Connection reset by peer)
+[23:33:21] ! Phia has quit. (Quit: Leaving.)
+[23:34:09] <Silberwoelfin> gute nacht
+[23:34:42] ! PirateKing has joined.
+[23:35:29] ! Silberwoelfin has quit. (Quit: Verlassend)
+[23:54:47] ! elorie has quit. (Quit: Leaving.)
+[23:54:53] ! Moenni_Mo has quit. (Quit: Leaving.)
