@@ -2,9 +2,8 @@ require 'socket'
 require 'thread'
 
 class IrcClient
-	attr_reader :nickname, :channel, :server, :port
+	attr_reader :nickname, :channel, :server, :port, :socket
 	attr_accessor :queue
-	@socket
 
 	def initialize (nickname, channel, server, port)
 		@nickname = nickname
@@ -42,6 +41,7 @@ class IrcClient
 	def disconnect
 		if !@socket.nil?
 			@socket.close
+			@socket = nil
 		end
 	end
 

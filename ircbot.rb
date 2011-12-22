@@ -26,8 +26,8 @@ def fgraum nick, msg
 	begin
 		fgsocket = TCPSocket.open(FGRAUM_IP, FGRAUM_PORT)
 		p "fgraum socket auf" if DEBUG
-		fgsocket.puts (CHANNEL + " <" + nick + "> " + msg.sub("!fgraum ",""))
-		p " " + CHANNEL + " <" + nick +"> "+ msg.sub("!fgraum ","") if DEBUG
+		fgsocket.puts (" " + CHANNEL + " <" + nick + "> " + msg.sub("!fgraum ",""))
+		p CHANNEL + " <" + nick +"> "+ msg.sub("!fgraum ","") if DEBUG
 	ensure
 		fgsocket.close unless fgsocket.nil?
 	end

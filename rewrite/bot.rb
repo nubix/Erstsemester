@@ -1,5 +1,5 @@
 ### configure the bot here ###
-NICK = 'asdads11131'
+NICK = 'DerDieterisDergeilstea'
 NAME = 'Neuer'
 CHANNEL = '##meh'
 ADMPASS = ''
@@ -8,8 +8,8 @@ HOST = 'irc.freenode.net'
 PORT = 6666
 
 LOG = false
-VERBOSE = true
-DEBUG = true
+VERBOSE = false
+DEBUG = false
 #Twitter oAuth 
 TWITTER_TO = '@fgraum'
 YOUR_CONSUMER_KEY = 'kOVgSUKQZBe65zpAs6Mw'
@@ -27,9 +27,16 @@ require 'commands'
 
 meh = IrcClient.new(NICK, CHANNEL, HOST, PORT)
 test = Thread.new {	meh.connect	}
+sleep 1
+test0 = Thread.new {
+	while !meh.socket.nil?
+		puts meh.queue.pop
+		puts.flush
+	end
+}
 sleep 10
-while meh.queue.size > 0
-	p meh.queue.pop
-end
+
 meh.disconnect
+
 test.join
+test0.join
