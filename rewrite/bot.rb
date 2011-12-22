@@ -1,5 +1,5 @@
 ### configure the bot here ###
-NICK = 'ErstiBetabot'
+NICK = 'asdads'
 NAME = 'Neuer'
 CHANNEL = '##meh'
 ADMPASS = ''
@@ -23,5 +23,12 @@ require 'socket'
 require 'time'
 require 'kconv'
 require 'ircclient'
+require 'commands'
 
-meh = IrcClient.new NICK, CHANNEL, HOST, PORT
+meh = IrcClient.new(NICK, CHANNEL, HOST, PORT)
+test = Thread.new {
+						meh.connect
+					}
+sleep 10
+meh.disconnect
+test.join

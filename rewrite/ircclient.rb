@@ -1,4 +1,5 @@
 require 'socket'
+require 'thread'
 
 class IrcClient 
 	@nickname
@@ -7,39 +8,44 @@ class IrcClient
 	@port
 
 	@socket
+	@queue
 
 	def initialize (nickname, channel, server, port)
 		@nickname = nickname
 		@channel = channel
 		@server = server
 		@port = port
-		connect
+		@queue = Queue.new
 	end
 
 	def connect
-		begin 
-			socket = TCPSocket.open(@server, @port)
-			socket.puts 'USER '+NICK+' * irc.freenode.net :'+NAME
-			socket.puts 'NICK '+NICK
-			socket.puts 'JOIN '+CHANNEL
+		begin
+			@socket = TCPSocket.open(@server, @port)
+			@socket.puts 'USER '+@nickname+' * irc.freenode.net :'+@nickname
+			@socket.puts 'NICK '+@nickname
+			@socket.puts 'JOIN '+@channel
 
 			#Dont forget to do the encoding right
-			while line = socket.gets.chop
+			while line = @socket.gets.chop
 				begin
-					socket.puts 'PONG' if line.start_with? 'PING'
-					p line if DEBUG
-					writeLog parseMessage line
+					@socket.puts 'PONG' if line.start_with? 'PING'
+					#p line if DEBUG
+					@queue.push parseMessage line
 				rescue Exception=>e
-					p Time.now
-					p e
-					p e.backtrace
+					puts "<Time="+Time.now.to_s + "> " + e.to_s + " " + e.backtrace.to_s
 				end
 			end
 		rescue Exception=>e
 			puts "<Time="+Time.now.to_s + "> " + e.to_s + " " + e.backtrace.to_s
 		ensure
-			socket.puts 'QUIT :Leaving for good.'
-			socket.close
+			disconnect
+		end
+	end
+
+	def disconnect
+		if !@socket.nil?
+	#		@socket.puts 'QUIT :Leaving for good.'
+			@socket.close
 		end
 	end
 
@@ -52,13 +58,11 @@ class IrcClient
 		case input.split[1]
 		when 'PRIVMSG'
 			if input.split[2] == CHANNEL then
-		#		punktemagie payload, nickname
 				if payload.start_with?(["\x01"][0]+'ACTION') then
 					msg += '* ' + nickname + payload.delete(["\x01"][0]).delete(["\x01"][0]+'ACTION')
 				else
 					if payload.start_with?("!") then
 						msg = handleCommand payload, nickname
-	#					writeLog parseMessage msg if
 					end
 					msg += '<'+nickname+'> ' + payload
 				end
@@ -86,19 +90,8 @@ class IrcClient
 		
 		unless msg.empty?
 			msg = "[" + Time.now.to_s.split[1] + "] " + msg
-			p msg if VERBOSE
+			#p msg if VERBOSE
 			return msg
 		end
-	end
-
-	def writeLog input
-		return unless LOG
-		
-		fh = File.open("logs/"+Time.now.to_s.split[0], "a+")
-		unless input.nil? then
-			fh.puts input 
-			fh.flush
-		end
-		fh.close
 	end
 end
