@@ -1,5 +1,5 @@
 ### configure the bot here ###
-NICK = 'asdads'
+NICK = 'asdads11131'
 NAME = 'Neuer'
 CHANNEL = '##meh'
 ADMPASS = ''
@@ -26,9 +26,10 @@ require 'ircclient'
 require 'commands'
 
 meh = IrcClient.new(NICK, CHANNEL, HOST, PORT)
-test = Thread.new {
-						meh.connect
-					}
+test = Thread.new {	meh.connect	}
 sleep 10
+while meh.queue.size > 0
+	p meh.queue.pop
+end
 meh.disconnect
 test.join

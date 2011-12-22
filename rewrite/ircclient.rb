@@ -1,14 +1,10 @@
 require 'socket'
 require 'thread'
 
-class IrcClient 
-	@nickname
-	@channel
-	@server
-	@port
-
+class IrcClient
+	attr_reader :nickname, :channel, :server, :port
+	attr_accessor :queue
 	@socket
-	@queue
 
 	def initialize (nickname, channel, server, port)
 		@nickname = nickname
@@ -29,8 +25,9 @@ class IrcClient
 			while line = @socket.gets.chop
 				begin
 					@socket.puts 'PONG' if line.start_with? 'PING'
-					#p line if DEBUG
-					@queue.push parseMessage line
+					p line if DEBUG
+					retString = parseMessage line
+					@queue.push retString unless retString.nil?
 				rescue Exception=>e
 					puts "<Time="+Time.now.to_s + "> " + e.to_s + " " + e.backtrace.to_s
 				end
@@ -44,7 +41,6 @@ class IrcClient
 
 	def disconnect
 		if !@socket.nil?
-	#		@socket.puts 'QUIT :Leaving for good.'
 			@socket.close
 		end
 	end
@@ -57,7 +53,7 @@ class IrcClient
 		msg	= ''
 		case input.split[1]
 		when 'PRIVMSG'
-			if input.split[2] == CHANNEL then
+			if input.split[2] == @channel then
 				if payload.start_with?(["\x01"][0]+'ACTION') then
 					msg += '* ' + nickname + payload.delete(["\x01"][0]).delete(["\x01"][0]+'ACTION')
 				else
@@ -66,7 +62,7 @@ class IrcClient
 					end
 					msg += '<'+nickname+'> ' + payload
 				end
-			elsif input.split[2] == NICK then
+			elsif input.split[2] == @nickname then
 		#		handleCommand input
 			end
 		when 'TOPIC'
@@ -89,8 +85,8 @@ class IrcClient
 		end
 		
 		unless msg.empty?
-			msg = "[" + Time.now.to_s.split[1] + "] " + msg
-			#p msg if VERBOSE
+			msg = "[" + Time.now.hour.to_s + ":" + Time.now.min.to_s + ":" + Time.now.sec.to_s + "] " + msg
+			p msg if VERBOSE
 			return msg
 		end
 	end
