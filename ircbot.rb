@@ -86,8 +86,8 @@ def parseMessage input
 			if payload.start_with?(["\x01"][0]+'ACTION') then
 				msg += '* ' + nickname + payload.delete(["\x01"][0]).delete(["\x01"][0]+'ACTION')
 			else
-				fgraum nickname, payload
 				msg += '<'+nickname+'> ' + payload
+				fgraum nickname, payload
 			end
 		elsif input.split[2] == NICK then
 	#		handleCommand input
