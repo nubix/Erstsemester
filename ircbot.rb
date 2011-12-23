@@ -21,15 +21,15 @@ require 'time'
 require 'kconv'
 
 def fgraum nick, msg
-	return unless msg.start_with?('!fgraum') or (CHANNEL + nick.length + msg.sub("!fgraum ", "").length) < 120
-
-	begin
-		fgsocket = TCPSocket.open(FGRAUM_IP, FGRAUM_PORT)
-		p "fgraum socket auf" if DEBUG
-		fgsocket.puts (" " + CHANNEL + " <" + nick + "> " + msg.sub("!fgraum ",""))
-		p CHANNEL + " <" + nick +"> "+ msg.sub("!fgraum ","") if DEBUG
-	ensure
-		fgsocket.close unless fgsocket.nil?
+	if msg.start_with?('!fgraum') and (CHANNEL.length + nick.length + msg.sub("!fgraum ", "").length < 120)
+		begin
+			fgsocket = TCPSocket.open(FGRAUM_IP, FGRAUM_PORT)
+			p "fgraum socket auf" if DEBUG
+			fgsocket.puts (" " + CHANNEL + " <" + nick + "> " + msg.sub("!fgraum ",""))
+			p CHANNEL + " <" + nick +"> "+ msg.sub("!fgraum ","") if DEBUG
+		ensure
+			fgsocket.close unless fgsocket.nil?
+		end
 	end
 end
 
