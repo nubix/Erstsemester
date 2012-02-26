@@ -1,6 +1,7 @@
+#!/usr/bin/env ruby
 ### configure the bot here ###
 
-NICK 	= 'DerDieterisDergeilstea'
+NICK 	= 'x41414141'
 NAME	= 'Neuer'
 CHANNEL	= '##meh'
 ADMPASS	= ''
@@ -12,7 +13,7 @@ PORT	= 6666
 
 LOG		= true
 LOGDIR = 'log/'
-DEBUG	= true
+DEBUG	= false #true
 
 =begin
 #Twitter oAuth 
@@ -32,8 +33,21 @@ require 'ircclient'
 require 'commands'
 require 'logwriter'
 
-client = Thread.new {
-		IrcClient.new(NICK, CHANNEL, HOST, PORT, LOG).connect
+#
+# Checking if logdir exists and creating if not
+#
+if LOG && !File.directory?(LOGDIR)
+	Dir.mkdir(File.join(Dir.pwd, LOGDIR), 0644)
+end
+
+a = Thread.new {
+			client = IrcClient.new(NICK, CHANNEL, HOST, PORT, LOGDIR)
+			client.nickauth = NICKAUTH unless NICKAUTH.nil?
+			client.connect	
 	}
 
-client.join
+begin
+	a.join
+rescue Interrupt
+	print "Going down."
+end

@@ -3,14 +3,14 @@ require 'thread'
 
 class IrcClient
 	attr_reader :nickname, :channel, :server, :port, :socket
-	attr_accessor :doLog
+	attr_accessor :log, :nickauth
 
 	def initialize (nickname, channel, server, port, log=false)
 		@nickname = nickname
 		@channel = channel
 		@server = server
 		@port = port
-		@log = LogWriter.new if log
+		@log = LogWriter.new(log)if log
 	end
 
 	#
@@ -22,6 +22,10 @@ class IrcClient
 			@socket = TCPSocket.open(@server, @port)
 			@socket.puts 'USER '+@nickname+' * irc.freenode.net :'+@nickname
 			@socket.puts 'NICK '+@nickname
+			if @nickauth 
+				@socket.puts "PRIVMSG NickServ :identify "+@nickauth
+				sleep 3
+			end
 			@socket.puts 'JOIN '+@channel
 
 			#TODO Do the encoding right!!
@@ -31,7 +35,6 @@ class IrcClient
 					p line if DEBUG
 					retString = parseMessage line
 					@log.write retString if (!retString.nil? && @log)
-
 				rescue Exception=>e
 					puts "<Time="+Time.now.to_s + "> " + e.to_s + " " + e.backtrace.to_s
 				end
@@ -49,6 +52,9 @@ class IrcClient
 	#
 	def disconnect
 		if !@socket.nil?
+			@socket.puts "PRIVMSG "+CHANNEL+" :Good night, and good luck."
+			@socket.flush
+			sleep 1
 			@socket.close
 			@socket = nil
 		end
