@@ -3,16 +3,20 @@ require 'thread'
 
 class IrcClient
 	attr_reader :nickname, :channel, :server, :port, :socket
-	attr_accessor :queue
+	attr_accessor :doLog
 
-	def initialize (nickname, channel, server, port)
+	def initialize (nickname, channel, server, port, log=false)
 		@nickname = nickname
 		@channel = channel
 		@server = server
 		@port = port
-		@queue = Queue.new
+		@log = LogWriter.new if log
 	end
 
+	#
+	# Creates a connection to irc-server and
+	# starts the messageparser
+	#
 	def connect
 		begin
 			@socket = TCPSocket.open(@server, @port)
@@ -20,13 +24,14 @@ class IrcClient
 			@socket.puts 'NICK '+@nickname
 			@socket.puts 'JOIN '+@channel
 
-			#Dont forget to do the encoding right
+			#TODO Do the encoding right!!
 			while line = @socket.gets.chop
 				begin
 					@socket.puts 'PONG' if line.start_with? 'PING'
 					p line if DEBUG
 					retString = parseMessage line
-					@queue.push retString unless retString.nil?
+					@log.write retString if (!retString.nil? && @log)
+
 				rescue Exception=>e
 					puts "<Time="+Time.now.to_s + "> " + e.to_s + " " + e.backtrace.to_s
 				end
@@ -38,6 +43,10 @@ class IrcClient
 		end
 	end
 
+
+	#
+	# Method to close open sockets and end all running threads
+	#
 	def disconnect
 		if !@socket.nil?
 			@socket.close
@@ -45,12 +54,19 @@ class IrcClient
 		end
 	end
 
+
+	#
+	# This method unterstands what the IRC-Server sends
+	# responds correctly or calls the logwriter
+	#
 	def parseMessage input
 		action = input.split[1]
 		nickname = input.split(':')[1].split('!')[0]
-		payload = input.slice(input.split(' :')[0].length + 2, input.length - input.split(' :')[0].length + 2) unless input.split(' :').nil?
-
 		msg	= ''
+		unless input.split(' :').nil?
+			payload = input.slice(input.split(' :')[0].length + 2, input.length - input.split(' :')[0].length + 2)
+		end
+
 		case input.split[1]
 		when 'PRIVMSG'
 			if input.split[2] == @channel then
@@ -85,8 +101,8 @@ class IrcClient
 		end
 		
 		unless msg.empty?
-			msg = "[" + Time.now.hour.to_s + ":" + Time.now.min.to_s + ":" + Time.now.sec.to_s + "] " + msg
-			p msg if VERBOSE
+			msg = "["+("%02d"%Time.now.hour)+":"+("%02d"%Time.now.min)+":"+("%02d"%Time.now.sec)+"] "+msg
+			p msg if DEBUG
 			return msg
 		end
 	end

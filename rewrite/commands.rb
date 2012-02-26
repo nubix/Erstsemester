@@ -19,26 +19,26 @@ def handleCommand input
 end
 
 def punktemagie input, nickname
-    return unless input.start_with?('.') or input.start_with?(NICK+": ")
+	return unless input.start_with?('.') or input.start_with?(NICK+": ")
 
-    if input.split.size == 1 and input.split[0] == "..." then
-        msg = "0"
-    elsif input.split(".").size == 3 and
-          input.split(".")[1] == input.split(".")[2] and
-          input.split(".")[0].empty? then
-        msg = input.split(".")[1].length.to_s
-    end
+	if input.split.size == 1 and input.split[0] == "..." then
+		msg = "0"
+	elsif input.split(".").size == 3 and
+		  input.split(".")[1] == input.split(".")[2] and
+		  input.split(".")[0].empty? then
+		msg = input.split(".")[1].length.to_s
+	end
 
-    if input.delete!(NICK+": ") then
-        if input.to_i > 20 then
-            input = 20
-        end
-        spaces = ""
-        input.to_i.times do
-            spaces += " "
-        end             
-        msg = "."+spaces+"."+spaces+"."
-    end                               
-                                                
-    SOCK.puts "PRIVMSG "+CHANNEL+" :"+nickname + ": " + msg 
+	if input.delete!(NICK+": ") then
+		if input.to_i > 20 then
+			input = 20
+		end
+		spaces = ""
+		input.to_i.times do
+			spaces += " "
+		end             
+		msg = "."+spaces+"."+spaces+"."
+	end                              
+												
+	SOCK.puts "PRIVMSG "+CHANNEL+" :"+nickname + ": " + msg 
 end

@@ -1,0 +1,541 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"File",
+				"File	File.foreach (\"..\") { |line| .. }"
+			],
+			[
+				"Arra",
+				"ArrayList"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"fi",
+				"files"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"margin-to",
+				"margin-top"
+			],
+			[
+				"bc",
+				"background-color"
+			],
+			[
+				"to",
+				"to_s"
+			],
+			[
+				"end",
+				"freenode"
+			],
+			[
+				"queue",
+				"queue"
+			],
+			[
+				"else",
+				"else"
+			],
+			[
+				"if",
+				"if	if … end"
+			],
+			[
+				"queu",
+				"Queue"
+			],
+			[
+				"ir",
+				"ircclient"
+			],
+			[
+				"to_",
+				"to_s"
+			],
+			[
+				"socket",
+				"socket"
+			],
+			[
+				"port",
+				"port"
+			],
+			[
+				"server",
+				"server"
+			],
+			[
+				"channel",
+				"channel"
+			],
+			[
+				"nickna",
+				"nickname"
+			],
+			[
+				"nickname",
+				"nickname"
+			],
+			[
+				"nic",
+				"nickname"
+			],
+			[
+				"def",
+				"defs	def self .. end"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 387.0,
+		"selected_items":
+		[
+			[
+				"sft",
+				"SFTP: Edit Server…"
+			],
+			[
+				"bro",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"brow",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"br",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"php",
+				"Format: Php (php_beautifier)"
+			],
+			[
+				"",
+				"Format: Php (php_beautifier)"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: Disable Package"
+			],
+			[
+				"pak",
+				"Package Control: Add Repository"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"ali",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"packe",
+				"Package Control: Enable Package"
+			],
+			[
+				"gne",
+				"Hex Viewer: Generate Hash"
+			],
+			[
+				"hash",
+				"Hex Viewer: Generate Hash"
+			],
+			[
+				"sf",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"PACK",
+				"Package Control: Disable Package"
+			],
+			[
+				"sftp",
+				"Preferences: SFTP Settings"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"mote",
+				"Mote"
+			],
+			[
+				"rot",
+				"Rot13 Selection"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":s",
+				":w - Save"
+			],
+			[
+				"Set Syntax: La",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"Set Syntax: Tex",
+				"Set Syntax: TeX"
+			],
+			[
+				"Set Syntax: rub",
+				"Set Syntax: Ruby"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/me/Downloads/configuration.php-dist",
+		"/Users/me/Library/Application Support/Tunnelblick/Configurations/Friedich-Willhelm-Apotheke.conf",
+		"/Users/me/Library/Application Support/Tunnelblick/Configurations/Heimat.tblk/Contents/Resources/config.ovpn",
+		"/Users/me/Dropbox/projects/aud.list",
+		"/Users/me/Dropbox/projects/aud.rb",
+		"/Users/me/Dropbox/Uni/WS2011/theoretische informatik 1/klausurinformationen",
+		"/Users/me/a.php",
+		"/Users/me/Dropbox/brew_list",
+		"/Users/me/Documents/OpenVPN/easy-rsa/build-key-pkcs12.bat",
+		"/Users/me/Documents/OpenVPN/easy-rsa/init-config.bat",
+		"/Users/me/Documents/OpenVPN/easy-rsa/openssl.cnf.sample",
+		"/Users/me/Documents/git-repositorys/Erstsemester/logs/2011-11-28",
+		"/Users/me/Documents/OpenVPN/config/vpn1-server-buch105.ovpn",
+		"/Users/me/Documents/OpenVPN/config/buch105.crt",
+		"/Users/me/Documents/OpenVPN/config/buch105.key",
+		"/Users/me/Documents/OpenVPN/config/vpnhosts",
+		"/Users/me/Documents/OpenVPN/sample-config/client.ovpn",
+		"/Users/me/Documents/OpenVPN/config/ccd/hagenhome",
+		"/Users/me/Documents/OpenVPN/config/ccd/kasse102",
+		"/Users/me/Documents/OpenVPN/config/ccd/note113",
+		"/Users/me/Documents/OpenVPN/config/ccd/noterudat",
+		"/Users/me/Dropbox/pidginlogs/irc/nubix@irc.freenode.net/##cs-studs.chat/2011-07-15.191749+0200CEST.txt",
+		"/Users/me/Dropbox/Uni/WS2011/algorithmen und datenstrukturen/ueb05/ueb05.tex",
+		"/Users/me/Dropbox/Uni/WS2011/algorithmen und datenstrukturen/ueb04/ueb04.tex",
+		"/Users/me/Dropbox/Uni/WS2011/algorithmen und datenstrukturen/ueb04/ueb04.pdf",
+		"/Users/me/Dropbox/Uni/WS2011/diskrete mathematik/blatt11/blatt11.tex",
+		"/Users/me/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/me/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/sprachbuero",
+		"/Users/me/Dropbox/Uni/WS2011/theoretische informatik 1/blatt09/blatt09.tex",
+		"/Users/me/Dropbox/Uni/WS2011/theoretische informatik 1/blatt10/blatt10.tex",
+		"/Users/me/Dropbox/Uni/WS2011/Programmieren I/blatt07/Recursion.java",
+		"/var/folders/xn/dmhz2zvd237bckb2_c2zsx2r0000gn/T/sublime-sftp-browse-1328094114/landhandel-paetz/httpdocs/config.inc.php",
+		"/Users/me/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/me/Dropbox/Uni/WS2011/Programmieren I/blatt05/RationalNumber.java",
+		"/Users/me/Dropbox/Uni/WS2011/latex/blatt11/blatt11.tex",
+		"/Users/me/Dropbox/Uni/WS2011/latex/blatt12/Blatt12.tex",
+		"/Users/me/Dropbox/Uni/WS2011/latex/blatt10/blatt10.tex",
+		"/Users/me/Dropbox/Uni/WS2011/theoretische informatik 1/blatt10/blatt08.tex",
+		"/Users/me/Dropbox/Uni/WS2011/diskrete mathematik/blatt10/blatt10.tex",
+		"/var/folders/xn/dmhz2zvd237bckb2_c2zsx2r0000gn/T/sublime-sftp-browse-1327012859/landhandel-paetz/httpdocs/template/landhandel/pic/headerpic.php",
+		"/Users/me/Sites/pChart.1.27d/Example1.php",
+		"/Users/me/Sites/pChart.1.27d/all.php",
+		"/Users/me/Sites/pChart.1.27d/Example11.php",
+		"/Users/me/Sites/pChart.1.27d/HomePage3.php",
+		"/Users/me/Sites/index2.php",
+		"/Users/me/Sites/pChart.1.27d/pChart/pChart.class",
+		"/Users/me/Sites/pChart.1.27d/Example24.php",
+		"/Users/me/Sites/pChart.1.27d/example24.png",
+		"/Users/me/Dropbox/Uni/WS2011/Programmieren I/blatt06/RationalNumber.java",
+		"/Users/me/Dropbox/Uni/WS2011/Programmieren I/blatt06/blatt06.sublime-project",
+		"/Users/me/Dropbox/Uni/WS2011/Programmieren I/blatt06/blatt06.sublime-workspace",
+		"/Users/me/Dropbox/Uni/WS2011/latex/tex von doom/Aufgabe10.tex",
+		"/Users/me/Library/Application Support/Sublime Text 2/Packages/User/LaTeX.sublime-settings",
+		"/Users/me/Library/Application Support/Sublime Text 2/Packages/Terminal/Base File.sublime-settings",
+		"/Users/me/Dropbox/kunden/rev0001/template/standard/index.tpl.htm",
+		"/Users/me/Library/Application Support/Sublime Text 2/Packages/User/SFTP.errors.log",
+		"/var/folders/xn/dmhz2zvd237bckb2_c2zsx2r0000gn/T/sublime-sftp-browse-1326378188/landhandel-paetz/httpdocs/admin/index.php",
+		"/var/folders/xn/dmhz2zvd237bckb2_c2zsx2r0000gn/T/sublime-sftp-browse-1326378502/landhandel-paetz/httpdocs/template/standard/index.token.navigation.tpl",
+		"/var/folders/xn/dmhz2zvd237bckb2_c2zsx2r0000gn/T/sublime-sftp-browse-1326378491/landhandel-paetz/httpdocs/template/standard/index.token.navigation.token.tpl",
+		"/var/folders/xn/dmhz2zvd237bckb2_c2zsx2r0000gn/T/sublime-sftp-browse-1326378088/landhandel-paetz/httpdocs/template/standard/index.tpl",
+		"/var/folders/xn/dmhz2zvd237bckb2_c2zsx2r0000gn/T/sublime-sftp-browse-1326379060/landhandel-paetz/httpdocs/template/standard/index.token.content.tpl",
+		"/Users/me/Downloads/v1.3.1/doc/CHANGE_LOG",
+		"/Users/me/Downloads/v1.3.1/INSTALL",
+		"/Users/me/Downloads/v1.3.1/src/go1.H",
+		"/var/folders/xn/dmhz2zvd237bckb2_c2zsx2r0000gn/T/sublime-sftp-browse-1326375796/landhandel-paetz/httpdocs/config.inc.php",
+		"/var/folders/xn/dmhz2zvd237bckb2_c2zsx2r0000gn/T/sublime-sftp-browse-1326375095/landhandel-paetz/httpdocs/index.php",
+		"/var/folders/xn/dmhz2zvd237bckb2_c2zsx2r0000gn/T/sublime-sftp-browse-1326375296/landhandel-paetz/httpdocs/inc/class/class.content.php",
+		"/Users/me/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/landhandel-paetz",
+		"/Users/me/Library/Application Support/Sublime Text 2/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/me/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/nubix.net",
+		"/var/folders/xn/dmhz2zvd237bckb2_c2zsx2r0000gn/T/sublime-sftp-browse-1326374234/sprachbuero/index.htm",
+		"/Users/me/Downloads/v1.3.1/src/go1.C",
+		"/Users/me/Downloads/v1.3.1/src/files.C",
+		"/Users/me/Downloads/v1.3.1/src/spieler.C",
+		"/Users/me/Downloads/v1.3.1/src/getline.C",
+		"/Users/me/Downloads/v1.3.1/src/a.liste",
+		"/Users/me/Library/Application Support/Sublime Text 2/Packages/User/C++.sublime-settings",
+		"/Users/me/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/me/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/me/Dropbox/Uni/WS2011/theoretische informatik 1/blatt07/blatt07.tex",
+		"/Users/me/Dropbox/kunden/rev0001/template/standard/index.tpl",
+		"/Users/me/Dropbox/Uni/WS2011/latex/blatt09/blatt09.tex",
+		"/Users/me/Documents/git-repositorys/Erstsemester/rewrite/commands.rb",
+		"/Users/me/Documents/git-repositorys/Erstsemester/rewrite/logwriter.rb",
+		"/Users/me/Documents/git-repositorys/Erstsemester/rewrite/\":calvino.freenode.net 451 * ",
+		"/Users/me/Documents/git-repositorys/Erstsemester/betabot.rb",
+		"/Users/me/Documents/git-repositorys/Erstsemester/index.php",
+		"/Users/me/Documents/git-repositorys/Erstsemester/test.rb",
+		"/Users/me/Documents/git-repositorys/Erstsemester/index.php2",
+		"/Users/me/Documents/git-repositorys/tweetwall-c/src/main.c",
+		"/Users/me/Documents/git-repositorys/tweetwall-c/src/socket.c",
+		"/Users/me/Dropbox/Uni/WS2011/theoretische informatik 1/blatt05/blatt05.tex",
+		"/Users/me/Dropbox/Uni/WS2011/theoretische informatik 1/blatt06/blatt06.tex",
+		"/Users/me/Dropbox/Uni/WS2011/diskrete mathematik/blatt07/aufgabe11c.rb",
+		"/Users/me/Dropbox/Uni/WS2011/diskrete mathematik/blatt07/blatt07.tex",
+		"/Users/me/blah/as.rb",
+		"/Users/me/blah/Length",
+		"/Users/me/Dropbox/Uni/WS2011/diskrete mathematik/blatt07/12c.rb",
+		"/Users/me/Dropbox/Uni/WS2011/latex/blatt08/Aufgabenblaetter.tex",
+		"/Users/me/Dropbox/Uni/WS2011/latex/blatt08/blatt08.tex",
+		"/Users/me/Downloads/Latexkurs/ha8/Aufgabe8.tex",
+		"/Users/me/Downloads/Latexkurs/ha8/Aufgabenblaetter.tex",
+		"/Users/me/Dropbox/Uni/WS2011/Programmieren I/blatt03/BruchZahl.java",
+		"/Users/me/Dropbox/Uni/WS2011/Programmieren I/blatt05/main.java",
+		"/Users/me/Desktop/s.rb",
+		"/Users/me/Desktop/blah.java",
+		"/Users/me/Downloads/repo/es8.tex",
+		"/Users/me/Dropbox/Uni/WS2011/theoretische informatik 1/blatt04/blatt04.tex",
+		"/Users/me/Dropbox/Uni/WS2011/diskrete mathematik/blatt06/blatt06.tex",
+		"/Users/me/Dropbox/Uni/WS2011/Programmieren I/blatt04/Ducci.java",
+		"/Users/me/Dropbox/Uni/WS2011/Programmieren I/blatt04/perf.test/Ducci2.java",
+		"/Users/me/Downloads/Programme/LittleSnitch-Serial.txt",
+		"/Users/me/Dropbox/nubix_elorie/BruchZahl.java",
+		"/Users/me/Dropbox/Uni/WS2011/diskrete mathematik/blatt05/blatt05.tex",
+		"/Users/me/Library/Application Support/Sublime Text 2/Packages/LatexTools/LaTeX.sublime-build",
+		"/Users/me/Dropbox/Uni/WS2011/theoretische informatik 1/blatt04/test.dot",
+		"/Users/me/Dropbox/Uni/WS2011/theoretische informatik 1/blatt04/MyGraph.dot",
+		"/Users/me/Dropbox/Uni/WS2011/theoretische informatik 1/blatt04/MyGraph 10.14.43.dot",
+		"/Users/me/Dropbox/Uni/WS2011/theoretische informatik 1/blatt04/MyGraph.svg",
+		"/Users/me/Documents/latextest/graphviz.tex",
+		"/Users/me/Dropbox/Uni/WS2011/Programmieren I/blatt04/antworten.txt",
+		"/Users/me/Dropbox/Uni/WS2011/algorithmen und datenstrukturen/ueb02/ueb02.tex",
+		"/Users/me/Dropbox/Uni/WS2011/theoretische informatik 1/blatt03/blatt03.tex",
+		"/Users/me/Dropbox/Uni/WS2011/latex/blatt06/blatt06.tex",
+		"/Users/me/Dropbox/Uni/WS2011/algorithmen und datenstrukturen/mitschrift/vl.tex",
+		"/Users/me/Dropbox/Uni/WS2011/algorithmen und datenstrukturen/ueb01/ueb01.tex",
+		"/Users/me/Dropbox/Uni/WS2011/latex/vorlage.tex",
+		"/Users/me/Dropbox/Uni/WS2011/algorithmen und datenstrukturen/ueb01.tex"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"untitled",
+			"1",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"a",
+			"\"\"",
+			" ",
+			"\\n",
+			"\" \n\\n",
+			"\\section",
+			"\\, mod\\, ",
+			"ArrayList",
+			"List",
+			"<int>",
+			"ArrayList",
+			"node{S,B}",
+			"node{S}",
+			"node{-}",
+			"node{S,B}",
+			"\\cdot",
+			"width",
+			"($",
+			"SetYAxisUnit",
+			"ToTime",
+			"DataDescription[\"Format\"][\"Y\"]",
+			"$this->DataDescription[\"Format\"][\"Y\"]",
+			"SetYAxisFormat",
+			"SetXAxisFormat",
+			"socket_join_listening_thread",
+			"X",
+			"L1",
+			"L0",
+			"Element",
+			"\\epsilon",
+			"v",
+			"_",
+			"v",
+			"int ",
+			"nres",
+			"germann",
+			"//option"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"\\section*",
+			" \\texttt{ modulo } ",
+			"ArrayList<Integer>",
+			"ArrayList",
+			"",
+			"List",
+			"node{}",
+			"",
+			"x",
+			"L_1",
+			"L_0",
+			"\\in",
+			"\\varepsilon",
+			"v_{",
+			"_{",
+			",v",
+			"v_",
+			"long ",
+			"zaehler"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 27.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 94.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"src/go1.H"
+			],
+			[
+				"tex",
+				"/Users/me/Dropbox/Documents/WS2011/geschichte der mathematik/geschichte.tex"
+			],
+			[
+				"bla",
+				"/Users/me/Dropbox/Documents/WS2011/latex/blatt06/blatt06.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 139.0,
+	"status_bar_visible": true
+}
