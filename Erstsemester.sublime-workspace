@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"NICK",
+				"NICKAUTH"
+			],
+			[
+				"log",
+				"logfile"
+			],
+			[
+				"wri",
+				"writeThread"
+			],
+			[
 				"File",
 				"File	File.foreach (\"..\") { |line| .. }"
 			],
@@ -107,9 +119,89 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 387.0,
+		"height": 67.0,
 		"selected_items":
 		[
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git:ad",
+				"Git: Add..."
+			],
+			[
+				"got",
+				"Git: Commit"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"BeautifyRuby"
+			],
+			[
+				"b",
+				"BeautifyRuby"
+			],
+			[
+				"be",
+				"BeautifyRuby"
+			],
+			[
+				"synta",
+				"Set Syntax: Ruby"
+			],
+			[
+				"GIT",
+				"Git: Log All"
+			],
+			[
+				"beat",
+				"BeautifyRuby"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
 			[
 				"sft",
 				"SFTP: Edit Server…"
@@ -129,14 +221,6 @@
 			[
 				"php",
 				"Format: Php (php_beautifier)"
-			],
-			[
-				"",
-				"Format: Php (php_beautifier)"
-			],
-			[
-				"pack",
-				"Package Control: List Packages"
 			],
 			[
 				"pa",
@@ -181,10 +265,6 @@
 			[
 				"sftp",
 				"Preferences: SFTP Settings"
-			],
-			[
-				"pac",
-				"Package Control: Install Package"
 			],
 			[
 				"Package Control: ",
@@ -236,6 +316,11 @@
 	},
 	"file_history":
 	[
+		"/Users/me/Documents/git-repositorys/Erstsemester/rewrite/logwriter.rb",
+		"/Users/me/Documents/git-repositorys/Erstsemester/rewrite/commands.rb",
+		"/Users/me/Documents/git-repositorys/Erstsemester/rewrite/ircclient.rb",
+		"/Users/me/Documents/git-repositorys/Erstsemester/rewrite/bot.rb",
+		"/Users/me/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/Users/me/Downloads/configuration.php-dist",
 		"/Users/me/Library/Application Support/Tunnelblick/Configurations/Friedich-Willhelm-Apotheke.conf",
 		"/Users/me/Library/Application Support/Tunnelblick/Configurations/Heimat.tblk/Contents/Resources/config.ovpn",
@@ -262,7 +347,6 @@
 		"/Users/me/Dropbox/Uni/WS2011/algorithmen und datenstrukturen/ueb04/ueb04.tex",
 		"/Users/me/Dropbox/Uni/WS2011/algorithmen und datenstrukturen/ueb04/ueb04.pdf",
 		"/Users/me/Dropbox/Uni/WS2011/diskrete mathematik/blatt11/blatt11.tex",
-		"/Users/me/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/Users/me/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/sprachbuero",
 		"/Users/me/Dropbox/Uni/WS2011/theoretische informatik 1/blatt09/blatt09.tex",
 		"/Users/me/Dropbox/Uni/WS2011/theoretische informatik 1/blatt10/blatt10.tex",
@@ -318,8 +402,6 @@
 		"/Users/me/Dropbox/Uni/WS2011/theoretische informatik 1/blatt07/blatt07.tex",
 		"/Users/me/Dropbox/kunden/rev0001/template/standard/index.tpl",
 		"/Users/me/Dropbox/Uni/WS2011/latex/blatt09/blatt09.tex",
-		"/Users/me/Documents/git-repositorys/Erstsemester/rewrite/commands.rb",
-		"/Users/me/Documents/git-repositorys/Erstsemester/rewrite/logwriter.rb",
 		"/Users/me/Documents/git-repositorys/Erstsemester/rewrite/\":calvino.freenode.net 451 * ",
 		"/Users/me/Documents/git-repositorys/Erstsemester/betabot.rb",
 		"/Users/me/Documents/git-repositorys/Erstsemester/index.php",
@@ -361,9 +443,7 @@
 		"/Users/me/Dropbox/Uni/WS2011/theoretische informatik 1/blatt03/blatt03.tex",
 		"/Users/me/Dropbox/Uni/WS2011/latex/blatt06/blatt06.tex",
 		"/Users/me/Dropbox/Uni/WS2011/algorithmen und datenstrukturen/mitschrift/vl.tex",
-		"/Users/me/Dropbox/Uni/WS2011/algorithmen und datenstrukturen/ueb01/ueb01.tex",
-		"/Users/me/Dropbox/Uni/WS2011/latex/vorlage.tex",
-		"/Users/me/Dropbox/Uni/WS2011/algorithmen und datenstrukturen/ueb01.tex"
+		"/Users/me/Dropbox/Uni/WS2011/algorithmen und datenstrukturen/ueb01/ueb01.tex"
 	],
 	"find":
 	{
@@ -371,7 +451,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
 			"",
@@ -385,6 +465,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"verbose",
 			"a",
 			"\"\"",
 			" ",
@@ -495,6 +576,14 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.git":
+	{
+		"height": 94.0
+	},
 	"output.sftp":
 	{
 		"height": 94.0
@@ -536,6 +625,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 139.0,
+	"side_bar_width": 162.0,
 	"status_bar_visible": true
 }
