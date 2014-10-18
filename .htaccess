@@ -1,0 +1,7 @@
+Options +FollowSymLinks
+Options -Indexes
+RewriteEngine On
+RewriteBase /cs-studs
+
+RewriteRule ^show/(.*)$ index.php?show=$1&page=$2
+RewriteRule ^show/(.*)/(.*)$ index.php?show=$1&page=$2
